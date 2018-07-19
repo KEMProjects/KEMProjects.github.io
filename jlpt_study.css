@@ -21,7 +21,6 @@ body{
 .fc_container{
 	margin-left:20%;
 	margin-right:20%;
-
 }
 .fc_header{
 	padding-left:10%;
@@ -45,8 +44,11 @@ body{
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
 }
+audio{
+	margin:10px;	
+}
 #flashcards{
-	margin-top:5%;
+	margin-top:2%;
 	border: 1px solid #ddd;
 	background-color: #fff;
 	padding: 30px;
