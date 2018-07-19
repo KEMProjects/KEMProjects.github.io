@@ -18,49 +18,9 @@ a{
 body{
 	background-color: #ADD8E6;
 }
-.fc_container{
-	margin-left:20%;
-	margin-right:20%;
-}
-.fc_header{
-	padding-left:10%;
-	padding-right:10%;
-	font-size: 2em;
-	text-align:center;
-	background-color: #deeff5;
-	border: 1px solid #ddd;
-	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
-    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-}
-.container{
-	margin-left:20%;
-	margin-right:20%;
-	font-size: 2em;
-	text-align:center;
-	background-color: white;
-	border: 1px solid #ddd;
-	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
-    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-}
+
 audio{
 	margin:20px;	
-}
-#flashcards{
-	margin-top:10px;
-	border: 1px solid #ddd;
-	background-color: #fff;
-	padding: 30px;
-	font-size: 5em;
-	text-align:center;
-	height:400px;
-	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
-    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-}
-.furigana{
-	font-size: 0.5em;
 }
 select{
 	margin: 10px;
@@ -85,4 +45,45 @@ button:hover{
 }
 h1{
 	text-align:center;
+}
+.furigana{
+	font-size: 0.5em;
+}
+.fc_container{
+	margin-left:20%;
+	margin-right:20%;
+}
+.fc_header{
+	padding-left:10%;
+	padding-right:10%;
+	font-size: 2em;
+	text-align:center;
+	background-color: #deeff5;
+	border: 1px solid #ddd;
+	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.container{
+	margin-left:20%;
+	margin-right:20%;
+	font-size: 2em;
+	text-align:center;
+	background-color: white;
+	/*border: 1px solid #ddd;*/
+	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+#flashcards{
+	margin-top:10px;
+	border: 1px solid #ddd;
+	background-color: #fff;
+	padding: 30px;
+	font-size: 5em;
+	text-align:center;
+	height:400px;
+	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
 }
