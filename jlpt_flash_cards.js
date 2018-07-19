@@ -10,8 +10,8 @@ function nextCard(){
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
 	flipCard();
-/*	var newAudio=$(audioLink);
-	$("#flashaudio").replaceWith(newAudio);*/
+	var newAudio=$(audioLink);
+	$("#flashaudio").replaceWith(newAudio);
     // Load src of the audio file
     $("#flashaudio").load();
 }
@@ -20,7 +20,7 @@ function flipCard(){
 	var cardText="";
 	face *=-1;
 	if(face==1){
-		cardText = "<p class='furigana'>"+flashCards[current_card]["Vocab"]+"</p><p>"+flashCards[current_card]["Kanji"]+"</p>"+audioLink;
+		cardText = "<p class='furigana'>"+flashCards[current_card]["Vocab"]+"</p><p>"+flashCards[current_card]["Kanji"]+"</p>";
 	}
 	else{
 		cardText = flashCards[current_card]["English"];
