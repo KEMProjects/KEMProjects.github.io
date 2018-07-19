@@ -76,11 +76,12 @@ h1{
 	padding-right:10%;
 	font-size: 2em;
 	text-align:center;
-	background-color: var(--main-bg-dark);
-	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
-    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+	margin-bottom:5%;
 }
+.fc_footer{
+	margin-top:5%;
+}
+
 .container{
 	margin-left:20%;
 	margin-right:20%;
@@ -92,14 +93,11 @@ h1{
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
 }
 #flashcards{
-	margin-top:10px;
 	border: 1px solid #ddd;
 	background-color: #fff;
 	padding: 30px;
 	font-size: 5em;
 	text-align:center;
-	display: inline-block;
-  	vertical-align: middle;
 	height:400px;
 	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
