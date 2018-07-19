@@ -1,3 +1,13 @@
+:root{
+	--main-bg-color:#add8e6;
+	--second-color:#e6bfad;
+	--third-color:#e6dcad;
+	--fourth-color:#d0ade6;
+	--main-bg-dark:#71b5cc;
+	--second-dark:#cc8e71;
+	--third-dark:#ccbb71;
+	--fourth-dark:#a971cc;
+}
 table{
 	border-collapse: collapse;
 	margin-left:20%;
@@ -11,7 +21,7 @@ table, th, td {
 	background-color:white;
 }
 a{
-	background-color: #d0ade6;
+	background-color: var(--fourth-color);
 	color: white;
 	padding: 14px 25px;
 	text-align: center;
@@ -23,10 +33,10 @@ a:hover{
 	box-shadow: 2px 2px 2px grey;
 }
 a:active{
-	background-color:#c97af0;
+	background-color:var(--fourth-dark);
 }
 body{
-	background-color: #ADD8E6;
+	background-color: var(--main-bg-color);
 }
 
 audio{
@@ -39,7 +49,7 @@ select{
 	text-align: center;
 }
 button{
-    background-color: #72bcd4; /* Green */
+    background-color: var(--second-color); /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -50,7 +60,7 @@ button{
     box-shadow: 2px 2px 2px grey;
 }
 button:hover{
-	background-color: #e6bbad;
+	background-color: var(--second-dark);
 	
 }
 h1{
@@ -68,7 +78,7 @@ h1{
 	padding-right:10%;
 	font-size: 2em;
 	text-align:center;
-	background-color: #deeff5;
+	background-color: var(--main-bg-dark);
 	border: 1px solid #ddd;
 	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
@@ -80,7 +90,6 @@ h1{
 	font-size: 2em;
 	text-align:center;
 	background-color: white;
-	/*border: 1px solid #ddd;*/
 	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
