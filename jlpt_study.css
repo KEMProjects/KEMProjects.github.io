@@ -11,15 +11,19 @@ table, th, td {
 	background-color:white;
 }
 a{
-	color:#d0ade6;
-	font-weight: bold;
-	text-decoration:none;
+	background-color: #d0ade6;
+	color: white;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 5px;
 }
 a:hover{	
-	text-shadow: 2px 2px grey;
+	box-shadow: 2px 2px 2px grey;
 }
 a:active{
-	color:#c97af0;
+	background-color:#c97af0;
 }
 body{
 	background-color: #ADD8E6;
@@ -43,7 +47,7 @@ button{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-	box-shadow: 2px 2px 2px grey;
+    box-shadow: 2px 2px 2px grey;
 }
 button:hover{
 	background-color: #e6bbad;
