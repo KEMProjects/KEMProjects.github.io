@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="play_audio_word.js"></script>
+<script src="jlpt_flash_cards.js"></script>
+<link rel="stylesheet" href="jlpt_study.css">
+<title>JLPT Flash Cards</title>
+<meta charset="UTF-8">
+</head>
+<body>
+  <h1>Flashcards for Genki 1 & 2</h1>
+  <div class="fc_container">
+	  <div class="fc_header">
+		<select id="level_select" name = "level_select" onchange="build_cards()">
+			<option value="0">Select a Level</option>
+		</select>
+		<button id="flip" onclick="flipCard()">
+			Flip card
+		</button>
+		<button id="next" onclick="nextCard()">
+			Next card
+		</button>
+		<span id="fc_cnt">
+		</span>
+	  </div>
+	  <div id="flashcards">
+		<p id="fc_text">Select a Level</p>
+	  </div>
+	  <audio id="flashaudio" controls preload='none'><source src='http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%91%E3%81%84&kanji=%E3%82%A2%E3%82%B8%E3%82%A2%E7%B3%BB'>Audio Loading</audio>
+  </div>
+</body>
+</html>

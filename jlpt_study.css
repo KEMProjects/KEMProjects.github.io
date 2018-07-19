@@ -1,0 +1,86 @@
+table{
+	border-collapse: collapse;
+	margin-left:20%;
+	margin-right:20%;
+}
+table, th, td {
+    border: 1px solid #ddd;
+	padding: 10px;
+	text-align:center;
+	font-size: 1em;
+	background-color:white;
+}
+a{
+	color:#e6add8;
+	font-weight: bold;
+	text-decoration:none;
+}
+body{
+	background-color: #ADD8E6;
+}
+.fc_container{
+	margin-left:20%;
+	margin-right:20%;
+
+}
+.fc_header{
+	padding-left:10%;
+	padding-right:10%;
+	font-size: 2em;
+	text-align:center;
+	background-color: #deeff5;
+	border: 1px solid #ddd;
+	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.container{
+	margin-left:20%;
+	margin-right:20%;
+	font-size: 2em;
+	text-align:center;
+	background-color: white;
+	border: 1px solid #ddd;
+	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+#flashcards{
+	margin-top:5%;
+	border: 1px solid #ddd;
+	background-color: #fff;
+	padding: 30px;
+	font-size: 5em;
+	text-align:center;
+	height:400px;
+	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.furigana{
+	font-size: 0.5em;
+}
+select{
+	margin: 10px;
+	padding: 10px;
+	text-size: 2em;
+	text-align: center;
+}
+button{
+    background-color: #72bcd4; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	box-shadow: 2px 2px 2px grey;
+}
+button:hover{
+	background-color: #e6bbad;
+	
+}
+h1{
+	text-align:center;
+}

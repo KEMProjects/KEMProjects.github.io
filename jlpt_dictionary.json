@@ -1,0 +1,8822 @@
+[
+   {
+      "Vocab": "けんきゅう",
+      "Kanji": "研究",
+      "POS": "n.",
+      "English": "Studies (as in Asian Studies)",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "いちねんせい",
+      "Kanji": "一年生",
+      "POS": "n.",
+      "English": "first-year student",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "いま",
+      "Kanji": "今",
+      "POS": "adv.",
+      "English": "now",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "えいご",
+      "Kanji": "英語",
+      "POS": "n.",
+      "English": "English language",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "かがく",
+      "Kanji": "科学",
+      "POS": "n.",
+      "English": "science",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "がくせい",
+      "Kanji": "学生",
+      "POS": "n.",
+      "English": "student",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "～ご",
+      "Kanji": "～語",
+      "POS": "suf.",
+      "English": ". . . language",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "こうこう",
+      "Kanji": "高校",
+      "POS": "n.",
+      "English": "high school",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "こうこうせい",
+      "Kanji": "高校生",
+      "POS": "n.",
+      "English": "high school student",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "こくさいかんけい",
+      "Kanji": "国際関係",
+      "POS": "n.",
+      "English": "international relations",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ごご",
+      "Kanji": "午後",
+      "POS": "n.",
+      "English": "P.M.",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ごぜん",
+      "Kanji": "午前",
+      "POS": "n.",
+      "English": "A.M.",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "～じ",
+      "Kanji": "～時",
+      "POS": "suf.",
+      "English": "o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "しゅふ",
+      "Kanji": "主婦",
+      "POS": "n.",
+      "English": "housewife",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "～じん",
+      "Kanji": "～人",
+      "POS": "suf.",
+      "English": ". . . people",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じんるいがく",
+      "Kanji": "人類学",
+      "POS": "n.",
+      "English": "anthropology",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "せんこう",
+      "Kanji": "専攻",
+      "POS": "n.",
+      "English": "major",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "せんせい",
+      "Kanji": "先生",
+      "POS": "n.",
+      "English": "teacher; Professor . . .",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "だいがく",
+      "Kanji": "大学",
+      "POS": "n.",
+      "English": "college; university",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "だいがくいんせい",
+      "Kanji": "大学院生",
+      "POS": "n.",
+      "English": "graduate student",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "でんわ",
+      "Kanji": "電話",
+      "POS": "n.",
+      "English": "telephone",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ともだち",
+      "Kanji": "友だち",
+      "POS": "n.",
+      "English": "friend",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "なまえ",
+      "Kanji": "名前",
+      "POS": "n.",
+      "English": "name",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "なん/なに",
+      "Kanji": "何",
+      "POS": "n.",
+      "English": "what",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にじはん",
+      "Kanji": "二時半",
+      "POS": "n.",
+      "English": "half past two",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にほん",
+      "Kanji": "日本",
+      "POS": "n.",
+      "English": "Japan",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にほんご",
+      "Kanji": "日本語",
+      "POS": "n.",
+      "English": "Japanese language",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にほんじん",
+      "Kanji": "日本人",
+      "POS": "n.",
+      "English": "Japanese people",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "～ねんせい",
+      "Kanji": "～年生",
+      "POS": "suf.",
+      "English": ". . . year student",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "はん",
+      "Kanji": "半",
+      "POS": "suf.",
+      "English": "half",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ばんごう",
+      "Kanji": "番号",
+      "POS": "n.",
+      "English": "number",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "りゅうがくせい",
+      "Kanji": "留学生",
+      "POS": "n.",
+      "English": "international student",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "わたし",
+      "Kanji": "私",
+      "POS": "n.",
+      "English": "I",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "いっさい",
+      "Kanji": "一歳",
+      "POS": "n.",
+      "English": "one year old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "いっぷん",
+      "Kanji": "一分",
+      "POS": "n.",
+      "English": "one minute",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "きゅうさい",
+      "Kanji": "九歳",
+      "POS": "n.",
+      "English": "nine years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "きゅうふん",
+      "Kanji": "九分",
+      "POS": "n.",
+      "English": "nine minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "くじ",
+      "Kanji": "九時",
+      "POS": "n.",
+      "English": "nine o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ごさい",
+      "Kanji": "五歳",
+      "POS": "n.",
+      "English": "five years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ごじ",
+      "Kanji": "五時",
+      "POS": "n.",
+      "English": "five o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ごふん",
+      "Kanji": "五分",
+      "POS": "n.",
+      "English": "five minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "さんさい",
+      "Kanji": "三歳",
+      "POS": "n.",
+      "English": "three years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "さんじ",
+      "Kanji": "三時",
+      "POS": "n.",
+      "English": "three o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "さんじっぷん/さんじゅっぷん",
+      "Kanji": "三十分",
+      "POS": "n.",
+      "English": "thirty minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "さんぷん",
+      "Kanji": "三分",
+      "POS": "n.",
+      "English": "three minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "しちじ",
+      "Kanji": "七時",
+      "POS": "n.",
+      "English": "seven o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じっさい",
+      "Kanji": "十歳",
+      "POS": "n.",
+      "English": "ten years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じっぷん",
+      "Kanji": "十分",
+      "POS": "n.",
+      "English": "ten minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅういちじ",
+      "Kanji": "十一時",
+      "POS": "n.",
+      "English": "eleven o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅういっさい",
+      "Kanji": "十一歳",
+      "POS": "n.",
+      "English": "eleven years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅういっぷん",
+      "Kanji": "十一分",
+      "POS": "n.",
+      "English": "eleven minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうきゅうふん",
+      "Kanji": "十九分",
+      "POS": "n.",
+      "English": "nineteen minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうごふん",
+      "Kanji": "十五分",
+      "POS": "n.",
+      "English": "fifteen minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうさんぷん",
+      "Kanji": "十三分",
+      "POS": "n.",
+      "English": "thirteen minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうじ",
+      "Kanji": "十時",
+      "POS": "n.",
+      "English": "ten o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうななふん",
+      "Kanji": "十七分",
+      "POS": "n.",
+      "English": "seventeen minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうにじ",
+      "Kanji": "十二時",
+      "POS": "n.",
+      "English": "twelve o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうにふん",
+      "Kanji": "十二分",
+      "POS": "n.",
+      "English": "twelve minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうはちふん/じゅうはっぷん",
+      "Kanji": "十八分",
+      "POS": "n.",
+      "English": "eighteen minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうよんぷん",
+      "Kanji": "十四分",
+      "POS": "n.",
+      "English": "fourteen minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅうろっぷん",
+      "Kanji": "十六分",
+      "POS": "n.",
+      "English": "sixteen minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅっさい",
+      "Kanji": "十歳",
+      "POS": "n.",
+      "English": "ten years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "じゅっぷん",
+      "Kanji": "十分",
+      "POS": "n.",
+      "English": "ten minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ななさい",
+      "Kanji": "七歳",
+      "POS": "n.",
+      "English": "seven years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ななふん",
+      "Kanji": "七分",
+      "POS": "n.",
+      "English": "seven minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にさい",
+      "Kanji": "二歳",
+      "POS": "n.",
+      "English": "two years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にじ",
+      "Kanji": "二時",
+      "POS": "n.",
+      "English": "two o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にじっぷん",
+      "Kanji": "二十分",
+      "POS": "n.",
+      "English": "twenty minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にじゅっぷん",
+      "Kanji": "二十分",
+      "POS": "n.",
+      "English": "twenty minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "にふん",
+      "Kanji": "二分",
+      "POS": "n.",
+      "English": "two minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "はたち",
+      "Kanji": "二十歳",
+      "POS": "n.",
+      "English": "twenty years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "はちじ",
+      "Kanji": "八時",
+      "POS": "n.",
+      "English": "eight o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "はちふん",
+      "Kanji": "八分",
+      "POS": "n.",
+      "English": "eight minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "はっさい",
+      "Kanji": "八歳",
+      "POS": "n.",
+      "English": "eight years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "はっぷん",
+      "Kanji": "八分",
+      "POS": "n.",
+      "English": "eight minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "よじ",
+      "Kanji": "四時",
+      "POS": "n.",
+      "English": "four o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "よんさい",
+      "Kanji": "四歳",
+      "POS": "n.",
+      "English": "four years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "よんぷん",
+      "Kanji": "四分",
+      "POS": "n.",
+      "English": "four minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ろくさい",
+      "Kanji": "六歳",
+      "POS": "n.",
+      "English": "six years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ろくじ",
+      "Kanji": "六時",
+      "POS": "n.",
+      "English": "six o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ろっぷん",
+      "Kanji": "六分",
+      "POS": "n.",
+      "English": "six minutes",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "いちじ",
+      "Kanji": "一時",
+      "POS": "n.",
+      "English": "one o’clock",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "～さい",
+      "Kanji": "～歳",
+      "POS": "suf.",
+      "English": ". . . years old",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "いしゃ",
+      "Kanji": "医者",
+      "POS": "n.",
+      "English": "doctor",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "せいじ",
+      "Kanji": "政治",
+      "POS": "n.",
+      "English": "politics",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "べんごし",
+      "Kanji": "弁護士",
+      "POS": "n.",
+      "English": "lawyer",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "おかあさん",
+      "Kanji": "お母さん",
+      "POS": "n.",
+      "English": "mother",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "おとうさん",
+      "Kanji": "お父さん",
+      "POS": "n.",
+      "English": "father",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "かんこく",
+      "Kanji": "韓国",
+      "POS": "n.",
+      "English": "Korea",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "けいざい",
+      "Kanji": "経済",
+      "POS": "n.",
+      "English": "economics",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ちゅうごく",
+      "Kanji": "中国",
+      "POS": "n.",
+      "English": "China",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "れきし",
+      "Kanji": "歴史",
+      "POS": "n.",
+      "English": "history",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "いもうと（さん）",
+      "Kanji": "妹（さん）",
+      "POS": "n.",
+      "English": "younger sister",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "おとうと（さん）",
+      "Kanji": "弟（さん）",
+      "POS": "n.",
+      "English": "younger brother",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "おにいさん",
+      "Kanji": "お兄さん",
+      "POS": "n.",
+      "English": "older brother",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "おねえさん",
+      "Kanji": "お姉さん",
+      "POS": "n.",
+      "English": "older sister",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "ぶんがく",
+      "Kanji": "文学",
+      "POS": "n.",
+      "English": "literature",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "かいしゃいん",
+      "Kanji": "会社員",
+      "POS": "n.",
+      "English": "office worker",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "しごと",
+      "Kanji": "仕事",
+      "POS": "n.",
+      "English": "job; work; occupation",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "だいがくせい",
+      "Kanji": "大学生",
+      "POS": "n.",
+      "English": "college student",
+      "Lesson": 1
+   },
+   {
+      "Vocab": "～えん",
+      "Kanji": "～円",
+      "POS": "suf.",
+      "English": ". . . yen",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "かさ",
+      "Kanji": "傘",
+      "POS": "n.",
+      "English": "umbrella",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "きっさてん",
+      "Kanji": "喫茶店",
+      "POS": "n.",
+      "English": "cafe",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "ぎんこう",
+      "Kanji": "銀行",
+      "POS": "n.",
+      "English": "bank",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "くつ",
+      "Kanji": "靴",
+      "POS": "n.",
+      "English": "shoes",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "さいふ",
+      "Kanji": "財布",
+      "POS": "n.",
+      "English": "wallet",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "さかな",
+      "Kanji": "魚",
+      "POS": "n.",
+      "English": "fish",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "じてんしゃ",
+      "Kanji": "自転車",
+      "POS": "n.",
+      "English": "bicycle",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "しんぶん",
+      "Kanji": "新聞",
+      "POS": "n.",
+      "English": "newspaper",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "たかい",
+      "Kanji": "高い",
+      "POS": "い-adj.",
+      "English": "expensive; high",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "とけい",
+      "Kanji": "時計",
+      "POS": "n.",
+      "English": "watch; clock",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "としょかん",
+      "Kanji": "図書館",
+      "POS": "n.",
+      "English": "library",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "にく",
+      "Kanji": "肉",
+      "POS": "n.",
+      "English": "meat",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "ぼうし",
+      "Kanji": "帽子",
+      "POS": "n.",
+      "English": "hat; cap",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "やさい",
+      "Kanji": "野菜",
+      "POS": "n.",
+      "English": "vegetable",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "ゆうびんきょく",
+      "Kanji": "郵便局",
+      "POS": "n.",
+      "English": "post office",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "けしゴム",
+      "Kanji": "消しゴム",
+      "POS": "n.",
+      "English": "eraser",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "つくえ",
+      "Kanji": "机",
+      "POS": "n.",
+      "English": "desk",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "まど",
+      "Kanji": "窓",
+      "POS": "n.",
+      "English": "window",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "こくばん",
+      "Kanji": "黒板",
+      "POS": "n.",
+      "English": "blackboard",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "でんき",
+      "Kanji": "電気",
+      "POS": "n.",
+      "English": "electricity",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "えんぴつ",
+      "Kanji": "鉛筆",
+      "POS": "n.",
+      "English": "pencil",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "じしょ",
+      "Kanji": "辞書",
+      "POS": "n.",
+      "English": "dictionary",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "ほん",
+      "Kanji": "本",
+      "POS": "n.",
+      "English": "book",
+      "Lesson": 2
+   },
+   {
+      "Vocab": "あさ",
+      "Kanji": "朝",
+      "POS": "n.",
+      "English": "morning",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "あさごはん",
+      "Kanji": "朝ご飯",
+      "POS": "n.",
+      "English": "breakfast",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "いえ",
+      "Kanji": "家",
+      "POS": "n.",
+      "English": "home; house",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "いく",
+      "Kanji": "行く",
+      "POS": "u-v.",
+      "English": "to go",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "えいが",
+      "Kanji": "映画",
+      "POS": "n.",
+      "English": "movie",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "おきる",
+      "Kanji": "起きる",
+      "POS": "ru-v.",
+      "English": "to get up",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "おさけ",
+      "Kanji": "お酒",
+      "POS": "n.",
+      "English": "sake; alcohol",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "おちゃ",
+      "Kanji": "お茶",
+      "POS": "n.",
+      "English": "green tea",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "おんがく",
+      "Kanji": "音楽",
+      "POS": "n.",
+      "English": "music",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "かえる",
+      "Kanji": "帰る",
+      "POS": "u-v.",
+      "English": "to go back; to return",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "がっこう",
+      "Kanji": "学校",
+      "POS": "n.",
+      "English": "school",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "きく",
+      "Kanji": "聞く",
+      "POS": "u-v.",
+      "English": "to listen; to hear",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "くる",
+      "Kanji": "来る",
+      "POS": "irr-v.",
+      "English": "to come",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "こんばん",
+      "Kanji": "今晩",
+      "POS": "n.",
+      "English": "tonight",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "さけ",
+      "Kanji": "酒",
+      "POS": "n.",
+      "English": "sake; alcohol",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "ざっし",
+      "Kanji": "雑誌",
+      "POS": "n.",
+      "English": "magazine",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "しゅうまつ",
+      "Kanji": "週末",
+      "POS": "n.",
+      "English": "weekend",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "ぜんぜん ＋ negative",
+      "Kanji": "全然",
+      "POS": "adv.",
+      "English": "not at all",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "たべる",
+      "Kanji": "食べる",
+      "POS": "ru-v.",
+      "English": "to eat",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "ちゃ",
+      "Kanji": "茶",
+      "POS": "n.",
+      "English": "green tea",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "ときどき",
+      "Kanji": "時々",
+      "POS": "adv.",
+      "English": "sometimes",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "ねる",
+      "Kanji": "寝る",
+      "POS": "ru-v.",
+      "English": "to sleep; to go to sleep",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "のむ",
+      "Kanji": "飲む",
+      "POS": "u-v.",
+      "English": "to drink",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "はなす",
+      "Kanji": "話す",
+      "POS": "u-v.",
+      "English": "to speak; to talk",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "はやい",
+      "Kanji": "早い",
+      "POS": "い-adj.",
+      "English": "early",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "ばんごはん",
+      "Kanji": "晩ご飯",
+      "POS": "n.",
+      "English": "dinner",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "ひるごはん",
+      "Kanji": "昼ご飯",
+      "POS": "n.",
+      "English": "lunch",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "べんきょうする",
+      "Kanji": "勉強する",
+      "POS": "irr-v.",
+      "English": "to study",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "まいにち",
+      "Kanji": "毎日",
+      "POS": "n.",
+      "English": "every day",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "まいばん",
+      "Kanji": "毎晩",
+      "POS": "n.",
+      "English": "every night",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "みず",
+      "Kanji": "水",
+      "POS": "n.",
+      "English": "water",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "みる",
+      "Kanji": "見る",
+      "POS": "ru-v.",
+      "English": "to see; to look at; to watch",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "よむ",
+      "Kanji": "読む",
+      "POS": "u-v.",
+      "English": "to read",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "あした",
+      "Kanji": "明日",
+      "POS": "n.",
+      "English": "tomorrow",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "きょう",
+      "Kanji": "今日",
+      "POS": "n.",
+      "English": "today",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "にちようび",
+      "Kanji": "日曜日",
+      "POS": "n.",
+      "English": "Sunday",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "どようび",
+      "Kanji": "土曜日",
+      "POS": "n.",
+      "English": "Saturday",
+      "Lesson": 3
+   },
+   {
+      "Vocab": "あいだ",
+      "Kanji": "間",
+      "POS": "n.",
+      "English": "between",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "あう",
+      "Kanji": "会う",
+      "POS": "u-v.",
+      "English": "to meet; to see (a person)",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "いちじかん",
+      "Kanji": "一時間",
+      "POS": "n.",
+      "English": "one hour",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "いぬ",
+      "Kanji": "犬",
+      "POS": "n.",
+      "English": "dog",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "うえ",
+      "Kanji": "上",
+      "POS": "n.",
+      "English": "on",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "うしろ",
+      "Kanji": "後ろ",
+      "POS": "n.",
+      "English": "back",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "おてら",
+      "Kanji": "お寺",
+      "POS": "n.",
+      "English": "temple",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "おみやげ",
+      "Kanji": "お土産",
+      "POS": "n.",
+      "English": "souvenir",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "かいもの",
+      "Kanji": "買い物",
+      "POS": "n.",
+      "English": "shopping",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "かう",
+      "Kanji": "買う",
+      "POS": "u-v.",
+      "English": "to buy",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "かく",
+      "Kanji": "書く",
+      "POS": "u-v.",
+      "English": "to write",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "こうえん",
+      "Kanji": "公園",
+      "POS": "n.",
+      "English": "park",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "こども",
+      "Kanji": "子供",
+      "POS": "n.",
+      "English": "child",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ごはん",
+      "Kanji": "ご飯",
+      "POS": "n.",
+      "English": "rice; meal",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "～じかん",
+      "Kanji": "～時間",
+      "POS": "n.",
+      "English": ". . . hours",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "した",
+      "Kanji": "下",
+      "POS": "n.",
+      "English": "under",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "しゃしん",
+      "Kanji": "写真",
+      "POS": "n.",
+      "English": "picture; photograph",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ちかく",
+      "Kanji": "近く",
+      "POS": "n.",
+      "English": "near; nearby",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "てがみ",
+      "Kanji": "手紙",
+      "POS": "n.",
+      "English": "letter",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "てら",
+      "Kanji": "寺",
+      "POS": "n.",
+      "English": "temple",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "とき",
+      "Kanji": "時",
+      "POS": "n.",
+      "English": "when . . . ; at the time of . . .",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "となり",
+      "Kanji": "隣",
+      "POS": "n.",
+      "English": "next",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "とる",
+      "Kanji": "撮る",
+      "POS": "u-v.",
+      "English": "to take (a picture)",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "なか",
+      "Kanji": "中",
+      "POS": "n.",
+      "English": "inside",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ねこ",
+      "Kanji": "猫",
+      "POS": "n.",
+      "English": "cat",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "バスてい",
+      "Kanji": "バス停",
+      "POS": "n.",
+      "English": "bus stop",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ひだり",
+      "Kanji": "左",
+      "POS": "n.",
+      "English": "left",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ひと",
+      "Kanji": "人",
+      "POS": "n.",
+      "English": "person",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ひとりで",
+      "Kanji": "一人で",
+      "POS": "adv.",
+      "English": "alone",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "びょういん",
+      "Kanji": "病院",
+      "POS": "n.",
+      "English": "hospital",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ほんや",
+      "Kanji": "本屋",
+      "POS": "n.",
+      "English": "bookstore",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "まえ",
+      "Kanji": "前",
+      "POS": "n.",
+      "English": "front",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "まち",
+      "Kanji": "町",
+      "POS": "n.",
+      "English": "town; city",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "まつ",
+      "Kanji": "待つ",
+      "POS": "u-v.",
+      "English": "to wait",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "みぎ",
+      "Kanji": "右",
+      "POS": "n.",
+      "English": "right",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "みやげ",
+      "Kanji": "土産",
+      "POS": "n.",
+      "English": "souvenir",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "いちがつ",
+      "Kanji": "一月",
+      "POS": "n.",
+      "English": "January",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "いつか",
+      "Kanji": "五日",
+      "POS": "n.",
+      "English": "the fifth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "くがつ",
+      "Kanji": "九月",
+      "POS": "n.",
+      "English": "September",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ごがつ",
+      "Kanji": "五月",
+      "POS": "n.",
+      "English": "May",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ここのか",
+      "Kanji": "九日",
+      "POS": "n.",
+      "English": "the ninth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "さらいげつ",
+      "Kanji": "再来月",
+      "POS": "n.",
+      "English": "the month after next",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "さらいしゅう",
+      "Kanji": "再来週",
+      "POS": "n.",
+      "English": "the week after next",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "さらいねん",
+      "Kanji": "再来年",
+      "POS": "n.",
+      "English": "the year after next",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "さんがつ",
+      "Kanji": "三月",
+      "POS": "n.",
+      "English": "March",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "しがつ",
+      "Kanji": "四月",
+      "POS": "n.",
+      "English": "April",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "しちがつ",
+      "Kanji": "七月",
+      "POS": "n.",
+      "English": "July",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "じゅういちがつ",
+      "Kanji": "十一月",
+      "POS": "n.",
+      "English": "November",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "じゅういちにち",
+      "Kanji": "十一日",
+      "POS": "n.",
+      "English": "the eleventh day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "じゅうがつ",
+      "Kanji": "十月",
+      "POS": "n.",
+      "English": "October",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "じゅうにがつ",
+      "Kanji": "十二月",
+      "POS": "n.",
+      "English": "December",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "じゅうよっか",
+      "Kanji": "十四日",
+      "POS": "n.",
+      "English": "the fourteenth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ついたち",
+      "Kanji": "一日",
+      "POS": "n.",
+      "English": "the first day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "とおか",
+      "Kanji": "十日",
+      "POS": "n.",
+      "English": "the tenth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "なのか",
+      "Kanji": "七日",
+      "POS": "n.",
+      "English": "the seventh day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "にかげつまえ",
+      "Kanji": "二か月前",
+      "POS": "n.",
+      "English": "two months ago",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "にがつ",
+      "Kanji": "二月",
+      "POS": "n.",
+      "English": "February",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "にしゅうかんまえ",
+      "Kanji": "二週間前",
+      "POS": "n.",
+      "English": "two weeks ago",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "にじゅうよっか",
+      "Kanji": "二十四日",
+      "POS": "n.",
+      "English": "the twenty-fourth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "はちがつ",
+      "Kanji": "八月",
+      "POS": "n.",
+      "English": "August",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "はつか",
+      "Kanji": "二十日",
+      "POS": "n.",
+      "English": "the twentieth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ふつか",
+      "Kanji": "二日",
+      "POS": "n.",
+      "English": "the second day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "みっか",
+      "Kanji": "三日",
+      "POS": "n.",
+      "English": "the third day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "むいか",
+      "Kanji": "六日",
+      "POS": "n.",
+      "English": "the sixth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ようか",
+      "Kanji": "八日",
+      "POS": "n.",
+      "English": "the eighth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "よっか",
+      "Kanji": "四日",
+      "POS": "n.",
+      "English": "the fourth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ろくがつ",
+      "Kanji": "六月",
+      "POS": "n.",
+      "English": "June",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ことし",
+      "Kanji": "今年",
+      "POS": "n.",
+      "English": "this year",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "こんしゅう",
+      "Kanji": "今週",
+      "POS": "n.",
+      "English": "this week",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "らいしゅう",
+      "Kanji": "来週",
+      "POS": "n.",
+      "English": "next week",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "らいねん",
+      "Kanji": "来年",
+      "POS": "n.",
+      "English": "next year",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "こんげつ",
+      "Kanji": "今月",
+      "POS": "n.",
+      "English": "this month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "らいげつ",
+      "Kanji": "来月",
+      "POS": "n.",
+      "English": "next month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "きょねん",
+      "Kanji": "去年",
+      "POS": "n.",
+      "English": "last year",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "せんげつ",
+      "Kanji": "先月",
+      "POS": "n.",
+      "English": "last month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "かようび",
+      "Kanji": "火曜日",
+      "POS": "n.",
+      "English": "Tuesday",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "きのう",
+      "Kanji": "昨日",
+      "POS": "n.",
+      "English": "yesterday",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "きんようび",
+      "Kanji": "金曜日",
+      "POS": "n.",
+      "English": "Friday",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "げつようび",
+      "Kanji": "月曜日",
+      "POS": "n.",
+      "English": "Monday",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "すいようび",
+      "Kanji": "水曜日",
+      "POS": "n.",
+      "English": "Wednesday",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "せんしゅう",
+      "Kanji": "先週",
+      "POS": "n.",
+      "English": "last week",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "もくようび",
+      "Kanji": "木曜日",
+      "POS": "n.",
+      "English": "Thursday",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "みせ",
+      "Kanji": "店",
+      "POS": "n.",
+      "English": "shop; store",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "おそく",
+      "Kanji": "遅く",
+      "POS": "adv.",
+      "English": "(do something) late",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "あたらしい",
+      "Kanji": "新しい",
+      "POS": "い-adj.",
+      "English": "new",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "あつい",
+      "Kanji": "熱い",
+      "POS": "い-adj.",
+      "English": "hot (thing)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "あつい",
+      "Kanji": "暑い",
+      "POS": "い-adj.",
+      "English": "hot (weather)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "いそがしい",
+      "Kanji": "忙しい",
+      "POS": "い-adj.",
+      "English": "busy (people/days)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "いっしょに",
+      "Kanji": "一緒に",
+      "POS": "adv.",
+      "English": "together",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "うみ",
+      "Kanji": "海",
+      "POS": "n.",
+      "English": "sea",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "おおきい",
+      "Kanji": "大きい",
+      "POS": "い-adj.",
+      "English": "large",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "おもしろい",
+      "Kanji": "面白い",
+      "POS": "い-adj.",
+      "English": "interesting; funny",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "およぐ",
+      "Kanji": "泳ぐ",
+      "POS": "u-v.",
+      "English": "to swim",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "きく",
+      "Kanji": "聞く",
+      "POS": "u-v.",
+      "English": "to ask",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "きっぷ",
+      "Kanji": "切符",
+      "POS": "n.",
+      "English": "ticket",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "きらい（な）",
+      "Kanji": "嫌い",
+      "POS": "な-adj.",
+      "English": "disgusted with; to dislike",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "げんき（な）",
+      "Kanji": "元気",
+      "POS": "な-adj.",
+      "English": "healthy; energetic",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "こわい",
+      "Kanji": "怖い",
+      "POS": "い-adj.",
+      "English": "frightening",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "さむい",
+      "Kanji": "寒い",
+      "POS": "い-adj.",
+      "English": "cold (weather)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "しずか（な）",
+      "Kanji": "静か",
+      "POS": "な-adj.",
+      "English": "quiet",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "すき（な）",
+      "Kanji": "好き",
+      "POS": "な-adj.",
+      "English": "fond of; to like",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "だいきらい（な）",
+      "Kanji": "大嫌い",
+      "POS": "な-adj.",
+      "English": "to hate",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "だいじょうぶ",
+      "Kanji": "大丈夫",
+      "POS": "exp.",
+      "English": "It’s okay.; Not to worry.; Everything is under control.",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "だいすき（な）",
+      "Kanji": "大好き",
+      "POS": "な-adj.",
+      "English": "very fond of; to love",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "たのしい",
+      "Kanji": "楽しい",
+      "POS": "い-adj.",
+      "English": "fun",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "たべもの",
+      "Kanji": "食べ物",
+      "POS": "n.",
+      "English": "food",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "たんじょうび",
+      "Kanji": "誕生日",
+      "POS": "n.",
+      "English": "birthday",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "ちいさい",
+      "Kanji": "小さい",
+      "POS": "い-adj.",
+      "English": "small",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "でかける",
+      "Kanji": "出かける",
+      "POS": "ru-v.",
+      "English": "to go out",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "てんき",
+      "Kanji": "天気",
+      "POS": "n.",
+      "English": "weather",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "のみもの",
+      "Kanji": "飲み物",
+      "POS": "n.",
+      "English": "drink",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "のる",
+      "Kanji": "乗る",
+      "POS": "u-v.",
+      "English": "to ride; to board",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "ひこうき",
+      "Kanji": "飛行機",
+      "POS": "n.",
+      "English": "airplane",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "ひま（な）",
+      "Kanji": "暇",
+      "POS": "な-adj.",
+      "English": "not busy; to have a lot of free time",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "ふるい",
+      "Kanji": "古い",
+      "POS": "い-adj.",
+      "English": "old (thing)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "へや",
+      "Kanji": "部屋",
+      "POS": "n.",
+      "English": "room",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "ぼく",
+      "Kanji": "僕",
+      "POS": "n.",
+      "English": "I (used by men)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "むずかしい",
+      "Kanji": "難しい",
+      "POS": "い-adj.",
+      "English": "difficult",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "やすい",
+      "Kanji": "安い",
+      "POS": "い-adj.",
+      "English": "inexpensive; cheap (thing)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "やすみ",
+      "Kanji": "休み",
+      "POS": "n.",
+      "English": "holiday; day off; absence",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "りょこう",
+      "Kanji": "旅行",
+      "POS": "n.",
+      "English": "travel",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "かきとめ",
+      "Kanji": "書留",
+      "POS": "n.",
+      "English": "registered mail",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "こうくうびん",
+      "Kanji": "航空便",
+      "POS": "n.",
+      "English": "airmail",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "こづつみ",
+      "Kanji": "小包",
+      "POS": "n.",
+      "English": "parcel",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "そくたつ",
+      "Kanji": "速達",
+      "POS": "n.",
+      "English": "special delivery",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "ふなびん",
+      "Kanji": "船便",
+      "POS": "n.",
+      "English": "surface mail",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "まどぐち",
+      "Kanji": "窓口",
+      "POS": "n.",
+      "English": "counter",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "ほけん",
+      "Kanji": "保険",
+      "POS": "n.",
+      "English": "insurance",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "しゅくだい",
+      "Kanji": "宿題",
+      "POS": "n.",
+      "English": "homework",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "～まい",
+      "Kanji": "～枚",
+      "POS": "suf.",
+      "English": "[counter for flat objects]",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "きって",
+      "Kanji": "切手",
+      "POS": "n.",
+      "English": "postal stamps",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "はがき",
+      "Kanji": "葉書",
+      "POS": "n.",
+      "English": "postcard",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "おしろ",
+      "Kanji": "お城",
+      "POS": "n.",
+      "English": "castle",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "～さま",
+      "Kanji": "～様",
+      "POS": "suf.",
+      "English": "Mr./Ms. . . .",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "しろ",
+      "Kanji": "城",
+      "POS": "n.",
+      "English": "castle",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "では、おげんきで",
+      "Kanji": "では、お元気で",
+      "POS": "exp.",
+      "English": "Take care.",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "やま",
+      "Kanji": "山",
+      "POS": "n.",
+      "English": "mountain",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "たいへん（な）",
+      "Kanji": "大変",
+      "POS": "な-adj.",
+      "English": "tough (situation)",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "よる",
+      "Kanji": "夜",
+      "POS": "n.",
+      "English": "night",
+      "Lesson": 5
+   },
+   {
+      "Vocab": "あける",
+      "Kanji": "開ける",
+      "POS": "ru-v.",
+      "English": "to open (something)",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "あそぶ",
+      "Kanji": "遊ぶ",
+      "POS": "u-v.",
+      "English": "to play; to spend time pleasantly",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "あとで",
+      "Kanji": "後で",
+      "POS": "exp.",
+      "English": "later on",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "いそぐ",
+      "Kanji": "急ぐ",
+      "POS": "u-v.",
+      "English": "to hurry",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "おかね",
+      "Kanji": "お金",
+      "POS": "n.",
+      "English": "money",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "おしえる",
+      "Kanji": "教える",
+      "POS": "ru-v.",
+      "English": "to teach; to instruct",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "おふろ",
+      "Kanji": "お風呂",
+      "POS": "n.",
+      "English": "bath",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "おふろにはいる",
+      "Kanji": "お風呂に入る",
+      "POS": "u-v.",
+      "English": "to take a bath",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "おりる",
+      "Kanji": "降りる",
+      "POS": "ru-v.",
+      "English": "to get off",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "かえす",
+      "Kanji": "返す",
+      "POS": "u-v.",
+      "English": "to return (a thing)",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "かね",
+      "Kanji": "金",
+      "POS": "n.",
+      "English": "money",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "かりる",
+      "Kanji": "借りる",
+      "POS": "ru-v.",
+      "English": "to borrow",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "かんじ",
+      "Kanji": "漢字",
+      "POS": "n.",
+      "English": "kanji; Chinese character",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "きょうかしょ",
+      "Kanji": "教科書",
+      "POS": "n.",
+      "English": "textbook",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "けす",
+      "Kanji": "消す",
+      "POS": "u-v.",
+      "English": "to turn off; to erase",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "けっこうです",
+      "Kanji": "結構です",
+      "POS": "exp.",
+      "English": "That would be fine.; That wouldn’t be necessary.",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "しぬ",
+      "Kanji": "死ぬ",
+      "POS": "u-v.",
+      "English": "to die",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "しみんびょういん",
+      "Kanji": "市民病院",
+      "POS": "n.",
+      "English": "municipal hospital",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "しめる",
+      "Kanji": "閉める",
+      "POS": "ru-v.",
+      "English": "to close (something)",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "シャワーをあびる",
+      "Kanji": "シャワーを浴びる",
+      "POS": "ru-v.",
+      "English": "to take a shower",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "すわる",
+      "Kanji": "座る",
+      "POS": "u-v.",
+      "English": "to sit down",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "たつ",
+      "Kanji": "立つ",
+      "POS": "u-v.",
+      "English": "to stand up",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "たばこをすう",
+      "Kanji": "たばこを吸う",
+      "POS": "u-v.",
+      "English": "to smoke",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "つかう",
+      "Kanji": "使う",
+      "POS": "u-v.",
+      "English": "to use",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "つぎ",
+      "Kanji": "次",
+      "POS": "n.",
+      "English": "next",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "つれてくる",
+      "Kanji": "連れてくる",
+      "POS": "irr-v.",
+      "English": "to bring (a person)",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "てつだう",
+      "Kanji": "手伝う",
+      "POS": "u-v.",
+      "English": "to help",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "でんしゃ",
+      "Kanji": "電車",
+      "POS": "n.",
+      "English": "train",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "でんわをかける",
+      "Kanji": "電話をかける",
+      "POS": "ru-v.",
+      "English": "to make a phone call",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "にもつ",
+      "Kanji": "荷物",
+      "POS": "n.",
+      "English": "baggage",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "はいる",
+      "Kanji": "入る",
+      "POS": "u-v.",
+      "English": "to enter",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "ふろ",
+      "Kanji": "風呂",
+      "POS": "n.",
+      "English": "bath",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "ふろにはいる",
+      "Kanji": "風呂に入る",
+      "POS": "u-v.",
+      "English": "to take a bath",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "ほんとうですか",
+      "Kanji": "本当ですか",
+      "POS": "exp.",
+      "English": "Really?",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "もつ",
+      "Kanji": "持つ",
+      "POS": "u-v.",
+      "English": "to carry; to hold",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "もってくる",
+      "Kanji": "持ってくる",
+      "POS": "irr-v.",
+      "English": "to bring (a thing)",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "やすむ",
+      "Kanji": "休む",
+      "POS": "u-v.",
+      "English": "to be absent (from); to rest",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "わすれる",
+      "Kanji": "忘れる",
+      "POS": "ru-v.",
+      "English": "to forget; to leave behind",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "きた",
+      "Kanji": "北",
+      "POS": "n.",
+      "English": "north",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "にし",
+      "Kanji": "西",
+      "POS": "n.",
+      "English": "west",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "ひがし",
+      "Kanji": "東",
+      "POS": "n.",
+      "English": "east",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "ひだりがわ",
+      "Kanji": "左側",
+      "POS": "n.",
+      "English": "left side",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "ひとつめ",
+      "Kanji": "一つ目",
+      "POS": "n.",
+      "English": "first",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "ふたつめ",
+      "Kanji": "二つ目",
+      "POS": "n.",
+      "English": "second",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "みぎがわ",
+      "Kanji": "右側",
+      "POS": "n.",
+      "English": "right side",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "わたる",
+      "Kanji": "渡る",
+      "POS": "u-v.",
+      "English": "to cross",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "みなみ",
+      "Kanji": "南",
+      "POS": "n.",
+      "English": "south",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "かど",
+      "Kanji": "角",
+      "POS": "n.",
+      "English": "corner",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "しんごう",
+      "Kanji": "信号",
+      "POS": "n.",
+      "English": "traffic light",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "まがる",
+      "Kanji": "曲がる",
+      "POS": "u-v.",
+      "English": "to turn (right/left)",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "えき",
+      "Kanji": "駅",
+      "POS": "n.",
+      "English": "station",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "でる",
+      "Kanji": "出る",
+      "POS": "ru-v.",
+      "English": "to appear; to attend; to exit",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "りょうり",
+      "Kanji": "料理",
+      "POS": "n.",
+      "English": "cooking; dish",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "みなさん",
+      "Kanji": "皆さん",
+      "POS": "n.",
+      "English": "everyone; all of you",
+      "Lesson": 6
+   },
+   {
+      "Vocab": "あたまがいい",
+      "Kanji": "頭がいい",
+      "POS": "い-adj.",
+      "English": "bright; smart; clever",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "あね",
+      "Kanji": "姉",
+      "POS": "n.",
+      "English": "(my) older sister",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "うた",
+      "Kanji": "歌",
+      "POS": "n.",
+      "English": "song",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "うたう",
+      "Kanji": "歌う",
+      "POS": "u-v.",
+      "English": "to sing",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "おとこのひと",
+      "Kanji": "男の人",
+      "POS": "n.",
+      "English": "man",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "おんなのひと",
+      "Kanji": "女の人",
+      "POS": "n.",
+      "English": "woman",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "かいしゃ",
+      "Kanji": "会社",
+      "POS": "n.",
+      "English": "company",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "かぞく",
+      "Kanji": "家族",
+      "POS": "n.",
+      "English": "family",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "きょうだい",
+      "Kanji": "兄弟",
+      "POS": "n.",
+      "English": "brothers and sisters",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "きる",
+      "Kanji": "着る",
+      "POS": "ru-v.",
+      "English": "to put on (clothes above your waist)",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "くに",
+      "Kanji": "国",
+      "POS": "n.",
+      "English": "country; place of origin",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "くるま",
+      "Kanji": "車",
+      "POS": "n.",
+      "English": "car",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "けっこんする",
+      "Kanji": "結婚する",
+      "POS": "irr-v.",
+      "English": "to get married",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "しっています",
+      "Kanji": "知っています",
+      "POS": "exp.",
+      "English": "I know",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "しょくどう",
+      "Kanji": "食堂",
+      "POS": "n.",
+      "English": "cafeteria; dining commons",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "しりません",
+      "Kanji": "知りません",
+      "POS": "exp.",
+      "English": "I do not know",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "しる",
+      "Kanji": "知る",
+      "POS": "u-v.",
+      "English": "to get to know",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "しんせつ（な）",
+      "Kanji": "親切",
+      "POS": "な-adj.",
+      "English": "kind",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "すむ",
+      "Kanji": "住む",
+      "POS": "u-v.",
+      "English": "to live",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "せがたかい",
+      "Kanji": "背が高い",
+      "POS": "い-adj.",
+      "English": "tall (stature)",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "せがひくい",
+      "Kanji": "背が低い",
+      "POS": "い-adj.",
+      "English": "short (stature)",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "ちち",
+      "Kanji": "父",
+      "POS": "n.",
+      "English": "(my) father",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "つとめる",
+      "Kanji": "勤める",
+      "POS": "ru-v.",
+      "English": "to work for",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "ながい",
+      "Kanji": "長い",
+      "POS": "い-adj.",
+      "English": "long",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "なにも ＋ negative",
+      "Kanji": "何も",
+      "POS": "exp.",
+      "English": "not . . . anything",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "～にん",
+      "Kanji": "～人",
+      "POS": "suf.",
+      "English": "[counter for people]",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "はは",
+      "Kanji": "母",
+      "POS": "n.",
+      "English": "(my) mother",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "はやい",
+      "Kanji": "速い",
+      "POS": "い-adj.",
+      "English": "fast",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "ひとり",
+      "Kanji": "一人",
+      "POS": "exp.",
+      "English": "one person",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "ふたり",
+      "Kanji": "二人",
+      "POS": "exp.",
+      "English": "two people",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "ふとっています",
+      "Kanji": "太っています",
+      "POS": "exp.",
+      "English": "to be on the heavy side",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "ふとる",
+      "Kanji": "太る",
+      "POS": "u-v.",
+      "English": "to gain weight",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "べつに ＋ negative",
+      "Kanji": "別に",
+      "POS": "adv.",
+      "English": "nothing in particular",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "べんり（な）",
+      "Kanji": "便利",
+      "POS": "な-adj.",
+      "English": "convenient",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "みじかい",
+      "Kanji": "短い",
+      "POS": "い-adj.",
+      "English": "short (length)",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "めがね",
+      "Kanji": "眼鏡",
+      "POS": "n.",
+      "English": "glasses",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "あたま",
+      "Kanji": "頭",
+      "POS": "n.",
+      "English": "head",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "かた",
+      "Kanji": "肩",
+      "POS": "n.",
+      "English": "shoulder",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "くび",
+      "Kanji": "首",
+      "POS": "n.",
+      "English": "neck",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "せなか",
+      "Kanji": "背中",
+      "POS": "n.",
+      "English": "back (body)",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "はな",
+      "Kanji": "鼻",
+      "POS": "n.",
+      "English": "nose",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "みみ",
+      "Kanji": "耳",
+      "POS": "n.",
+      "English": "ear",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "むね",
+      "Kanji": "胸",
+      "POS": "n.",
+      "English": "breast",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "ゆび",
+      "Kanji": "指",
+      "POS": "n.",
+      "English": "finger",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "かお",
+      "Kanji": "顔",
+      "POS": "n.",
+      "English": "face",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "あし",
+      "Kanji": "足",
+      "POS": "n.",
+      "English": "leg; foot",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "は",
+      "Kanji": "歯",
+      "POS": "n.",
+      "English": "tooth",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "て",
+      "Kanji": "手",
+      "POS": "n.",
+      "English": "hand; arm",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "かみ",
+      "Kanji": "髪",
+      "POS": "n.",
+      "English": "hair",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "くち",
+      "Kanji": "口",
+      "POS": "n.",
+      "English": "mouth",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "め",
+      "Kanji": "目",
+      "POS": "n.",
+      "English": "eye",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "からだにきをつける",
+      "Kanji": "体に気をつける",
+      "POS": "ru-v.",
+      "English": "to take care of oneself",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "たのしみにする（～を）",
+      "Kanji": "楽しみにする",
+      "POS": "irr-v.",
+      "English": "to look forward (to)",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "とる",
+      "Kanji": "取る",
+      "POS": "u-v.",
+      "English": "to take (a class); to get (a grade)",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "すこし",
+      "Kanji": "少し",
+      "POS": "adv.",
+      "English": "a little",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "じゅく",
+      "Kanji": "塾",
+      "POS": "n.",
+      "English": "cram school",
+      "Lesson": 7
+   },
+   {
+      "Vocab": "あめ",
+      "Kanji": "雨",
+      "POS": "n.",
+      "English": "rain",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "あめがふる",
+      "Kanji": "雨が降る",
+      "POS": "u-v.",
+      "English": "it rains",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "あらう",
+      "Kanji": "洗う",
+      "POS": "u-v.",
+      "English": "to wash",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "いう",
+      "Kanji": "言う",
+      "POS": "u-v.",
+      "English": "to say",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "うんてんする",
+      "Kanji": "運転する",
+      "POS": "irr-v.",
+      "English": "to drive",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "おそくなる",
+      "Kanji": "遅くなる",
+      "POS": "u-v.",
+      "English": "to be late",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "おもう",
+      "Kanji": "思う",
+      "POS": "u-v.",
+      "English": "to think",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "かんぱい",
+      "Kanji": "乾杯",
+      "POS": "exp.",
+      "English": "Cheers! (a toast)",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "くうき",
+      "Kanji": "空気",
+      "POS": "n.",
+      "English": "air",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "けさ",
+      "Kanji": "今朝",
+      "POS": "n.",
+      "English": "this morning",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "ざんねん（ですね）",
+      "Kanji": "残念（ですね）",
+      "POS": "exp.",
+      "English": "That’s too bad.",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "じょうず（な）",
+      "Kanji": "上手",
+      "POS": "な-adj.",
+      "English": "skillful; good at . . .",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "じろじろみる",
+      "Kanji": "じろじろ見る",
+      "POS": "ru-v.",
+      "English": "to stare (at)",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "すてる",
+      "Kanji": "捨てる",
+      "POS": "ru-v.",
+      "English": "to throw away",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "せんたくする",
+      "Kanji": "洗濯する",
+      "POS": "irr-v.",
+      "English": "to do laundry",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "そうじする",
+      "Kanji": "掃除する",
+      "POS": "irr-v.",
+      "English": "to clean",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "つくる",
+      "Kanji": "作る",
+      "POS": "u-v.",
+      "English": "to make",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "てんきよほう",
+      "Kanji": "天気予報",
+      "POS": "n.",
+      "English": "weather forecast",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "でんわする",
+      "Kanji": "電話する",
+      "POS": "irr-v.",
+      "English": "to call",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "ところ",
+      "Kanji": "所",
+      "POS": "n.",
+      "English": "place",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "なつ",
+      "Kanji": "夏",
+      "POS": "n.",
+      "English": "summer",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "なにか",
+      "Kanji": "何か",
+      "POS": "n.",
+      "English": "something",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "はじめる",
+      "Kanji": "始める",
+      "POS": "ru-v.",
+      "English": "to begin",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "ふゆ",
+      "Kanji": "冬",
+      "POS": "n.",
+      "English": "winter",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "へた（な）",
+      "Kanji": "下手",
+      "POS": "な-adj.",
+      "English": "clumsy; poor at . . .",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "まいしゅう",
+      "Kanji": "毎週",
+      "POS": "n.",
+      "English": "every week",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "もっていく",
+      "Kanji": "持っていく",
+      "POS": "u-v.",
+      "English": "to take (a thing)",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "ゆうめい（な）",
+      "Kanji": "有名",
+      "POS": "な-adj.",
+      "English": "famous",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "りょうりする",
+      "Kanji": "料理する",
+      "POS": "irr-v.",
+      "English": "to cook",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "きる",
+      "Kanji": "切る",
+      "POS": "u-v.",
+      "English": "to cut",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "つかれている",
+      "Kanji": "疲れている",
+      "POS": "exp.",
+      "English": "to be tired",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "つぎに",
+      "Kanji": "次に",
+      "POS": "adv.",
+      "English": "secondly",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "（～の）あと",
+      "Kanji": "後",
+      "POS": "exp.",
+      "English": "after (an event)",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "ざんぎょう",
+      "Kanji": "残業",
+      "POS": "n.",
+      "English": "overtime work",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "こたえる",
+      "Kanji": "答える",
+      "POS": "ru-v.",
+      "English": "to answer",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "さいごに",
+      "Kanji": "最後に",
+      "POS": "adv.",
+      "English": "finally; lastly",
+      "Lesson": 8
+   },
+   {
+      "Vocab": "いいこ",
+      "Kanji": "いい子",
+      "POS": "n.",
+      "English": "good child",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "いじわる（な）",
+      "Kanji": "意地悪",
+      "POS": "な-adj.",
+      "English": "mean-spirited",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "いつつ",
+      "Kanji": "五つ",
+      "POS": "n.",
+      "English": "five",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "いろ",
+      "Kanji": "色",
+      "POS": "n.",
+      "English": "color",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "うんどうする",
+      "Kanji": "運動する",
+      "POS": "irr-v.",
+      "English": "to do physical exercises",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "おどる",
+      "Kanji": "踊る",
+      "POS": "u-v.",
+      "English": "to dance",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "おべんとう",
+      "Kanji": "お弁当",
+      "POS": "n.",
+      "English": "boxed lunch",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "おぼえる",
+      "Kanji": "覚える",
+      "POS": "ru-v.",
+      "English": "to memorize",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "おわる",
+      "Kanji": "終わる",
+      "POS": "u-v.",
+      "English": "(something) ends",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "かぶき",
+      "Kanji": "歌舞伎",
+      "POS": "n.",
+      "English": "Kabuki; traditional Japanese theatrical art",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "くすり",
+      "Kanji": "薬",
+      "POS": "n.",
+      "English": "medicine",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "くすりをのむ",
+      "Kanji": "薬を飲む",
+      "POS": "u-v.",
+      "English": "to take medicine",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ここのつ",
+      "Kanji": "九つ",
+      "POS": "n.",
+      "English": "nine",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "こんど",
+      "Kanji": "今度",
+      "POS": "n.",
+      "English": "near future",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "さくぶん",
+      "Kanji": "作文",
+      "POS": "n.",
+      "English": "essay; composition",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "さびしい",
+      "Kanji": "寂しい",
+      "POS": "い-adj.",
+      "English": "lonely",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "さんぽする",
+      "Kanji": "散歩する",
+      "POS": "irr-v.",
+      "English": "to take a walk",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "しけん",
+      "Kanji": "試験",
+      "POS": "n.",
+      "English": "exam",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ぜひ",
+      "Kanji": "是非",
+      "POS": "adv.",
+      "English": "by all means",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "たんご",
+      "Kanji": "単語",
+      "POS": "n.",
+      "English": "word; vocabulary",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "とお",
+      "Kanji": "十",
+      "POS": "n.",
+      "English": "ten",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ななつ",
+      "Kanji": "七つ",
+      "POS": "n.",
+      "English": "seven",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "にんきがある",
+      "Kanji": "人気がある",
+      "POS": "u-v.",
+      "English": "to be popular",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "はじまる",
+      "Kanji": "始まる",
+      "POS": "u-v.",
+      "English": "(something) begins",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ひく",
+      "Kanji": "弾く",
+      "POS": "u-v.",
+      "English": "to play (a string instrument or piano)",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ひとつ",
+      "Kanji": "一つ",
+      "POS": "n.",
+      "English": "one",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ふたつ",
+      "Kanji": "二つ",
+      "POS": "n.",
+      "English": "two",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "べんとう",
+      "Kanji": "弁当",
+      "POS": "n.",
+      "English": "boxed lunch",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "みっつ",
+      "Kanji": "三つ",
+      "POS": "n.",
+      "English": "three",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "むっつ",
+      "Kanji": "六つ",
+      "POS": "n.",
+      "English": "six",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "やっつ",
+      "Kanji": "八つ",
+      "POS": "n.",
+      "English": "eight",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "よっつ",
+      "Kanji": "四つ",
+      "POS": "n.",
+      "English": "four",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "わかい",
+      "Kanji": "若い",
+      "POS": "い-adj.",
+      "English": "young",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "かおがあおい",
+      "Kanji": "顔が青い",
+      "POS": "い-adj.",
+      "English": "to look pale",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "きいろい",
+      "Kanji": "黄色い",
+      "POS": "い-adj.",
+      "English": "yellow",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "きんいろ",
+      "Kanji": "金色",
+      "POS": "n.",
+      "English": "gold",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ぎんいろ",
+      "Kanji": "銀色",
+      "POS": "n.",
+      "English": "silver",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "きんぱつ",
+      "Kanji": "金髪",
+      "POS": "n.",
+      "English": "blonde hair",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "しろくろ",
+      "Kanji": "白黒",
+      "POS": "n.",
+      "English": "black and white",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ちゃいろい",
+      "Kanji": "茶色い",
+      "POS": "い-adj.",
+      "English": "brown",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "はいいろ",
+      "Kanji": "灰色",
+      "POS": "n.",
+      "English": "gray",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "みずいろ",
+      "Kanji": "水色",
+      "POS": "n.",
+      "English": "light blue",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "むらさき",
+      "Kanji": "紫",
+      "POS": "n.",
+      "English": "purple",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "みどり",
+      "Kanji": "緑",
+      "POS": "n.",
+      "English": "green",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "びょうき",
+      "Kanji": "病気",
+      "POS": "n.",
+      "English": "illness; sickness",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "あおい",
+      "Kanji": "青い",
+      "POS": "い-adj.",
+      "English": "blue",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "あかい",
+      "Kanji": "赤い",
+      "POS": "い-adj.",
+      "English": "red",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "くろい",
+      "Kanji": "黒い",
+      "POS": "い-adj.",
+      "English": "black",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "しろい",
+      "Kanji": "白い",
+      "POS": "い-adj.",
+      "English": "white",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ごぜんちゅう",
+      "Kanji": "午前中",
+      "POS": "n.",
+      "English": "in the morning",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "ひる",
+      "Kanji": "昼",
+      "POS": "n.",
+      "English": "noon",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "きもの",
+      "Kanji": "着物",
+      "POS": "n.",
+      "English": "kimono; Japanese traditional dress",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "あんないする",
+      "Kanji": "案内する",
+      "POS": "irr-v.",
+      "English": "to show (someone) around",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "りょう",
+      "Kanji": "寮",
+      "POS": "n.",
+      "English": "dormitory",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "にっき",
+      "Kanji": "日記",
+      "POS": "n.",
+      "English": "diary",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "はなしをする",
+      "Kanji": "話をする",
+      "POS": "irr-v.",
+      "English": "to have a talk",
+      "Lesson": 9
+   },
+   {
+      "Vocab": "あき",
+      "Kanji": "秋",
+      "POS": "n.",
+      "English": "fall",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "あたたかい",
+      "Kanji": "暖かい",
+      "POS": "い-adj.",
+      "English": "warm",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "あるいて",
+      "Kanji": "歩いて",
+      "POS": "adv.",
+      "English": "on foot",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "いちばん",
+      "Kanji": "一番",
+      "POS": "adv.",
+      "English": "best",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "おかねもち",
+      "Kanji": "お金持ち",
+      "POS": "n.",
+      "English": "rich person",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "おそい",
+      "Kanji": "遅い",
+      "POS": "い-adj.",
+      "English": "slow; late",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "～かげつ",
+      "Kanji": "～か月",
+      "POS": "suf.",
+      "English": "for . . . months",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "かねもち",
+      "Kanji": "金持ち",
+      "POS": "n.",
+      "English": "rich person",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "かんたん（な）",
+      "Kanji": "簡単",
+      "POS": "な-adj.",
+      "English": "easy; simple",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "きせつ",
+      "Kanji": "季節",
+      "POS": "n.",
+      "English": "season",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "きめる",
+      "Kanji": "決める",
+      "POS": "ru-v.",
+      "English": "to decide",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ぎゅうにゅう",
+      "Kanji": "牛乳",
+      "POS": "n.",
+      "English": "milk",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "～ご",
+      "Kanji": "～後",
+      "POS": "suf.",
+      "English": "in . . . time; after . . .",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "～しゅうかん",
+      "Kanji": "～週間",
+      "POS": "suf.",
+      "English": "for . . . weeks",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "しんかんせん",
+      "Kanji": "新幹線",
+      "POS": "n.",
+      "English": "Shinkansen; “Bullet Train”",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "すずしい",
+      "Kanji": "涼しい",
+      "POS": "い-adj.",
+      "English": "cool (weather)",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "せいかつ",
+      "Kanji": "生活",
+      "POS": "n. ",
+      "English": "life; living",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "せかい",
+      "Kanji": "世界",
+      "POS": "n. ",
+      "English": "world",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ちかてつ",
+      "Kanji": "地下鉄",
+      "POS": "n. ",
+      "English": "subway",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "つめたい",
+      "Kanji": "冷たい",
+      "POS": "い-adj.",
+      "English": "cold (things/people)",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "てぶくろ",
+      "Kanji": "手袋",
+      "POS": "n.",
+      "English": "gloves",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "てんぷら",
+      "Kanji": "天ぷら",
+      "POS": "n.",
+      "English": "tempura",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "とこや",
+      "Kanji": "床屋",
+      "POS": "n.",
+      "English": "barber’s",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "とまる",
+      "Kanji": "泊まる",
+      "POS": "u-v.",
+      "English": "to stay (at a hotel, etc.)",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ねむい",
+      "Kanji": "眠い",
+      "POS": "い-adj.",
+      "English": "sleepy",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "～ねん",
+      "Kanji": "～年",
+      "POS": "suf.",
+      "English": ". . . years",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "はやく",
+      "Kanji": "早く/速く",
+      "POS": "adv.",
+      "English": "(do something) early; fast",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "はらう",
+      "Kanji": "払う",
+      "POS": "u-v.",
+      "English": "to pay",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "はる",
+      "Kanji": "春",
+      "POS": "n.",
+      "English": "spring",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "びよういん",
+      "Kanji": "美容院",
+      "POS": "n.",
+      "English": "beauty parlor",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "びん",
+      "Kanji": "便",
+      "POS": "n.",
+      "English": "flight",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ふね",
+      "Kanji": "船",
+      "POS": "n.",
+      "English": "ship; boat",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "やきゅう",
+      "Kanji": "野球",
+      "POS": "n.",
+      "English": "baseball",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ゆうめいじん",
+      "Kanji": "有名人",
+      "POS": "n.",
+      "English": "celebrity",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "よやく",
+      "Kanji": "予約",
+      "POS": "n.",
+      "English": "reservation",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "らいがっき",
+      "Kanji": "来学期",
+      "POS": "n.",
+      "English": "next semester",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "りょこうする",
+      "Kanji": "旅行する",
+      "POS": "irr-v.",
+      "English": "to travel",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "れんしゅうする",
+      "Kanji": "練習する",
+      "POS": "irr-v.",
+      "English": "to practice",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "～いき",
+      "Kanji": "～行き",
+      "POS": "suf.",
+      "English": "bound for . . .",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "いちごうしゃ",
+      "Kanji": "一号車",
+      "POS": "n.",
+      "English": "Car No. 1",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "いちばんうしろ",
+      "Kanji": "一番後ろ",
+      "POS": "n.",
+      "English": "last car; tail end",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "いちばんまえ",
+      "Kanji": "一番前",
+      "POS": "n.",
+      "English": "first car; front end",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "いりぐち",
+      "Kanji": "入口",
+      "POS": "n.",
+      "English": "entrance",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "おうふく",
+      "Kanji": "往復",
+      "POS": "n.",
+      "English": "round trip",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "かいさつ",
+      "Kanji": "改札",
+      "POS": "n.",
+      "English": "gate",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "かいすうけん",
+      "Kanji": "回数券",
+      "POS": "n.",
+      "English": "coupons",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "かいだん",
+      "Kanji": "階段",
+      "POS": "n.",
+      "English": "stairs",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "がくわり",
+      "Kanji": "学割",
+      "POS": "n.",
+      "English": "student discount",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "かたみち",
+      "Kanji": "片道",
+      "POS": "n.",
+      "English": "one way",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "きっぷうりば",
+      "Kanji": "切符売り場",
+      "POS": "n.",
+      "English": "ticket vending area",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "きゅうこう",
+      "Kanji": "急行",
+      "POS": "n.",
+      "English": "express",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "きんえんしゃ",
+      "Kanji": "禁煙車",
+      "POS": "n.",
+      "English": "nonsmoking car",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "していせき",
+      "Kanji": "指定席",
+      "POS": "n.",
+      "English": "reserved seat",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "じはつ",
+      "Kanji": "次発",
+      "POS": "n.",
+      "English": "departing second",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "じゆうせき",
+      "Kanji": "自由席",
+      "POS": "n.",
+      "English": "general admission seat",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "じょうしゃけん",
+      "Kanji": "乗車券",
+      "POS": "n.",
+      "English": "(boarding) ticket",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "せんぱつ",
+      "Kanji": "先発",
+      "POS": "n.",
+      "English": "departing first",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "つぎは～",
+      "Kanji": "次は～",
+      "POS": "exp.",
+      "English": "next (stop), . . .",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ていきけん",
+      "Kanji": "定期券",
+      "POS": "n.",
+      "English": "commuter’s pass",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "でぐち",
+      "Kanji": "出口",
+      "POS": "n.",
+      "English": "exit",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "とっきゅう",
+      "Kanji": "特急",
+      "POS": "n.",
+      "English": "super express",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "のりかえ",
+      "Kanji": "乗り換え",
+      "POS": "n.",
+      "English": "transfer",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ばいてん",
+      "Kanji": "売店",
+      "POS": "n.",
+      "English": "shop; stand",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "～ばんせん",
+      "Kanji": "～番線",
+      "POS": "suf.",
+      "English": "track number . . .",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ふつう",
+      "Kanji": "普通",
+      "POS": "n.",
+      "English": "local (train)",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "～ほうめん",
+      "Kanji": "～方面",
+      "POS": "suf.",
+      "English": "serving . . . areas",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "しゅうでん",
+      "Kanji": "終電",
+      "POS": "n.",
+      "English": "last train",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "こえ",
+      "Kanji": "声",
+      "POS": "n.",
+      "English": "voice",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "と",
+      "Kanji": "戸",
+      "POS": "n.",
+      "English": "door",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "とし",
+      "Kanji": "年",
+      "POS": "n.",
+      "English": "year",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "むかしむかし",
+      "Kanji": "昔々",
+      "POS": "n.",
+      "English": "once upon a time",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "やまみち",
+      "Kanji": "山道",
+      "POS": "n.",
+      "English": "mountain road",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "おしょうがつ",
+      "Kanji": "お正月",
+      "POS": "n.",
+      "English": "New Year’s",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "しょうがつ",
+      "Kanji": "正月",
+      "POS": "n.",
+      "English": "New Year’s",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "ゆき",
+      "Kanji": "雪",
+      "POS": "n.",
+      "English": "snow",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "かなしい",
+      "Kanji": "悲しい",
+      "POS": "い-adj.",
+      "English": "sad",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "しあわせ（な）",
+      "Kanji": "幸せ",
+      "POS": "な-adj.",
+      "English": "happy (lasting happiness)",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "うる",
+      "Kanji": "売る",
+      "POS": "u-v.",
+      "English": "to sell",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "じぶん",
+      "Kanji": "自分",
+      "POS": "n.",
+      "English": "oneself",
+      "Lesson": 10
+   },
+   {
+      "Vocab": "うちゅうひこうし",
+      "Kanji": "宇宙飛行士",
+      "POS": "n.",
+      "English": "astronaut",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おかし",
+      "Kanji": "お菓子",
+      "POS": "n.",
+      "English": "snack; sweets",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おとこのこ",
+      "Kanji": "男の子",
+      "POS": "n.",
+      "English": "boy",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おまつり",
+      "Kanji": "お祭り",
+      "POS": "n.",
+      "English": "festival",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おんせん",
+      "Kanji": "温泉",
+      "POS": "n.",
+      "English": "spa; hot spring",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おんなのこ",
+      "Kanji": "女の子",
+      "POS": "n.",
+      "English": "girl",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "がいこく",
+      "Kanji": "外国",
+      "POS": "n.",
+      "English": "foreign country",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "かう",
+      "Kanji": "飼う",
+      "POS": "u-v.",
+      "English": "to own (a pet)",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "かし",
+      "Kanji": "菓子",
+      "POS": "n.",
+      "English": "snack; sweets",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "かしゅ",
+      "Kanji": "歌手",
+      "POS": "n.",
+      "English": "singer",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "かわ",
+      "Kanji": "川",
+      "POS": "n.",
+      "English": "river",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "かんごし",
+      "Kanji": "看護師",
+      "POS": "n.",
+      "English": "nurse",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "けいさつかん",
+      "Kanji": "警察官",
+      "POS": "n.",
+      "English": "police officer",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "こんがっき",
+      "Kanji": "今学期",
+      "POS": "n.",
+      "English": "this semester",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "さっか",
+      "Kanji": "作家",
+      "POS": "n.",
+      "English": "writer",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しゃちょう",
+      "Kanji": "社長",
+      "POS": "n.",
+      "English": "president of a company",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "じゅぎょう",
+      "Kanji": "授業",
+      "POS": "n.",
+      "English": "class",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しゅっしん",
+      "Kanji": "出身",
+      "POS": "exp.",
+      "English": "coming from",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しょうかいする",
+      "Kanji": "紹介する",
+      "POS": "irr-v.",
+      "English": "to introduce",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しょうぼうし",
+      "Kanji": "消防士",
+      "POS": "n.",
+      "English": "firefighter",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しょうらい",
+      "Kanji": "将来",
+      "POS": "n.",
+      "English": "future",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "じょゆう",
+      "Kanji": "女優",
+      "POS": "n.",
+      "English": "actress",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "じんじゃ",
+      "Kanji": "神社",
+      "POS": "n.",
+      "English": "shrine",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "だいとうりょう",
+      "Kanji": "大統領",
+      "POS": "n.",
+      "English": "president of a country",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ちこくする",
+      "Kanji": "遅刻する",
+      "POS": "irr-v.",
+      "English": "to be late (for an appointment)",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "つかれる",
+      "Kanji": "疲れる",
+      "POS": "ru-v.",
+      "English": "to get tired",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "～てん",
+      "Kanji": "～点",
+      "POS": "suf.",
+      "English": ". . . points",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ならう",
+      "Kanji": "習う",
+      "POS": "u-v.",
+      "English": "to learn",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "のぼる",
+      "Kanji": "登る",
+      "POS": "u-v.",
+      "English": "to climb",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "はいゆう",
+      "Kanji": "俳優",
+      "POS": "n.",
+      "English": "actor; actress",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "はたらく",
+      "Kanji": "働く",
+      "POS": "u-v.",
+      "English": "to work",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ひさしぶり",
+      "Kanji": "久しぶり",
+      "POS": "exp.",
+      "English": "it has been a long time",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "びじゅつかん",
+      "Kanji": "美術館",
+      "POS": "n.",
+      "English": "art museum",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "まつり",
+      "Kanji": "祭り",
+      "POS": "n.",
+      "English": "festival",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "まんがか",
+      "Kanji": "漫画家",
+      "POS": "n.",
+      "English": "cartoonist",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "みずうみ",
+      "Kanji": "湖",
+      "POS": "n.",
+      "English": "lake",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "やきゅうせんしゅ",
+      "Kanji": "野球選手",
+      "POS": "n.",
+      "English": "baseball player",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ゆめ",
+      "Kanji": "夢",
+      "POS": "n.",
+      "English": "dream",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "りゅうがくする",
+      "Kanji": "留学する",
+      "POS": "irr-v.",
+      "English": "to study abroad",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "かたいいいかた",
+      "Kanji": "かたい言い方",
+      "POS": "n.",
+      "English": "bookish expression",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "～ぎょうめ",
+      "Kanji": "～行目",
+      "POS": "suf.",
+      "English": "line number . . .",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "くだけたいいかた",
+      "Kanji": "くだけた言い方",
+      "POS": "n.",
+      "English": "colloquial expression",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ていねいないいかた",
+      "Kanji": "ていねいな言い方",
+      "POS": "n.",
+      "English": "polite expression",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "はつおん",
+      "Kanji": "発音",
+      "POS": "n.",
+      "English": "pronunciation",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ひょうじゅんご",
+      "Kanji": "標準語",
+      "POS": "n.",
+      "English": "standard Japanese",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ふたりずつ",
+      "Kanji": "二人ずつ",
+      "POS": "exp.",
+      "English": "two people each",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ほうげん",
+      "Kanji": "方言",
+      "POS": "n.",
+      "English": "dialect",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "れい",
+      "Kanji": "例",
+      "POS": "n.",
+      "English": "example",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "れんしゅう",
+      "Kanji": "練習",
+      "POS": "n.",
+      "English": "exercise",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "いみ",
+      "Kanji": "意味",
+      "POS": "n.",
+      "English": "meaning",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ぶんぽう",
+      "Kanji": "文法",
+      "POS": "n.",
+      "English": "grammar",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しめきり",
+      "Kanji": "締め切り",
+      "POS": "n.",
+      "English": "deadline",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "～ばん",
+      "Kanji": "～番",
+      "POS": "suf.",
+      "English": "number . . .",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "たとえば",
+      "Kanji": "例えば",
+      "POS": "adv.",
+      "English": "for example",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しつもん",
+      "Kanji": "質問",
+      "POS": "n.",
+      "English": "question",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "こたえ",
+      "Kanji": "答/答え",
+      "POS": "n.",
+      "English": "answer",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "あかるい",
+      "Kanji": "明るい",
+      "POS": "い-adj.",
+      "English": "cheerful",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おへんじ",
+      "Kanji": "お返事",
+      "POS": "n.",
+      "English": "reply",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "きんじょ",
+      "Kanji": "近所",
+      "POS": "n.",
+      "English": "neighborhood",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "へんじ",
+      "Kanji": "返事",
+      "POS": "n.",
+      "English": "reply",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "～ぼしゅう",
+      "Kanji": "～募集",
+      "POS": "suf.",
+      "English": "looking for . . .",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "かのじょ",
+      "Kanji": "彼女",
+      "POS": "n.",
+      "English": "girlfriend",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おとこ",
+      "Kanji": "男",
+      "POS": "n.",
+      "English": "man",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "おんな",
+      "Kanji": "女",
+      "POS": "n.",
+      "English": "woman",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "ぶんか",
+      "Kanji": "文化",
+      "POS": "n.",
+      "English": "culture",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "しゅみ",
+      "Kanji": "趣味",
+      "POS": "n.",
+      "English": "hobby; pastime",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "こと",
+      "Kanji": "事",
+      "POS": "n.",
+      "English": "things; matters",
+      "Lesson": 11
+   },
+   {
+      "Vocab": "あまい",
+      "Kanji": "甘い",
+      "POS": "い-adj.",
+      "English": "sweet",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "あるく",
+      "Kanji": "歩く",
+      "POS": "u-v.",
+      "English": "to walk",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "いたい",
+      "Kanji": "痛い",
+      "POS": "い-adj.",
+      "English": "hurt; painful",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "おおい",
+      "Kanji": "多い",
+      "POS": "い-adj.",
+      "English": "there are many . . .",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "おだいじに",
+      "Kanji": "お大事に",
+      "POS": "exp.",
+      "English": "Get well soon.",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "おてあらい",
+      "Kanji": "お手洗い",
+      "POS": "n.",
+      "English": "restroom",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "かぜ",
+      "Kanji": "風邪",
+      "POS": "n.",
+      "English": "cold",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "かぜをひく",
+      "Kanji": "風邪をひく",
+      "POS": "u-v.",
+      "English": "to catch a cold",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "かれ",
+      "Kanji": "彼",
+      "POS": "n.",
+      "English": "boyfriend",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "きおん",
+      "Kanji": "気温",
+      "POS": "n.",
+      "English": "temperature (weather)",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "きょうみがある",
+      "Kanji": "興味がある",
+      "POS": "u-v.",
+      "English": "to be interested (in)",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "きんちょうする",
+      "Kanji": "緊張する",
+      "POS": "irr-v.",
+      "English": "to get nervous",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "くもり",
+      "Kanji": "曇り",
+      "POS": "n.",
+      "English": "cloudy weather",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "げんきがない",
+      "Kanji": "元気がない",
+      "POS": "exp.",
+      "English": "don’t look well",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "しあい",
+      "Kanji": "試合",
+      "POS": "n.",
+      "English": "match; game",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "しんぱいする",
+      "Kanji": "心配する",
+      "POS": "irr-v.",
+      "English": "to worry",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "すてき（な）",
+      "Kanji": "素敵",
+      "POS": "な-adj.",
+      "English": "nice",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "せいせき",
+      "Kanji": "成績",
+      "POS": "n.",
+      "English": "grade (on a test, etc.)",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "せきがでる",
+      "Kanji": "せきが出る",
+      "POS": "ru-v.",
+      "English": "to cough",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "せまい",
+      "Kanji": "狭い",
+      "POS": "い-adj.",
+      "English": "narrow; not spacious",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "たぶん",
+      "Kanji": "多分",
+      "POS": "adv.",
+      "English": "probably; maybe",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "つごうがわるい",
+      "Kanji": "都合が悪い",
+      "POS": "い-adj.",
+      "English": "inconvenient; to have a scheduling conflict",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "～ど",
+      "Kanji": "～度",
+      "POS": "suf.",
+      "English": ". . . degrees (temperature)",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "にさんにち",
+      "Kanji": "二三日",
+      "POS": "n.",
+      "English": "for two to three days",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ねつがある",
+      "Kanji": "熱がある",
+      "POS": "u-v.",
+      "English": "to have a fever",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "のどがかわく",
+      "Kanji": "のどが渇く",
+      "POS": "u-v.",
+      "English": "to become thirsty",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "はじめて",
+      "Kanji": "初めて",
+      "POS": "adv.",
+      "English": "for the first time",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "はな",
+      "Kanji": "花",
+      "POS": "n.",
+      "English": "flower",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "はれ",
+      "Kanji": "晴れ",
+      "POS": "n.",
+      "English": "sunny weather",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ふく",
+      "Kanji": "服",
+      "POS": "n.",
+      "English": "clothes",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ふつかよい",
+      "Kanji": "二日酔い",
+      "POS": "n.",
+      "English": "hangover",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "もの",
+      "Kanji": "物",
+      "POS": "n.",
+      "English": "thing (concrete object)",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ようじ",
+      "Kanji": "用事",
+      "POS": "n.",
+      "English": "business to take care of",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "わかれる",
+      "Kanji": "別れる",
+      "POS": "ru-v.",
+      "English": "to break up; to separate",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "わるい",
+      "Kanji": "悪い",
+      "POS": "い-adj.",
+      "English": "bad",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "がんか",
+      "Kanji": "眼科",
+      "POS": "n.",
+      "English": "ophthalmologist",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "げか",
+      "Kanji": "外科",
+      "POS": "n.",
+      "English": "surgeon",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "こうせいぶっしつ",
+      "Kanji": "抗生物質",
+      "POS": "n.",
+      "English": "antibiotic",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "さんふじんか",
+      "Kanji": "産婦人科",
+      "POS": "n.",
+      "English": "obstetrician and gynecologist",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "しか",
+      "Kanji": "歯科",
+      "POS": "n.",
+      "English": "dentist",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "じびか",
+      "Kanji": "耳鼻科",
+      "POS": "n.",
+      "English": "otorhinolaryngologist; ENT doctor",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "しゅじゅつ",
+      "Kanji": "手術",
+      "POS": "n.",
+      "English": "operation",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "せいけいげか",
+      "Kanji": "整形外科",
+      "POS": "n.",
+      "English": "orthopedic surgeon",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "たいおんけい",
+      "Kanji": "体温計",
+      "POS": "n.",
+      "English": "thermometer",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ちゅうしゃ",
+      "Kanji": "注射",
+      "POS": "n.",
+      "English": "injection",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ないか",
+      "Kanji": "内科",
+      "POS": "n.",
+      "English": "physician",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ひふか",
+      "Kanji": "皮膚科",
+      "POS": "n.",
+      "English": "dermatologist",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "あまのがわ",
+      "Kanji": "天の川",
+      "POS": "n.",
+      "English": "the Milky Way",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "いちねんにいちど",
+      "Kanji": "一年に一度",
+      "POS": "adv.",
+      "English": "once a year",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "うし",
+      "Kanji": "牛",
+      "POS": "n.",
+      "English": "cow",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "つれてかえる",
+      "Kanji": "連れて帰る",
+      "POS": "u-v.",
+      "English": "to bring (a person) back",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "てん",
+      "Kanji": "天",
+      "POS": "n.",
+      "English": "the heavens; the sky",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ねがい",
+      "Kanji": "願い",
+      "POS": "n.",
+      "English": "wish",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "はたけ",
+      "Kanji": "畑",
+      "POS": "n.",
+      "English": "farm",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "はたをおる",
+      "Kanji": "はたを織る",
+      "POS": "u-v.",
+      "English": "to weave",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "ひとびと",
+      "Kanji": "人々",
+      "POS": "n.",
+      "English": "people",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "むこう",
+      "Kanji": "向こう",
+      "POS": "n.",
+      "English": "the other side; over there",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "むすめ",
+      "Kanji": "娘",
+      "POS": "n.",
+      "English": "daughter",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "おとな",
+      "Kanji": "大人",
+      "POS": "n.",
+      "English": "adult",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "なく",
+      "Kanji": "泣く",
+      "POS": "u-v.",
+      "English": "to cry",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "わたしたち",
+      "Kanji": "私たち",
+      "POS": "n.",
+      "English": "we",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "おこる",
+      "Kanji": "怒る",
+      "POS": "u-v.",
+      "English": "to get angry",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "みつける",
+      "Kanji": "見つける",
+      "POS": "ru-v.",
+      "English": "to find",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "かみさま",
+      "Kanji": "神様",
+      "POS": "n.",
+      "English": "God",
+      "Lesson": 12
+   },
+   {
+      "Vocab": "あむ",
+      "Kanji": "編む",
+      "POS": "u-v.",
+      "English": "to knit",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "いちにち",
+      "Kanji": "一日",
+      "POS": "n.",
+      "English": "one day",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "いつか",
+      "Kanji": "五日",
+      "POS": "n.",
+      "English": "five days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "おたく",
+      "Kanji": "お宅",
+      "POS": "n.",
+      "English": "(someone’s) house/home",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "～かい",
+      "Kanji": "～回",
+      "POS": "suf.",
+      "English": ". . . times",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "がいこくご",
+      "Kanji": "外国語",
+      "POS": "n.",
+      "English": "foreign language",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "かす",
+      "Kanji": "貸す",
+      "POS": "u-v.",
+      "English": "to lend; to rent",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "がっき",
+      "Kanji": "楽器",
+      "POS": "n.",
+      "English": "musical instrument",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "からい",
+      "Kanji": "辛い",
+      "POS": "い-adj.",
+      "English": "hot and spicy; salty",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "からて",
+      "Kanji": "空手",
+      "POS": "n.",
+      "English": "karate",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "かんどうする",
+      "Kanji": "感動する",
+      "POS": "irr-v.",
+      "English": "to be moved/touched (by . . .)",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "がんばる",
+      "Kanji": "頑張る",
+      "POS": "u-v.",
+      "English": "to do one’s best; to try hard",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "きびしい",
+      "Kanji": "厳しい",
+      "POS": "い-adj.",
+      "English": "strict",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "こうこく",
+      "Kanji": "広告",
+      "POS": "n.",
+      "English": "advertisement",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "こうちゃ",
+      "Kanji": "紅茶",
+      "POS": "n.",
+      "English": "tea (black tea)",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ここのか",
+      "Kanji": "九日",
+      "POS": "n.",
+      "English": "nine days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ことば",
+      "Kanji": "言葉",
+      "POS": "n.",
+      "English": "language",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "じつは",
+      "Kanji": "実は",
+      "POS": "adv.",
+      "English": "as a matter of fact, . . . ",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ぜんぶ",
+      "Kanji": "全部",
+      "POS": "adv.",
+      "English": "all",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ぞう",
+      "Kanji": "象",
+      "POS": "n.",
+      "English": "elephant",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ちかい",
+      "Kanji": "近い",
+      "POS": "い-adj.",
+      "English": "close; near",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "とおか",
+      "Kanji": "十日",
+      "POS": "n.",
+      "English": "ten days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "～ともうします",
+      "Kanji": "～と申します",
+      "POS": "exp.",
+      "English": "my name is . . . ",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "なのか",
+      "Kanji": "七日",
+      "POS": "n.",
+      "English": "seven days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ふつか",
+      "Kanji": "二日",
+      "POS": "n.",
+      "English": "two days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ぶっか",
+      "Kanji": "物価",
+      "POS": "n.",
+      "English": "(consumer) prices",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ぼしゅう",
+      "Kanji": "募集",
+      "POS": "n.",
+      "English": "recruitment",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "みがく",
+      "Kanji": "磨く",
+      "POS": "u-v.",
+      "English": "to brush (teeth); to polish",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "みっか",
+      "Kanji": "三日",
+      "POS": "n.",
+      "English": "three days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "むいか",
+      "Kanji": "六日",
+      "POS": "n.",
+      "English": "six days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "やくそく",
+      "Kanji": "約束",
+      "POS": "n.",
+      "English": "promise; appointment",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "やくそくをまもる",
+      "Kanji": "約束を守る",
+      "POS": "u-v.",
+      "English": "to keep a promise",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ようか",
+      "Kanji": "八日",
+      "POS": "n.",
+      "English": "eight days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "よっか",
+      "Kanji": "四日",
+      "POS": "n.",
+      "English": "four days",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "わたくし",
+      "Kanji": "私",
+      "POS": "n.",
+      "English": "I (formal)",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "あんしょうばんごう",
+      "Kanji": "暗証番号",
+      "POS": "n.",
+      "English": "personal identification number",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "おあずけいれ",
+      "Kanji": "お預け入れ",
+      "POS": "n.",
+      "English": "deposit",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "おひきだし",
+      "Kanji": "お引き出し",
+      "POS": "n.",
+      "English": "withdrawal",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "おふりこみ",
+      "Kanji": "お振込",
+      "POS": "n.",
+      "English": "bank transfer",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "きんがく",
+      "Kanji": "金額",
+      "POS": "n.",
+      "English": "amount",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "こうざ",
+      "Kanji": "口座",
+      "POS": "n.",
+      "English": "account",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ざんだかしょうかい",
+      "Kanji": "残高照会",
+      "POS": "n.",
+      "English": "balance inquiry",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "つうちょう",
+      "Kanji": "通帳",
+      "POS": "n.",
+      "English": "passbook",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "つうちょうきにゅう",
+      "Kanji": "通帳記入",
+      "POS": "n.",
+      "English": "passbook update",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "てすうりょう",
+      "Kanji": "手数料",
+      "POS": "n.",
+      "English": "commission ",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ひゃくえんだま",
+      "Kanji": "百円玉",
+      "POS": "n.",
+      "English": "100-yen coin",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "よきん",
+      "Kanji": "預金",
+      "POS": "n.",
+      "English": "savings",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "いっしょうにいちど",
+      "Kanji": "一生に一度",
+      "POS": "adv.",
+      "English": "once in a lifetime",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "からだにいい",
+      "Kanji": "体にいい",
+      "POS": "い-adj.",
+      "English": "good for health",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "とくに",
+      "Kanji": "特に",
+      "POS": "adv.",
+      "English": "especially",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "ふあんな",
+      "Kanji": "不安な",
+      "POS": "な-adj.",
+      "English": "uneasy; worried",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "けいけん",
+      "Kanji": "経験",
+      "POS": "n.",
+      "English": "experience",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "きぶんがわるい",
+      "Kanji": "気分が悪い",
+      "POS": "い-adj.",
+      "English": "to feel sick",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "からだ",
+      "Kanji": "体",
+      "POS": "n.",
+      "English": "body",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "こんでいる",
+      "Kanji": "込んでいる",
+      "POS": "exp.",
+      "English": "to be crowded",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "だいいちいんしょう",
+      "Kanji": "第一印象",
+      "POS": "n.",
+      "English": "the first impression",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "まんいんでんしゃ",
+      "Kanji": "満員電車",
+      "POS": "n.",
+      "English": "jampacked train",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "おなじ",
+      "Kanji": "同じ",
+      "POS": "adv.",
+      "English": "same",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "つく",
+      "Kanji": "着く",
+      "POS": "u-v.",
+      "English": "to arrive",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "こむ",
+      "Kanji": "込む",
+      "POS": "u-v.",
+      "English": "to get crowded",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "かんがえる",
+      "Kanji": "考える",
+      "POS": "ru-v.",
+      "English": "to think (about); to consider",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "くうこう",
+      "Kanji": "空港",
+      "POS": "n.",
+      "English": "airport",
+      "Lesson": 13
+   },
+   {
+      "Vocab": "あに",
+      "Kanji": "兄",
+      "POS": "n.",
+      "English": "(my) older brother",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "おおやさん",
+      "Kanji": "大家さん",
+      "POS": "n.",
+      "English": "landlord; landlady",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "おかえし",
+      "Kanji": "お返し",
+      "POS": "n.",
+      "English": "return (as a token gratitude)",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "おくさん",
+      "Kanji": "奥さん",
+      "POS": "n.",
+      "English": "(your/his) wife",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "おくる",
+      "Kanji": "送る",
+      "POS": "u-v.",
+      "English": "to send",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "～くん",
+      "Kanji": "～君",
+      "POS": "suf.",
+      "English": "Mr./Ms. . . . (casual)",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "ごしゅじん",
+      "Kanji": "ご主人",
+      "POS": "n.",
+      "English": "(your/her) husband",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "さら",
+      "Kanji": "皿",
+      "POS": "n.",
+      "English": "plate; dish",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "じかん",
+      "Kanji": "時間",
+      "POS": "n.",
+      "English": "time",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "そうだんする",
+      "Kanji": "相談する",
+      "POS": "irr-v.",
+      "English": "to consult",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "にあう",
+      "Kanji": "似合う",
+      "POS": "u-v.",
+      "English": "to look good (on somebody)",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "ふうふ",
+      "Kanji": "夫婦",
+      "POS": "n.",
+      "English": "married couple; husband and wife",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "ほしい",
+      "Kanji": "欲しい",
+      "POS": "い-adj.",
+      "English": "to want",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "まんが",
+      "Kanji": "漫画",
+      "POS": "n.",
+      "English": "comic book",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "ゆびわ",
+      "Kanji": "指輪",
+      "POS": "n.",
+      "English": "ring",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "りょうしん",
+      "Kanji": "両親",
+      "POS": "n.",
+      "English": "parents",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "りれきしょ",
+      "Kanji": "履歴書",
+      "POS": "n.",
+      "English": "resume",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "～こ",
+      "Kanji": "～個",
+      "POS": "suf.",
+      "English": "[counter for smaller items]",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "～さつ",
+      "Kanji": "～冊",
+      "POS": "suf.",
+      "English": "[counter for bound volumes]",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "～だい",
+      "Kanji": "～台",
+      "POS": "suf.",
+      "English": "[counter for equipment]",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "～ひき",
+      "Kanji": "～匹",
+      "POS": "suf.",
+      "English": "[counter for smaller aminals]",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "～ほん",
+      "Kanji": "～本",
+      "POS": "suf.",
+      "English": "[counter for long objects]",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "あいす",
+      "Kanji": "愛す",
+      "POS": "u-v.",
+      "English": "to love",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "きゅうに",
+      "Kanji": "急に",
+      "POS": "adv.",
+      "English": "suddenly",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "じだい",
+      "Kanji": "時代",
+      "POS": "n.",
+      "English": "age; era",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "ちちおや",
+      "Kanji": "父親",
+      "POS": "n.",
+      "English": "father",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "としうえ",
+      "Kanji": "年上",
+      "POS": "n.",
+      "English": "being older",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "～ねんかん",
+      "Kanji": "～年間",
+      "POS": "suf.",
+      "English": "for . . . years",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "ばあい",
+      "Kanji": "場合",
+      "POS": "n.",
+      "English": "case",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "つきあう",
+      "Kanji": "付き合う",
+      "POS": "u-v.",
+      "English": "to date (someone); to keep company",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "ほんとうに",
+      "Kanji": "本当に",
+      "POS": "adv.",
+      "English": "really",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "しゅっちょう",
+      "Kanji": "出張",
+      "POS": "n.",
+      "English": "business trip",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "なやみ",
+      "Kanji": "悩み",
+      "POS": "n.",
+      "English": "worry",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "せんぱい",
+      "Kanji": "先輩",
+      "POS": "n.",
+      "English": "senior member of a group",
+      "Lesson": 14
+   },
+   {
+      "Vocab": "いちにちじゅう",
+      "Kanji": "一日中",
+      "POS": "adv.",
+      "English": "all day long",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "え",
+      "Kanji": "絵",
+      "POS": "n.",
+      "English": "painting; picture; drawing",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "えいがかん",
+      "Kanji": "映画館",
+      "POS": "n.",
+      "English": "movie theater",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "おろす",
+      "Kanji": "下ろす",
+      "POS": "u-v.",
+      "English": "to withdraw (money)",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "がいこくじん",
+      "Kanji": "外国人",
+      "POS": "n.",
+      "English": "foreigner",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "かく",
+      "Kanji": "描く",
+      "POS": "u-v.",
+      "English": "to draw; to paint",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "かぐ",
+      "Kanji": "家具",
+      "POS": "n.",
+      "English": "furniture",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "かんこうする",
+      "Kanji": "観光する",
+      "POS": "irr-v.",
+      "English": "to do sightseeing",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "きをつける",
+      "Kanji": "気をつける",
+      "POS": "ru-v.",
+      "English": "to be cautious/careful",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "けっこんしき",
+      "Kanji": "結婚式",
+      "POS": "n.",
+      "English": "wedding",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "さいきん",
+      "Kanji": "最近",
+      "POS": "adv.",
+      "English": "recently",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "さがす",
+      "Kanji": "探す",
+      "POS": "u-v.",
+      "English": "to look for",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "さそう",
+      "Kanji": "誘う",
+      "POS": "u-v.",
+      "English": "to invite",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "じしん",
+      "Kanji": "地震",
+      "POS": "n.",
+      "English": "earthquake",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "しゅうかん",
+      "Kanji": "習慣",
+      "POS": "n.",
+      "English": "custom",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "しらべる",
+      "Kanji": "調べる",
+      "POS": "ru-v.",
+      "English": "to look into (a matter)",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ぜいきん",
+      "Kanji": "税金",
+      "POS": "n.",
+      "English": "tax",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "そつぎょうしき",
+      "Kanji": "卒業式",
+      "POS": "n.",
+      "English": "graduation ceremony",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "そつぎょうする",
+      "Kanji": "卒業する",
+      "POS": "irr-v.",
+      "English": "to graduate (from . . .)",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ちず",
+      "Kanji": "地図",
+      "POS": "n.",
+      "English": "map",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "でんち",
+      "Kanji": "電池",
+      "POS": "n.",
+      "English": "battery",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "にわ",
+      "Kanji": "庭",
+      "POS": "n.",
+      "English": "garden",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "はっぴょう",
+      "Kanji": "発表",
+      "POS": "n.",
+      "English": "presentation",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ばんぐみ",
+      "Kanji": "番組",
+      "POS": "n.",
+      "English": "broadcast program",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ひろい",
+      "Kanji": "広い",
+      "POS": "い-adj.",
+      "English": "spacious; wide",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ほけんにはいる",
+      "Kanji": "保険に入る",
+      "POS": "u-v.",
+      "English": "to buy insurance",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "みえる",
+      "Kanji": "見える",
+      "POS": "ru-v.",
+      "English": "to be visible",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "～め",
+      "Kanji": "～目",
+      "POS": "suf.",
+      "English": "-th",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "もういちど",
+      "Kanji": "もう一度",
+      "POS": "adv.",
+      "English": "one more time",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "よてい",
+      "Kanji": "予定",
+      "POS": "n.",
+      "English": "schedule; plan",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "よやくする",
+      "Kanji": "予約する",
+      "POS": "irr-v.",
+      "English": "to reserve",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "りょかん",
+      "Kanji": "旅館",
+      "POS": "n.",
+      "English": "Japanese inn",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "わりびきけん",
+      "Kanji": "割引券",
+      "POS": "n.",
+      "English": "discount coupon",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "いっぱくにしょくつき",
+      "Kanji": "一泊二食付",
+      "POS": "exp.",
+      "English": "one night with two meals",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "きつえんルーム",
+      "Kanji": "喫煙ルーム",
+      "POS": "n.",
+      "English": "smoking room",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "きんえんルーム",
+      "Kanji": "禁煙ルーム",
+      "POS": "n.",
+      "English": "nonsmoking room",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "しょくじつき",
+      "Kanji": "食事付",
+      "POS": "n.",
+      "English": "with meals",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "～つき",
+      "Kanji": "～付",
+      "POS": "suf.",
+      "English": "with . . .",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "～はく",
+      "Kanji": "～泊",
+      "POS": "suf.",
+      "English": ". . . nights",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "～めい",
+      "Kanji": "～名",
+      "POS": "suf.",
+      "English": ". . . person(s)",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "いちねんじゅう",
+      "Kanji": "一年中",
+      "POS": "adv.",
+      "English": "all year",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "おとされる",
+      "Kanji": "落とされる",
+      "POS": "exp.",
+      "English": "to be dropped",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "けしき",
+      "Kanji": "景色",
+      "POS": "n.",
+      "English": "scenery",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "げんばく",
+      "Kanji": "原爆",
+      "POS": "n.",
+      "English": "atomic bomb",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "こうよう",
+      "Kanji": "紅葉",
+      "POS": "n.",
+      "English": "red leaves; autumn tints",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "しか",
+      "Kanji": "鹿",
+      "POS": "n.",
+      "English": "deer",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "しぜん",
+      "Kanji": "自然",
+      "POS": "n.",
+      "English": "nature",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "しま",
+      "Kanji": "島",
+      "POS": "n.",
+      "English": "island",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "せんそう",
+      "Kanji": "戦争",
+      "POS": "n.",
+      "English": "war",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "たけ",
+      "Kanji": "竹",
+      "POS": "n.",
+      "English": "bamboo",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "たてもの",
+      "Kanji": "建物",
+      "POS": "n.",
+      "English": "building",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "たのしむ",
+      "Kanji": "楽しむ",
+      "POS": "u-v.",
+      "English": "to enjoy",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ちか",
+      "Kanji": "地下",
+      "POS": "n.",
+      "English": "underground",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "とおる",
+      "Kanji": "通る",
+      "POS": "u-v.",
+      "English": "to pass; to go through",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "トロッコれっしゃ",
+      "Kanji": "トロッコ列車",
+      "POS": "n.",
+      "English": "small train usually for tourists",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "のこす",
+      "Kanji": "残す",
+      "POS": "u-v.",
+      "English": "to leave; to preserve",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ひろば",
+      "Kanji": "広場",
+      "POS": "n.",
+      "English": "square; open space",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "へいわ",
+      "Kanji": "平和",
+      "POS": "n.",
+      "English": "peace",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "へいわきねんしりょうかん",
+      "Kanji": "平和記念資料館",
+      "POS": "n.",
+      "English": "Peace Memorial Museum",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "うまれる",
+      "Kanji": "生まれる",
+      "POS": "ru-v.",
+      "English": "to be born",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "ちゅういする",
+      "Kanji": "注意する",
+      "POS": "irr-v.",
+      "English": "to watch out; to give warning",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "むかし",
+      "Kanji": "昔",
+      "POS": "n.",
+      "English": "old days; past",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "はしる",
+      "Kanji": "走る",
+      "POS": "u-v.",
+      "English": "to run",
+      "Lesson": 15
+   },
+   {
+      "Vocab": "あさねぼうする",
+      "Kanji": "朝寝坊する",
+      "POS": "irr-v.",
+      "English": "to oversleep",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "あつめる",
+      "Kanji": "集める",
+      "POS": "ru-v.",
+      "English": "to collect",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "いれる",
+      "Kanji": "入れる",
+      "POS": "ru-v.",
+      "English": "to put (something) in",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "えきいん（さん）",
+      "Kanji": "駅員（さん）",
+      "POS": "n.",
+      "English": "station attendant",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "おおきさ",
+      "Kanji": "大きさ",
+      "POS": "n.",
+      "English": "size",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "おこす",
+      "Kanji": "起こす",
+      "POS": "u-v.",
+      "English": "to wake (someone) up",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "おちこむ",
+      "Kanji": "落ち込む",
+      "POS": "u-v.",
+      "English": "to get depressed",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "おや",
+      "Kanji": "親",
+      "POS": "n.",
+      "English": "parent",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "きたない",
+      "Kanji": "汚い",
+      "POS": "い-adj.",
+      "English": "dirty",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "きまつしけん",
+      "Kanji": "期末試験",
+      "POS": "n.",
+      "English": "final examination",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "きょうじゅうに",
+      "Kanji": "今日中に",
+      "POS": "adv.",
+      "English": "by the end of today",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "けんきゅう",
+      "Kanji": "研究",
+      "POS": "n.",
+      "English": "research",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "このあいだ",
+      "Kanji": "この間",
+      "POS": "adv.",
+      "English": "the other day",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "こまる",
+      "Kanji": "困る",
+      "POS": "u-v.",
+      "English": "to have difficulty",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "さとう",
+      "Kanji": "砂糖",
+      "POS": "n.",
+      "English": "sugar",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "しつれいします",
+      "Kanji": "失礼します",
+      "POS": "exp.",
+      "English": "Excuse me.; Sorry to interrupt you.",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "じぶんで",
+      "Kanji": "自分で",
+      "POS": "adv.",
+      "English": "(do something) by oneself",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "じゅぎょうちゅうに",
+      "Kanji": "授業中に",
+      "POS": "adv.",
+      "English": "in class; during the class",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "しょうがくきん",
+      "Kanji": "奨学金",
+      "POS": "n.",
+      "English": "scholarship",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "しんせき",
+      "Kanji": "親せき",
+      "POS": "n.",
+      "English": "relatives",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "すいせんじょう",
+      "Kanji": "推薦状",
+      "POS": "n.",
+      "English": "letter of recommendation",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "せつめいする",
+      "Kanji": "説明する",
+      "POS": "irr-v.",
+      "English": "to explain",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "だいがくいん",
+      "Kanji": "大学院",
+      "POS": "n.",
+      "English": "graduate school",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "たいふう",
+      "Kanji": "台風",
+      "POS": "n.",
+      "English": "typhoon",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "だす",
+      "Kanji": "出す",
+      "POS": "u-v.",
+      "English": "to take (something) out; to hand in (something)",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "つれていく",
+      "Kanji": "連れていく",
+      "POS": "u-v.",
+      "English": "to take (someone) to (a place)",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "なおす",
+      "Kanji": "直す",
+      "POS": "u-v.",
+      "English": "to correct; to fix",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "のりおくれる",
+      "Kanji": "乗り遅れる",
+      "POS": "ru-v.",
+      "English": "to miss (a train, bus, etc.)",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "ひ",
+      "Kanji": "日",
+      "POS": "n.",
+      "English": "day",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "みせる",
+      "Kanji": "見せる",
+      "POS": "ru-v.",
+      "English": "to show",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "みち",
+      "Kanji": "道",
+      "POS": "n.",
+      "English": "way; road; directions",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "みちにまよう",
+      "Kanji": "道に迷う",
+      "POS": "u-v.",
+      "English": "to become lost; to lose one’s way",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "みつかる",
+      "Kanji": "見つかる",
+      "POS": "u-v.",
+      "English": "to be found",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "むかえにいく",
+      "Kanji": "迎えに行く",
+      "POS": "u-v.",
+      "English": "to go to pick up",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "むかえにくる",
+      "Kanji": "迎えに来る",
+      "POS": "irr-v.",
+      "English": "to come to pick up",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "めざましどけい",
+      "Kanji": "目覚まし時計",
+      "POS": "n.",
+      "English": "alarm clock",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "やくす",
+      "Kanji": "訳す",
+      "POS": "u-v.",
+      "English": "to translate",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "わらう",
+      "Kanji": "笑う",
+      "POS": "u-v.",
+      "English": "to laugh",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "～いがい",
+      "Kanji": "～以外",
+      "POS": "suf.",
+      "English": "other than . . .",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "うつす",
+      "Kanji": "写す",
+      "POS": "u-v.",
+      "English": "to copy",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "きょうしつ",
+      "Kanji": "教室",
+      "POS": "n.",
+      "English": "classroom",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "しょうがくせい",
+      "Kanji": "小学生",
+      "POS": "n.",
+      "English": "elementary school students",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "そら",
+      "Kanji": "空",
+      "POS": "n.",
+      "English": "sky ",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "つづく",
+      "Kanji": "続く",
+      "POS": "u-v.",
+      "English": "to continue",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "どうぐ",
+      "Kanji": "道具",
+      "POS": "n.",
+      "English": "tool",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "とぶ",
+      "Kanji": "飛ぶ",
+      "POS": "u-v.",
+      "English": "to fly",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "みかた",
+      "Kanji": "味方",
+      "POS": "n.",
+      "English": "person on one’s side",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "みらい",
+      "Kanji": "未来",
+      "POS": "n.",
+      "English": "future",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "よわい",
+      "Kanji": "弱い",
+      "POS": "い-adj.",
+      "English": "weak",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "ひみつ",
+      "Kanji": "秘密",
+      "POS": "n.",
+      "English": "secret",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "もどる",
+      "Kanji": "戻る",
+      "POS": "u-v.",
+      "English": "to return; to come/go back",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "たすける",
+      "Kanji": "助ける",
+      "POS": "ru-v.",
+      "English": "to help; to rescue",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "ちがう",
+      "Kanji": "違う",
+      "POS": "u-v.",
+      "English": "to be different; wrong",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "ばしょ",
+      "Kanji": "場所",
+      "POS": "n.",
+      "English": "place",
+      "Lesson": 16
+   },
+   {
+      "Vocab": "あぶない",
+      "Kanji": "危ない",
+      "POS": "い-adj.",
+      "English": "dangerous",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "えらぶ",
+      "Kanji": "選ぶ",
+      "POS": "u-v.",
+      "English": "to choose; to select",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "おいのりする",
+      "Kanji": "お祈りする",
+      "POS": "irr-v.",
+      "English": "to pray",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "おきゃくさん",
+      "Kanji": "お客さん",
+      "POS": "n.",
+      "English": "guest; visitor; client; customer",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "おゆ",
+      "Kanji": "お湯",
+      "POS": "n.",
+      "English": "hot water",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "おゆをわかす",
+      "Kanji": "お湯を沸かす",
+      "POS": "u-v.",
+      "English": "to boil water",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かじ",
+      "Kanji": "火事",
+      "POS": "n.",
+      "English": "fire",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かみ",
+      "Kanji": "紙",
+      "POS": "n.",
+      "English": "paper",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かみをとかす",
+      "Kanji": "髪をとかす",
+      "POS": "u-v.",
+      "English": "to comb one’s hair",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "きゅうりょう",
+      "Kanji": "給料",
+      "POS": "n.",
+      "English": "salary",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "けしょうする",
+      "Kanji": "化粧する",
+      "POS": "irr-v.",
+      "English": "to put makeup on",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "さいてい",
+      "Kanji": "最低",
+      "POS": "n.",
+      "English": "the lowest; the worst",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "しゅうしょくする",
+      "Kanji": "就職する",
+      "POS": "irr-v.",
+      "English": "to get a full-time job (at . . .)",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "しゅしょう",
+      "Kanji": "首相",
+      "POS": "n.",
+      "English": "prime minister",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "すくない",
+      "Kanji": "少ない",
+      "POS": "い-adj.",
+      "English": "a little; a few",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "たからくじ",
+      "Kanji": "宝くじ",
+      "POS": "n.",
+      "English": "lottery",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "たからくじにあたる",
+      "Kanji": "宝くじに当たる",
+      "POS": "u-v.",
+      "English": "to win a lottery",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "たりる",
+      "Kanji": "足りる",
+      "POS": "ru-v.",
+      "English": "to be sufficient; to be enough",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "ちがい",
+      "Kanji": "違い",
+      "POS": "n.",
+      "English": "difference",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "つよい",
+      "Kanji": "強い",
+      "POS": "い-adj.",
+      "English": "strong",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "どうぶつえん",
+      "Kanji": "動物園",
+      "POS": "n.",
+      "English": "zoo",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "なれる",
+      "Kanji": "慣れる",
+      "POS": "ru-v.",
+      "English": "to get used to . . .",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "～にくらべて",
+      "Kanji": "～に比べて",
+      "POS": "part.",
+      "English": "compared with . . .",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "ぬぐ",
+      "Kanji": "脱ぐ",
+      "POS": "u-v.",
+      "English": "to take off (clothes)",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "まえ",
+      "Kanji": "前",
+      "POS": "suf.",
+      "English": "before . . .",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "りこんする",
+      "Kanji": "離婚する",
+      "POS": "irr-v.",
+      "English": "to get a divorce",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "りょこうがいしゃ",
+      "Kanji": "旅行会社",
+      "POS": "n.",
+      "English": "travel agency",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かみがた",
+      "Kanji": "髪形",
+      "POS": "n.",
+      "English": "hair style",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かる",
+      "Kanji": "刈る",
+      "POS": "u-v.",
+      "English": "to crop",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "えいきょうをうける",
+      "Kanji": "影響を受ける",
+      "POS": "ru-v.",
+      "English": "to be affected",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "おもに",
+      "Kanji": "主に",
+      "POS": "adv.",
+      "English": "mainly",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かぞえる",
+      "Kanji": "数える",
+      "POS": "ru-v.",
+      "English": "to count",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かつどう",
+      "Kanji": "活動",
+      "POS": "n.",
+      "English": "activities",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "かんせいする",
+      "Kanji": "完成する",
+      "POS": "irr-v.",
+      "English": "to be completed",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "くも",
+      "Kanji": "雲",
+      "POS": "n.",
+      "English": "cloud",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "げいじゅつ",
+      "Kanji": "芸術",
+      "POS": "n.",
+      "English": "art",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "さくひん",
+      "Kanji": "作品",
+      "POS": "n.",
+      "English": "artistic piece",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "し",
+      "Kanji": "詩",
+      "POS": "n.",
+      "English": "poem",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "じゅうでうたれる",
+      "Kanji": "銃で撃たれる",
+      "POS": "exp.",
+      "English": "to be shot",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "しゅふ",
+      "Kanji": "主夫",
+      "POS": "n.",
+      "English": "“house husband”",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "せんきゅうひゃくろくじゅうねんだい",
+      "Kanji": "1960 年代",
+      "POS": "n.",
+      "English": "1960’s",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "そのご",
+      "Kanji": "その後",
+      "POS": "exp.",
+      "English": "after that",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "だいヒット",
+      "Kanji": "大ヒット",
+      "POS": "n.",
+      "English": "big hit",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "てんじょう",
+      "Kanji": "天井",
+      "POS": "n.",
+      "English": "ceiling",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "てんらんかい",
+      "Kanji": "展覧会",
+      "POS": "n.",
+      "English": "art exhibition",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "なまえをつける",
+      "Kanji": "名前をつける",
+      "POS": "ru-v.",
+      "English": "to name",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "はいく",
+      "Kanji": "俳句",
+      "POS": "n.",
+      "English": "haiku (Japanese poetry)",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "はっぴょうする",
+      "Kanji": "発表する",
+      "POS": "irr-v.",
+      "English": "to make public; to publish",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "ぶんや",
+      "Kanji": "分野",
+      "POS": "n.",
+      "English": "field; realm",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "むしめがね",
+      "Kanji": "虫めがね",
+      "POS": "n.",
+      "English": "magnifying glass",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "もじ",
+      "Kanji": "文字",
+      "POS": "n.",
+      "English": "letter; character",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "なんども",
+      "Kanji": "何度も",
+      "POS": "adv.",
+      "English": "many times",
+      "Lesson": 17
+   },
+   {
+      "Vocab": "あかるい",
+      "Kanji": "明るい",
+      "POS": "い-adj.",
+      "English": "bright",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "あく",
+      "Kanji": "開く",
+      "POS": "u-v.",
+      "English": "(something) opens",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "あと",
+      "Kanji": "後",
+      "POS": "n.",
+      "English": "the rest",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "あやまる",
+      "Kanji": "謝る",
+      "POS": "u-v.",
+      "English": "to apologize",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "いますぐ",
+      "Kanji": "今すぐ",
+      "POS": "adv.",
+      "English": "right away",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "おさきにしつれいします",
+      "Kanji": "お先に失礼します",
+      "POS": "exp.",
+      "English": "See you. (lit., I’m leaving ahead of you.)",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "おす",
+      "Kanji": "押す",
+      "POS": "u-v.",
+      "English": "to press; to push",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "おちる",
+      "Kanji": "落ちる",
+      "POS": "ru-v.",
+      "English": "(something) drops",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "おつかれさま（でした）",
+      "Kanji": "お疲れ様（でした）",
+      "POS": "exp.",
+      "English": "You must be tired after working so hard. (ritualistic expression)",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "おとす",
+      "Kanji": "落とす",
+      "POS": "u-v.",
+      "English": "to drop (something)",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "おゆがわく",
+      "Kanji": "お湯が沸く",
+      "POS": "u-v.",
+      "English": "water boils",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "かたづける",
+      "Kanji": "片付ける",
+      "POS": "ru-v.",
+      "English": "to tidy up",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "きえる",
+      "Kanji": "消える",
+      "POS": "ru-v.",
+      "English": "(something) goes off",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "くらい",
+      "Kanji": "暗い",
+      "POS": "い-adj.",
+      "English": "dark",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "ころぶ",
+      "Kanji": "転ぶ",
+      "POS": "u-v.",
+      "English": "to fall down",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "こわす",
+      "Kanji": "壊す",
+      "POS": "u-v.",
+      "English": "to break (something)",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "こわれる",
+      "Kanji": "壊れる",
+      "POS": "ru-v.",
+      "English": "(something) breaks",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "さく",
+      "Kanji": "咲く",
+      "POS": "u-v.",
+      "English": "to bloom",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "しまる",
+      "Kanji": "閉まる",
+      "POS": "u-v.",
+      "English": "(something) closes",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "しょうゆ",
+      "Kanji": "しょう油",
+      "POS": "n.",
+      "English": "soy sauce",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "そと",
+      "Kanji": "外",
+      "POS": "n.",
+      "English": "outside",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "たすかる",
+      "Kanji": "助かる",
+      "POS": "u-v.",
+      "English": "to be saved; to be helped",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "たのむ",
+      "Kanji": "頼む",
+      "POS": "u-v.",
+      "English": "to ask (a favor)",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "ちゅうもんする",
+      "Kanji": "注文する",
+      "POS": "irr-v.",
+      "English": "to place an order",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "はずかしい",
+      "Kanji": "恥ずかしい",
+      "POS": "い-adj.",
+      "English": "embarrassing; to feel embarrassed",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "むし",
+      "Kanji": "虫",
+      "POS": "n.",
+      "English": "insect",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "やちん",
+      "Kanji": "家賃",
+      "POS": "n.",
+      "English": "rent",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "ゆうがた",
+      "Kanji": "夕方",
+      "POS": "n.",
+      "English": "evening",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "よごす",
+      "Kanji": "汚す",
+      "POS": "u-v.",
+      "English": "to make dirty",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "よごれる",
+      "Kanji": "汚れる",
+      "POS": "ru-v.",
+      "English": "to become dirty",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "るすばんでんわ",
+      "Kanji": "留守番電話",
+      "POS": "n.",
+      "English": "answering machine",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "れいぞうこ",
+      "Kanji": "冷蔵庫",
+      "POS": "n.",
+      "English": "refrigerator",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "～いじょう",
+      "Kanji": "～以上",
+      "POS": "suf.",
+      "English": ". . . or more",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "じきゅう",
+      "Kanji": "時給",
+      "POS": "n.",
+      "English": "an hourly wage",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "じょしがくせい",
+      "Kanji": "女子学生",
+      "POS": "n.",
+      "English": "female student",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "せいかつのゆとり",
+      "Kanji": "生活のゆとり",
+      "POS": "n.",
+      "English": "extra money to spare for the cost of living",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "せいかつひ",
+      "Kanji": "生活費",
+      "POS": "n.",
+      "English": "the cost of living",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "だんしがくせい",
+      "Kanji": "男子学生",
+      "POS": "n.",
+      "English": "male student",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "ちょきん",
+      "Kanji": "貯金",
+      "POS": "n.",
+      "English": "savings",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "もくてき",
+      "Kanji": "目的",
+      "POS": "n.",
+      "English": "object; purpose",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "ようふく",
+      "Kanji": "洋服",
+      "POS": "n.",
+      "English": "clothes",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "かていきょうし",
+      "Kanji": "家庭教師",
+      "POS": "n.",
+      "English": "tutor",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "したしい",
+      "Kanji": "親しい",
+      "POS": "い-adj.",
+      "English": "close; intimate",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "しょくひ",
+      "Kanji": "食費",
+      "POS": "n.",
+      "English": "food cost",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "～だい",
+      "Kanji": "～代",
+      "POS": "suf.",
+      "English": "charge; fee",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "ちからしごと",
+      "Kanji": "力仕事",
+      "POS": "n.",
+      "English": "physical labor such as construction",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "でんきだい",
+      "Kanji": "電気代",
+      "POS": "n.",
+      "English": "charge for electricity",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "はじめは",
+      "Kanji": "初めは",
+      "POS": "adv.",
+      "English": "at first",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "ひっこし",
+      "Kanji": "引っ越し",
+      "POS": "n.",
+      "English": "moving",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "まいつき",
+      "Kanji": "毎月",
+      "POS": "n.",
+      "English": "every month",
+      "Lesson": 18
+   },
+   {
+      "Vocab": "えんりょする",
+      "Kanji": "遠慮する",
+      "POS": "irr-v.",
+      "English": "to hold back for the time being; to refrain from",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おくさま",
+      "Kanji": "奥様",
+      "POS": "n.",
+      "English": "(your/his) wife (polite)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おくる",
+      "Kanji": "送る",
+      "POS": "u-v.",
+      "English": "to walk/drive (someone)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おくれる",
+      "Kanji": "遅れる",
+      "POS": "ru-v.",
+      "English": "to become late",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おこさん",
+      "Kanji": "お子さん",
+      "POS": "n.",
+      "English": "(your/their) child (polite)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おやすみになる",
+      "Kanji": "お休みになる",
+      "POS": "u-v.",
+      "English": "honorific expression for ねる",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おれい",
+      "Kanji": "お礼",
+      "POS": "n.",
+      "English": "expression of gratitude",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "きまる",
+      "Kanji": "決まる",
+      "POS": "u-v.",
+      "English": "to be decided",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "くださる",
+      "Kanji": "下さる",
+      "POS": "u-v.",
+      "English": "honorific expression for くれる",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "けいご",
+      "Kanji": "敬語",
+      "POS": "n.",
+      "English": "honorific language",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "ごらんになる",
+      "Kanji": "ご覧になる",
+      "POS": "u-v.",
+      "English": "honorific expression for みる",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "しゅるい",
+      "Kanji": "種類",
+      "POS": "n.",
+      "English": "a kind; a sort",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "しょうたいする",
+      "Kanji": "招待する",
+      "POS": "irr-v.",
+      "English": "to invite someone (to an event/a place)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "しりあう",
+      "Kanji": "知り合う",
+      "POS": "u-v.",
+      "English": "to get acquainted with",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "せいかく",
+      "Kanji": "性格",
+      "POS": "n.",
+      "English": "personality",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "ちゅうがくせい",
+      "Kanji": "中学生",
+      "POS": "n.",
+      "English": "junior high school student",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "なかがいい",
+      "Kanji": "仲がいい",
+      "POS": "い-adj.",
+      "English": "be on good/close terms; to get along well",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "なまけもの",
+      "Kanji": "怠け者",
+      "POS": "n.",
+      "English": "lazy person",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "はずかしがりや",
+      "Kanji": "恥ずかしがり屋",
+      "POS": "n.",
+      "English": "shy person",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "はなし",
+      "Kanji": "話",
+      "POS": "n.",
+      "English": "chat; talk",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "はれる",
+      "Kanji": "晴れる",
+      "POS": "ru-v.",
+      "English": "to become sunny",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "ひっこす",
+      "Kanji": "引っ越す",
+      "POS": "u-v.",
+      "English": "to move (to another place to live)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "ぶちょう",
+      "Kanji": "部長",
+      "POS": "n.",
+      "English": "department manager",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "ほんとうは",
+      "Kanji": "本当は",
+      "POS": "adv.",
+      "English": "in fact; originally",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "まいあさ",
+      "Kanji": "毎朝",
+      "POS": "adv.",
+      "English": "every morning",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "まちがい",
+      "Kanji": "間違い",
+      "POS": "n.",
+      "English": "mistake",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "～めいさま",
+      "Kanji": "～名様",
+      "POS": "suf.",
+      "English": "party of . . . people",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "めしあがる",
+      "Kanji": "召し上がる",
+      "POS": "u-v.",
+      "English": "honorific expression for たべる and のむ",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "もてる",
+      "Kanji": "もてる",
+      "POS": "ru-v.",
+      "English": "to be popular (in terms of romantic interest)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "よぶ",
+      "Kanji": "呼ぶ",
+      "POS": "u-v.",
+      "English": "to call (one’s name); to invite",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "よる",
+      "Kanji": "寄る",
+      "POS": "u-v.",
+      "English": "to stop by",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "よろしくおつたえください",
+      "Kanji": "よろしくお伝えください",
+      "POS": "exp.",
+      "English": "Please give my best regards (to . . .)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おもいだす",
+      "Kanji": "思い出す",
+      "POS": "u-v.",
+      "English": "to recall",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "たいせつにする",
+      "Kanji": "大切にする",
+      "POS": "irr-v.",
+      "English": "to take good care of",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "～ちゅう",
+      "Kanji": "～中",
+      "POS": "suf.",
+      "English": "while . . . ",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "みなさま",
+      "Kanji": "みな様",
+      "POS": "n.",
+      "English": "everyone (polite expression of みなさん)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "おせわになる",
+      "Kanji": "お世話になる",
+      "POS": "u-v.",
+      "English": "to be in someone’s care",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "こくさい",
+      "Kanji": "国際",
+      "POS": "n.",
+      "English": "international",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "でんきこうがく",
+      "Kanji": "電気工学",
+      "POS": "n.",
+      "English": "electric engineering",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "どうぞよろしくおねがいします",
+      "Kanji": "どうぞよろしくお願いします",
+      "POS": "exp.",
+      "English": "Thank you in advance.",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "とつぜん",
+      "Kanji": "突然",
+      "POS": "adv.",
+      "English": "suddenly",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "～のしょうかいで",
+      "Kanji": "～の紹介で",
+      "POS": "exp.",
+      "English": "through the introduction of",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "もうしこみ",
+      "Kanji": "申し込み",
+      "POS": "n.",
+      "English": "application",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "ゆうじん",
+      "Kanji": "友人",
+      "POS": "n.",
+      "English": "friend",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "もうしわけありません",
+      "Kanji": "申し訳ありません",
+      "POS": "exp.",
+      "English": "You have my apologies.",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "うける",
+      "Kanji": "受ける",
+      "POS": "ru-v.",
+      "English": "to take (an examination, interview, etc.)",
+      "Lesson": 19
+   },
+   {
+      "Vocab": "いたす",
+      "Kanji": "致す",
+      "POS": "u-v.",
+      "English": "extra-modest expression for する",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "いただく",
+      "Kanji": "頂く",
+      "POS": "u-v.",
+      "English": "extra-modest expression for たべる and のむ",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "いただく",
+      "Kanji": "頂く",
+      "POS": "u-v.",
+      "English": "humble expression for もらう",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "うかがう",
+      "Kanji": "伺う",
+      "POS": "u-v.",
+      "English": "to humbly visit; to humbly ask",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "うちゅうじん",
+      "Kanji": "宇宙人",
+      "POS": "n.",
+      "English": "space alien",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "おと",
+      "Kanji": "音",
+      "POS": "n.",
+      "English": "sound",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "おにぎり",
+      "Kanji": "おにぎり",
+      "POS": "n.",
+      "English": "rice ball",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "おもい",
+      "Kanji": "重い",
+      "POS": "い-adj.",
+      "English": "heavy; serious (illness)",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "～かい",
+      "Kanji": "～階",
+      "POS": "suf.",
+      "English": ". . . th floor",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "かかりのもの",
+      "Kanji": "係の者",
+      "POS": "n.",
+      "English": "our person in charge",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "かるい",
+      "Kanji": "軽い",
+      "POS": "い-adj.",
+      "English": "light",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "きこえる",
+      "Kanji": "聞こえる",
+      "POS": "ru-v.",
+      "English": "to be audible",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "こうかんする",
+      "Kanji": "交換する",
+      "POS": "irr-v.",
+      "English": "to exchange",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "さしあげる",
+      "Kanji": "差し上げる",
+      "POS": "ru-v.",
+      "English": "humble expression for あげる",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "じ",
+      "Kanji": "字",
+      "POS": "n.",
+      "English": "letter; character",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "しつれいしました",
+      "Kanji": "失礼しました",
+      "POS": "exp.",
+      "English": "I’m very sorry.",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "してん",
+      "Kanji": "支店",
+      "POS": "n.",
+      "English": "branch office",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "しょうしょう",
+      "Kanji": "少々",
+      "POS": "adv.",
+      "English": "a few seconds",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "しょうせつ",
+      "Kanji": "小説",
+      "POS": "n.",
+      "English": "novel",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "せいかつする",
+      "Kanji": "生活する",
+      "POS": "irr-v.",
+      "English": "to lead a life",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "せんす",
+      "Kanji": "扇子",
+      "POS": "n.",
+      "English": "fan",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "つき",
+      "Kanji": "月",
+      "POS": "n.",
+      "English": "moon",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "つたえる",
+      "Kanji": "伝える",
+      "POS": "ru-v.",
+      "English": "to convey (message)",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "でんしじしょ",
+      "Kanji": "電子辞書",
+      "POS": "n.",
+      "English": "electronic dictionary",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "へんぴんする",
+      "Kanji": "返品する",
+      "POS": "irr-v.",
+      "English": "to return (merchandise)",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "まいる",
+      "Kanji": "参る",
+      "POS": "u-v.",
+      "English": "extra-modest expression for いく and くる",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "まことに",
+      "Kanji": "誠に",
+      "POS": "adv.",
+      "English": "really (very polite)",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "またせる",
+      "Kanji": "待たせる",
+      "POS": "ru-v.",
+      "English": "to keep (someone) waiting",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "もうす",
+      "Kanji": "申す",
+      "POS": "u-v.",
+      "English": "extra-modest expression for いう",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "～や",
+      "Kanji": "～屋",
+      "POS": "suf.",
+      "English": ". . . shop",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "うれる",
+      "Kanji": "売れる",
+      "POS": "ru-v.",
+      "English": "to be sold",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "えど",
+      "Kanji": "江戸",
+      "POS": "n.",
+      "English": "former name of Tokyo",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "えどじだい",
+      "Kanji": "江戸時代",
+      "POS": "n.",
+      "English": "Edo period",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "こころ",
+      "Kanji": "心",
+      "POS": "n.",
+      "English": "mind; heart",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "さいあく",
+      "Kanji": "最悪",
+      "POS": "n.",
+      "English": "the worst",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "しゅじん",
+      "Kanji": "主人",
+      "POS": "n.",
+      "English": "owner",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "だく",
+      "Kanji": "抱く",
+      "POS": "u-v.",
+      "English": "to hold something in one’s arm",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "ちゃみせ",
+      "Kanji": "茶店",
+      "POS": "n.",
+      "English": "teahouse",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "とまる",
+      "Kanji": "止まる",
+      "POS": "u-v.",
+      "English": "to stop",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "ねだん",
+      "Kanji": "値段",
+      "POS": "n.",
+      "English": "price",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "みぶり",
+      "Kanji": "身ぶり",
+      "POS": "n.",
+      "English": "gesture",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "むりな",
+      "Kanji": "無理な",
+      "POS": "な-adj.",
+      "English": "impossible",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "らくご",
+      "Kanji": "落語",
+      "POS": "n.",
+      "English": "comic monologue",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "らくごか",
+      "Kanji": "落語家",
+      "POS": "n.",
+      "English": "comic storyteller",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "りょう",
+      "Kanji": "両",
+      "POS": "n.",
+      "English": "a unit of currency used in the Edo period",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "わたす",
+      "Kanji": "渡す",
+      "POS": "u-v.",
+      "English": "to give; to hand",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "ぜったいに",
+      "Kanji": "絶対に",
+      "POS": "adv.",
+      "English": "definitely; no matter what",
+      "Lesson": 20
+   },
+   {
+      "Vocab": "～あいだに",
+      "Kanji": "～間に",
+      "POS": "exp.",
+      "English": "while . . . ",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "あかちゃん",
+      "Kanji": "赤ちゃん",
+      "POS": "n.",
+      "English": "baby",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "あんぜん（な）",
+      "Kanji": "安全",
+      "POS": "な-adj.",
+      "English": "safe",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "おく",
+      "Kanji": "置く",
+      "POS": "u-v.",
+      "English": "to put; to lay; to place",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "か",
+      "Kanji": "蚊",
+      "POS": "n.",
+      "English": "mosquito",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "かいぎ",
+      "Kanji": "会議",
+      "POS": "n.",
+      "English": "business meeting; conference",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "かんきょう",
+      "Kanji": "環境",
+      "POS": "n.",
+      "English": "environment",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "きがえる",
+      "Kanji": "着替える",
+      "POS": "ru-v.",
+      "English": "to change clothes",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "きがつく",
+      "Kanji": "気が付く",
+      "POS": "u-v.",
+      "English": "to notice",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "けいさつ",
+      "Kanji": "警察",
+      "POS": "n.",
+      "English": "police; police station",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "こうじょう",
+      "Kanji": "工場",
+      "POS": "n.",
+      "English": "factory",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "さす",
+      "Kanji": "刺す",
+      "POS": "u-v.",
+      "English": "to bite",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "さわる",
+      "Kanji": "触る",
+      "POS": "u-v.",
+      "English": "to touch",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "じゅんび",
+      "Kanji": "準備",
+      "POS": "n.",
+      "English": "preparation",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "せいふ",
+      "Kanji": "政府",
+      "POS": "n.",
+      "English": "government",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "たいせつ（な）",
+      "Kanji": "大切",
+      "POS": "な-adj.",
+      "English": "precious; valuable",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "つかまる",
+      "Kanji": "捕まる",
+      "POS": "u-v.",
+      "English": "to be arrested; to be caught",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "つづける",
+      "Kanji": "続ける",
+      "POS": "ru-v.",
+      "English": "to continue",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "つつむ",
+      "Kanji": "包む",
+      "POS": "u-v.",
+      "English": "to wrap; to cover",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "どうりょう",
+      "Kanji": "同僚",
+      "POS": "n.",
+      "English": "colleague",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "とおい",
+      "Kanji": "遠い",
+      "POS": "い-adj.",
+      "English": "far (away)",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "どろぼう",
+      "Kanji": "泥棒",
+      "POS": "n.",
+      "English": "thief; burglar",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "なぐる",
+      "Kanji": "殴る",
+      "POS": "u-v.",
+      "English": "to strike; to hit; to punch",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "ぬすむ",
+      "Kanji": "盗む",
+      "POS": "u-v.",
+      "English": "to steal; to rob",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "はる",
+      "Kanji": "貼る",
+      "POS": "u-v.",
+      "English": "to post; to stick",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "はんにん",
+      "Kanji": "犯人",
+      "POS": "n.",
+      "English": "criminal",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "ひるねをする",
+      "Kanji": "昼寝をする",
+      "POS": "irr-v.",
+      "English": "to take a nap",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "ふむ",
+      "Kanji": "踏む",
+      "POS": "u-v.",
+      "English": "to step on",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "まちがえる",
+      "Kanji": "間違える",
+      "POS": "ru-v.",
+      "English": "to make a mistake",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "もんく",
+      "Kanji": "文句",
+      "POS": "n.",
+      "English": "complaint",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "もんくをいう",
+      "Kanji": "文句を言う",
+      "POS": "u-v.",
+      "English": "to complain",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "やく",
+      "Kanji": "焼く",
+      "POS": "u-v.",
+      "English": "to bake; to burn; to grill",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "るす",
+      "Kanji": "留守",
+      "POS": "n.",
+      "English": "absence; not at home",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "れんらくする",
+      "Kanji": "連絡する",
+      "POS": "irr-v.",
+      "English": "to contact",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "いっしょうけんめい",
+      "Kanji": "一生懸命",
+      "POS": "adv.",
+      "English": "very hard",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "うらない",
+      "Kanji": "占い",
+      "POS": "n.",
+      "English": "fortunetelling",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "おおくの～",
+      "Kanji": "多くの～",
+      "POS": "pre.",
+      "English": "many . . .",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "おこる",
+      "Kanji": "起こる",
+      "POS": "u-v.",
+      "English": "to occur; to happen",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "おまもり",
+      "Kanji": "お守り",
+      "POS": "n.",
+      "English": "charm (against evils); amulet",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "かよう",
+      "Kanji": "通う",
+      "POS": "u-v.",
+      "English": "to commute to",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "きにする",
+      "Kanji": "気にする",
+      "POS": "irr-v.",
+      "English": "to worry",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "しょくじ",
+      "Kanji": "食事",
+      "POS": "n.",
+      "English": "meal",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "しんじる",
+      "Kanji": "信じる",
+      "POS": "ru-v.",
+      "English": "to believe",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "たのしみ",
+      "Kanji": "楽しみ",
+      "POS": "n.",
+      "English": "pleasure",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "ながいあいだ",
+      "Kanji": "長い間",
+      "POS": "adv.",
+      "English": "long time",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "にゅういんする",
+      "Kanji": "入院する",
+      "POS": "irr-v.",
+      "English": "to be hospitalized",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "ふべんな",
+      "Kanji": "不便な",
+      "POS": "な-adj.",
+      "English": "inconvenient",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "めいしん",
+      "Kanji": "迷信",
+      "POS": "n.",
+      "English": "superstition",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "しんぱい（な）",
+      "Kanji": "心配",
+      "POS": "な-adj.",
+      "English": "worried about",
+      "Lesson": 21
+   },
+   {
+      "Vocab": "あいて",
+      "Kanji": "相手",
+      "POS": "n.",
+      "English": "partner",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "うけつけ",
+      "Kanji": "受付",
+      "POS": "n.",
+      "English": "reception desk",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "えいかいわ",
+      "Kanji": "英会話",
+      "POS": "n.",
+      "English": "English conversation",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "おじょうさん",
+      "Kanji": "お嬢さん",
+      "POS": "n.",
+      "English": "(someone’s) daughter (polite)",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "おねがいする",
+      "Kanji": "お願いする",
+      "POS": "irr-v.",
+      "English": "to pray for help",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "かじ",
+      "Kanji": "家事",
+      "POS": "n.",
+      "English": "household matters",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "かぜ",
+      "Kanji": "風",
+      "POS": "n.",
+      "English": "wind",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "かぜがふく",
+      "Kanji": "風が吹く",
+      "POS": "u-v.",
+      "English": "the wind blows",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "かつ",
+      "Kanji": "勝つ",
+      "POS": "u-v.",
+      "English": "to win",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "き",
+      "Kanji": "木",
+      "POS": "n.",
+      "English": "tree",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "けいかくをたてる",
+      "Kanji": "計画を立てる",
+      "POS": "ru-v.",
+      "English": "to make a plan",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "こうはい",
+      "Kanji": "後輩",
+      "POS": "n.",
+      "English": "junior member of a group",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "コピーをとる",
+      "Kanji": "コピーを取る",
+      "POS": "u-v.",
+      "English": "to make a photocopy",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "さる",
+      "Kanji": "猿",
+      "POS": "n.",
+      "English": "monkey",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "さんせいする",
+      "Kanji": "賛成する",
+      "POS": "irr-v.",
+      "English": "to agree",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "しっぱいする",
+      "Kanji": "失敗する",
+      "POS": "irr-v.",
+      "English": "to fail; to be unsuccessful",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "じゆう",
+      "Kanji": "自由",
+      "POS": "n.",
+      "English": "freedom",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "じゆうに",
+      "Kanji": "自由に",
+      "POS": "adv.",
+      "English": "freely",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "しょるい",
+      "Kanji": "書類",
+      "POS": "n.",
+      "English": "document",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "そだてる",
+      "Kanji": "育てる",
+      "POS": "ru-v.",
+      "English": "to raise; to bring up",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "てつやする",
+      "Kanji": "徹夜する",
+      "POS": "irr-v.",
+      "English": "to stay up all night",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "はこぶ",
+      "Kanji": "運ぶ",
+      "POS": "u-v.",
+      "English": "to carry",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "はんたいする",
+      "Kanji": "反対する",
+      "POS": "irr-v.",
+      "English": "to oppose; to object to",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ひとりぐらし",
+      "Kanji": "一人暮らし",
+      "POS": "n.",
+      "English": "living alone",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ひろう",
+      "Kanji": "拾う",
+      "POS": "u-v.",
+      "English": "to pick up (something)",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "びんぼう（な）",
+      "Kanji": "貧乏",
+      "POS": "な-adj.",
+      "English": "poor",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ぶか",
+      "Kanji": "部下",
+      "POS": "n.",
+      "English": "subordinate",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ふくしゅう",
+      "Kanji": "復習",
+      "POS": "n.",
+      "English": "review of a lesson",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "へん（な）",
+      "Kanji": "変",
+      "POS": "な-adj.",
+      "English": "strange; unusual",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ほ（う）っておく",
+      "Kanji": "放っておく",
+      "POS": "u-v.",
+      "English": "to leave (someone/something) alone; to neglect",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ほんやくする",
+      "Kanji": "翻訳する",
+      "POS": "irr-v.",
+      "English": "to translate",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "まける",
+      "Kanji": "負ける",
+      "POS": "ru-v.",
+      "English": "to lose (a match)",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "まにあう",
+      "Kanji": "間に合う",
+      "POS": "u-v.",
+      "English": "to be in time",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "むだづかい",
+      "Kanji": "無駄遣い",
+      "POS": "n.",
+      "English": "waste (money)",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "めんきょ",
+      "Kanji": "免許",
+      "POS": "n.",
+      "English": "license",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "もうすこし",
+      "Kanji": "もう少し",
+      "POS": "adv.",
+      "English": "a little more",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "よしゅう",
+      "Kanji": "予習",
+      "POS": "n.",
+      "English": "preparation of lessons",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "らく（な）",
+      "Kanji": "楽",
+      "POS": "な-adj.",
+      "English": "easy; comfortable",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "あいかわらず",
+      "Kanji": "相変わらず",
+      "POS": "exp.",
+      "English": "as usual",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "かえってくる",
+      "Kanji": "帰ってくる",
+      "POS": "irr-v.",
+      "English": "to come back home",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "かわりに",
+      "Kanji": "代わりに",
+      "POS": "adv.",
+      "English": "instead",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "しんゆう",
+      "Kanji": "親友",
+      "POS": "n.",
+      "English": "best friend",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "たのしそうに",
+      "Kanji": "楽しそうに",
+      "POS": "adv.",
+      "English": "joyfully",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "でんごん",
+      "Kanji": "伝言",
+      "POS": "n.",
+      "English": "message",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "にげる",
+      "Kanji": "逃げる",
+      "POS": "ru-v.",
+      "English": "to run away; to escape",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ふつかかん",
+      "Kanji": "二日間",
+      "POS": "adv.",
+      "English": "for two days",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "まちどおしい",
+      "Kanji": "待ち遠しい",
+      "POS": "い-adj.",
+      "English": "to wait eagerly for . . . ",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "ゆうき",
+      "Kanji": "勇気",
+      "POS": "n.",
+      "English": "courage",
+      "Lesson": 22
+   },
+   {
+      "Vocab": "あめがやむ",
+      "Kanji": "雨がやむ",
+      "POS": "u-v.",
+      "English": "the rain stops",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "おもいで",
+      "Kanji": "思い出",
+      "POS": "n.",
+      "English": "memory",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "かいがいりょこう",
+      "Kanji": "海外旅行",
+      "POS": "n.",
+      "English": "trip to a foreign country",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "かえる",
+      "Kanji": "換える",
+      "POS": "ru-v.",
+      "English": "to change",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "～かおをする",
+      "Kanji": "～顔をする",
+      "POS": "irr-v.",
+      "English": "to look . . . (facial expression)",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "がまんする",
+      "Kanji": "我慢する",
+      "POS": "irr-v.",
+      "English": "to be tolerant/patient",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "きにいる",
+      "Kanji": "気に入る",
+      "POS": "u-v.",
+      "English": "to find something agreeable",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "くつした",
+      "Kanji": "靴下",
+      "POS": "n.",
+      "English": "socks",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "げんきでね",
+      "Kanji": "元気でね",
+      "POS": "exp.",
+      "English": "Take care of yourself.",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "こくさいでんわ",
+      "Kanji": "国際電話",
+      "POS": "n.",
+      "English": "international call",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "しゃかい",
+      "Kanji": "社会",
+      "POS": "n.",
+      "English": "society",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "じゅぎょうりょう",
+      "Kanji": "授業料",
+      "POS": "n.",
+      "English": "tuition",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "しょうがっこう",
+      "Kanji": "小学校",
+      "POS": "n.",
+      "English": "elementary school",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "せわをする",
+      "Kanji": "世話をする",
+      "POS": "irr-v.",
+      "English": "to take care of . . .",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "せんきょ",
+      "Kanji": "選挙",
+      "POS": "n.",
+      "English": "election",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "どうじょうする",
+      "Kanji": "同情する",
+      "POS": "irr-v.",
+      "English": "to sympathize",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "はなれる",
+      "Kanji": "離れる",
+      "POS": "ru-v.",
+      "English": "(something/someone) separates; parts from",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "べっそう",
+      "Kanji": "別荘",
+      "POS": "n.",
+      "English": "villa; vacation home",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "ぼんおどり",
+      "Kanji": "盆踊り",
+      "POS": "n.",
+      "English": "Bon dance (Japanese traditional dance)",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "めんせつ",
+      "Kanji": "面接",
+      "POS": "n.",
+      "English": "interview",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "もどってくる",
+      "Kanji": "戻ってくる",
+      "POS": "irr-v.",
+      "English": "(something/someone) comes back",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "ゆうしょうする",
+      "Kanji": "優勝する",
+      "POS": "irr-v.",
+      "English": "to win a championship",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "ゆうしょく",
+      "Kanji": "夕食",
+      "POS": "n.",
+      "English": "dinner",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "りそう",
+      "Kanji": "理想",
+      "POS": "n.",
+      "English": "ideal",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "るすばん",
+      "Kanji": "留守番",
+      "POS": "n.",
+      "English": "looking after a house during someone’s absence",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "わるぐちをいう",
+      "Kanji": "悪口を言う",
+      "POS": "u-v.",
+      "English": "to talk behind someone’s back",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "あらわす",
+      "Kanji": "表す",
+      "POS": "u-v.",
+      "English": "to express; to show",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "おなじような",
+      "Kanji": "同じような",
+      "POS": "な-adj.",
+      "English": "similar",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "かんじょう",
+      "Kanji": "感情",
+      "POS": "n.",
+      "English": "feeling; emotion",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "かんたんに",
+      "Kanji": "簡単に",
+      "POS": "adv.",
+      "English": "easily",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "きもち",
+      "Kanji": "気持ち",
+      "POS": "n.",
+      "English": "feeling",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "くらべる",
+      "Kanji": "比べる",
+      "POS": "ru-v.",
+      "English": "to compare",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "けっか",
+      "Kanji": "結果",
+      "POS": "n.",
+      "English": "result",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "さいごの～",
+      "Kanji": "最後の～",
+      "POS": "pre.",
+      "English": "last . . . ",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "さいしょの～",
+      "Kanji": "最初の～",
+      "POS": "pre.",
+      "English": "first . . . ",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "じょうだん",
+      "Kanji": "冗談",
+      "POS": "n.",
+      "English": "joke",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "ぜんいん",
+      "Kanji": "全員",
+      "POS": "n.",
+      "English": "all members",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "たて",
+      "Kanji": "縦",
+      "POS": "n.",
+      "English": "vertical",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "ちょうさ",
+      "Kanji": "調査",
+      "POS": "n.",
+      "English": "survey",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "にんげん",
+      "Kanji": "人間",
+      "POS": "n.",
+      "English": "human being",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "ひょうじょう",
+      "Kanji": "表情",
+      "POS": "n.",
+      "English": "facial expression",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "よこ",
+      "Kanji": "横",
+      "POS": "n.",
+      "English": "side; horizontal",
+      "Lesson": 23
+   },
+   {
+      "Vocab": "よろしくおねがいします",
+      "Kanji": "よろしくお願いします",
+      "POS": "exp.",
+      "English": "Nice to meet you.",
+      "Lesson": "G"
+   }
+]
