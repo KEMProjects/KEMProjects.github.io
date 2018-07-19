@@ -45,10 +45,10 @@ body{
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
 }
 audio{
-	margin:10px;	
+	margin:20px;	
 }
 #flashcards{
-	margin-top:2%;
+	margin-top:10px;
 	border: 1px solid #ddd;
 	background-color: #fff;
 	padding: 30px;
