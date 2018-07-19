@@ -35,7 +35,7 @@ function getJLPTKanji(){
 $.getJSON("jlpt_dictionary.json", function(json) {
     myList = json;//console.log(json); // this will show the info it in firebug console
 	getJLPTKanji();
-	
+	buildHtmlTable('#vocabTable');
 	/*var myJSON = JSON.stringify(myList);
 	document.getElementById("json_print").innerHTML = myJSON;*/
 });
