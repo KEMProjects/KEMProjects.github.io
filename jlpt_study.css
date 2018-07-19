@@ -11,9 +11,15 @@ table, th, td {
 	background-color:white;
 }
 a{
-	color:#e6add8;
+	color:#d0ade6;
 	font-weight: bold;
 	text-decoration:none;
+}
+a:hover{	
+	text-shadow: 2px 2px grey;
+}
+a:active{
+	color:#c97af0;
 }
 body{
 	background-color: #ADD8E6;
