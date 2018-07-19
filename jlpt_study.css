@@ -4,7 +4,7 @@
 	--third-color:#ff8fb6;
 	--main-bg-dark:#6be1ff;
 	--second-dark:#ffe16b;
-	--third-dark:#ff6ba6;
+	--third-dark:#e65386;
 }
 table{
 	border-collapse: collapse;
@@ -19,7 +19,7 @@ table, th, td {
 	background-color:white;
 }
 a{
-	background-color: var(--third-color);
+	background-color: var(--third-dark);
 	color: white;
 	padding: 14px 25px;
 	text-align: center;
@@ -49,7 +49,7 @@ select{
 button{
     background-color: var(--second-color); /* Green */
     border: none;
-    color: white;
+    color: black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
