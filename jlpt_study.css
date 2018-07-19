@@ -93,12 +93,14 @@ h1{
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
 }
 #flashcards{
+	
 	border: 1px solid #ddd;
 	background-color: #fff;
 	padding: 30px;
 	font-size: 5em;
 	text-align:center;
 	height:400px;
+	width:100%;
 	 -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
