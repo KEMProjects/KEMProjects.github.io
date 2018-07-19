@@ -3,8 +3,7 @@ var level=0;
 var current_card=-1;
 var total_cards=0;
 var face=1;
-function nextCard(){
-	current_card++;
+function changeCard(){
 	face=-1;
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
@@ -12,8 +11,17 @@ function nextCard(){
 	flipCard();
 	var newAudio=$(audioLink);
 	$("#flashaudio").replaceWith(newAudio);
-    // Load src of the audio file
-    $("#flashaudio").load();
+	 // Load src of the audio file
+	$("#flashaudio").load();	
+	
+}
+function lastCard(){
+	current_card--;
+	changeCard();
+}
+function nextCard(){
+	current_card++;
+	changeCard();
 }
 
 function flipCard(){
