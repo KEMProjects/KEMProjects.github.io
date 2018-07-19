@@ -6,13 +6,12 @@ var face=1;
 function nextCard(){
 	current_card++;
 	face=-1;
-	flipCard();
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
-	
-	var newAudio=$(audioLink);
-	$("#flashaudio").replaceWith(newAudio);
+	flipCard();
+/*	var newAudio=$(audioLink);
+	$("#flashaudio").replaceWith(newAudio);*/
     // Load src of the audio file
     $("#flashaudio").load();
 }
@@ -21,7 +20,7 @@ function flipCard(){
 	var cardText="";
 	face *=-1;
 	if(face==1){
-		cardText = "<p class='furigana'>"+flashCards[current_card]["Vocab"]+"</p><p>"+flashCards[current_card]["Kanji"]+"</p>";
+		cardText = "<p class='furigana'>"+flashCards[current_card]["Vocab"]+"</p><p>"+flashCards[current_card]["Kanji"]+"</p>"+audioLink;
 	}
 	else{
 		cardText = flashCards[current_card]["English"];
