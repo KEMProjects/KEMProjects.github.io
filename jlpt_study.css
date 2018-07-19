@@ -80,6 +80,10 @@ h1{
 }
 .fc_footer{
 	margin-top:5%;
+	padding-left:10%;
+	padding-right:10%;
+	font-size: 2em;
+	text-align:center;
 }
 
 .container{
