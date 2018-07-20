@@ -12,27 +12,46 @@
   <h1>Flashcards for Genki 1 & 2</h1>
   <div class="fc_container">
 	  <header class="fc_header">
+		<ul class="nav">
+		<li>
 		<select id="level_select" name = "level_select" onchange="build_cards()">
 			<option value="0">Select a Level</option>
 		</select>
+		</li>
+		<li>
 		<span id="fc_cnt">
 		</span>
-		<audio id="flashaudio" controls preload='none'><source src='http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%91%E3%81%84&kanji=%E3%82%A2%E3%82%B8%E3%82%A2%E7%B3%BB'>Audio Loading</audio>
+		</li>
+		</ul>
+		
 	  </header>
 	  <div id="flashcards">
 		<p id="fc_text">Select a Level</p>
-		
 	  </div>
 	  <footer class="fc_footer">
+	  <ul class="nav">
+		<li>
 		<button id="last" onclick="lastCard()">
 			Last card
 		</button>
+		</li>
+		<li>
 		<button id="flip" onclick="flipCard()">
 			Flip card
 		</button>
+		</li>
+		<li>
 		<button id="next" onclick="nextCard()">
 			Next card
 		</button>
+		</li>
+		<li>
+		<button class="audio_cont" onclick="togglePlay()">
+			<audio id="flashaudio" preload='none'><source src='http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%91%E3%81%84&kanji=%E3%82%A2%E3%82%B8%E3%82%A2%E7%B3%BB'></audio>
+			&#9835;
+		</button>
+		</li>
+		</ul>
 	  </footer>
 </div>
 </body>

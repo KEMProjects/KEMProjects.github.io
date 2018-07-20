@@ -3,6 +3,7 @@ var level=0;
 var current_card=-1;
 var total_cards=0;
 var face=1;
+
 function changeCard(){
 	face=-1;
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
@@ -13,25 +14,30 @@ function changeCard(){
 	$("#flashaudio").replaceWith(newAudio);
 	 // Load src of the audio file
 	$("#flashaudio").load();	
+    
 	
 }
 function lastCard(){
-	current_card--;
-	changeCard();
+	if(current_card>1){
+		current_card--;
+		changeCard();
+	}
 }
 function nextCard(){
-	current_card++;
-	changeCard();
+	if(current_card<total_cards){
+		current_card++;
+		changeCard();
+	}
 }
 
 function flipCard(){
 	var cardText="";
 	face *=-1;
 	if(face==1){
-		cardText = "<p class='furigana'>"+flashCards[current_card]["Vocab"]+"</p><p>"+flashCards[current_card]["Kanji"]+"</p>";
+		cardText = "<p><ruby>"+flashCards[current_card]["Kanji"]+"<rt>"+flashCards[current_card]["Vocab"]+"</rt></ruby></p>";
 	}
 	else{
-		cardText = flashCards[current_card]["English"];
+		cardText = "<p>"+flashCards[current_card]["English"]+"</p>";
 	}
 	$('#flashcards').html(cardText);
 }

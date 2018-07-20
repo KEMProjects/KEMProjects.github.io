@@ -8,5 +8,14 @@ function japaneseAudio(kana, kanji){
 }
 function createAudioPlayer(kana, kanji){
 	let link = japaneseAudio(kana,kanji);
-	return "<audio id='flashaudio' controls preload='none'><source src='"+link+"' type='audio/mp3' /></audio>";	
+	return "<audio id='flashaudio' preload='none'><source src='"+link+"' type='audio/mp3' /></audio>";	
+}
+function togglePlay() {
+	if ($('#flashaudio').paused === false) {
+	  $('#flashaudio')[0].pause();
+
+	} else {
+	  $('#flashaudio')[0].play();
+
+	}
 }
