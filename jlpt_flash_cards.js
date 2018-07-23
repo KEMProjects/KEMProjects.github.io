@@ -9,13 +9,12 @@ function changeCard(){
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
-	flipCard();
 	var newAudio=$(audioLink);
 	$("#flashaudio").replaceWith(newAudio);
 	 // Load src of the audio file
 	$("#flashaudio").load();	
-    
 	
+	flipCard();
 }
 function lastCard(){
 	if(current_card>1){
@@ -35,6 +34,13 @@ function flipCard(){
 	face *=-1;
 	if(face==1){
 		cardText = "<p><ruby>"+flashCards[current_card]["Kanji"]+"<rt>"+flashCards[current_card]["Vocab"]+"</rt></ruby></p>";
+		if ($('#autoplay').is(':checked')) {
+			$('#flashaudio').autoplay = true;
+			togglePlay();
+		}
+		else{
+			$('#flashaudio').autoplay = false;
+		}
 	}
 	else{
 		cardText = "<p>"+flashCards[current_card]["English"]+"</p>";
