@@ -3,6 +3,7 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="play_audio_word.js"></script>
+<script src="cookies.js"></script>
 <script src="jlpt_flash_cards.js"></script>
 <link rel="stylesheet" href="jlpt_study.css">
 <title>JLPT Flash Cards</title>
@@ -14,7 +15,7 @@
 	  <header class="fc_header">
 		<ul class="nav">
 		<li>
-		<select id="level_select" name = "level_select" onchange="build_cards()">
+		<select id="level_select" name = "level_select" onchange="buildCards()">
 			<option value="0">Select a Level</option>
 		</select>
 		</li>
@@ -51,6 +52,11 @@
 		</button>
 		</li>
 		<li>
+		<button id="save" onclick="saveCard()">
+			Save card
+		</button>
+		</li>
+		<li>
 		<button class="audio_cont" onclick="togglePlay()">
 			<audio id="flashaudio" preload='none'><source src='http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=%E3%82%A2%E3%82%B8%E3%82%A2%E3%81%91%E3%81%84&kanji=%E3%82%A2%E3%82%B8%E3%82%A2%E7%B3%BB'></audio>
 			&#9835;
@@ -58,6 +64,7 @@
 		</li>
 		</ul>
 	  </footer>
+
 </div>
 </body>
 </html>

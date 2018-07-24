@@ -3,17 +3,14 @@ var level=0;
 var current_card=-1;
 var total_cards=0;
 var face=1;
+var saveList=[];
 
-function changeCard(){
+function changeCard(num){
 	face=-1;
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
-	var newAudio=$(audioLink);
-	$("#flashaudio").replaceWith(newAudio);
-	 // Load src of the audio file
-	$("#flashaudio").load();	
-	
+
 	flipCard();
 }
 function lastCard(){
@@ -33,30 +30,40 @@ function flipCard(){
 	var cardText="";
 	face *=-1;
 	if(face==1){
-		cardText = "<p><ruby>"+flashCards[current_card]["Kanji"]+"<rt>"+flashCards[current_card]["Vocab"]+"</rt></ruby></p>";
+		cardText = "<ruby>"+flashCards[current_card]["Kanji"]+"<rt>"+flashCards[current_card]["Vocab"]+"</rt></ruby>";
 		if ($('#autoplay').is(':checked')) {
-			$('#flashaudio').autoplay = true;
 			togglePlay();
 		}
-		else{
+		/*else{
 			$('#flashaudio').autoplay = false;
-		}
+		}*/
 	}
 	else{
-		cardText = "<p>"+flashCards[current_card]["English"]+"</p>";
+		cardText = flashCards[current_card]["English"];
 	}
-	$('#flashcards').html(cardText);
+	$('#fc_text').html(cardText);
 }
 
-function build_cards(){
-	level = parseInt($('#level_select').find(":selected").text());
+function saveCard(){
+	saveList.push(flashCards[current_card]["ID"]);
+	setCookie("saveList", saveList, 15);
+}
+function buildCards(){
+	level = parseInt($('#level_select').find(":selected").val());
 	flashCards=[];
 	current_card=-1;
 	total_cards=0;
-	for (var i = 0; i < myList.length; i++) {
-		let kanj_str=myList[i]["Kanji"];
-		if(myList[i]["Lesson"]==level){
-			flashCards.push(myList[i]);
+	if(level==25){
+		for (var i = 0; i < saveList.length; i++) {
+			flashCards.push(myList[saveList[i]]);
+		}
+	}
+	else{
+		for (var i = 0; i < myList.length; i++) {
+			//let kanj_str=myList[i]["Kanji"];
+			if(myList[i]["Lesson"]==level){
+				flashCards.push(myList[i]);
+			}
 		}
 	}
 	total_cards=flashCards.length;
@@ -69,7 +76,11 @@ function build_levels(){
 		let option = "<option value='"+i+"'>"+i+"</option>";
 		$('#level_select').append(option);
 	}
-	
+	let option = "<option value='25'>Custom</option>";
+	$('#level_select').append(option);
+	saveList=new Array();
+	//deleteCookie("saveList");//debug
+	saveList=getCookie("saveList");
 }
 
 $.getJSON("jlpt_dictionary.json", function(json) {

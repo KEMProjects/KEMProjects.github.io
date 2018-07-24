@@ -12,13 +12,21 @@ function createAudioPlayer(kana, kanji){
 	let newKanji= kanji.replace(regexp,"");
 
 	let link = japaneseAudio(newKana,newKanji);
-	return "<audio id='flashaudio' preload='none'><source src='"+link+"' type='audio/mp3' /></audio>";		
+	
+	let newAudio=$("<audio id='flashaudio' preload='none'><source src='"+link+"' type='audio/mp3' /></audio>");
+	$("#flashaudio").replaceWith(newAudio);
+	 // Load src of the audio file
+	$("#flashaudio").load();	
+	
+	//return "<audio id='flashaudio' preload='none'><source src='"+link+"' type='audio/mp3' /></audio>";		
 }
 function togglePlay() {
 	if ($('#flashaudio').paused === false) {
+		$('#flashaudio').autoplay = false;
 	  $('#flashaudio')[0].pause();
 
 	} else {
+		$('#flashaudio').autoplay = true;
 	  $('#flashaudio')[0].play();
 
 	}
