@@ -3,14 +3,26 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="build_table.js"></script>
+<script src="play_audio_word.js"></script>
+<script src="cookies.js"></script>
+<script src="jlpt_flash_cards.js"></script>
 <script src="open_vocab_list.js"></script>
-
 <link rel="stylesheet" href="jlpt_study.css">
 <title>JLPT Vocab Table</title>
 <meta charset="UTF-8">
 </head>
 <body>
   <h1>Vocabulary from Genki 1 & 2</h1>
+  <header class="fc_header">
+	<ul class="nav">
+	<li>
+	<select id="level_select" name = "level_select" onchange="updateTable()">
+		<option value="0">Display All</option>
+	</select>
+	</li>
+	</ul>
+	
+  </header>
   <table id="vocabTable" border="1">
   </table>
 </body>

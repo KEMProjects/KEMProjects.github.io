@@ -32,10 +32,34 @@ function getJLPTKanji(){
 	}
 }
 
+function updateTable(){
+	let tableList=[];
+	level = parseInt($('#level_select').find(":selected").val());
+
+	if(level==25){
+		for (var i = 0; i < saveList.length; i++) {
+			tableList.push(myList[saveList[i]]);
+		}
+	}
+	else{
+		for (var i = 0; i < myList.length; i++) {
+			//let kanj_str=myList[i]["Kanji"];
+			if(myList[i]["Lesson"]==level){
+				tableList.push(myList[i]);
+			}
+		}
+	}
+	
+	clearTable('#vocabTable');
+	buildHtmlTable(tableList,'#vocabTable');
+}
+
+
 $.getJSON("jlpt_dictionary.json", function(json) {
     myList = json;//console.log(json); // this will show the info it in firebug console
 	getJLPTKanji();
-	buildHtmlTable('#vocabTable');
+	//build_levels();
+	buildHtmlTable(myList,'#vocabTable');
 	/*var myJSON = JSON.stringify(myList);
 	document.getElementById("json_print").innerHTML = myJSON;*/
 });
