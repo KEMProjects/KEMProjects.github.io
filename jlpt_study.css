@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Reenie+Beanie');
+
 :root{
 	--main-bg-color:#8fddff;
 	--second-color:#ffec8f;
 	--third-color:#ff8fb6;
-	--main-bg-dark:#6be1ff;
+	--main-bg-dark:#39C1FC;
 	--second-dark:#ffe16b;
 	--third-dark:#e65386;
 }
@@ -19,22 +21,33 @@ table, th, td {
 	background-color:white;
 }
 a{
-	background-color: var(--third-dark);
-	color: white;
-	padding: 14px 25px;
+	background-color: var(--second-color);
+	color: black;
+	padding: 7px 12px;
+	font-size:1.5em;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
 	margin: 5px;
-}
-a:hover{	
+	border-bottom: 2px solid var(--second-dark);
+	border-radius: 2px;
 	box-shadow: 2px 2px 2px grey;
 }
+a:hover{	
+	/*box-shadow: 2px 2px 2px grey;*/
+	background-color:var(--second-dark);
+}/*
 a:active{
-	background-color:var(--third-dark);
-}
+	background-color:var(--second-dark);
+}*/
 body{
+	/*background: linear-gradient(var(--main-bg-dark), var(--main-bg-color));*/
 	background-color: var(--main-bg-color);
+	font-family: 'Open Sans', cursive;
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 audio{
@@ -47,22 +60,25 @@ select{
 	text-align: center;
 }
 button{
-    background-color: var(--second-color); /* Green */
+    background-color: var(--third-dark); /* Green */
     border: none;
-    color: black;
+    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     box-shadow: 2px 2px 2px grey;
+	font-family: 'Open Sans', cursive;
 }
 button:hover{
-	background-color: var(--second-dark);
+	background-color: var(--third-color);
 	
 }
 h1{
 	text-align:center;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 3em;
 }
 .audio_cont{
 	background-color: var(--third-dark);
@@ -102,17 +118,19 @@ div.audio_cont:hover{
 .nav li {
     display: inline-block;
 	vertical-align:center;
+	margin-left:5px;
+	margin-right:5px;
 }
 .fc_header{
 	font-size: 2em;
 	text-align:center;
-	margin-bottom:2%;
+	margin-bottom:1%;
 	display:inline-block;
 	height: 2em;
 	width:100%;
 }
 .fc_footer{
-	margin-top:2%;
+	margin-top:1%;
 	font-size: 2em;
 	text-align:center;
 	display:inline-block;
@@ -123,12 +141,12 @@ div.audio_cont:hover{
 .container{
 	margin-left:20%;
 	margin-right:20%;
-	font-size: 2em;
+	font-size: 1.5em;
 	text-align:center;
-	background-color: white;
+	/*background-color: white;
 	-moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);*/
 }
 
 .quiz{
@@ -165,4 +183,16 @@ div.audio_cont:hover{
 #incorrect{
 	display:none;
 	color:var(--third-dark);
+}
+label[for=autoplay]{
+	font-size:0.5em;
+	font-family: 'Open Sans', cursive;
+}
+#autoplay{
+	border:2px dotted solid black;
+}
+#fc_cnt{
+	font-family: 'Reenie Beanie', cursive;
+	font-size:1.5em;
+	padding-left:2px;
 }
