@@ -131,6 +131,19 @@ div.audio_cont:hover{
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
 }
 
+.quiz{
+	margin-left:20%;
+	margin-right:20%;
+	padding-top:2%;
+	padding-bottom:2%;
+	font-size: 2em;
+	text-align:center;
+	background-color: white;
+	-moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+
 #flashcards{
 	display:block;
 	border: 1px solid #ddd;
@@ -145,4 +158,11 @@ div.audio_cont:hover{
 	-moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
     -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+#answrButtons{
+	display:none;
+}
+#incorrect{
+	display:none;
+	color:var(--third-dark);
 }

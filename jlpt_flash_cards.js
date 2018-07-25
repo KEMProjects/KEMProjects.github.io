@@ -5,12 +5,20 @@ var total_cards=0;
 var face=1;
 var saveList=[];
 
-function changeCard(num){
+function changeCard(){
 	face=-1;
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
-
+	let id=flashCards[current_card]["ID"];
+	if(findSavedCard(id)>-1){
+		$('#save').text("Remove Card");
+		$("#save").attr("onclick","removeSavedCard("+id+")");
+	}
+	else{
+		$('#save').text("Save Card");
+		$("#save").attr("onclick","saveCard("+id+")");
+	}
 	flipCard();
 }
 function lastCard(){
@@ -44,9 +52,26 @@ function flipCard(){
 	$('#fc_text').html(cardText);
 }
 
-function saveCard(){
-	saveList.push(flashCards[current_card]["ID"]);
+function saveCard(id){
+	if(id!=null){
+		let index= findSavedCard(id);
+		if(index<0){
+			saveList.push(id);
+			setCookie("saveList", saveList, 15);
+			$('#save').text("Saved");
+		}
+	}
+}
+function findSavedCard(id){
+	return index = saveList.indexOf(id);
+}
+function removeSavedCard(id){
+	let index= findSavedCard(id);
+	saveList.splice(index,1);
 	setCookie("saveList", saveList, 15);
+}
+function clearSaveList(){
+	setCookie("saveList", [], 15);
 }
 function buildCards(){
 	level = parseInt($('#level_select').find(":selected").val());
