@@ -4,7 +4,13 @@ var current_card=-1;
 var total_cards=0;
 var face=1;
 var saveList=[];
-
+function enableFurigana(){
+	if(face==1){
+		face=-1;
+		flipCard();
+	}
+		
+}
 function changeCard(){
 	face=-1;
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
@@ -31,8 +37,12 @@ function flipCard(){
 	var cardText="";
 	face *=-1;
 	if(face==1){
-		cardText = "<ruby>"+flashCards[current_card]["Kanji"]+"<rt>"+flashCards[current_card]["Vocab"]+"</rt></ruby>";
-		if ($('#autoplay').is(':checked')) {
+		cardText = "<ruby>"+flashCards[current_card]["Kanji"];
+		if($('#furigana_en').is(':checked')||flashCards[current_card]["Genki Kanji Level"]<2)
+			cardText +="<rt>"+flashCards[current_card]["Vocab"]+"</rt>";
+		
+		cardText+="</ruby>";
+		if ($('#autoplay').is(':checked')&&flashCards[current_card]["Play Audio"]==true) {
 			togglePlay();
 		}
 		/*else{
