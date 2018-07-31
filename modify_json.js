@@ -16,7 +16,7 @@ function getJLPTKanji(myList){
 				let jlpt_array=[];
 				for(var j=0;j<matches_array.length; j++){
 					if(genki_kanji.indexOf(matches_array[j])>=0){	//may need to change this later if changing genki_kanji to an object list
-						jlpt_array.push("<a href='https://jisho.org/search/"+matches_array[j]+"%23kanji'>"+matches_array[j]+"</a>");
+						jlpt_array.push(matches_array[j]);//jlpt_array.push("<a href='https://jisho.org/search/"+matches_array[j]+"%23kanji'>"+matches_array[j]+"</a>");
 					}
 				}
 				if(jlpt_array.length>=matches_array.length)
