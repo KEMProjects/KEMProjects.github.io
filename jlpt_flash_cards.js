@@ -21,7 +21,7 @@ function changeCard(){
 	flipCard();
 }
 function lastCard(){
-	if(current_card>1){
+	if(current_card>0){
 		current_card--;
 		changeCard();
 	}
