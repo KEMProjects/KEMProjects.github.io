@@ -1,7 +1,7 @@
 //var quizList=[];
 //var quizIndex=-1;
 //var answerList=[];
-
+var score=0;
 function fisher_yates_shuffle(arr) {
 	let x = arr.length;
 	let temp, rand;
@@ -42,24 +42,8 @@ function buildQuizList(){
 	
 	flashCards=fisher_yates_shuffle(flashCards);
 	
-	/*quizList=new Array();
-	let tempList = [];
-	for(var i=0;i<flashCards.length;i++){
-		tempList.push(i);
-	}
-	for(var i=0;i<flashCards.length;i++){
-		let rand =Math.floor((Math.random() * tempList.length));
-		quizList.push(tempList[rand]-1);
-		tempList.splice(rand, 1);
-	}
-	current_card=quizList[0];
-	quizIndex=0;
-	nextCard();
-	*/
-	
 	total_cards=flashCards.length;
 	nextCard();
-
 }
 function buildAnswers(){	
 	let numAnswers=4;
@@ -79,10 +63,17 @@ function buildAnswers(){
 		$(ansrButton).text(answerList[i]["English"]);
 	}
 }
+
+function addEndCard(){
+	endCard="<h3>Final Score</h3><h4>"+score+" out of "+total_cards+"</h4>";
+}
+
 function buildQuiz(){
 	//flashCards[current_card]["Vocab"]
+	score=0;
 	buildQuizList();
 	buildAnswers();
+	//addEndCard();
 	$('#answrButtons').show();
 }
 
@@ -92,9 +83,12 @@ function chooseAnswer(answrNum){
 	if(answer.localeCompare(check)==0){//correct
 		nextCard();
 		buildAnswers();
+		score++;
 		$('#incorrect').hide();
+		
 	}
 	else{
 		$('#incorrect').show();
+		//$('#answrButtons').hide();
 	}
 }

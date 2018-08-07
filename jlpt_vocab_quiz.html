@@ -14,6 +14,7 @@
 	<h1>Quiz Vocab & Kanji</h1>
 	<header class="fc_header">
 		<ul class="nav">
+		<li><a href="index.html" style="margin-right:2em;">Home</a></li>
 		<li>
 		<select id="level_select" name = "level_select" onchange="buildQuiz()">
 			<option value="0">Select a Level</option>
@@ -41,29 +42,30 @@
 		</li>
 		</ul>
 	</header>
-	<div class="quiz">
-		<h2 id="fc_text">Load a quiz!</h2>
+	<div class="fc_container">
+		<div class="cardContainer quiz">
+			<span id="fc_text">Select a Level</span>
+		</div>
 	</div>
-	<footer class="fc_footer">
-		<ul class="nav" id="answrButtons">
-		<li>
-			<button id="1" onclick="chooseAnswer(1)"></button>
-		</li>
-		<li>
-			<button id="2" onclick="chooseAnswer(2)"></button>
-		</li>
-		<li>
-			<button id="3" onclick="chooseAnswer(3)"></button>
-		</li>
-		<li>
-			<button id="4" onclick="chooseAnswer(4)"></button>
-		</li>
-		<li>
-		<button id="save" onclick="saveCard()">
-			Save card
-		</button>
-		</li>
-	</footer>
-	
+			<footer class="fc_footer">
+			<ul class="nav" id="answrButtons">
+			<li>
+				<button id="1" onclick="chooseAnswer(1)"></button>
+			</li>
+			<li>
+				<button id="2" onclick="chooseAnswer(2)"></button>
+			</li>
+			<li>
+				<button id="3" onclick="chooseAnswer(3)"></button>
+			</li>
+			<li>
+				<button id="4" onclick="chooseAnswer(4)"></button>
+			</li>
+			<li>
+			<button id="save" onclick="saveCard()">
+				Save card
+			</button>
+			</li>
+		</footer>
 </body>
 </html>

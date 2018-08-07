@@ -1,5 +1,7 @@
+<html>
+<head>
+<style>
 @import url('https://fonts.googleapis.com/css?family=Allura|Averia+Sans+Libre|Pacifico');
-
 :root{
 	--blue: #84e9ed;
 	--dark-blue: #4ccfd4;
@@ -24,11 +26,6 @@
 }
 body{
 	background-color:var(--blue);
-	font-family: 'Verdana';
-	height: 100%;
-    margin: 0;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 h1{
 	font-size:3em;
@@ -36,15 +33,17 @@ h1{
 	text-align:center;
 	text-shadow: 2px 2px #4ccfd4,-1px 0px var(--dark-yellow);
 	font-family: 'Pacifico', cursive;
-	margin:1% 0 1% 0;
 }
-h2{
-	font-size:2em;
-	color:var(--yellow);
-	text-align:center;
-	text-shadow: 2px 2px #4ccfd4;
-	font-family: 'Pacifico', cursive;
-	margin:1% 0 1% 0;
+p{
+	border-radius: 10px;
+	color:#000;
+	background-color:var(--cream);
+	border: 1px solid var(--light-yellow);
+	margin-left:20%;
+	margin-right:20%;
+	padding:2%;
+	text-align:justify;
+	box-shadow: 0px 2px 4px var(--dark-blue);
 }
 button{
 	font-family: 'Averia Sans Libre', cursive;
@@ -52,12 +51,12 @@ button{
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
-    font-size: 1em;
-	margin:0;
+   /* display: inline-block;*/
+    font-size: 16px;
 	border-radius: 25px;
 	
 }
-li:nth-child(3n+1) button{
+button:nth-child(1){
 	color:white;
 	background-color:var(--pink);
 	box-shadow: 0px var(--shadow-height) var(--dark-pink), 0px var(--vshadow-height) 2px #3EA9AD;
@@ -67,7 +66,7 @@ li:nth-child(3n+1) button{
 	background-color:var(--pink2);
 	box-shadow: 0px var(--shadow-height) var(--dark-pink2), 0px var(--vshadow-height) 2px #3EA9AD;
 }
-li:nth-child(3n+2) button{
+button:nth-child(2){
 	color:var(--vdark-brown);
 	background-color:var(--yellow);
 	box-shadow: 0px var(--shadow-height) var(--dark-yellow), 0px var(--vshadow-height) 2px #3EA9AD;
@@ -77,12 +76,12 @@ li:nth-child(3n+2) button{
 	background-color:var(--yellow2);
 	box-shadow: 0px var(--shadow-height) var(--dark-yellow2), 0px var(--vshadow-height) 2px #3EA9AD;
 }
-li:nth-child(3n+3) button{
+button:nth-child(3){
 	color:white;
 	background-color:var(--purple);
 	box-shadow: 0px var(--shadow-height) var(--dark-purple), 0px var(--vshadow-height) 2px #3EA9AD;
 }
-li:nth-child(3n+1) button:active{
+button:nth-child(1):active{
 	position:relative;
 	top: var(--shadow-height);
 	box-shadow: 0px 1px 2px #3EA9AD;
@@ -92,7 +91,7 @@ li:nth-child(3n+1) button:active{
 	top: var(--shadow-height);
 	box-shadow: 0px 1px 2px #3EA9AD;
 }
-li:nth-child(3n+2) button:active{
+button:nth-child(2):active{
 	position:relative;
 	top: var(--shadow-height);
 	box-shadow: 0px 1px 2px #3EA9AD;
@@ -102,25 +101,27 @@ li:nth-child(3n+2) button:active{
 	top: var(--shadow-height);
 	box-shadow: 0px 1px 2px #3EA9AD;
 }
-li:nth-child(3n+3) button:active{
+button:nth-child(3):active{
 	position:relative;
 	top: var(--shadow-height);
 	box-shadow: 0px 1px 2px #3EA9AD;
 }
 header{
+	padding:10px;
+	margin-left:-10px;
 	text-align:center;
-	padding:0;
-	padding-bottom:1%;
+	/*horizontal-align:center;*/
+	vertical-align:center;
 	background-color:var(--dark-blue);
+	height:3.5em;
 	width:100%;
-	margin-bottom:1%;
-	display:inline-block;
-
+	margin-bottom:0px;
 }
 footer{
 	padding:10px;
 	margin-left:-10px;
 	text-align:center;
+	/*horizontal-align:center;*/
 	vertical-align:center;
 	height:3.5em;
 	width:100%;
@@ -144,112 +145,62 @@ select{
 	text-align:justify;
 	box-shadow: 0px 2px 4px var(--dark-blue);
 }
-table{
-	border-collapse: collapse;
-	margin-left:20%;
-	margin-right:20%;
-}
-table, th, td {
-    border: 1px solid #ddd;
-	padding: 10px;
-	text-align:center;
-	font-size: 1em;
-	background-color:white;
-}
-.container{
-	margin-left:20%;
-	margin-right:20%;
-	font-size: 1.5em;
-	text-align:center;
-	/*background-color: white;
-	-moz-box-shadow: 1px 2px 4px rgba(0, 0, 0,0.5);
-    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
-    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);*/
-}
-.fc_container{
-	margin-left:20%;
-	margin-right:20%;
-}
-.nav {
-    list-style-type: none;
-	margin:0;
-	padding:0;
-}
-
-.nav li {
-    display: inline-block;
-	vertical-align:center;
-	padding-top:0px;
-	padding-bottom:0px;
-	margin-left:5px;
-	margin-right:5px;
-	margin-top:0.5em;
-	font-size:1.5em;
-	line-height:1.55em;
-}
-.fc_header{
-
-}
-.fc_footer{
-	text-align:center;
-	display:inline-block;
-	width:100%;
-	padding:0;
-	
-}
-.cardContainer{
-	display:block;
-	text-align:center;
-	vertical-align:center;
-	width:100%;
-	border-radius: 10px;
-	color:#000;
-	background-color:var(--cream);
-	border: 1px solid var(--light-yellow);
-	box-shadow: 0px 2px 4px var(--dark-blue);
-	font-family: 'Open Sans', cursive;
-}
-.quiz{
-	padding-top:2%;
-	font-size: 4em;
-	padding-top:10%;
-	padding-bottom:10%;
-}
-
-.flashcards{
-	/*display:block;*/
-	padding-top:10%;
-	padding-bottom:10%;
-	font-size: 7em;
-	height:400px;
-	line-height: 400px;
-}
-#answrButtons{
-	display:none;
-}
-#incorrect{
-	display:none;
-	color:var(--pink2);
-}
-label[for=autoplay]{
-	font-family: 'Verdana';
-}
-label[for=furigana_en]{
-	font-family: 'Verdana';
-}
-#autoplay{
-	border:2px dotted solid black;
-}
-#fc_cnt{ 
+option{
+	padding:0.1em;
+	border: 2px solid pink;
+	border-radius:10px;
 	font-family: 'Averia Sans Libre', cursive;
-	font-size:1.5em;
-	padding-left:2px;
+	text-align:justify;
 }
-#fc_text{
-	margin:0;
-	padding:0;
-	display: inline-block;
-	vertical-align: middle;
-	line-height: normal;
+#b-div{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/a9/Japanese_Wave_Pattern.svg");
+	background-blend-mode: darken;
+	background-color:var(--blue);
+	margin:0px;
+	padding:1em;
+	margin-left:-1em;
+	width:100%;
 	
 }
+
+</style>
+</head>
+<body>
+<h1 id="head1">This is a Test Header</h1>
+<header id="button_div">
+	<button id="button1">
+	Button 1
+	</button>
+	<!--<button id="button2">
+	Button 2
+	</button>-->
+	<button id="button3">
+	Button 3
+	</button>
+	<!--<button id="button4">
+	Button 4
+	</button>-->
+	<button id="button5">
+	Button 5
+	</button>
+</header>
+<div>
+<p id="p1">Apparently we had reached a great height in the atmosphere, for the sky was a dead black, and the stars had ceased to twinkle. By the same illusion which lifts the horizon of the sea to the level of the spectator on a hillside, the sable cloud beneath was dished out, and the car seemed to float in the middle of an immense dark sphere, whose upper half was strewn with silver. Looking down into the dark gulf below, I could see a ruddy light streaming through a rift in the clouds. </br>
+<a href="" id="link1">Link 1</a></br>
+
+</p>
+</div>
+<footer>
+<form>
+<select>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="mercedes">Mercedes</option>
+  <option value="audi">Audi</option>
+</select>
+
+<input type="checkbox">Check</input>
+</form>
+</footer>
+</body>
+</html>
