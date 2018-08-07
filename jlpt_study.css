@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Allura|Averia+Sans+Libre|Pacifico');
 
 :root{
-	--blue: #84e9ed;
+	--blue: #a2e9ed; /*#84e9ed;*/
 	--dark-blue: #4ccfd4;
 	--light-yellow: #fff5db;
 	--yellow: #ffe28a;
@@ -14,7 +14,7 @@
 	--dark-pink2: #D35654;
 	--purple: #8c87eb;
 	--dark-purple: #6B64EA;
-	--cream: #fff9f7;
+	--cream: #ffefc1/*fff9f7*/;
 	--light-grey:#D8D3D2;
 	--brown: #a36c58;
 	--dark-brown: #472e25;
