@@ -78,7 +78,7 @@ function saveCard(id){
 	}
 }
 function findSavedCard(id){
-	return index = saveList.indexOf(id);
+	return saveList.indexOf(id);
 }
 function removeSavedCard(id){
 	let index= findSavedCard(id);
