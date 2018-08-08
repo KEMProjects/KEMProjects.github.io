@@ -14,13 +14,14 @@
 	--dark-pink2: #D35654;
 	--purple: #8c87eb;
 	--dark-purple: #6B64EA;
-	--cream: #ffefc1/*fff9f7*/;
+	--cream: #EFFFF4/*fff9f7*/;
 	--light-grey:#D8D3D2;
 	--brown: #a36c58;
 	--dark-brown: #472e25;
-	--vdark-brown: #301f19;
+	--font: #301f19;
 	--shadow-height: 7px;
 	--vshadow-height: 10px;
+	--font: #333147;
 }
 body{
 	background-color:var(--blue);
@@ -29,9 +30,10 @@ body{
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
+	color: var(--font);
 }
 h1{
-	font-size:3em;
+	font-size:6vh;
 	color:var(--light-yellow);
 	text-align:center;
 	text-shadow: 2px 2px #4ccfd4,-1px 0px var(--dark-yellow);
@@ -39,15 +41,15 @@ h1{
 	margin:1% 0 1% 0;
 }
 h2{
-	font-size:2em;
-	color:var(--yellow);
+	font-size:5vh;
+	color:var(--pink2);
 	text-align:center;
-	text-shadow: 2px 2px #4ccfd4;
+	text-shadow: 2px 2px #4ccfd4,-1px 0px var(--dark-pink2);
 	font-family: 'Pacifico', cursive;
 	margin:1% 0 1% 0;
 }
 button{
-	font-family: 'Averia Sans Libre', cursive;
+	font-family: 'Averia Sans Libre', sans-serif;
 	border: none;
     padding: 15px 32px;
     text-align: center;
@@ -68,12 +70,12 @@ li:nth-child(3n+1) button{
 	box-shadow: 0px var(--shadow-height) var(--dark-pink2), 0px var(--vshadow-height) 2px #3EA9AD;
 }
 li:nth-child(3n+2) button{
-	color:var(--vdark-brown);
+	color:var(--font);
 	background-color:var(--yellow);
 	box-shadow: 0px var(--shadow-height) var(--dark-yellow), 0px var(--vshadow-height) 2px #3EA9AD;
 }
 #button4{
-	color:var(--vdark-brown);
+	color:var(--font);
 	background-color:var(--yellow2);
 	box-shadow: 0px var(--shadow-height) var(--dark-yellow2), 0px var(--vshadow-height) 2px #3EA9AD;
 }
@@ -131,7 +133,7 @@ a{
 	text-decoration:none;
     font-size: 1em;
 	padding:0.1em;
-	color:black;
+	color:var(--font);
 	border-color:var(--pink2);
 }
 a:hover{
@@ -181,11 +183,12 @@ table, th, td {
 	vertical-align:center;
 	padding-top:0px;
 	padding-bottom:0px;
-	margin-left:5px;
-	margin-right:5px;
-	margin-top:0.5em;
-	font-size:1.5em;
-	line-height:1.55em;
+	margin-left:0.5vw;
+	margin-right:0.5vw;
+	margin-top:1vh;
+	margin-bottom:1vh;
+	font-size:3vh;
+	line-height:3vh;
 }
 .fc_header{
 
@@ -203,26 +206,23 @@ table, th, td {
 	vertical-align:center;
 	width:100%;
 	border-radius: 10px;
-	color:#000;
+	color:var(--font);
 	background-color:var(--cream);
 	border: 1px solid var(--light-yellow);
 	box-shadow: 0px 2px 4px var(--dark-blue);
-	font-family: 'Open Sans', cursive;
+	font-family: 'Open Sans', sans-serif;
+	padding-top:2vh;
+	padding-bottom:2vh;
 }
 .quiz{
-	padding-top:2%;
-	font-size: 4em;
-	padding-top:10%;
-	padding-bottom:10%;
+	font-size: 4vw;
 }
 
 .flashcards{
 	/*display:block;*/
-	padding-top:10%;
-	padding-bottom:10%;
-	font-size: 7em;
-	height:400px;
-	line-height: 400px;
+	font-size: 7vw;
+	height:50vh;/*400px;*/
+	line-height: 50vh;
 }
 #answrButtons{
 	display:none;
@@ -242,7 +242,7 @@ label[for=furigana_en]{
 }
 #fc_cnt{ 
 	font-family: 'Averia Sans Libre', cursive;
-	font-size:1.5em;
+	font-size:2vh;
 	padding-left:2px;
 }
 #fc_text{
