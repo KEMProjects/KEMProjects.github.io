@@ -12,11 +12,11 @@ function createAudioPlayer(kana, kanji){
 	let newKanji= kanji.replace(regexp,"");
 
 	let link = japaneseAudio(newKana,newKanji);
-	
-	let newAudio=$("<audio id='flashaudio' preload='none'><source src='"+link+"' type='audio/mp3' /></audio>");
+	let audioCode="<audio id='flashaudio' preload='none'><source src='"+link+"' type='audio/mp3' /></audio>";
+	let newAudio=$(audioCode);
 	$("#flashaudio").replaceWith(newAudio);
 	 // Load src of the audio file
-	$("#flashaudio").load();	
+	$("#flashaudio").on("load");	
 	
 	//return "<audio id='flashaudio' preload='none'><source src='"+link+"' type='audio/mp3' /></audio>";		
 }

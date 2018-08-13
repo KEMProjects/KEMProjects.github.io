@@ -50,7 +50,7 @@ function buildAnswers(){
 	let tempList = myList.slice();
 	let answerList=[];
 	answerList.push(flashCards[current_card]);
-	tempList.splice(myList.findIndex(x => x.ID==flashCards[current_card]["ID"]), 1);
+	tempList.splice(myList.findIndex(x => x.ID==flashCards[current_card]["Info"]["ID"]), 1);
 	tempList=fisher_yates_shuffle(tempList);
 	for(var i=0;i<numAnswers-1;i++){
 		//let rand =Math.floor((Math.random() * tempList.length));

@@ -4,6 +4,12 @@ var current_card=-1;
 var total_cards=0;
 var face=1;
 var saveList=[];
+function cardFaceClick(){
+	if(face==1)
+		flipCard();
+	else
+		nextCard();
+}
 function enableFurigana(){
 	if(face==1){
 		face=-1;
@@ -16,7 +22,7 @@ function changeCard(){
 	$('#fc_cnt').html(current_card+1 + " out of " + total_cards);
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
-	let id=flashCards[current_card]["ID"];
+	let id=flashCards[current_card]["Info"]["ID"];
 	changeSaveButton(id);
 	flipCard();
 }
@@ -38,11 +44,11 @@ function flipCard(){
 	face *=-1;
 	if(face==1){
 		cardText = "<ruby>"+flashCards[current_card]["Kanji"];
-		if($('#furigana_en').is(':checked')||flashCards[current_card]["Genki Kanji Level"]<2)
+		if($('#furigana_en').is(':checked')||flashCards[current_card]["Info"]["Genki Kanji Level"]<2)
 			cardText +="<rt>"+flashCards[current_card]["Vocab"]+"</rt>";
 		
 		cardText+="</ruby>";
-		if ($('#autoplay').is(':checked')&&flashCards[current_card]["Play Audio"]==true) {
+		if ($('#autoplay').is(':checked')&&flashCards[current_card]["Info"]["Play Audio"]==true) {
 			togglePlay();
 		}
 		/*else{

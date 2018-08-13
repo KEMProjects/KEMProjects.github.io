@@ -35,7 +35,7 @@ function updateJSONList(){
 			let kanj_str=myList[i]["Genki Kanji"][j];
 			myList[i]["Genki Kanji"][j]="<a href='https://jisho.org/search/"+kanj_str+"%23kanji'>"+kanj_str+"</a>";
 		}
-		delete myList[i]["Play Audio"];
+		delete myList[i]["Info"];
 	}
 }
 

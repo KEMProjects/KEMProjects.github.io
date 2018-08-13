@@ -1,7 +1,10 @@
 <!DOCTYPE html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
 <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="build_table.js"></script>
 <script src="play_audio_word.js"></script>
 <script src="cookies.js"></script>
@@ -12,19 +15,21 @@
 <meta charset="UTF-8">
 </head>
 <body>
-  <h1>Vocabulary from Genki 1 & 2</h1>
-  <header class="fc_header">
-	<ul class="nav">
-	<li><a href="index.html" style="margin-right:2em;">Home</a></li>
-	<li>
-	<select id="level_select" name = "level_select" onchange="updateTable()">
-		<option value="0">Choose Level</option>
-	</select>
-	</li>
-	</ul>
-	
-  </header>
-  <table id="vocabTable" border="1">
-  </table>
+	<div class="container">
+	  <h1>Vocabulary from Genki 1 & 2</h1>
+	  <header class="fc_header">
+		<ul class="nav">
+		<li><a href="index.html" style="margin-right:2em;">Home</a></li>
+		<li>
+		<select id="level_select" name = "level_select" onchange="updateTable()">
+			<option value="0">Choose Level</option>
+		</select>
+		</li>
+		</ul>
+		
+	  </header>
+	  <table id="vocabTable" border="1">
+	  </table>
+  </div>
 </body>
 </html>
