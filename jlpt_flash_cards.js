@@ -84,7 +84,8 @@ function saveCard(id){
 	}
 }
 function findSavedCard(id){
-	return saveList.indexOf(id);
+	let found =  saveList.indexOf(id.toString());
+	return found;
 }
 function removeSavedCard(id){
 	let index= findSavedCard(id);
@@ -99,6 +100,7 @@ function buildCards(){
 	flashCards=[];
 	current_card=-1;
 	total_cards=0;
+	saveList=getCookie("saveList");
 	if(level==25){
 		for (var i = 0; i < saveList.length; i++) {
 			flashCards.push(myList[saveList[i]]);
