@@ -36,7 +36,7 @@ h1{
 	font-size:6vh;
 	color:var(--light-yellow);
 	text-align:center;
-	text-shadow: 2px 2px #4ccfd4,-1px 0px var(--dark-yellow);
+	text-shadow: -1px 0px var(--dark-yellow),1px 0px var(--dark-yellow),0px -1px var(--dark-yellow),0px 1px var(--dark-yellow),2px 2px #4ccfd4;
 	font-family: 'Pacifico', cursive;
 	margin:1% 0 1% 0;
 }
@@ -44,7 +44,7 @@ h2{
 	font-size:5vh;
 	color:var(--pink2);
 	text-align:center;
-	text-shadow: 2px 2px #4ccfd4,-1px 0px var(--dark-pink2);
+	text-shadow: -1px 0px var(--brown),1px 0px var(--brown),0px -1px var(--brown),0px 1px var(--brown),2px 2px #4ccfd4;
 	font-family: 'Pacifico', cursive;
 	margin:1% 0 1% 0;
 }
