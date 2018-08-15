@@ -23,6 +23,10 @@ function changeCard(){
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
 	let id=flashCards[current_card]["Info"]["ID"];
+	if(flashCards[current_card]["Info"]["Play Audio"]==false)
+		$('#audio_cont').prop('disabled', true);
+	else 
+		$('#audio_cont').prop('disabled', false);
 	changeSaveButton(id);
 	flipCard();
 }

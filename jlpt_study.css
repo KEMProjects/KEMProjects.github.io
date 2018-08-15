@@ -1,30 +1,33 @@
-@import url('https://fonts.googleapis.com/css?family=Allura|Averia+Sans+Libre|Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Allura|Averia+Sans+Libre|Pacifico|Architects+Daughter');
 
 :root{
 	--blue: #a2e9ed; /*#84e9ed;*/
+	--green: #B2E6B5;
+	--dark-green: #58B65E;
 	--dark-blue: #4ccfd4;
+	--shadow: #58B65E;/*58B65E*/
 	--light-yellow: #fff5db;
 	--yellow: #ffe28a;
 	--dark-yellow:#F2CB60;
-	--yellow2: #ffc689;
-	--dark-yellow2:#F2A85E;
+	--yellow2: #FFD3AE;/*#ffc689;*/
+	--dark-yellow2:#AC6F3D;
 	--pink: #e07aa8;
 	--dark-pink: #DD5896;
 	--pink2: #d67774;
-	--dark-pink2: #D35654;
+	--dark-pink2: #87221F;
 	--purple: #8c87eb;
 	--dark-purple: #6B64EA;
 	--cream: #EFFFF4/*fff9f7*/;
 	--light-grey:#D8D3D2;
 	--brown: #a36c58;
 	--dark-brown: #472e25;
-	--font: #301f19;
+	/*--font: #301f19;*/
 	--shadow-height: 7px;
 	--vshadow-height: 10px;
 	--font: #333147;
 }
 body{
-	background-color:var(--blue);
+	background-color:var(--green);
 	font-family: 'Verdana';
 	height: 100%;
     margin: 0;
@@ -34,19 +37,19 @@ body{
 }
 h1{
 	font-size:6vh;
-	color:var(--light-yellow);
+	color:var(--yellow);
 	text-align:center;
-	text-shadow: -1px 0px var(--dark-yellow),1px 0px var(--dark-yellow),0px -1px var(--dark-yellow),0px 1px var(--dark-yellow),2px 2px #4ccfd4;
-	font-family: 'Pacifico', cursive;
+	text-shadow: -1px 0px var(--dark-yellow2),1px 0px var(--dark-yellow2),0px -1px var(--dark-yellow2),0px 1px var(--dark-yellow2),0px 3px var(--shadow);
+	font-family: 'Architects Daughter', cursive;
 	margin:1% 0 1% 0;
 }
 h2{
 	font-size:5vh;
-	color:var(--pink2);
+	color:var(--font);
 	text-align:center;
-	text-shadow: -1px 0px var(--brown),1px 0px var(--brown),0px -1px var(--brown),0px 1px var(--brown),2px 2px #4ccfd4;
-	font-family: 'Pacifico', cursive;
+	/*text-shadow: -1px 0px var(--purple),1px 0px var(--purple),0px -1px var(--purple),0px 1px var(--purple),2px 2px var--shadow;*/
 	margin:1% 0 1% 0;
+	border-bottom: 1px dashed var(--dark-pink);
 }
 button{
 	font-family: 'Averia Sans Libre', sans-serif;
@@ -60,64 +63,69 @@ button{
 	border-radius: 25px;
 }
 li:nth-child(3n+1) button{
-	color:white;
-	background-color:var(--pink);
-	box-shadow: 0px var(--shadow-height) var(--dark-pink), 0px var(--vshadow-height) 2px #3EA9AD;
+	color:var(--font);
+	background-color:var(--yellow);
+	box-shadow: 0px var(--shadow-height) var(--dark-yellow), 0px var(--vshadow-height) 2px var(--shadow);
 }
 #button2{
 	color:white;
 	background-color:var(--pink2);
-	box-shadow: 0px var(--shadow-height) var(--dark-pink2), 0px var(--vshadow-height) 2px #3EA9AD;
+	box-shadow: 0px var(--shadow-height) var(--dark-pink2), 0px var(--vshadow-height) 2px var(--shadow);
 }
 li:nth-child(3n+2) button{
-	color:var(--font);
-	background-color:var(--yellow);
-	box-shadow: 0px var(--shadow-height) var(--dark-yellow), 0px var(--vshadow-height) 2px #3EA9AD;
+	color:white;
+	background-color:var(--pink);
+	box-shadow: 0px var(--shadow-height) var(--dark-pink), 0px var(--vshadow-height) 2px var(--shadow);
 }
 #button4{
 	color:var(--font);
 	background-color:var(--yellow2);
-	box-shadow: 0px var(--shadow-height) var(--dark-yellow2), 0px var(--vshadow-height) 2px #3EA9AD;
+	box-shadow: 0px var(--shadow-height) var(--dark-yellow2), 0px var(--vshadow-height) 2px var(--shadow);
 }
 li:nth-child(3n+3) button{
 	color:white;
 	background-color:var(--purple);
-	box-shadow: 0px var(--shadow-height) var(--dark-purple), 0px var(--vshadow-height) 2px #3EA9AD;
+	box-shadow: 0px var(--shadow-height) var(--dark-purple), 0px var(--vshadow-height) 2px var(--shadow);
 }
 li:nth-child(3n+1) button:active{
 	position:relative;
 	top: var(--shadow-height);
-	box-shadow: 0px 1px 2px #3EA9AD;
-}
-#button2:active{
-	position:relative;
-	top: var(--shadow-height);
-	box-shadow: 0px 1px 2px #3EA9AD;
+	box-shadow: 0px 1px 2px var(--shadow);
 }
 li:nth-child(3n+2) button:active{
 	position:relative;
 	top: var(--shadow-height);
-	box-shadow: 0px 1px 2px #3EA9AD;
-}
-#button4:active{
-	position:relative;
-	top: var(--shadow-height);
-	box-shadow: 0px 1px 2px #3EA9AD;
+	box-shadow: 0px 1px 2px var(--shadow);
 }
 li:nth-child(3n+3) button:active{
 	position:relative;
 	top: var(--shadow-height);
-	box-shadow: 0px 1px 2px #3EA9AD;
+	box-shadow: 0px 1px 2px var(--shadow);
+}
+li:nth-child(3n+1) button:disabled{
+	position:relative;
+	top: var(--shadow-height);
+	box-shadow: 0px 1px 2px var(--shadow);
+}
+li:nth-child(3n+2) button:disabled{
+	position:relative;
+	top: var(--shadow-height);
+	box-shadow: 0px 1px 2px var(--shadow);
+}
+li:nth-child(3n+3) button:disabled{
+	position:relative;
+	top: var(--shadow-height);
+	box-shadow: 0px 1px 2px var(--shadow);
 }
 header{
 	text-align:center;
 	padding:0;
 	padding-bottom:1%;
-	background-color:var(--dark-blue);
+	background-color:#87D38C;
 	width:100%;
 	margin-bottom:1%;
 	display:inline-block;
-	box-shadow: 0px 1px 2px #3EA9AD;
+	box-shadow: 0px 1px 2px var(--shadow);
 }
 footer{
 	padding:10px;
@@ -134,17 +142,17 @@ a{
     font-size: 1em;
 	padding:0.1em;
 	color:var(--font);
-	border-color:var(--pink2);
+	border-color:var(--pink);
 }
 a:hover{
-	background-color:var(--pink2);
+	background-color:var(--pink);
 }
 select{
 	padding:0.1em;
 	border-radius:3px 3px 0px 0px;
 	font-family: 'Averia Sans Libre', cursive;
 	text-align:justify;
-	box-shadow: 0px 2px 4px var(--dark-blue);
+	box-shadow: 0px 2px 4px var(--dark-green);
 }
 table{
 	border-collapse: collapse;
@@ -200,6 +208,23 @@ table, th, td {
 	padding:0;
 	
 }
+.floatContainer{
+	display:block;
+	text-align:center;
+	vertical-align:center;
+	width:100%;
+	border-radius: 10px;
+	color:var(--font);
+	background-color:var(--cream);
+	border: 1px solid var(--light-yellow);
+	box-shadow: 0px 2px 4px var(--dark-green);
+	font-family: 'Open Sans', sans-serif;
+	padding-top:2vh;
+	padding-bottom:2vh;
+	padding-left:2vh;
+	padding-right:2vh;
+	margin-bottom:1vh;
+}
 .cardContainer{
 	display:block;
 	text-align:center;
@@ -209,10 +234,11 @@ table, th, td {
 	color:var(--font);
 	background-color:var(--cream);
 	border: 1px solid var(--light-yellow);
-	box-shadow: 0px 2px 4px var(--dark-blue);
+	box-shadow: 0px 2px 4px var(--dark-green);
 	font-family: 'Open Sans', sans-serif;
 	padding-top:2vh;
 	padding-bottom:2vh;
+	margin-bottom:0.5vh;
 }
 .quiz{
 	font-size: 4vw;
@@ -262,7 +288,7 @@ label[for=furigana_en]{
 	}
 	h1{
 		font-size:6vw;
-		text-shadow: 2px 2px #4ccfd4;
+		text-shadow: 2px 2px var(--shadow);
 		font-family: 'Pacifico', cursive;
 		margin:1% 0 1% 0;
 	}

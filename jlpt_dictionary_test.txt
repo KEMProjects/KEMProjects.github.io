@@ -1,0 +1,30 @@
+﻿[
+   {
+      "Vocab": "いつか",
+      "Kanji": "五日",
+      "POS": "n.",
+      "English": "the fifth day of a month",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "くがつ",
+      "Kanji": "九月",
+      "POS": "n.",
+      "English": "September",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ごがつ",
+      "Kanji": "五月",
+      "POS": "n.",
+      "English": "May",
+      "Lesson": 4
+   },
+   {
+      "Vocab": "ここのか",
+      "Kanji": "九日",
+      "POS": "n.",
+      "English": "the ninth day of a month",
+      "Lesson": 4
+   }
+]
