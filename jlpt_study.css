@@ -40,7 +40,7 @@ h1{
 	color:var(--yellow);
 	text-align:center;
 	text-shadow: -1px 0px var(--dark-yellow2),1px 0px var(--dark-yellow2),0px -1px var(--dark-yellow2),0px 1px var(--dark-yellow2),0px 3px var(--shadow);
-	font-family: 'Architects Daughter', cursive;
+	font-family: 'Architects Daughter', sans-serif;
 	margin:1% 0 1% 0;
 }
 h2{

@@ -23,11 +23,7 @@ function changeCard(){
 	let audioLink=createAudioPlayer(flashCards[current_card]["Vocab"], flashCards[current_card]["Kanji"]);
 	//$('#flashaudio').attr("src", audioLink);
 	let id=flashCards[current_card]["Info"]["ID"];
-	if(flashCards[current_card]["Info"]["Play Audio"]==false)
-		$('#audio_cont').prop('disabled', true);
-	else 
-		$('#audio_cont').prop('disabled', false);
-	changeSaveButton(id);
+	updateButtons(id);
 	flipCard();
 }
 function lastCard(){
@@ -65,7 +61,7 @@ function flipCard(){
 	$('#fc_text').html(cardText);
 }
 
-function changeSaveButton(id){
+function updateButtons(id){
 	if(findSavedCard(id)>-1){
 		$('#save').text("Remove Card");
 		$("#save").attr("onclick","removeSavedCard("+id+")");
@@ -74,7 +70,10 @@ function changeSaveButton(id){
 		$('#save').text("Save Card");
 		$("#save").attr("onclick","saveCard("+id+")");
 	}
-	
+	if(flashCards[current_card]["Info"]["Play Audio"]==false)
+		$('#audio_cont').prop("disabled",true);
+	else 
+		$('#audio_cont').prop("disabled",false);
 }
 
 function saveCard(id){
