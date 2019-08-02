@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/102/three.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/TweenMax.min.js"></script><!--allow us to animate 3d objects easily-->
+    <script>
+        var scene = new THREE.Scene();
+        var camera = new THREE.PerspectiveCamera(75,window.innerWidth/window.innerHeight,0.1,1000);
+        camera.position.z=5;
+        var renderer=new THREE.WebGLRenderer({antialias:true})
+        renderer.setClearColor("#e5e5e5");
+        renderer.setSize(window.innerWidth,window.innerHeight);
+        //create canvas element w renderer settings
+        document.body.appendChild(renderer.domElement);
+
+        //make responsive
+        window.addEventListener('resize', ()=>{
+            renderer.setSize(window.innerWidth,window.innerHeight);
+            camera.aspect = window.innerWidth/window.innerHeight;
+            camera.updateProjectionMatrix();
+        })
+        
+        var raycaster=new THREE.Raycaster();
+        var mouse = new THREE.Vector2();
+
+        //var geometry=new THREE.SphereGeometry(1,40,40);
+        var geometry = new THREE.BoxGeometry(1,1,1);
+        var material = new THREE.MeshLambertMaterial({color:0xFFCC00});
+        var mesh = new THREE.Mesh(geometry,material);
+        //mesh.position.set(2,2,-2);
+       // mesh.rotation.set(45,0,0);
+        //mesh.scale.set(1,2,1);
+        scene.add(mesh);
+
+        var geometry2 = new THREE.BoxGeometry(1,1,1);
+        var material2 = new THREE.MeshLambertMaterial({color:0xFFCC00});
+        var mesh2 = new THREE.Mesh(geometry2,material2);
+        mesh2.position.y=2;
+        scene.add(mesh2);
+        
+        /*var geometry = new THREE.ParametricGeometry( THREE.ParametricGeometries.klein, 25, 25 );
+        var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+        var klein = new THREE.Mesh( geometry, material );
+        scene.add( klein );
+        */
+        var light = new THREE.PointLight(0xFFFFFF,1,500);
+        light.position.set(10,0,25);
+        scene.add(light);
+        var render= function(){
+            requestAnimationFrame(render);
+            //mesh.rotation.x+=0.05;
+            //mesh.rotation.y+=0.01;
+
+            renderer.render(scene,camera);
+        }
+
+        function onMouseMove(event) {
+            event.preventDefault();
+
+            mouse.x = ( event.clientX / window.innerWidth ) * 2 - 1;
+            mouse.y = - ( event.clientY / window.innerHeight ) * 2 + 1;
+
+            raycaster.setFromCamera(mouse, camera);
+
+            var intersects = raycaster.intersectObjects(scene.children, true);
+            for (var i = 0; i < intersects.length; i++) {
+                this.tl = new TimelineMax();
+                this.tl.to(intersects[i].object.scale, 1, {x: 2, ease: Expo.easeOut})
+                this.tl.to(intersects[i].object.scale, .5, {x: .5, ease: Expo.easeOut})
+                this.tl.to(intersects[i].object.position, .5, {x: 2, ease: Expo.easeOut})
+                this.tl.to(intersects[i].object.rotation, .5, {y: Math.PI*.5, ease: Expo.easeOut}, "=-1.5")
+            }
+        }
+
+        
+
+        window.addEventListener('mousemove', onMouseMove);
+        render();
+        //raycaster
+    </script>
+</body>
+</html>
