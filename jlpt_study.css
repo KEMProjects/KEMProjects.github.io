@@ -198,6 +198,29 @@ table, th, td {
 	font-size:2vh;
 	line-height:2vh;
 }
+.resource {
+    list-style-type: none;
+	text-align: left; 
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:0.5vw;
+	margin-right:0.5vw;
+	margin-top:1vh;
+	margin-bottom:0;
+	font-size:2vh;
+	line-height:2vh;
+}
+
+.resource li {
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:0.5vw;
+	margin-right:0.5vw;
+	margin-top:1vh;
+	margin-bottom:0;
+	font-size:2vh;
+	line-height:3vh;
+}
 .fc_header{
 
 }
