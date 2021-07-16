@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Tile Match</title>
+       <script src="libs/phaser.js" type="text/javascript"></script>
+    </head>
+    <body>
+
+    <script type="text/javascript">
+
+    window.onload = function() {
+
+        var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
+		var tiles=[];
+		var tileButtons=[];
+		var sounds=[];
+		var totalTiles=3;
+		var score=0;
+		var scoreText;
+		var matching =false;
+		var match_made=false;
+		var currMatch='';
+        function preload () {
+
+			game.load.image('bg','assets/bg.png');
+			
+			for(var i=1; i<=totalTiles; i++){
+				game.load.spritesheet('tile'+i,'assets/tile'+i+'.png',100,100);
+			}
+        }
+		//i'm using an index of 1 because i'm crazy and wanted to correlate with the file names
+        function create () {
+			//  A simple background for our game
+			game.add.sprite(0, 0, 'bg');
+			
+			// The numbers given in parameters are the indexes of the frames, in this order: over, out, down
+			for(var i=1; i<=totalTiles; i++){
+				//matching pair tile 1
+				var rand = Math.floor((Math.random() * totalTiles*2) + 1);
+				while(tiles[rand]){
+					rand = Math.floor((Math.random() * totalTiles*2) + 1);
+				}
+				tiles[rand]='tile'+i;
+				//matching pair tile 2
+				rand = Math.floor((Math.random() * totalTiles*2) + 1);
+				while(tiles[rand]){
+					rand = Math.floor((Math.random() * totalTiles*2) + 1);
+				}
+				tiles[rand]='tile'+i;
+			}
+			//row 1
+			for(var i=1; i<=totalTiles;i++){
+				
+				tileButtons[i] = game.add.button(i*200, 200, tiles[i],testAction,this);
+				tileButtons[i].anchor.setTo(0.5, 0.5);
+			}
+			//row 2
+			for(var i=totalTiles+1; i<=totalTiles*2; i++){
+				tileButtons[i] = game.add.button((i-totalTiles)*200, 400, tiles[i],testAction,this);
+				tileButtons[i].anchor.setTo(0.5, 0.5);
+			}
+			/*
+			for(var i=1;i<=totalTiles*2;i++){
+				var onClick = action(tileButtons[i],tiles[i]);
+				tileButtons[i].onInputUp.add(function(){onclick}, this);
+			
+			}
+			*/
+
+			scoreText=game.add.text(16,16,'score:0',{fontSize: '32px', fill: '#000'});
+        }
+		function update(){
+			if(match_made==true){
+				score+=10;
+				scoreText.text='Score: '+score;
+				match_made=false;
+			}
+		}
+		function testAction(){
+			var x=1;
+		
+		}
+		/*
+		function action(tileObj,tileName){
+			return function(){
+				if(tileObj.frame==0){
+					tileObj.setFrames(1,1,1);
+					if(matching==true){
+						if(currMatch==tileName) {
+							match_made=true;
+						}
+						else{
+							match_made=false;
+							matching=false;
+							currMatch='';
+							window.setTimeout(function(){	
+								for(var i=0;i<totalTiles*2;i++)
+									tileObj.setFrames(0,0,0);
+							}, 1000);
+						}
+					}
+					else {
+						currMatch=tileName;
+						matching=true;
+					}
+				}
+			};
+		}*/
+    };
+
+    </script>
+
+    </body>
+</html>

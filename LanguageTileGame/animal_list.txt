@@ -1,0 +1,10 @@
+1.dog-gou
+2cat-mao 
+3bird-niao
+4horse-ma
+5cow-niú
+6fish-yú
+7pig-zhu
+8sheep-yáng 
+9rabbit
+10chicken-ji

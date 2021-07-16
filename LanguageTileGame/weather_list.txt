@@ -1,0 +1,13 @@
+sky-tian
+cloud-yún
+rain-yu
+sunny-qíng
+cloudy-yin
+snow-xue
+summer-xià
+winter-dong
+autumn-qiu
+spring-chun
+hot-rè
+cold-leng
+wind-feng

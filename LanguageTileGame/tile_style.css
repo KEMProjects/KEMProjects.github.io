@@ -1,0 +1,24 @@
+body{
+	background:white;
+	font-family: Courier New;
+}
+h1{
+	text-align:center;
+}
+div{
+	margin-left:25%;
+	margin-right:25%;
+}
+a{
+	color:red;
+}
+a:hover{
+	color:blue;
+}
+ul{
+	list-style:none;
+	position:relative;
+}
+li{
+	width:500px;
+}

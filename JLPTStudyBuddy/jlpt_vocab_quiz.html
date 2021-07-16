@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+<head>
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="play_audio_word.js"></script>
+<script src="cookies.js"></script>
+<script src="jlpt_flash_cards.js"></script>
+<script src="quiz_cards.js"></script>
+<link rel="stylesheet" href="jlpt_study.css">
+<title>JLPT Vocab Quiz</title>
+<meta charset="UTF-8">
+</head>
+<body>
+	<div class="container">
+		<h1>Quiz Vocab & Kanji</h1>
+		<header class="fc_header">
+			<ul class="nav">
+			<li><a href="home.html" style="margin-right:2em;">Home</a></li>
+			<li>
+			<select id="level_select" name = "level_select" onchange="buildQuiz()">
+				<option value="0">Select a Level</option>
+			</select>
+			</li>
+			<!---
+			<li>
+			<input type="checkbox" id="autoplay" name="autoplay"
+				   value="autoplay" />
+			<label for="autoplay">Autoplay Vocab Audio</label>
+			</li>-->
+			<li>
+			<input type="checkbox" id="furigana_en" name="furigana_en"
+				   value="furigana_en" onchange="enableFurigana()"/>
+			<label for="furigana_en">Enable Furigana</label>
+			</li>
+			<li>
+			<span id="fc_cnt">
+			</span>
+			</li>
+			<li>
+			<span id="incorrect">
+				Try again!
+			</span>
+			</li>
+			</ul>
+		</header>
+		<div class="cardContainer quiz">
+			<span id="fc_text">Select a Level</span>
+		</div>
+		<footer class="fc_footer">
+			<ul class="nav" id="answrButtons">
+			<li>
+				<button id="1" onclick="chooseAnswer(1)"></button>
+			</li>
+			<li>
+				<button id="2" onclick="chooseAnswer(2)"></button>
+			</li>
+			<li>
+				<button id="3" onclick="chooseAnswer(3)"></button>
+			</li>
+			<li>
+				<button id="4" onclick="chooseAnswer(4)"></button>
+			</li>
+			<li>
+			<button id="save" onclick="saveCard()">
+				Save card
+			</button>
+			</li>
+		</footer>
+	</div>
+</body>
+</html>
