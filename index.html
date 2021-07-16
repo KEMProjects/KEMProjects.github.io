@@ -8,18 +8,25 @@
 <script src="cookies.js"></script>
 <script src="jlpt_flash_cards.js"></script>
 <link rel="stylesheet" href="jlpt_study.css">
-<title>JLPT Study Home</title>
+<title>Japanese Study Buddy</title>
 <meta charset="UTF-8">
 </head>
 <body>
 	<div class="container">
-	<h1>JLPT study buddy</h1>
+	<h1>Japanese Study Buddy</h1>
 	<div class="floatContainer">
 		<h2>Study Activities</h2>
 		<ul class="nav">
 			<li><a href="jlpt_vocab_table.html">Vocab Table</a></li>
 			<li><a href="jlpt_flash_cards.html">Flash cards</a></li>
 			<li><a href="jlpt_vocab_quiz.html">Vocab Quiz</a></li>
+		</ul>
+		<h3>How it works</h3>
+		<p>This website follows along with the <a href="http://genki.japantimes.co.jp/index_en">Genki Textbook</a>for learning Japanese. The <b>vocab table</b> shows the list of vocabulary by lesson, with links to Kanji details.  The <b>flash cards</b> is an interactive, audio enabled flashcard app where you can study the vocabulary for each lesson, and save specific words to your <b>Custom</b> vocab list.  After you are done studying, try quizzing yourself with the <b>vocab quiz</b>.  You can either quiz yourself from each lesson, or from your custom vocabulary list.</p>
+		<h3>User Settings</h3>
+		<ul class="nav">
+		<li><button id="clear" onclick="clearSaveList()">Clear Saved List</button>
+		</li>
 		</ul>
 	</div>
 	<div class="floatContainer">
@@ -80,11 +87,6 @@
 			<li><a href="http://www.tanos.co.uk/jlpt/">Japanese Language Proficiency Test Resources</a></li>
 		</ul>
 	</div>
-	<h3>User Settings</h3>
-	<ul class="nav">
-	<li><button id="clear" onclick="clearSaveList()">Clear Saved List</button>
-	</li>
-	</ul>
 	</div>
 </body>
 </html>
