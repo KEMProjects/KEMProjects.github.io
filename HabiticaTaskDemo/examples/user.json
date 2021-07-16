@@ -1,0 +1,3235 @@
+{
+    "auth": {
+      "local": {
+        "username": "Cealleigh",
+        "lowerCaseUsername": "cealleigh",
+        "email": "k-macshane@hushmail.com"
+      },
+      "timestamps": {
+        "created": "2018-04-10T20:52:39.624Z",
+        "loggedin": "2021-03-14T18:29:42.507Z",
+        "updated": "2021-03-15T03:37:27.109Z"
+      },
+      "facebook": {},
+      "google": {},
+      "apple": {}
+    },
+    "achievements": {
+      "ultimateGearSets": {
+        "healer": true,
+        "wizard": false,
+        "rogue": false,
+        "warrior": false
+      },
+      "streak": 11,
+      "challenges": [],
+      "perfect": 139,
+      "quests": {
+        "dustbunnies": 2,
+        "moon1": 1,
+        "moon2": 2,
+        "moonstone1": 1,
+        "moon3": 1,
+        "atom1": 1,
+        "goldenknight1": 1,
+        "basilist": 1,
+        "atom2": 1,
+        "atom3": 1,
+        "goldenknight2": 1
+      },
+      "joinedChallenge": true,
+      "joinedGuild": true,
+      "partyUp": true,
+      "partyOn": true,
+      "habiticaDays": 3,
+      "habitBirthdays": 3,
+      "backToBasics": true,
+      "beastMaster": true,
+      "dustDevil": true,
+      "monsterMagus": true,
+      "completedTask": true,
+      "createdTask": true,
+      "fedPet": true,
+      "hatchedPet": true,
+      "purchasedEquipment": true,
+      "primedForPainting": true,
+      "tickledPink": true,
+      "goodAsGold": true,
+      "boneCollector": true,
+      "seeingRed": true
+    },
+    "backer": {},
+    "contributor": {},
+    "purchased": {
+      "ads": false,
+      "txnCount": 3,
+      "skin": {},
+      "hair": {
+        "color": {
+          "pblue2": true,
+          "pgreen2": true,
+          "porange2": true,
+          "ppink2": true,
+          "ppurple2": true,
+          "pyellow2": true
+        },
+        "base": {
+          "2": true,
+          "4": true,
+          "5": true,
+          "6": true,
+          "7": true,
+          "8": true
+        }
+      },
+      "shirt": {},
+      "background": {
+        "violet": true,
+        "blue": true,
+        "green": true,
+        "purple": true,
+        "red": true,
+        "yellow": true,
+        "halflings_house": true,
+        "blossoming_desert": true,
+        "birch_forest": true
+      },
+      "plan": {
+        "consecutive": {
+          "count": 0,
+          "offset": 0,
+          "gemCapExtra": 0,
+          "trinkets": 7
+        },
+        "quantity": 1,
+        "extraMonths": 0,
+        "gemsBought": 0,
+        "mysteryItems": [],
+        "dateUpdated": "2020-04-01T01:41:24.794Z",
+        "customerId": null,
+        "dateCreated": "2018-04-26T04:26:34.972Z",
+        "dateTerminated": "2020-04-23T00:00:00.000Z",
+        "owner": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+        "paymentMethod": null,
+        "planId": null,
+        "lastReminderDate": "2020-04-15T15:56:38.630Z",
+        "subscriptionId": null
+      }
+    },
+    "flags": {
+      "tour": {
+        "intro": -2,
+        "classes": -1,
+        "stats": -1,
+        "tavern": -2,
+        "party": -2,
+        "guilds": -2,
+        "challenges": -1,
+        "market": -2,
+        "pets": -2,
+        "mounts": -1,
+        "hall": -1,
+        "equipment": -2
+      },
+      "tutorial": {
+        "common": {
+          "habits": true,
+          "dailies": true,
+          "todos": true,
+          "rewards": true,
+          "party": true,
+          "pets": true,
+          "gems": true,
+          "skills": true,
+          "classes": true,
+          "tavern": true,
+          "equipment": true,
+          "items": true,
+          "mounts": true,
+          "inbox": true,
+          "stats": true
+        },
+        "ios": {
+          "addTask": false,
+          "editTask": false,
+          "deleteTask": false,
+          "filterTask": false,
+          "groupPets": false,
+          "inviteParty": false,
+          "reorderTask": false
+        }
+      },
+      "customizationsNotification": true,
+      "showTour": true,
+      "dropsEnabled": true,
+      "itemsEnabled": true,
+      "lastNewStuffRead": "55856b30-faaf-4f65-bcb6-7e2b7cf42f0d",
+      "rewrite": true,
+      "classSelected": true,
+      "rebirthEnabled": true,
+      "recaptureEmailsPhase": 0,
+      "weeklyRecapEmailsPhase": 0,
+      "communityGuidelinesAccepted": true,
+      "cronCount": 385,
+      "welcomed": true,
+      "armoireEnabled": true,
+      "armoireOpened": true,
+      "armoireEmpty": false,
+      "cardReceived": false,
+      "warnedLowHealth": true,
+      "verifiedUsername": true,
+      "newStuff": false,
+      "levelDrops": {
+        "atom1": true,
+        "vice1": true,
+        "goldenknight1": true
+      },
+      "lastWeeklyRecap": "2018-04-10T20:52:39.625Z",
+      "onboardingEmailsPhase": "7-b-1523954509045"
+    },
+    "history": {
+      "exp": [
+        {
+          "date": 1523475570199,
+          "value": 12576.303554259766
+        },
+        {
+          "date": 1546357766675,
+          "value": 29300.237544605927
+        },
+        {
+          "date": 1577932171863,
+          "value": 33077.1566951567
+        },
+        {
+          "date": 1583099763198,
+          "value": 34484.11111111111
+        },
+        {
+          "date": 1586128677659,
+          "value": 35305.166666666664
+        },
+        {
+          "date": 1588727152389,
+          "value": 35719.583333333336
+        },
+        {
+          "date": 1591056025576,
+          "value": 35820
+        },
+        {
+          "date": 1600744627853,
+          "value": 35830.5
+        },
+        {
+          "date": 1605148681558,
+          "value": 35967.333333333336
+        },
+        {
+          "date": 1607052281523,
+          "value": 36675.25
+        },
+        {
+          "date": "2021-01-04T01:56:59.704Z",
+          "value": 37284
+        },
+        {
+          "date": "2021-01-16T19:27:08.252Z",
+          "value": 37284
+        },
+        {
+          "date": "2021-01-30T18:59:33.197Z",
+          "value": 37309
+        },
+        {
+          "date": "2021-03-02T03:34:48.553Z",
+          "value": 37409
+        },
+        {
+          "date": "2021-03-02T22:43:28.102Z",
+          "value": 37459
+        },
+        {
+          "date": "2021-03-06T19:20:17.445Z",
+          "value": 37459
+        },
+        {
+          "date": "2021-03-08T02:56:13.102Z",
+          "value": 37484
+        },
+        {
+          "date": "2021-03-08T22:02:15.135Z",
+          "value": 37534
+        },
+        {
+          "date": "2021-03-10T01:28:56.285Z",
+          "value": 37706
+        },
+        {
+          "date": "2021-03-12T03:24:46.566Z",
+          "value": 37706
+        },
+        {
+          "date": "2021-03-13T19:00:56.600Z",
+          "value": 37831
+        },
+        {
+          "date": "2021-03-14T18:29:42.507Z",
+          "value": 37944
+        }
+      ],
+      "todos": [
+        {
+          "date": 1523475570199,
+          "value": -84.99286299565189
+        },
+        {
+          "date": 1546357766675,
+          "value": -118.15908786626721
+        },
+        {
+          "date": 1577932171863,
+          "value": -292.80235717948386
+        },
+        {
+          "date": 1583099763198,
+          "value": -67.98114538811008
+        },
+        {
+          "date": 1586128677659,
+          "value": -50.892082831054374
+        },
+        {
+          "date": 1588727152389,
+          "value": -85.24293709976013
+        },
+        {
+          "date": 1591056025576,
+          "value": -127.70233003659797
+        },
+        {
+          "date": 1600744627853,
+          "value": -124.0846337242323
+        },
+        {
+          "date": 1605148681558,
+          "value": -77.93032781342377
+        },
+        {
+          "date": 1607052281523,
+          "value": -91.97260159387318
+        },
+        {
+          "date": "2021-01-04T01:56:59.704Z",
+          "value": -66.62727632927796
+        },
+        {
+          "date": "2021-01-16T19:27:08.252Z",
+          "value": -72.41504952468996
+        },
+        {
+          "date": "2021-01-30T18:59:33.197Z",
+          "value": -83.279662088742
+        },
+        {
+          "date": "2021-03-02T03:34:48.553Z",
+          "value": -89.2780045246775
+        },
+        {
+          "date": "2021-03-02T22:43:28.102Z",
+          "value": -98.44425575489467
+        },
+        {
+          "date": "2021-03-06T19:20:17.445Z",
+          "value": -107.78880024333722
+        },
+        {
+          "date": "2021-03-08T02:56:13.102Z",
+          "value": -81.8539085662586
+        },
+        {
+          "date": "2021-03-08T22:02:15.135Z",
+          "value": -89.4343955602985
+        },
+        {
+          "date": "2021-03-10T01:28:56.285Z",
+          "value": -75.16434996715446
+        },
+        {
+          "date": "2021-03-12T03:24:46.566Z",
+          "value": -85.51974566788363
+        },
+        {
+          "date": "2021-03-13T19:00:56.600Z",
+          "value": -92.00479342793686
+        },
+        {
+          "date": "2021-03-14T18:29:42.507Z",
+          "value": -95.5032746956122
+        }
+      ]
+    },
+    "items": {
+      "gear": {
+        "equipped": {
+          "armor": "armor_healer_5",
+          "head": "head_special_2",
+          "shield": "shield_healer_5",
+          "eyewear": "eyewear_base_0",
+          "weapon": "weapon_healer_6",
+          "back": "back_base_0"
+        },
+        "costume": {
+          "armor": "armor_mystery_201907",
+          "head": "head_special_piDay",
+          "shield": "shield_special_piDay",
+          "back": "back_mystery_201804",
+          "headAccessory": "headAccessory_mystery_201804",
+          "weapon": "weapon_special_summer2017Warrior",
+          "body": "body_base_0",
+          "eyewear": "eyewear_base_0"
+        },
+        "owned": {
+          "eyewear_special_blackTopFrame": true,
+          "eyewear_special_blueTopFrame": true,
+          "eyewear_special_greenTopFrame": true,
+          "eyewear_special_pinkTopFrame": true,
+          "eyewear_special_redTopFrame": true,
+          "eyewear_special_whiteTopFrame": true,
+          "eyewear_special_yellowTopFrame": true,
+          "armor_special_bardRobes": true,
+          "weapon_warrior_0": true,
+          "weapon_warrior_1": true,
+          "head_special_bardHat": true,
+          "head_warrior_1": true,
+          "weapon_warrior_2": true,
+          "shield_warrior_1": true,
+          "shield_armoire_antiProcrastinationShield": true,
+          "back_mystery_201804": true,
+          "headAccessory_mystery_201804": true,
+          "weapon_special_bardInstrument": true,
+          "head_special_lunarWarriorHelm": true,
+          "weapon_healer_0": true,
+          "armor_healer_1": true,
+          "weapon_healer_1": true,
+          "weapon_healer_2": true,
+          "weapon_healer_3": true,
+          "armor_healer_2": true,
+          "head_healer_1": true,
+          "armor_special_lunarWarriorArmor": true,
+          "armor_healer_3": true,
+          "headAccessory_special_blackHeadband": true,
+          "headAccessory_special_blueHeadband": true,
+          "headAccessory_special_greenHeadband": true,
+          "headAccessory_special_pinkHeadband": true,
+          "headAccessory_special_redHeadband": true,
+          "headAccessory_special_whiteHeadband": true,
+          "headAccessory_special_yellowHeadband": true,
+          "armor_healer_4": true,
+          "back_mystery_201805": true,
+          "head_mystery_201805": true,
+          "shield_special_takeThis": true,
+          "head_healer_2": true,
+          "shield_healer_1": true,
+          "weapon_special_lunarScythe": true,
+          "head_healer_3": true,
+          "armor_special_pageArmor": true,
+          "head_healer_4": true,
+          "weapon_special_summer2017Healer": true,
+          "armor_special_summer2017Healer": true,
+          "armor_mystery_201806": true,
+          "head_mystery_201806": true,
+          "head_special_pageHelm": true,
+          "weapon_special_pageBanner": true,
+          "armor_mystery_201807": true,
+          "head_mystery_201807": true,
+          "head_special_summer2017Healer": true,
+          "shield_special_diamondStave": true,
+          "armor_mystery_201808": true,
+          "head_mystery_201808": true,
+          "armor_mystery_201810": true,
+          "head_mystery_201810": true,
+          "shield_special_lootBag": true,
+          "weapon_special_skeletonKey": true,
+          "armor_special_sneakthiefRobes": true,
+          "head_special_clandestineCowl": true,
+          "head_mystery_201811": true,
+          "weapon_mystery_201811": true,
+          "headAccessory_mystery_201812": true,
+          "back_mystery_201812": true,
+          "head_special_winter2017Healer": true,
+          "armor_special_winter2017Healer": true,
+          "head_special_winter2018Healer": true,
+          "armor_special_winter2018Healer": true,
+          "armor_special_snowSovereignRobes": true,
+          "head_special_snowSovereignCrown": true,
+          "head_special_nye": true,
+          "weapon_special_takeThis": true,
+          "back_special_snowdriftVeil": true,
+          "shield_special_wintryMirror": true,
+          "head_mystery_201901": true,
+          "body_mystery_201901": true,
+          "armor_special_birthday": true,
+          "eyewear_mystery_201902": true,
+          "shield_mystery_201902": true,
+          "armor_healer_5": true,
+          "head_armoire_falconerCap": true,
+          "head_special_piDay": true,
+          "shield_special_piDay": true,
+          "armor_mystery_201903": true,
+          "head_mystery_201903": true,
+          "weapon_special_nomadsScimitar": true,
+          "armor_special_nomadsCuirass": true,
+          "armor_mystery_201904": true,
+          "head_mystery_201904": true,
+          "eyewear_special_blackHalfMoon": true,
+          "eyewear_special_blueHalfMoon": true,
+          "eyewear_special_greenHalfMoon": true,
+          "eyewear_special_pinkHalfMoon": true,
+          "eyewear_special_redHalfMoon": true,
+          "eyewear_special_whiteHalfMoon": true,
+          "eyewear_special_yellowHalfMoon": true,
+          "headAccessory_mystery_201905": true,
+          "back_mystery_201905": true,
+          "headAccessory_mystery_201906": true,
+          "armor_mystery_201906": true,
+          "weapon_special_summer2017Warrior": true,
+          "head_special_spikedHelm": true,
+          "head_healer_5": true,
+          "shield_healer_2": true,
+          "weapon_healer_4": true,
+          "shield_healer_3": true,
+          "weapon_healer_5": true,
+          "shield_healer_4": true,
+          "shield_healer_5": true,
+          "head_mystery_201907": true,
+          "armor_mystery_201907": true,
+          "eyewear_mystery_201907": true,
+          "armor_mystery_201908": true,
+          "headAccessory_mystery_201908": true,
+          "head_special_2": true,
+          "armor_mystery_201909": true,
+          "head_mystery_201909": true,
+          "armor_special_takeThis": true,
+          "armor_special_fallRogue": true,
+          "armor_mystery_201910": true,
+          "head_mystery_201910": true,
+          "weapon_mystery_201911": true,
+          "head_mystery_201911": true,
+          "head_mystery_201912": true,
+          "back_mystery_201912": true,
+          "armor_special_winter2019Healer": true,
+          "weapon_special_winter2018Healer": true,
+          "shield_special_winter2019Rogue": true,
+          "head_special_nye2014": true,
+          "head_mystery_202001": true,
+          "back_mystery_202001": true,
+          "head_special_dandyHat": true,
+          "armor_special_birthday2015": true,
+          "weapon_healer_6": true,
+          "weapon_mystery_202002": true,
+          "body_mystery_202002": true,
+          "head_mystery_202003": true,
+          "body_mystery_202003": true,
+          "weapon_special_fencingFoil": true,
+          "armor_special_dandySuit": true,
+          "head_special_spring2020Healer": true,
+          "back_mystery_202004": true,
+          "headAccessory_mystery_202004": true,
+          "head_special_namingDay2017": true,
+          "head_special_takeThis": true,
+          "head_special_nye2015": true,
+          "armor_special_birthday2016": true
+        }
+      },
+      "special": {
+        "snowball": 0,
+        "spookySparkles": 0,
+        "shinySeed": 0,
+        "seafoam": 0,
+        "valentine": 0,
+        "valentineReceived": [],
+        "nye": 0,
+        "nyeReceived": [],
+        "greeting": 0,
+        "greetingReceived": [],
+        "thankyou": 0,
+        "thankyouReceived": [],
+        "birthday": 0,
+        "birthdayReceived": [],
+        "congrats": 0,
+        "congratsReceived": [],
+        "getwell": 0,
+        "getwellReceived": [],
+        "goodluck": 0,
+        "goodluckReceived": []
+      },
+      "lastDrop": {
+        "count": 1,
+        "date": "2021-03-14T23:20:43.396Z"
+      },
+      "pets": {
+        "Wolf-RoyalPurple": 5,
+        "Jackalope-RoyalPurple": 5,
+        "PandaCub-CottonCandyBlue": 5,
+        "LionCub-Red": 5,
+        "Cactus-White": 5,
+        "Fox-Desert": 5,
+        "TigerCub-White": 5,
+        "TigerCub-Red": 5,
+        "Wolf-Desert": 32,
+        "FlyingPig-Golden": 5,
+        "Fox-Base": 5,
+        "Wolf-Base": 20,
+        "LionCub-Desert": 5,
+        "Fox-CottonCandyPink": 5,
+        "Wolf-CottonCandyBlue": 5,
+        "Dragon-CottonCandyBlue": 5,
+        "Dragon-CottonCandyPink": 5,
+        "Fox-Red": 5,
+        "Fox-White": 5,
+        "LionCub-White": 5,
+        "Dragon-Red": 5,
+        "Dragon-Desert": 5,
+        "Dragon-Shade": 5,
+        "Dragon-RoyalPurple": 5,
+        "Fox-RoyalPurple": 5,
+        "Fox-CottonCandyBlue": 5,
+        "PandaCub-Desert": 5,
+        "PandaCub-Base": 5,
+        "PandaCub-Red": 5,
+        "Wolf-White": 30,
+        "Cactus-Desert": 5,
+        "TigerCub-Base": 5,
+        "Dragon-Base": 5,
+        "Wolf-Red": 30,
+        "BearCub-Desert": 5,
+        "TigerCub-Desert": 5,
+        "BearCub-RoyalPurple": 5,
+        "LionCub-RoyalPurple": 5,
+        "TigerCub-RoyalPurple": 5,
+        "BearCub-Shade": 5,
+        "BearCub-White": 15,
+        "Dragon-Ember": -1,
+        "Dragon-Glass": -1,
+        "LionCub-Base": 5,
+        "PandaCub-Shade": 5,
+        "Cactus-Shade": 5,
+        "BearCub-CottonCandyBlue": 5,
+        "Fox-Shade": 5,
+        "Dragon-White": 5,
+        "Fox-Ember": 5,
+        "Wolf-Veteran": 5,
+        "Wolf-CottonCandyPink": 5,
+        "BearCub-CottonCandyPink": 5,
+        "Cactus-CottonCandyPink": 5,
+        "PandaCub-CottonCandyPink": 5,
+        "LionCub-CottonCandyPink": 5,
+        "BearCub-Base": 5,
+        "PandaCub-White": 5,
+        "BearCub-Red": 5,
+        "TigerCub-CottonCandyPink": 15,
+        "PandaCub-Fairy": 5,
+        "TigerCub-Golden": 5,
+        "Wolf-Golden": 15,
+        "Dragon-Golden": 5,
+        "Wolf-Shade": 5,
+        "Wolf-Skeleton": 20,
+        "Wolf-Zombie": 5,
+        "Cactus-Base": 5,
+        "FlyingPig-Ember": 5,
+        "JackOLantern-Base": 5,
+        "Turkey-Base": 5,
+        "Dragon-Thunderstorm": -1,
+        "Wolf-Thunderstorm": 5,
+        "Cactus-Golden": 5,
+        "Dragon-Skeleton": 5,
+        "Dragon-Zombie": 5,
+        "Cactus-CottonCandyBlue": 5,
+        "Fox-Golden": 5,
+        "Cactus-Red": 5,
+        "LionCub-CottonCandyBlue": 10,
+        "BearCub-Skeleton": 5,
+        "BearCub-Zombie": 5,
+        "PandaCub-Skeleton": 5,
+        "TigerCub-CottonCandyBlue": 5,
+        "Fox-Skeleton": 5,
+        "Fox-Zombie": 5,
+        "LionCub-Shade": 5,
+        "Cactus-Skeleton": 5,
+        "Cactus-Zombie": 5,
+        "PandaCub-Golden": 5,
+        "PandaCub-Zombie": 5,
+        "LionCub-Skeleton": 5,
+        "TigerCub-Zombie": 10,
+        "Fox-IcySnow": -1,
+        "LionCub-Golden": 5,
+        "BearCub-Golden": 40,
+        "TigerCub-Shade": 25,
+        "LionCub-Zombie": 5,
+        "FlyingPig-Base": 5,
+        "FlyingPig-CottonCandyBlue": 5,
+        "Dragon-RoseQuartz": 5,
+        "BearCub-StarryNight": 5,
+        "PandaCub-RoyalPurple": 5,
+        "TigerCub-Skeleton": 5,
+        "FlyingPig-CottonCandyPink": 5,
+        "FlyingPig-White": 5,
+        "FlyingPig-Desert": 5,
+        "FlyingPig-Red": 5,
+        "Fox-Celestial": 5,
+        "PandaCub-Veggie": 5,
+        "Fox-Veggie": 5,
+        "Fox-Fairy": 5,
+        "FlyingPig-Shade": 5,
+        "FlyingPig-Skeleton": 20,
+        "Orca-Base": 5,
+        "FlyingPig-Zombie": 5,
+        "Gryphon-RoyalPurple": 5,
+        "JackOLantern-Ghost": 5,
+        "Turkey-Gilded": 5
+      },
+      "eggs": {
+        "Wolf": 13,
+        "LionCub": 13,
+        "PandaCub": 15,
+        "TigerCub": 16,
+        "Cactus": 18,
+        "Fox": 10,
+        "Dragon": 8,
+        "FlyingPig": 5,
+        "BearCub": 11
+      },
+      "hatchingPotions": {
+        "RoyalPurple": 10,
+        "Golden": 2,
+        "Desert": 15,
+        "CottonCandyBlue": 1,
+        "Red": 10,
+        "White": 8,
+        "Shimmer": 1,
+        "Base": 6,
+        "CottonCandyPink": 11,
+        "Skeleton": 7,
+        "Shade": 5,
+        "Zombie": 2,
+        "Fairy": 1,
+        "Glass": 1,
+        "Ember": 0,
+        "Thunderstorm": 1,
+        "StarryNight": 2,
+        "IcySnow": 0,
+        "RoseQuartz": 0,
+        "Celestial": 1,
+        "Veggie": 2
+      },
+      "food": {
+        "Chocolate": 1,
+        "CottonCandyPink": 0,
+        "Meat": 2,
+        "Strawberry": 0,
+        "Fish": 0,
+        "RottenMeat": 0,
+        "Honey": 0,
+        "CottonCandyBlue": 1,
+        "Potatoe": 1,
+        "Milk": 0,
+        "Saddle": 0,
+        "Cake_Base": 1,
+        "Cake_CottonCandyBlue": 1,
+        "Cake_CottonCandyPink": 2,
+        "Cake_Desert": 2,
+        "Cake_Golden": 2,
+        "Cake_Red": 2,
+        "Cake_Shade": 1,
+        "Cake_Skeleton": 1,
+        "Cake_White": 1,
+        "Cake_Zombie": 2,
+        "Candy_Skeleton": 0,
+        "Candy_Base": 0,
+        "Candy_CottonCandyBlue": 0,
+        "Candy_CottonCandyPink": 0,
+        "Candy_Shade": 0,
+        "Candy_White": 0,
+        "Candy_Golden": 0,
+        "Candy_Zombie": 0,
+        "Candy_Desert": 0,
+        "Candy_Red": 1,
+        "Pie_Skeleton": 1,
+        "Pie_Base": 1,
+        "Pie_CottonCandyBlue": 1,
+        "Pie_CottonCandyPink": 1,
+        "Pie_Shade": 1,
+        "Pie_White": 1,
+        "Pie_Golden": 1,
+        "Pie_Zombie": 1,
+        "Pie_Desert": 1,
+        "Pie_Red": 1
+      },
+      "mounts": {
+        "Wolf-RoyalPurple": true,
+        "Dragon-CottonCandyBlue": true,
+        "Orca-Base": true,
+        "Gryphon-RoyalPurple": true,
+        "Fox-Desert": true,
+        "Fox-CottonCandyPink": true,
+        "FlyingPig-Golden": true,
+        "Dragon-Shade": true,
+        "TigerCub-Red": true,
+        "PandaCub-CottonCandyBlue": true,
+        "Cactus-White": true,
+        "Fox-Ember": true,
+        "Dragon-Glass": true,
+        "Fox-Base": true,
+        "Dragon-Thunderstorm": true,
+        "Dragon-CottonCandyPink": true,
+        "Dragon-Zombie": true,
+        "Wolf-CottonCandyBlue": true,
+        "Dragon-White": true,
+        "Dragon-Desert": true,
+        "Dragon-Golden": true,
+        "LionCub-Red": true,
+        "Dragon-Ember": true,
+        "Wolf-CottonCandyPink": true,
+        "Wolf-Shade": true,
+        "PandaCub-Base": true,
+        "FlyingPig-White": true,
+        "FlyingPig-CottonCandyPink": true,
+        "Cactus-Skeleton": true,
+        "Fox-CottonCandyBlue": true,
+        "PandaCub-Golden": true,
+        "JackOLantern-Base": true,
+        "Turkey-Base": true,
+        "Dragon-Red": true,
+        "FlyingPig-Desert": true,
+        "Fox-Zombie": true,
+        "BearCub-Base": true,
+        "PandaCub-CottonCandyPink": true,
+        "Fox-Shade": true,
+        "FlyingPig-CottonCandyBlue": true,
+        "Wolf-Zombie": true,
+        "TigerCub-Base": true,
+        "Dragon-Base": true,
+        "TigerCub-CottonCandyBlue": true,
+        "Fox-IcySnow": true
+      },
+      "quests": {
+        "dustbunnies": 0,
+        "moon1": 0,
+        "moon2": 0,
+        "atom1": 0,
+        "moon3": 1,
+        "atom2": 0,
+        "vice1": 1,
+        "basilist": 0,
+        "goldenknight1": 0,
+        "evilsanta": 1,
+        "goldenknight2": 0,
+        "atom3": 1,
+        "goldenknight3": 1,
+        "egg": 2
+      },
+      "currentPet": "Fox-Veggie",
+      "currentMount": ""
+    },
+    "invitations": {
+      "guilds": [],
+      "party": {},
+      "parties": []
+    },
+    "party": {
+      "quest": {
+        "progress": {
+          "up": 4.247759889155782,
+          "down": 0,
+          "collectedItems": 1,
+          "collect": {}
+        },
+        "RSVPNeeded": false
+      },
+      "order": "level",
+      "orderAscending": "ascending"
+    },
+    "preferences": {
+      "hair": {
+        "color": "brown",
+        "base": 7,
+        "bangs": 3,
+        "beard": 0,
+        "mustache": 0,
+        "flower": 0
+      },
+      "emailNotifications": {
+        "unsubscribeFromAll": true,
+        "newPM": true,
+        "kickedGroup": true,
+        "wonChallenge": true,
+        "giftedGems": true,
+        "giftedSubscription": true,
+        "invitedParty": true,
+        "invitedGuild": true,
+        "questStarted": true,
+        "invitedQuest": true,
+        "importantAnnouncements": true,
+        "weeklyRecaps": true,
+        "onboarding": true,
+        "majorUpdates": true,
+        "subscriptionReminders": true
+      },
+      "pushNotifications": {
+        "unsubscribeFromAll": false,
+        "newPM": true,
+        "wonChallenge": true,
+        "giftedGems": true,
+        "giftedSubscription": true,
+        "invitedParty": true,
+        "invitedGuild": true,
+        "questStarted": true,
+        "invitedQuest": true,
+        "majorUpdates": true,
+        "mentionParty": true,
+        "mentionJoinedGuild": true,
+        "mentionUnjoinedGuild": true,
+        "partyActivity": true
+      },
+      "suppressModals": {
+        "levelUp": false,
+        "hatchPet": false,
+        "raisePet": false,
+        "streak": false
+      },
+      "tasks": {
+        "groupByChallenge": false,
+        "confirmScoreNotes": false
+      },
+      "dayStart": 8,
+      "size": "broad",
+      "hideHeader": false,
+      "skin": "f5a76e",
+      "shirt": "white",
+      "timezoneOffset": 300,
+      "sound": "gokulTheme",
+      "chair": "none",
+      "allocationMode": "taskbased",
+      "autoEquip": true,
+      "dateFormat": "MM/dd/yyyy",
+      "sleep": false,
+      "stickyHeader": true,
+      "disableClasses": false,
+      "newTaskEdit": false,
+      "dailyDueDefaultView": true,
+      "advancedCollapsed": false,
+      "toolbarCollapsed": false,
+      "reverseChatOrder": false,
+      "displayInviteToPartyWhenPartyIs1": true,
+      "improvementCategories": [],
+      "webhooks": {},
+      "language": "en",
+      "background": "",
+      "timezoneOffsetAtLastCron": 300,
+      "costume": true,
+      "automaticAllocation": false
+    },
+    "profile": {
+      "name": "Cealleigh"
+    },
+    "stats": {
+      "buffs": {
+        "str": 0,
+        "int": 0,
+        "per": 0,
+        "con": 0,
+        "stealth": 0,
+        "streaks": false,
+        "snowball": false,
+        "spookySparkles": false,
+        "shinySeed": false,
+        "seafoam": false
+      },
+      "training": {
+        "int": 0,
+        "per": 0,
+        "str": 0,
+        "con": 0
+      },
+      "hp": 45.4,
+      "mp": 278.19,
+      "exp": 1074,
+      "gp": 212.1510526411569,
+      "lvl": 56,
+      "class": "healer",
+      "points": 0,
+      "str": 0,
+      "con": 0,
+      "int": 56,
+      "per": 0,
+      "toNextLevel": 1480,
+      "maxHealth": 50,
+      "maxMP": 281
+    },
+    "inbox": {
+      "newMessages": 0,
+      "optOut": false,
+      "blocks": [],
+      "messages": {
+        "afd661e2-137b-4c1b-855f-d793f957aafb": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "afd661e2-137b-4c1b-855f-d793f957aafb",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "afd661e2-137b-4c1b-855f-d793f957aafb",
+          "text": "言いたいことがわかります！大丈夫ですよ👌",
+          "info": {},
+          "timestamp": "2019-10-23T06:37:21.333Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_base_0",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_base_0",
+                  "headAccessory": "headAccessory_special_whiteHeadband"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_fall2019Healer",
+                  "shield": "shield_special_fall2019Healer",
+                  "weapon": "weapon_special_fall2019Healer",
+                  "eyewear": "eyewear_special_fall2019Healer"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Wolf-CottonCandyPink"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "83770710-c149-4ea0-b621-cd17e160c3ef": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "83770710-c149-4ea0-b621-cd17e160c3ef",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "83770710-c149-4ea0-b621-cd17e160c3ef",
+          "text": "そうですね。時々休んでもいいですね。そう言ってくれてありがとうございます😊力になります！",
+          "info": {},
+          "timestamp": "2019-10-23T06:36:46.921Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_base_0",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_base_0",
+                  "headAccessory": "headAccessory_special_whiteHeadband"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_fall2019Healer",
+                  "shield": "shield_special_fall2019Healer",
+                  "weapon": "weapon_special_fall2019Healer",
+                  "eyewear": "eyewear_special_fall2019Healer"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Wolf-CottonCandyPink"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "5c2f440f-38d8-4993-8dbd-7e91cfa4284e": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "5c2f440f-38d8-4993-8dbd-7e91cfa4284e",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "5c2f440f-38d8-4993-8dbd-7e91cfa4284e",
+          "text": "その文章は私にとって書くのが難しかったから、分かりますかな。。",
+          "info": {},
+          "timestamp": "2019-10-23T01:24:28.111Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_special_fallRogue",
+                  "head": "head_mystery_201810",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_base_0",
+                  "weapon": "weapon_special_lunarScythe",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": "Wolf-Veteran"
+            },
+            "preferences": {
+              "hair": {
+                "color": "black",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "c3e1dc",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "76e810fe-e925-4d55-abc4-c729e8105af5": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "76e810fe-e925-4d55-abc4-c729e8105af5",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "76e810fe-e925-4d55-abc4-c729e8105af5",
+          "text": "私も時々やる気がありません。休んでもいいです。何かをしなければならないと思うなら、時々もっと難しくなると思います。今週はがんばれ！",
+          "info": {},
+          "timestamp": "2019-10-23T01:14:12.037Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_special_fallRogue",
+                  "head": "head_mystery_201810",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_base_0",
+                  "weapon": "weapon_special_lunarScythe",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": "Wolf-Veteran"
+            },
+            "preferences": {
+              "hair": {
+                "color": "black",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "c3e1dc",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "a2364055-825e-4d07-b030-60782f43b56a": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "a2364055-825e-4d07-b030-60782f43b56a",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "a2364055-825e-4d07-b030-60782f43b56a",
+          "text": "今週はね、やる気が出なかった1週間でしたね。仕事から帰ったら勉強とか絵を描くとか、出来ることいっぱいあるのに、YouTubeやNetflixばかりでした。",
+          "info": {},
+          "timestamp": "2019-10-19T03:15:25.117Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_base_0",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_5",
+                  "headAccessory": "headAccessory_special_whiteHeadband"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_fall2019Healer",
+                  "shield": "shield_special_fall2019Healer",
+                  "weapon": "weapon_special_fall2019Healer",
+                  "eyewear": "eyewear_special_fall2019Healer"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Wolf-CottonCandyPink"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "25dacf65-f237-4649-9e44-5629880ec72b": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "25dacf65-f237-4649-9e44-5629880ec72b",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "25dacf65-f237-4649-9e44-5629880ec72b",
+          "text": "今週は何をしていますか",
+          "info": {},
+          "timestamp": "2019-10-17T14:05:18.250Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201909",
+                  "head": "head_mystery_201909",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_base_0",
+                  "weapon": "weapon_mystery_201811",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_mystery_201907"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "pgreen2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "4b6e39ef-06f1-463f-b974-74aff3216e3f": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "4b6e39ef-06f1-463f-b974-74aff3216e3f",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "4b6e39ef-06f1-463f-b974-74aff3216e3f",
+          "text": "残念ですね。今週はどうですか",
+          "info": {},
+          "timestamp": "2019-10-17T14:04:02.293Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201909",
+                  "head": "head_mystery_201909",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_base_0",
+                  "weapon": "weapon_mystery_201811",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_mystery_201907"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "pgreen2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "d1ee22fb-242c-4bd3-81c8-acdaeafd6688": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "d1ee22fb-242c-4bd3-81c8-acdaeafd6688",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "d1ee22fb-242c-4bd3-81c8-acdaeafd6688",
+          "text": "残念ながら、メガネをかけても見えません。",
+          "info": {},
+          "timestamp": "2019-10-17T05:10:53.932Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_base_0",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_5",
+                  "headAccessory": "headAccessory_special_whiteHeadband"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_fall2019Healer",
+                  "shield": "shield_special_fall2019Healer",
+                  "weapon": "weapon_special_fall2019Healer",
+                  "eyewear": "eyewear_special_fall2019Healer"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Wolf-CottonCandyPink"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "95e853c8-a181-429b-8550-80a2d1344726": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "95e853c8-a181-429b-8550-80a2d1344726",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "95e853c8-a181-429b-8550-80a2d1344726",
+          "text": "ざんねんですね。眼鏡をかけますか？",
+          "info": {},
+          "timestamp": "2019-10-17T03:23:24.627Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201909",
+                  "head": "head_mystery_201909",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_base_0",
+                  "weapon": "weapon_mystery_201811",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_mystery_201907"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "pgreen2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "eba6b969-c22f-4fa7-8300-3668742eff8a": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "eba6b969-c22f-4fa7-8300-3668742eff8a",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "eba6b969-c22f-4fa7-8300-3668742eff8a",
+          "text": "気にしなくていいですよ！\n私もゴルフが下手です。目が悪くて、正直ボールがよく見えません😅",
+          "info": {},
+          "timestamp": "2019-09-30T12:34:20.137Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_5",
+                  "headAccessory": "headAccessory_special_whiteHeadband"
+                },
+                "equipped": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_special_fall2019Healer"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Wolf-Shade"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "ee3c2f75-f603-49ad-a1cc-e29d2fb2d9f9": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "ee3c2f75-f603-49ad-a1cc-e29d2fb2d9f9",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "ee3c2f75-f603-49ad-a1cc-e29d2fb2d9f9",
+          "text": "ごめん、先週は忙しかったです。　毎日長い時間働きました。この週末は彼氏の誕生日でしたから、パーティーをしました。彼氏はゴルフをするのが好きですから、私たちはゴルフをするに行きました。でも、私はゴルフに下手です。",
+          "info": {},
+          "timestamp": "2019-09-30T02:42:55.139Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "0de32e0a-d9fd-4711-b2e2-258f31b6059c": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "0de32e0a-d9fd-4711-b2e2-258f31b6059c",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "0de32e0a-d9fd-4711-b2e2-258f31b6059c",
+          "text": "私もJourneyとElton Johnが好きです！この間ロケットマンの映画を見に行きました。音楽っていいですね😊\n\n仕事の準備しましたね。パワーポイントとプリントを作って、全然面白くないことしました^ ^\n\nケリーさんは？",
+          "info": {},
+          "timestamp": "2019-09-23T04:03:53.441Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_5",
+                  "headAccessory": "headAccessory_special_whiteHeadband"
+                },
+                "equipped": {
+                  "armor": "armor_healer_4",
+                  "head": "head_healer_5",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_base_0"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Fox-Desert"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "6a0331c4-98b7-4488-9d0f-1abba06e94bc": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "6a0331c4-98b7-4488-9d0f-1abba06e94bc",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "6a0331c4-98b7-4488-9d0f-1abba06e94bc",
+          "text": "えっと、間違いがあります。＊週末に何か面白いものをしましたか？",
+          "info": {},
+          "timestamp": "2019-09-23T03:25:08.884Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "8ac1951c-fb51-4a1f-b9f2-ef3057bac224": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "8ac1951c-fb51-4a1f-b9f2-ef3057bac224",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "8ac1951c-fb51-4a1f-b9f2-ef3057bac224",
+          "text": "エイマーズさんの名前は面白いですね。あの、アメリカンロックはStyxとJOURNEY好きです。BEATLESとエルトンジョンが大好きですけど、イギリス人ですね。それから、フォルクロックのルミニアーズ とマムフォード&サンズ が好きです。週末に何か面白いものをしますか？",
+          "info": {},
+          "timestamp": "2019-09-23T03:23:15.859Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "e793a0b4-9a41-4794-8555-4f993623e70c": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "e793a0b4-9a41-4794-8555-4f993623e70c",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "e793a0b4-9a41-4794-8555-4f993623e70c",
+          "text": "元々のあだ名はAimersでしたが、aimerの名前を見て一緒と思って聞き始めたんです。結局発音は違うんですけど(aimerはエメ)、曲が好きになりました^ ^\n\nアメリカンロックはよく知りません。おすすめな曲やアーティストは？",
+          "info": {},
+          "timestamp": "2019-09-17T22:54:17.490Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_4",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_3"
+                },
+                "equipped": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_3",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_healer_3"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Fox-Desert"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "72e4cb73-eec9-4000-9d15-59dd98e318c6": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "72e4cb73-eec9-4000-9d15-59dd98e318c6",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "72e4cb73-eec9-4000-9d15-59dd98e318c6",
+          "text": "J-POPのアジアンカンフージェネレーションが大好きです。K-POPも好きですが大好きな歌手がありません。アメリカンのロックが好きです。エイマーズさんの名前はaimerから来ましたか？",
+          "info": {},
+          "timestamp": "2019-09-17T21:10:57.221Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "3aa48310-c67c-4d0c-82f4-c8c4ce90ecdb": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "3aa48310-c67c-4d0c-82f4-c8c4ce90ecdb",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "3aa48310-c67c-4d0c-82f4-c8c4ce90ecdb",
+          "text": "どんな音楽が好きですか？",
+          "info": {},
+          "timestamp": "2019-09-16T04:26:52.154Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_4",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_3"
+                },
+                "equipped": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_3",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_healer_3"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Fox-Desert"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "cc95cdc2-5598-44c7-9377-017a29b1d95f": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "cc95cdc2-5598-44c7-9377-017a29b1d95f",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "cc95cdc2-5598-44c7-9377-017a29b1d95f",
+          "text": "色々聞きますが、J-POPならKis-My-Ft2とaimerでK-POPならBlackpinkとGot7とBTSが多いです。",
+          "info": {},
+          "timestamp": "2019-09-16T04:26:37.540Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_4",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_3"
+                },
+                "equipped": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_3",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_healer_3"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Fox-Desert"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "52464bb4-26be-4fb6-84a5-265eda65307f": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "52464bb4-26be-4fb6-84a5-265eda65307f",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "52464bb4-26be-4fb6-84a5-265eda65307f",
+          "text": "ゼルダの伝説が大好きです。それから、どうぶつの森もすきです。何歌手が好きですか？",
+          "info": {},
+          "timestamp": "2019-09-16T02:25:34.420Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "7f2f5974-2624-475f-8ec9-b4e27d4328d4": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "7f2f5974-2624-475f-8ec9-b4e27d4328d4",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "7f2f5974-2624-475f-8ec9-b4e27d4328d4",
+          "text": "どんなゲームが好きですか？",
+          "info": {},
+          "timestamp": "2019-09-16T01:30:09.275Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_4",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_3"
+                },
+                "equipped": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_3",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_healer_3"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Fox-Desert"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "9c9f63c2-1933-4612-855c-040bf96e2193": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "9c9f63c2-1933-4612-855c-040bf96e2193",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "9c9f63c2-1933-4612-855c-040bf96e2193",
+          "text": "アニメのキャラクターが多いですが、最近好きな歌手も描いています。もっと上手に描けるようになりたいんですけど、まだまだです。",
+          "info": {},
+          "timestamp": "2019-09-16T01:29:49.801Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_4",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_3"
+                },
+                "equipped": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_3",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_healer_3"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Fox-Desert"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "2bc3bd74-02e0-4f1e-8325-f866eb57645d": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "2bc3bd74-02e0-4f1e-8325-f866eb57645d",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "2bc3bd74-02e0-4f1e-8325-f866eb57645d",
+          "text": "どんな絵を描きますか？",
+          "info": {},
+          "timestamp": "2019-09-16T00:48:21.000Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "01e5455e-d186-4a54-a25e-af6ba989db6e": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "01e5455e-d186-4a54-a25e-af6ba989db6e",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "01e5455e-d186-4a54-a25e-af6ba989db6e",
+          "text": "私は本を読むのが好きです。ビデオゲームも好きです。",
+          "info": {},
+          "timestamp": "2019-09-16T00:46:22.893Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "514bb1ce-cd37-4ccf-8044-3831ae7c1909": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "514bb1ce-cd37-4ccf-8044-3831ae7c1909",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "514bb1ce-cd37-4ccf-8044-3831ae7c1909",
+          "text": "いっぱいあります。メインは絵を描くことと音楽を聞くことです。ケリーさんは？",
+          "info": {},
+          "timestamp": "2019-09-13T02:36:17.727Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_4",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_3"
+                },
+                "equipped": {
+                  "armor": "armor_healer_3",
+                  "head": "head_healer_3",
+                  "shield": "shield_healer_5",
+                  "weapon": "weapon_healer_3"
+                }
+              },
+              "currentMount": "TigerCub-White",
+              "currentPet": "Fox-Desert"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "3ea8bfc6-3693-4b6a-a8d3-1521d4a5cd9f": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "3ea8bfc6-3693-4b6a-a8d3-1521d4a5cd9f",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "3ea8bfc6-3693-4b6a-a8d3-1521d4a5cd9f",
+          "text": "ケリーです。よろしくお願いします！　　何か趣味がありますか？",
+          "info": {},
+          "timestamp": "2019-09-13T01:44:05.621Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "18c894db-8852-41dc-a69e-454ec3cf1c2e": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "18c894db-8852-41dc-a69e-454ec3cf1c2e",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "18c894db-8852-41dc-a69e-454ec3cf1c2e",
+          "text": "練習しよう！えいまーずです\nよろしくお願いします！",
+          "info": {},
+          "timestamp": "2019-09-10T05:53:09.411Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_healer_2",
+                  "head": "head_special_lunarWarriorHelm",
+                  "shield": "shield_healer_3",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_healer_2"
+                },
+                "equipped": {
+                  "armor": "armor_healer_2",
+                  "head": "head_healer_3",
+                  "shield": "shield_healer_3",
+                  "weapon": "weapon_healer_2"
+                }
+              },
+              "currentMount": null,
+              "currentPet": ""
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 3,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 3
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "violet",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "2c3fdc1e-5440-4504-9e70-a7f7be8b5756": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "2c3fdc1e-5440-4504-9e70-a7f7be8b5756",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "2c3fdc1e-5440-4504-9e70-a7f7be8b5756",
+          "text": "まだ誰かと練習したいですか？私は日本語にへたですけど、練習したいです。",
+          "info": {},
+          "timestamp": "2019-09-10T03:09:52.950Z",
+          "likes": {},
+          "client": null,
+          "uuid": "bb6802e5-3d56-47f5-9ea5-bc3eb8c815ba",
+          "contributor": {},
+          "backer": {},
+          "user": "Aimers",
+          "username": "toradoshi004",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_mystery_201908",
+                  "head": "head_mystery_201904",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_mystery_201908",
+                  "weapon": "weapon_special_bardInstrument",
+                  "body": "body_base_0",
+                  "eyewear": "eyewear_base_0"
+                },
+                "equipped": {
+                  "armor": "armor_healer_5",
+                  "head": "head_special_snowSovereignCrown",
+                  "shield": "shield_healer_5",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_skeletonKey",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": "BearCub-Base"
+            },
+            "preferences": {
+              "hair": {
+                "color": "ppurple2",
+                "base": 5,
+                "bangs": 3,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "white",
+              "chair": "none",
+              "size": "slim",
+              "background": "birch_forest",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "fa6b58c9-b4f5-4052-b6d3-821152542a59": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "fa6b58c9-b4f5-4052-b6d3-821152542a59",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "fa6b58c9-b4f5-4052-b6d3-821152542a59",
+          "text": "`Hello GordoTaco, Cealleigh has sent you 2 gems!` This is so you can buy seasonal gear if you want before it goes away; second highest level gear.  I think you can only wear warrior but I'm not sure...",
+          "timestamp": "2019-01-10T23:34:29.691Z",
+          "likes": {},
+          "client": null,
+          "uuid": "53a558bd-dd90-428a-84dc-f86e981d6c0d",
+          "contributor": {},
+          "backer": {},
+          "user": "GordoTaco",
+          "username": "Gordo3000",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_special_winter2018Healer",
+                  "head": "head_special_nye",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_base_0",
+                  "weapon": "weapon_special_summer2017Healer"
+                },
+                "equipped": {
+                  "armor": "armor_special_snowSovereignRobes",
+                  "head": "head_special_clandestineCowl",
+                  "shield": "shield_special_takeThis",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_takeThis",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": "PandaCub-Fairy"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 0,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "b833f0f2-7469-4b03-81bc-b4d5622bcbc9": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "b833f0f2-7469-4b03-81bc-b4d5622bcbc9",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+          "flags": {},
+          "id": "b833f0f2-7469-4b03-81bc-b4d5622bcbc9",
+          "text": "`Hello GordoTaco, Cealleigh has sent you 3 months of subscription!` I know you don't care but it's basically free sooo I'm gifting this.",
+          "timestamp": "2019-01-10T00:21:09.635Z",
+          "likes": {},
+          "client": null,
+          "uuid": "53a558bd-dd90-428a-84dc-f86e981d6c0d",
+          "contributor": {},
+          "backer": {},
+          "user": "GordoTaco",
+          "username": "Gordo3000",
+          "userStyles": {
+            "items": {
+              "gear": {
+                "costume": {
+                  "armor": "armor_special_winter2018Healer",
+                  "head": "head_special_nye",
+                  "shield": "shield_base_0",
+                  "back": "back_base_0",
+                  "headAccessory": "headAccessory_base_0",
+                  "weapon": "weapon_special_summer2017Healer"
+                },
+                "equipped": {
+                  "armor": "armor_special_snowSovereignRobes",
+                  "head": "head_special_clandestineCowl",
+                  "shield": "shield_special_takeThis",
+                  "eyewear": "eyewear_base_0",
+                  "weapon": "weapon_special_takeThis",
+                  "back": "back_base_0"
+                }
+              },
+              "currentMount": "",
+              "currentPet": "PandaCub-Fairy"
+            },
+            "preferences": {
+              "hair": {
+                "color": "brown",
+                "base": 0,
+                "bangs": 1,
+                "beard": 0,
+                "mustache": 0,
+                "flower": 0
+              },
+              "skin": "f5a76e",
+              "shirt": "blue",
+              "chair": "none",
+              "size": "slim",
+              "background": "",
+              "costume": true
+            },
+            "stats": {
+              "class": "healer",
+              "buffs": {
+                "seafoam": false,
+                "shinySeed": false,
+                "spookySparkles": false,
+                "snowball": false
+              }
+            }
+          }
+        },
+        "40833b25-07e0-472b-b514-8e90dc6fc521": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "40833b25-07e0-472b-b514-8e90dc6fc521",
+          "id": "40833b25-07e0-472b-b514-8e90dc6fc521",
+          "text": "You're very welcome:) if you'd like to join a clan, here is a list of our 8 Clans. All of which are currently recruiting\n\n&nbsp;\n\nTo request to join one, click on the Clan you'd like to join and fill out your User ID located in your bio :smile:\n\n&nbsp;\n\n+ ### **[ᴛʜᴇ ʀᴏᴜɴᴅ ᴛᴀʙʟᴇ](https://goo.gl/forms/dZEc6HlMSIW65o3h2)** - Hard Mode\n\n&nbsp;\n\n+ ### **[ʙᴀʀᴅꜱ ᴏꜰ ᴀᴄᴀᴅᴇᴍɪᴀ](https://goo.gl/forms/AvcfJ6vMameTj5gB3)** - Music\n\n&nbsp;\n\n+ ### **[ʙᴀʙʏʟᴏɴ](https://goo.gl/forms/NpqvuiSLBhmLcCei2)** - Entrepreneurship\n\n&nbsp;\n\n+ ### **[ᴛʜᴇ ɪʀᴏɴ ʟɪɢʜᴛ](https://goo.gl/forms/m6jxsPNFgHIVBwRk1)** - Social Life Improvement\n\n&nbsp;\n\n+ ### **[The Fiction Faction](https://goo.gl/forms/CSOUw2orsEIyHGWg1)** - Creative Writing and all things Story Telling\n\n&nbsp;\n\n+ ### **[The Wolf Pack](https://goo.gl/forms/CUplcwl3BFnTl4Bm2)** - Data Science & all things STEM\n\n&nbsp;\n\n+ ### **[<3 + ɴ](https://docs.google.com/forms/d/e/1FAIpQLSfGuqqs9vwvUrX1toUEFLkoLi_Tsi2J6lR3p-UM5UGwCQ8_4w/viewform?usp=sf_link)** - Computer Science\n\n&nbsp;\n\n+ ### **[ᴛʜᴇ ɢᴀᴛʜᴇʀɪɴɢ](https://goo.gl/forms/rbGN9SaoA07Hq2mC2)** - Accountability",
+          "timestamp": "2018-05-07T20:20:34.388Z",
+          "likes": {},
+          "flags": {},
+          "uuid": "0e3ff6f0-51bc-45bc-84ff-a0d9c41a704e",
+          "contributor": {},
+          "backer": {},
+          "user": "Alex The Great",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a"
+        },
+        "c445b063-5e28-4866-9d5c-d4a5e2645867": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "c445b063-5e28-4866-9d5c-d4a5e2645867",
+          "id": "c445b063-5e28-4866-9d5c-d4a5e2645867",
+          "text": "Thanks for the invite, I'll check it out!",
+          "timestamp": "2018-05-07T04:25:32.346Z",
+          "likes": {},
+          "flags": {},
+          "uuid": "0e3ff6f0-51bc-45bc-84ff-a0d9c41a704e",
+          "contributor": {},
+          "backer": {},
+          "user": "Alex The Great",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a"
+        },
+        "a7ea710d-9bff-424d-8d32-a8a30def685a": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "a7ea710d-9bff-424d-8d32-a8a30def685a",
+          "id": "a7ea710d-9bff-424d-8d32-a8a30def685a",
+          "text": "Hey! you sound like a great addition to our guild, Knights of Academia. I sent you an invite if you're interested, but you're completely welcome to decline. Look forward to seeing you in it :)\n\n&nbsp;\n\nIncase the invite doesn’t work, here’s the [Link to the guild](https://habitica.com/groups/guild/e184b286-b369-46c9-ab55-054c3368af33)\n\n&nbsp;\n\nIf you want a bit more information about KOA, here’s the website! http://KnightsofAcademia.com/\n\n&nbsp;\n\n---\n\n&nbsp;\n\nAlso, if you’re interested, you’re welcomed to join the Discord Community (no sign up required).  Here’s an invite: https://discord.gg/kpQy9aB",
+          "timestamp": "2018-05-06T22:09:34.944Z",
+          "likes": {},
+          "flags": {},
+          "uuid": "0e3ff6f0-51bc-45bc-84ff-a0d9c41a704e",
+          "contributor": {},
+          "backer": {},
+          "user": "Alex The Great",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a"
+        },
+        "1219b323-0334-4a4b-9152-c54543233379": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "1219b323-0334-4a4b-9152-c54543233379",
+          "id": "1219b323-0334-4a4b-9152-c54543233379",
+          "text": "Invite sent!",
+          "timestamp": "2018-05-03T01:40:26.661Z",
+          "likes": {},
+          "flags": {},
+          "uuid": "ccad1d9c-feea-4d9d-a6d3-114abb2a6251",
+          "contributor": {},
+          "backer": {},
+          "user": "CoolFox",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a"
+        },
+        "2fc09a36-62bc-403a-9c6b-9457e98aa47f": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "2fc09a36-62bc-403a-9c6b-9457e98aa47f",
+          "id": "2fc09a36-62bc-403a-9c6b-9457e98aa47f",
+          "text": "I'll invite you.",
+          "timestamp": "2018-05-03T01:39:25.460Z",
+          "likes": {},
+          "flags": {},
+          "uuid": "ccad1d9c-feea-4d9d-a6d3-114abb2a6251",
+          "contributor": {},
+          "backer": {},
+          "user": "CoolFox",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a"
+        },
+        "8d3043a8-954c-43f9-b602-6b8ebb347ec8": {
+          "sent": true,
+          "flagCount": 0,
+          "_id": "8d3043a8-954c-43f9-b602-6b8ebb347ec8",
+          "id": "8d3043a8-954c-43f9-b602-6b8ebb347ec8",
+          "text": "Hi, yes please!  Hope I can help :)",
+          "timestamp": "2018-05-03T01:27:17.121Z",
+          "likes": {},
+          "flags": {},
+          "uuid": "ccad1d9c-feea-4d9d-a6d3-114abb2a6251",
+          "contributor": {},
+          "backer": {},
+          "user": "CoolFox",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a"
+        },
+        "e213ce5a-0f7a-4609-a633-e0386541b9f2": {
+          "sent": false,
+          "flagCount": 0,
+          "_id": "e213ce5a-0f7a-4609-a633-e0386541b9f2",
+          "id": "e213ce5a-0f7a-4609-a633-e0386541b9f2",
+          "text": "Would you like to join my party? ",
+          "timestamp": "2018-05-02T23:08:16.060Z",
+          "likes": {},
+          "flags": {},
+          "uuid": "ccad1d9c-feea-4d9d-a6d3-114abb2a6251",
+          "contributor": {},
+          "backer": {},
+          "user": "CoolFox",
+          "ownerId": "4a058194-5751-4210-aaff-5fdf44bcb46a"
+        }
+      }
+    },
+    "tasksOrder": {
+      "habits": [
+        "5d561344-9695-42b3-a817-6245fa8fe257",
+        "cb735f46-e871-4bbe-a82a-421c8799d406"
+      ],
+      "dailys": [],
+      "todos": [
+        "5d631c24-37aa-409f-8238-991ec6baa01d",
+        "7f9e1f59-5759-4333-9367-854be49fff64",
+        "37304534-e244-4b41-b86e-685e7338152d",
+        "380e679d-9a96-431a-ad54-a020d7666eff",
+        "177dab93-4230-420b-a1e2-d71c5acd80cf",
+        "4bb33b6a-8ec9-4e7a-8d2b-df19cee411e5"
+      ],
+      "rewards": []
+    },
+    "_v": 69559,
+    "balance": 0,
+    "challenges": [],
+    "guilds": [
+      "0379d34a-754c-4ff4-9020-5762cecb1d67",
+      "283171a5-422c-4991-bc78-95b1b5b51629",
+      "940bbad2-1294-4f09-93c6-0067e3ffd033",
+      "2d027e49-c883-47b0-a657-b4c04bc32485",
+      "2ff9822b-27f2-4774-98da-db349b57a38e"
+    ],
+    "loginIncentives": 388,
+    "invitesSent": 1,
+    "pinnedItemsOrder": [],
+    "_id": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "lastCron": "2021-03-14T18:29:42.507Z",
+    "newMessages": {
+      "283171a5-422c-4991-bc78-95b1b5b51629": {
+        "name": "The Language Hackers",
+        "value": true
+      },
+      "2ff9822b-27f2-4774-98da-db349b57a38e": {
+        "name": "Aspiring Comrades",
+        "value": true
+      },
+      "940bbad2-1294-4f09-93c6-0067e3ffd033": {
+        "name": "The LearnJapanese Guild",
+        "value": true
+      },
+      "2d027e49-c883-47b0-a657-b4c04bc32485": {
+        "name": "Learn Mandarin",
+        "value": true
+      },
+      "0379d34a-754c-4ff4-9020-5762cecb1d67": {
+        "name": "[GDG] Game Developers Guild",
+        "value": true
+      }
+    },
+    "notifications": [
+      {
+        "id": "37f42708-b726-4ed6-a777-9576551492eb",
+        "data": {
+          "headerText": "Your Invitation has been Accepted",
+          "bodyText": "GordoTaco accepted your invitation to Cealleigh's Party!"
+        },
+        "seen": false,
+        "type": "GROUP_INVITE_ACCEPTED"
+      },
+      {
+        "type": "NEW_CHAT_MESSAGE",
+        "data": {
+          "group": {
+            "id": "283171a5-422c-4991-bc78-95b1b5b51629",
+            "name": "The Language Hackers"
+          }
+        },
+        "id": "3d86e11b-24b6-4e80-a209-c13a5ab1599b",
+        "seen": true
+      },
+      {
+        "type": "NEW_CHAT_MESSAGE",
+        "data": {
+          "group": {
+            "id": "2ff9822b-27f2-4774-98da-db349b57a38e",
+            "name": "Aspiring Comrades"
+          }
+        },
+        "id": "764bc2c4-c52e-4cd6-a04d-5b393f49e9da",
+        "seen": true
+      },
+      {
+        "type": "NEW_CHAT_MESSAGE",
+        "data": {
+          "group": {
+            "id": "940bbad2-1294-4f09-93c6-0067e3ffd033",
+            "name": "The LearnJapanese Guild"
+          }
+        },
+        "id": "49915f0d-7d0b-4ede-bde9-defc2277ff85",
+        "seen": true
+      },
+      {
+        "type": "NEW_CHAT_MESSAGE",
+        "data": {
+          "group": {
+            "id": "0379d34a-754c-4ff4-9020-5762cecb1d67",
+            "name": "[GDG] Game Developers Guild"
+          }
+        },
+        "id": "e726ac13-35a0-4586-bf2a-35da9704e55e",
+        "seen": false
+      }
+    ],
+    "tags": [
+      {
+        "id": "c7dd7ae4-5484-4fcc-b0ee-078e33831d4d",
+        "name": "Work"
+      },
+      {
+        "id": "0bb64073-e09c-466a-a5eb-09cffd2abb77",
+        "name": "Health + Wellness"
+      },
+      {
+        "id": "0353d201-54f7-4274-be75-32852cd0509a",
+        "name": "Chores"
+      },
+      {
+        "id": "b9182b99-61af-458c-8995-93e9cb6bbf6f",
+        "name": "Skill Development"
+      },
+      {
+        "id": "4a605363-43ed-46e2-9b33-75cf4028501a",
+        "name": "Long Term"
+      },
+      {
+        "id": "85201532-bd2a-46fc-b2fd-bffd319fe5ef",
+        "name": "Mid Term"
+      },
+      {
+        "id": "7a28b529-49da-49fa-818e-c76317dbcb2a",
+        "name": "Anti-Completionist",
+        "challenge": false
+      },
+      {
+        "id": "68f28987-6e00-47fd-becc-a4413d1b758f",
+        "name": "HealthySleep101 December",
+        "challenge": false
+      },
+      {
+        "id": "d46d09fb-760b-4945-9aa1-28184699d158",
+        "name": "Consciously Move",
+        "challenge": true
+      },
+      {
+        "id": "66839c70-1037-40df-9b35-2b630a7b530b",
+        "name": "Progchallenge Sept",
+        "challenge": true
+      },
+      {
+        "id": "41b9de95-67aa-4609-a4b9-216c3c613018",
+        "name": "Don't Go Alone",
+        "challenge": false
+      },
+      {
+        "id": "63b7689c-a17d-44c9-b564-fa72ea87b4e7",
+        "name": ":hourglass_flowing_sand: Tidy (Sep)",
+        "challenge": false
+      },
+      {
+        "id": "426e7fca-d51f-411b-9518-cab1d2d9951e",
+        "name": "GDCC",
+        "challenge": true
+      },
+      {
+        "id": "ceac7578-0884-401a-8372-f6ad6d9354c0",
+        "name": "Natural 1",
+        "challenge": false
+      }
+    ],
+    "extra": {},
+    "pushDevices": [
+      {
+        "regId": "cKwsuInpUiY:APA91bGIDnnp3lwdv2kePnpEYb1NvDNVjaht6X_MHs6vbBkJIQvlsHq44vo8Dk8tK-qmbeyj7qFrypZm6JUvrstXUz8nUL4t6e2cAkhweHGvY9FaEaYXBwByZ0NF68q8k1dyDsr4k-7q",
+        "type": "android",
+        "createdAt": "2018-04-11T00:28:21.717Z",
+        "updatedAt": "2021-03-14T23:22:42.785Z"
+      },
+      {
+        "regId": "cdCVMo8Mhl4:APA91bGmsWr0jRslTfvZ-5x0wy2r7mqRXI_8MFySkTdyGrF1tZaOzzQ0bhRUUF1RhOs1qW6kRHQxK5aefTR8morOK9suS-ZoqkhIrEZZe_oxG53UoSFbxybAU9GE2-TNs_A35x6kFUHh",
+        "type": "android",
+        "createdAt": "2020-03-19T23:10:54.896Z",
+        "updatedAt": "2021-03-14T23:22:42.785Z"
+      },
+      {
+        "regId": "coASrPBqQ8-obK046GiMA_:APA91bGJjzlhTynbfWvDUfmnk4P6DpFiQy31n9HHpGmpkBsBaGf9NSF3o6MFOz65D8wpPyrExGNfasQtzqDl2athwCFom6-KWjWHdRkZqnfEc-uKxDlAdfOD6MnmQpAABrPCjpv5pVEm",
+        "type": "android",
+        "createdAt": "2020-11-29T18:53:53.004Z",
+        "updatedAt": "2021-03-14T23:22:42.785Z"
+      }
+    ],
+    "webhooks": [],
+    "pinnedItems": [
+      {
+        "type": "potion",
+        "path": "potion"
+      },
+      {
+        "type": "armoire",
+        "path": "armoire"
+      }
+    ],
+    "unpinnedItems": [],
+    "_ABTests": {
+      "onboardingPushNotification": "Onboarding-Step5-Phasea-VersionB"
+    },
+    "migration": "20210314_pi_day",
+    "id": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "needsCron": false
+  }

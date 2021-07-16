@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Habitica Task Manager
+        </title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link href="dist/rpgui.css" rel="stylesheet" type="text/css" >
+        <script src="dist/rpgui.js"></script>
+
+        <link type="text/css" rel="stylesheet" href="style/main.css">
+
+        
+        <script src="script/node_modules/lodash/lodash.js"></script>
+        <script type="module" src="script/calcStats.js"></script>
+        <script type="module" src="script/calcReward.js"></script>
+        <script type="module" src="script/contentGen.js"></script>
+        <script type="module" src="script/fetchHabiticaData.js"></script>
+        
+        <!--
+
+         <link href="dist/rpgui.css" rel="stylesheet" type="text/css" >
+        <script src="dist/rpgui.js"></script>
+        -->
+       
+    </head>
+    <body>
+        <div class="rpgui-content">
+            <!--
+                Code copied from:https://oldgods.net/habitrpg/habitrpg_user_data_display.html
+            -->
+            <iframe src="null.htm" id="formPasswdSaveFix" name="formPasswdSaveFix" style="display:none"></iframe>
+            <div id="habiticaFetchForm">
+                <h1>
+                    Log In
+                </h1>
+                <p>This page is under construction.  Currently can fetch data from <a href="https://habitica.com/">Habitica</a>, but cannot edit or create new tasks.</p>
+                <div class="rpgui-container framed">
+                    <form id="userApiDetailsForm" method="POST" action="" target="formPasswdSaveFix">
+                        <fieldset>
+                            <legend><span class="highlight">Enter your Habitica API credentials</span>
+                            (from <a href="https://habitica.com/user/settings/api">User Icon &gt; Settings &gt; API</a> on the website or Settings &gt; API on the Android app or Settings &gt; Account Details on the iOS app)
+                            </legend>
+                            <label for="userId"><span>User ID</span>
+                                <input type="text" name="userId" id="userId" />
+                            </label>
+                            <label for="apiToken"><span>API Token</span>
+                                <input type="password" name="apiToken" id="apiToken" />
+                            </label>
+                            <button id="formSubmit" class="rpgui-button" type="submit">Fetch My Data</button>
+                        </fieldset>
+                    </form>
+                    <p id="dataFetchResults">
+                        
+                    </p>
+                </div>
+            </div>
+            <div id="menu" hidden>
+                <ul class="menuList">
+                    <li>
+                        <button id="activeMenuBtn" class="rpgui-button" type="button">Active Quests</button>
+                    </li>
+                    <li>
+                        <button id="acceptedMenuBtn" class="rpgui-button" type="button">Accepted Quests</button>
+                    </li>
+                    <li>
+                        <button id="builderMenuBtn" class="rpgui-button" type="button">Quest Builder</button>
+                    </li>
+                </ul>
+            </div>
+            <div id="content" hidden>
+
+            </div>
+
+        </div>
+        <script type="module">
+            import {fetchData} from './script/fetchHabiticaData.js';
+            $('#userApiDetailsForm').submit(function(event){
+                /* This needs to be in HTML page so that function will trigger*/
+                /*userId   = $('#userId').val();
+                apiToken = $('#apiToken').val();*/
+                fetchData($('#userId').val(),$('#apiToken').val());
+            });
+
+        </script>
+    </body>
+</html>

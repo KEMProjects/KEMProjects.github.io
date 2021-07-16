@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&family=Open+Sans");
+
+body{
+    background-color: #a9c6dd;
+}
+
+fieldset{
+    border:0px;
+}
+ul.menuList{
+    list-style-type: none;
+    padding: 0 0 0 0;
+    margin-left:15px;
+}
+ul.menuList li{
+    display: inline;
+    padding: 0 0 0 0;
+    margin: 0;
+}
+.rpgui-container {
+    /* position style and default z */
+    position: relative;
+    z-index: 10;
+    overflow: show; 
+    color: black;
+    text-shadow: 0 0 black, 0 0 black, 0 0 black, 0 0 black;
+    /* center text */
+    text-align: center;
+
+}
+
+.rpgui-content{
+    font-family: 'Open Sans', sans-serif !important;
+    position: relative;
+}
+
+.rpgui-content h1 {
+    /* color and border */
+    color: black;
+    text-shadow: 0 0 black, 0 0 black, 0 0 black, 0 0 black;
+    font-size: 3em;
+    /* center text */
+    text-align: center;
+    /* padding */
+    padding: 0 0 0 0;
+    margin: 7px 7px 17px 7px; 
+}
+
+.rpgui-content h2 {
+    /* color and border */
+    color: black;
+    text-shadow: 0 0 black, 0 0 black, 0 0 black, 0 0 black;
+    font-size: 2em;
+    /* center text */
+    text-align: center;
+    /* padding */
+    padding: 0 0 0 0;
+    margin: 7px 7px 17px 7px; 
+}
+
+.rpgui-content p {
+    /* color and border */
+    color: black;
+    text-shadow: 0 0 black, 0 0 black, 0 0 black, 0 0 black;
+    font-size: 1em;
+    /* center text */
+    text-align: center;
+    /* padding */
+    padding: 0 0 0 0;
+    margin: 7px 7px 17px 7px; 
+}
+
+.questViewDiv{
+    width:100%;
+    margin:10px;
+    display: table;
+}
+.questListDiv{
+    float:left;
+    width:20%;
+    display: table-cell;
+}
+.questDetailDiv{
+    float:left;
+    width:70%;
+    margin-left:15px;
+    display: table-cell;
+    min-height: 20em;
+}
+
+.questListDiv button{
+    width:100%;
+}

@@ -1,0 +1,549 @@
+[
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "recurringCompletion"
+    },
+    "up": true,
+    "down": false,
+    "counterUp": 0,
+    "counterDown": 0,
+    "frequency": "daily",
+    "history": [
+      {
+        "date": 1543984259777,
+        "value": 1.9747,
+        "scoredUp": 2,
+        "scoredDown": 0
+      },
+      {
+        "date": 1544027660989,
+        "value": 1.9623660130663714,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1544147096056,
+        "value": 1.9563531160762064,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1544415867660,
+        "value": 1.238297156058887,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1544459541364,
+        "value": 1.6034077589361784,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1546035133999,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1546403646678,
+        "value": 1.1218019312959666,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1546439198177,
+        "value": 1.5466303753282034,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1546970441052,
+        "value": 1.0941903857367865,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1547655180211,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1554326517989,
+        "value": 1.075837735047773,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1557799739820,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1560388423466,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1561940047866,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1562366000253,
+        "value": 1.243614090235369,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1562557229273,
+        "value": 1.3029681025403126,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1563417210095,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1566780305951,
+        "value": 1.1218019312959666,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1567702881761,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1567996080565,
+        "value": 1.48726896031426,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1568170691654,
+        "value": 1.3623344674450577,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1568753413324,
+        "value": 1.165937495212475,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1572671853771,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1575951803233,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1577667636125,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1577754762659,
+        "value": 1.48726896031426,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1578537305277,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1580182583869,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1584659493093,
+        "value": 2.46682050870776,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1586141900071,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1600744714222,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1605758394924,
+        "value": 1.489877106689311,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1606676041532,
+        "value": 1.726030144790489,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1607052311507,
+        "value": 1.841142587551845,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1607572708865,
+        "value": 1.897257222545715,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1609035233112,
+        "value": 1.2310983002261988,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1610825322436,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1612033184748,
+        "value": 1.48726896031426,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1615058422194,
+        "value": 1.1811559397375033,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1615243663537,
+        "value": 1.2877506002132215,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1615519530646,
+        "value": 2.0529435492404815,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1615662058798,
+        "value": 2.000510807457892,
+        "scoredUp": 1,
+        "scoredDown": 0
+      }
+    ],
+    "type": "habit",
+    "notes": "When you start feeling like your list is too big to handle, take a breath, remind yourself you don't need to accomplish it all at once, and score this Habit!",
+    "tags": [
+      "7a28b529-49da-49fa-818e-c76317dbcb2a"
+    ],
+    "value": 1.000255403728946,
+    "priority": 1,
+    "attribute": "str",
+    "byHabitica": false,
+    "reminders": [],
+    "createdAt": "2018-12-04T15:43:29.636Z",
+    "updatedAt": "2021-03-14T18:29:42.574Z",
+    "_id": "cb735f46-e871-4bbe-a82a-421c8799d406",
+    "text": "Remind yourself: \"Not everything has to get done right now.\"",
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "id": "cb735f46-e871-4bbe-a82a-421c8799d406"
+  },
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "singleCompletion"
+    },
+    "up": true,
+    "down": true,
+    "counterUp": 0,
+    "counterDown": 0,
+    "frequency": "daily",
+    "history": [
+      {
+        "date": 1577754682179,
+        "value": 1,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1578096910784,
+        "value": 1.9747,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1578370828625,
+        "value": 2.9253562257358428,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1578458403940,
+        "value": 3.853133245658556,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1578537302073,
+        "value": 4.759112700885761,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1579066203089,
+        "value": 5.6443010177121415,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1583809556636,
+        "value": 6.5096362419810205,
+        "scoredUp": 1,
+        "scoredDown": 0
+      },
+      {
+        "date": 1615243665551,
+        "value": 13.26549822839717,
+        "scoredUp": 1,
+        "scoredDown": 0
+      }
+    ],
+    "type": "habit",
+    "notes": "",
+    "tags": [],
+    "value": 16.298730856795963,
+    "priority": 1,
+    "attribute": "str",
+    "byHabitica": false,
+    "reminders": [],
+    "createdAt": "2019-12-26T19:54:41.745Z",
+    "updatedAt": "2021-03-10T01:28:56.348Z",
+    "_id": "5d561344-9695-42b3-a817-6245fa8fe257",
+    "text": "20 min workout",
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "id": "5d561344-9695-42b3-a817-6245fa8fe257"
+  },
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "singleCompletion"
+    },
+    "completed": false,
+    "collapseChecklist": false,
+    "type": "todo",
+    "notes": "",
+    "tags": [],
+    "value": -85.66947175635245,
+    "priority": 2,
+    "attribute": "str",
+    "byHabitica": false,
+    "checklist": [],
+    "reminders": [],
+    "createdAt": "2020-04-13T02:53:26.648Z",
+    "updatedAt": "2021-03-14T23:22:42.783Z",
+    "_id": "4bb33b6a-8ec9-4e7a-8d2b-df19cee411e5",
+    "text": "https://www.thetechedvocate.org/start-here/",
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "date": null,
+    "id": "4bb33b6a-8ec9-4e7a-8d2b-df19cee411e5"
+  },
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "singleCompletion"
+    },
+    "completed": false,
+    "collapseChecklist": false,
+    "type": "todo",
+    "notes": "",
+    "tags": [],
+    "value": -3.0438343791968974,
+    "priority": 2,
+    "attribute": "str",
+    "byHabitica": false,
+    "checklist": [],
+    "reminders": [],
+    "createdAt": "2021-03-06T19:20:46.287Z",
+    "updatedAt": "2021-03-14T18:29:42.575Z",
+    "_id": "7f9e1f59-5759-4333-9367-854be49fff64",
+    "text": "Taxes",
+    "date": null,
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "id": "7f9e1f59-5759-4333-9367-854be49fff64"
+  },
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "singleCompletion"
+    },
+    "completed": false,
+    "collapseChecklist": false,
+    "type": "todo",
+    "notes": "",
+    "tags": [],
+    "value": -3.0438337683555163,
+    "priority": 2,
+    "attribute": "str",
+    "byHabitica": false,
+    "checklist": [],
+    "reminders": [],
+    "createdAt": "2021-03-07T04:57:18.544Z",
+    "updatedAt": "2021-03-14T18:29:42.575Z",
+    "_id": "37304534-e244-4b41-b86e-685e7338152d",
+    "text": "Fix resume per resume checker",
+    "date": null,
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "id": "37304534-e244-4b41-b86e-685e7338152d"
+  },
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "singleCompletion"
+    },
+    "completed": false,
+    "collapseChecklist": false,
+    "type": "todo",
+    "notes": "",
+    "tags": [],
+    "value": -3.0792442306676366,
+    "priority": 1,
+    "attribute": "str",
+    "byHabitica": false,
+    "checklist": [],
+    "reminders": [],
+    "createdAt": "2021-03-10T01:47:34.184Z",
+    "updatedAt": "2021-03-14T18:29:42.575Z",
+    "_id": "177dab93-4230-420b-a1e2-d71c5acd80cf",
+    "text": "Find screws for door",
+    "date": null,
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "id": "177dab93-4230-420b-a1e2-d71c5acd80cf"
+  },
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "singleCompletion"
+    },
+    "completed": false,
+    "collapseChecklist": false,
+    "type": "todo",
+    "notes": "",
+    "tags": [],
+    "value": -1,
+    "priority": 1,
+    "attribute": "str",
+    "byHabitica": false,
+    "checklist": [],
+    "reminders": [],
+    "createdAt": "2021-03-13T19:45:10.125Z",
+    "updatedAt": "2021-03-14T18:29:42.575Z",
+    "_id": "380e679d-9a96-431a-ad54-a020d7666eff",
+    "text": "Find pest control information ",
+    "date": null,
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "id": "380e679d-9a96-431a-ad54-a020d7666eff"
+  },
+  {
+    "challenge": {},
+    "group": {
+      "approval": {
+        "required": false,
+        "approved": false,
+        "requested": false
+      },
+      "assignedUsers": [],
+      "sharedCompletion": "singleCompletion"
+    },
+    "completed": false,
+    "collapseChecklist": false,
+    "type": "todo",
+    "notes": "Duolingo\nItalki\nDassault Systems\nMatlab\nAngel, Moodle, and Blackboard\nCoursera\nCourse Hero\nChegg\nMemrise",
+    "tags": [],
+    "value": 0,
+    "priority": 2,
+    "attribute": "str",
+    "byHabitica": false,
+    "checklist": [],
+    "reminders": [],
+    "createdAt": "2021-03-14T18:30:21.784Z",
+    "updatedAt": "2021-03-14T18:33:04.336Z",
+    "_id": "5d631c24-37aa-409f-8238-991ec6baa01d",
+    "text": "Review information for companies",
+    "userId": "4a058194-5751-4210-aaff-5fdf44bcb46a",
+    "id": "5d631c24-37aa-409f-8238-991ec6baa01d"
+  }
+]
