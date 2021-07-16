@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Habitica RPG Demo
+        </title>
+		<style>
+			@charset "ISO-8859-1";
+			/*
+			https://codepen.io/leenalavanya/pen/mPWdPZ
+			*/
+			body{background:slateblue;margin:0}
+			div{width:75%;background:#e6e6e6;border-radius:8px;box-shadow:0 0 40px -10px #000;margin:10px auto;padding:20px 30px;max-width:calc(100vw - 40px);box-sizing:border-box;font-family:'Montserrat',sans-serif;position:relative}
+			h2{margin:10px 0;padding-bottom:10px;width:180px;color:#black;border-bottom:3px solid #black}
+			p:before{content:attr(type);display:block;margin:28px 0 0;font-size:14px;color:#5a5a5a}
+			span{margin:0 5px 0 15px}
+			/*Custom*/
+			h1{
+				text-align: center;
+				font-family:'Montserrat',sans-serif;
+			}
+			img{
+				width:25%;
+			}
+			a{
+				color:darkslateblue;
+			}
+
+		</style>
+    </head>
+    <body>
+		<div>
+			<h1>Habitica RPG Demo</h1>
+			<p>This is a working demo of a RPG made with RPG Maker MV and using Node.JS to connect to the Habitica website to retrieve user information.  The goal is to show how to use Habitica user information to incorporate in an RPG game.  My idea was that I could create a playable game where instead of progressing by levelling up, instead new areas were opened based on the progress made in Habitica</p>
+			<h2>What is Habitica?</h2>
+			<a href="https://habitica.com/">Link to Habitica</a>
+			<p>Habitica is a free habit and productivity app that treats your real life like a game. Habitica can help you achieve your goals to become healthy and happy.</p>
+			<h2>Play Demo</h2>
+			<a href="LegendOfHabitica/www/index.html">Click here to go to demo</a>
+			<h2>How it Works</h2>
+			<h3>Log-in</h3>
+			<img src="Log-In.png">
+			<p>The RPG Maker MV engine takes care of starting the game.  The next step is to log-in to Habitica.  This is where I created custom Node.JS code to connect to Habitica using their open API.  I used another library to create the log-in screen, and behind the scenes it connects and fetches the data.  See KEM_HabiticaConnect.js and KEM_HabiticaConvert.js for the custom code I wrote.
+			</p>
+			<h3>Game Loads</h3>
+			<img src="World.png">
+			<img src="Menu1.png">
+			<img src="Menu2.png">
+			<p>The next step in the demo is that after log-in, the game generates the user and party based on the data obtained from Habitica.  The first four party members are used for display and monster fights.  The Habitica data is converted to RPG stats, so the health and level information is accurate to the database.
+			
+		</div>
+
+    </body>
+</html>

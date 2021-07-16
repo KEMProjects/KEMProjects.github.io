@@ -1,0 +1,6 @@
+﻿id,animationId,description,etypeId,traits,iconIndex,name,note,price,wtypeId,params0,params1,params2,params3,params4,params5,params6,params7
+Id,Animation Id,Description,Equip Type,Traits,Icon Index,Name,Note,Price,Weapon Type,Max HP,Max MP,Attack,Defense,M.Attack,M.Defense,Agility,Luck
+1,6,,1,"[{""code"":31,""dataId"":1,""value"":0},{""code"":22,""dataId"":0,""value"":0}]",97,Sword,,500,2,0,0,10,0,0,0,0,0
+2,66,,1,"[{""code"":31,""dataId"":2,""value"":0},{""code"":22,""dataId"":0,""value"":0}]",101,Staff,,500,4,0,0,10,0,0,0,0,0
+3,41,,1,"[{""code"":31,""dataId"":1,""value"":0},{""code"":22,""dataId"":0,""value"":0}]",101,Wand,,500,3,0,0,10,0,0,0,0,0
+4,11,,1,"[{""code"":31,""dataId"":1,""value"":0},{""code"":22,""dataId"":0,""value"":0}]",96,Dagger,,500,1,0,0,10,0,0,0,0,0

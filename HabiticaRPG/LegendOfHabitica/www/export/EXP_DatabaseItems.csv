@@ -1,0 +1,6 @@
+﻿id,animationId,consumable,description,effects,hitType,iconIndex,itypeId,name,note,occasion,price,repeats,scope,speed,successRate,tpGain,damage_critical,damage_elementId,damage_formula,damage_type,damage_variance
+Id,Animation Id,Consumable,Description,Effects,Hit Type,Icon Index,Item Type,Name,Note,Occasion,Price,Repeats,Scope,Speed,Success Rate,TP Gain,Damage Critical,Damage Element Id,Damage Formula,Damage Type,Damage Variance
+1,41,TRUE,,"[{""code"":11,""dataId"":0,""value1"":0,""value2"":500}]",0,176,1,Potion,,0,50,1,7,0,100,0,FALSE,0,0,0,20
+2,41,TRUE,,"[{""code"":12,""dataId"":0,""value1"":0,""value2"":200}]",0,176,1,Magic Water,,0,100,1,7,0,100,0,FALSE,0,0,0,20
+3,45,TRUE,,"[{""code"":22,""dataId"":4,""value1"":1,""value2"":0},{""code"":22,""dataId"":5,""value1"":1,""value2"":0},{""code"":22,""dataId"":6,""value1"":1,""value2"":0},{""code"":22,""dataId"":7,""value1"":1,""value2"":0},{""code"":22,""dataId"":8,""value1"":1,""value2"":0},{""code"":22,""dataId"":9,""value1"":1,""value2"":0},{""code"":22,""dataId"":10,""value1"":1,""value2"":0}]",0,176,1,Dispel Herb,,0,200,1,7,0,100,0,FALSE,0,0,0,20
+4,49,TRUE,,"[{""code"":22,""dataId"":1,""value1"":1,""value2"":0}]",0,176,1,Stimulant,,0,300,1,9,0,100,0,FALSE,0,b.mhp / 2,3,20
