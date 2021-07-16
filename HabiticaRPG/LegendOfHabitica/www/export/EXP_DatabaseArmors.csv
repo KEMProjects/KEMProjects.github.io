@@ -1,6 +1,0 @@
-﻿id,atypeId,description,etypeId,traits,iconIndex,name,note,price,params0,params1,params2,params3,params4,params5,params6,params7
-Id,Armor Type,Description,Equip Type,Traits,Icon Index,Name,Note,Price,Max HP,Max MP,Attack,Defense,M.Attack,M.Defense,Agility,Luck
-1,5,,2,"[{""code"":22,""dataId"":1,""value"":0}]",128,Shield,,300,0,0,0,10,0,0,0,0
-2,1,,3,"[{""code"":22,""dataId"":1,""value"":0}]",130,Hat,,300,0,0,0,10,0,0,0,0
-3,3,,4,"[{""code"":22,""dataId"":1,""value"":0}]",135,Cloth,,300,0,0,0,10,0,0,0,0
-4,0,,2,"[{""code"":22,""dataId"":1,""value"":0}]",0,,,0,0,0,0,0,0,0,0,0

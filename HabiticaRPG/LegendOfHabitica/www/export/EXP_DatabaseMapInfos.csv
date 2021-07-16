@@ -1,8 +1,0 @@
-﻿id,expanded,name,order,parentId,scrollX,scrollY
-Id,Expanded,Name,Order,Parent Id,Scroll X,Scroll Y
-1,TRUE,LogIn,1,0,730.8,505.8
-2,FALSE,Weapon Store,5,0,730.8,505.8
-3,TRUE,DebugLogIn,3,0,730.8,505.8
-4,FALSE,FirstField,4,0,1392,1767
-5,TRUE,LogInGUI,6,0,730.8,505.8
-6,TRUE,guiTEST,2,1,730.8,505.8
