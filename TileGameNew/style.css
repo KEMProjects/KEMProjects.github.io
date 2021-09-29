@@ -1,0 +1,46 @@
+body{
+    background-color:lightskyblue;
+    max-width:60vw;
+    margin-left:20vw;
+    text-align: center;
+}
+#cardGameContent{
+    margin:10px;
+    padding:10px;
+}
+.imageCard{
+    height:20vh;
+    max-width:90%;
+}
+
+.textCard{
+    height:20vh;
+    max-width:90%;
+    font-size:xx-large;
+
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.card:hover{
+    box-shadow: 0px 0px;
+}
+.disabled{
+    box-shadow: 0px 0px;
+}
+#currWord{
+    padding-left:10px;
+    padding-right:10px;
+    font-size:xx-large;
+}

@@ -1,0 +1,6029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE index SYSTEM "http://shtooka.net/project/swac/index.dtd">
+<index>
+<group 
+	swac_lang="chi"
+	swac_speak_name="Wei Gao"
+	swac_speak_gender="M"
+	swac_speak_birth_year="1979"
+	swac_speak_lang="chi"
+	swac_speak_lang_country="CH"
+	swac_speak_lang_region="Pekin"
+	swac_speak_liv_country="CH"
+	swac_speak_liv_town="Pekin"
+	swac_pron_speed="1"
+	swac_coll_name="Base Audio Libre de Mots Chinois"
+	swac_coll_section="HSK 1"
+	swac_coll_desc="Cette collection est essentiellement destinée aux personnes étudiant le chinois comme langue étrangère ainsi qu'à la production de matériel pédagogique."
+	swac_coll_org="Shtooka Project"
+	swac_coll_org_url="http://shtooka.net/"
+	swac_coll_license="Creative Commons BY"
+	swac_coll_copyright="Copyright© 2006 Wei Gao, Vion Nicolas"
+	swac_coll_authors="Wei Gao, Vion Nicolas"
+	swac_coll_url="http://shtooka.net/audio-base/chi/"
+	swac_tech_qlt="4"
+	swac_tech_date="2006-10-29"
+	swac_tech_soft="Shtooka TB" >
+
+	<file path="chi-00e89fc7.flac">
+		<tag 
+			swac_text="原来"
+			swac_alphaidx="yuánlái"
+			swac_pron_phon="yuánlái" />
+	</file>
+	<file path="chi-00fa1443.flac">
+		<tag 
+			swac_text="英语"
+			swac_alphaidx="yīngyǔ"
+			swac_pron_phon="yīngyǔ" />
+	</file>
+	<file path="chi-011050c3.flac">
+		<tag 
+			swac_text="青年"
+			swac_alphaidx="qīngnián"
+			swac_pron_phon="qīngnián" />
+	</file>
+	<file path="chi-015113ae.flac">
+		<tag 
+			swac_text="哪"
+			swac_alphaidx="nǎ"
+			swac_pron_phon="nǎ" />
+	</file>
+	<file path="chi-01c440ae.flac">
+		<tag 
+			swac_text="饭"
+			swac_alphaidx="fàn"
+			swac_pron_phon="fàn" />
+	</file>
+	<file path="chi-01eda419.flac">
+		<tag 
+			swac_text="出"
+			swac_alphaidx="chū"
+			swac_pron_phon="chū" />
+	</file>
+	<file path="chi-0227841a.flac">
+		<tag 
+			swac_text="上午"
+			swac_alphaidx="shàngwǔ"
+			swac_pron_phon="shàngwǔ" />
+	</file>
+	<file path="chi-023eeafd.flac">
+		<tag 
+			swac_text="发现"
+			swac_alphaidx="fāxiàn"
+			swac_pron_phon="fāxiàn" />
+	</file>
+	<file path="chi-02685fe8.flac">
+		<tag 
+			swac_text="阴"
+			swac_alphaidx="yīn"
+			swac_pron_phon="yīn" />
+	</file>
+	<file path="chi-02920349.flac">
+		<tag 
+			swac_text="香"
+			swac_alphaidx="xiāng"
+			swac_pron_phon="xiāng" />
+	</file>
+	<file path="chi-02a461a2.flac">
+		<tag 
+			swac_text="呢"
+			swac_alphaidx="ne"
+			swac_pron_phon="ne" />
+	</file>
+	<file path="chi-02bc1e63.flac">
+		<tag 
+			swac_text="不久"
+			swac_alphaidx="bùjiǔ"
+			swac_pron_phon="bùjiǔ" />
+	</file>
+	<file path="chi-0313c133.flac">
+		<tag 
+			swac_text="物理"
+			swac_alphaidx="wùlǐ"
+			swac_pron_phon="wùlǐ" />
+	</file>
+	<file path="chi-034f5fee.flac">
+		<tag 
+			swac_text="工厂"
+			swac_alphaidx="gōngchǎng"
+			swac_pron_phon="gōngchǎng" />
+	</file>
+	<file path="chi-0363a1a8.flac">
+		<tag 
+			swac_text="解决"
+			swac_alphaidx="jiějué"
+			swac_pron_phon="jiějué" />
+	</file>
+	<file path="chi-0389e19f.flac">
+		<tag 
+			swac_text="药"
+			swac_alphaidx="yào"
+			swac_pron_phon="yào" />
+	</file>
+	<file path="chi-038f39ee.flac">
+		<tag 
+			swac_text="劳动"
+			swac_alphaidx="láodòng"
+			swac_pron_phon="láodòng" />
+	</file>
+	<file path="chi-039e6b3e.flac">
+		<tag 
+			swac_text="应该"
+			swac_alphaidx="yīnggāi"
+			swac_pron_phon="yīnggāi" />
+	</file>
+	<file path="chi-03dbb630.flac">
+		<tag 
+			swac_text="文化"
+			swac_alphaidx="wénhuà"
+			swac_pron_phon="wénhuà" />
+	</file>
+	<file path="chi-0478b7b0.flac">
+		<tag 
+			swac_text="今年"
+			swac_alphaidx="jīnnián"
+			swac_pron_phon="jīnnián" />
+	</file>
+	<file path="chi-04c62a92.flac">
+		<tag 
+			swac_text="影响"
+			swac_alphaidx="yǐngxiǎng"
+			swac_pron_phon="yǐngxiǎng" />
+	</file>
+	<file path="chi-04cbd366.flac">
+		<tag 
+			swac_text="最初"
+			swac_alphaidx="zuìchū"
+			swac_pron_phon="zuìchū" />
+	</file>
+	<file path="chi-05d4c283.flac">
+		<tag 
+			swac_text="下边"
+			swac_alphaidx="xiàbiān"
+			swac_pron_phon="xiàbiān" />
+	</file>
+	<file path="chi-05dec1b1.flac">
+		<tag 
+			swac_text="只"
+			swac_alphaidx="zhī"
+			swac_pron_phon="zhī" />
+	</file>
+	<file path="chi-05f6dca6.flac">
+		<tag 
+			swac_text="出现"
+			swac_alphaidx="chūxiàn"
+			swac_pron_phon="chūxiàn" />
+	</file>
+	<file path="chi-05fc2516.flac">
+		<tag 
+			swac_text="球"
+			swac_alphaidx="qiú"
+			swac_pron_phon="qiú" />
+	</file>
+	<file path="chi-05ff8b24.flac">
+		<tag 
+			swac_text="文学"
+			swac_alphaidx="wénxué"
+			swac_pron_phon="wénxué" />
+	</file>
+	<file path="chi-0602fc8e.flac">
+		<tag 
+			swac_text="难"
+			swac_alphaidx="nán"
+			swac_pron_phon="nán" />
+	</file>
+	<file path="chi-06b476f7.flac">
+		<tag 
+			swac_text="早晨"
+			swac_alphaidx="zǎochen"
+			swac_pron_phon="zǎochen" />
+	</file>
+	<file path="chi-06d2b5ce.flac">
+		<tag 
+			swac_text="关心"
+			swac_alphaidx="guānxīn"
+			swac_pron_phon="guānxīn" />
+	</file>
+	<file path="chi-06f1bfed.flac">
+		<tag 
+			swac_text="读"
+			swac_alphaidx="dú"
+			swac_pron_phon="dú" />
+	</file>
+	<file path="chi-074f155f.flac">
+		<tag 
+			swac_text="被"
+			swac_alphaidx="bèi"
+			swac_pron_phon="bèi" />
+	</file>
+	<file path="chi-077aae57.flac">
+		<tag 
+			swac_text="跳"
+			swac_alphaidx="tiào"
+			swac_pron_phon="tiào" />
+	</file>
+	<file path="chi-07b7e5f1.flac">
+		<tag 
+			swac_text="腿"
+			swac_alphaidx="tuǐ"
+			swac_pron_phon="tuǐ" />
+	</file>
+	<file path="chi-07dc259a.flac">
+		<tag 
+			swac_text="牛奶"
+			swac_alphaidx="niúnǎi"
+			swac_pron_phon="niúnǎi" />
+	</file>
+	<file path="chi-0833556b.flac">
+		<tag 
+			swac_text="号"
+			swac_alphaidx="hào"
+			swac_pron_phon="hào" />
+	</file>
+	<file path="chi-0867146a.flac">
+		<tag 
+			swac_text="试"
+			swac_alphaidx="shì"
+			swac_pron_phon="shì" />
+	</file>
+	<file path="chi-08781b5b.flac">
+		<tag 
+			swac_text="出租汽车"
+			swac_alphaidx="chūzūqìchē"
+			swac_pron_phon="chūzūqìchē" />
+	</file>
+	<file path="chi-0a2a8ceb.flac">
+		<tag 
+			swac_text="看"
+			swac_alphaidx="kàn"
+			swac_pron_phon="kàn" />
+	</file>
+	<file path="chi-0a3d9734.flac">
+		<tag 
+			swac_text="比较"
+			swac_alphaidx="bǐjiào"
+			swac_pron_phon="bǐjiào" />
+	</file>
+	<file path="chi-0a65b736.flac">
+		<tag 
+			swac_text="丰富"
+			swac_alphaidx="fēngfù"
+			swac_pron_phon="fēngfù" />
+	</file>
+	<file path="chi-0ad60165.flac">
+		<tag 
+			swac_text="篮球"
+			swac_alphaidx="lánqiú"
+			swac_pron_phon="lánqiú" />
+	</file>
+	<file path="chi-0af1155b.flac">
+		<tag 
+			swac_text="数"
+			swac_alphaidx="shǔ"
+			swac_pron_phon="shǔ" />
+	</file>
+	<file path="chi-0afa7a6d.flac">
+		<tag 
+			swac_text="红"
+			swac_alphaidx="hóng"
+			swac_pron_phon="hóng" />
+	</file>
+	<file path="chi-0b1837b3.flac">
+		<tag 
+			swac_text="爱人"
+			swac_alphaidx="àiren"
+			swac_pron_phon="àiren" />
+	</file>
+	<file path="chi-0b38b0a6.flac">
+		<tag 
+			swac_text="健康"
+			swac_alphaidx="jiànkāng"
+			swac_pron_phon="jiànkāng" />
+	</file>
+	<file path="chi-0b3ff2f4.flac">
+		<tag 
+			swac_text="年轻"
+			swac_alphaidx="niánqīng"
+			swac_pron_phon="niánqīng" />
+	</file>
+	<file path="chi-0b67227a.flac">
+		<tag 
+			swac_text="录音"
+			swac_alphaidx="lùyīn"
+			swac_pron_phon="lùyīn" />
+	</file>
+	<file path="chi-0b919ae9.flac">
+		<tag 
+			swac_text="次"
+			swac_alphaidx="cì"
+			swac_pron_phon="cì" />
+	</file>
+	<file path="chi-0bed37d2.flac">
+		<tag 
+			swac_text="上边"
+			swac_alphaidx="shàngbiān"
+			swac_pron_phon="shàngbiān" />
+	</file>
+	<file path="chi-0c08ffe8.flac">
+		<tag 
+			swac_text="两"
+			swac_alphaidx="liǎng"
+			swac_pron_phon="liǎng" />
+	</file>
+	<file path="chi-0c67a387.flac">
+		<tag 
+			swac_text="请"
+			swac_alphaidx="qǐng"
+			swac_pron_phon="qǐng" />
+	</file>
+	<file path="chi-0c6a253a.flac">
+		<tag 
+			swac_text="活动"
+			swac_alphaidx="huódòng"
+			swac_pron_phon="huódòng" />
+	</file>
+	<file path="chi-0cc42a99.flac">
+		<tag 
+			swac_text="新年"
+			swac_alphaidx="xīnnián"
+			swac_pron_phon="xīnnián" />
+	</file>
+	<file path="chi-0d09e547.flac">
+		<tag 
+			swac_text="起来"
+			swac_alphaidx="qǐlái"
+			swac_pron_phon="qǐlái" />
+	</file>
+	<file path="chi-0d1f52a9.flac">
+		<tag 
+			swac_text="礼物"
+			swac_alphaidx="lǐwù"
+			swac_pron_phon="lǐwù" />
+	</file>
+	<file path="chi-0d37aee9.flac">
+		<tag 
+			swac_text="跳舞"
+			swac_alphaidx="tiàowǔ"
+			swac_pron_phon="tiàowǔ" />
+	</file>
+	<file path="chi-0dd7fcdf.flac">
+		<tag 
+			swac_text="间"
+			swac_alphaidx="jiān"
+			swac_pron_phon="jiān" />
+	</file>
+	<file path="chi-0ddbf6b4.flac">
+		<tag 
+			swac_text="因为"
+			swac_alphaidx="yīnwèi"
+			swac_pron_phon="yīnwèi" />
+	</file>
+	<file path="chi-0e3ba523.flac">
+		<tag 
+			swac_text="喝"
+			swac_alphaidx="hē"
+			swac_pron_phon="hē" />
+	</file>
+	<file path="chi-0e8f371b.flac">
+		<tag 
+			swac_text="亮"
+			swac_alphaidx="liàng"
+			swac_pron_phon="liàng" />
+	</file>
+	<file path="chi-0ec80504.flac">
+		<tag 
+			swac_text="带"
+			swac_alphaidx="dài"
+			swac_pron_phon="dài" />
+	</file>
+	<file path="chi-0fa15844.flac">
+		<tag 
+			swac_text="不同"
+			swac_alphaidx="bùtóng"
+			swac_pron_phon="bùtóng" />
+	</file>
+	<file path="chi-102de6bc.flac">
+		<tag 
+			swac_text="过"
+			swac_alphaidx="guò"
+			swac_pron_phon="guò" />
+	</file>
+	<file path="chi-10453b34.flac">
+		<tag 
+			swac_text="牛"
+			swac_alphaidx="niú"
+			swac_pron_phon="niú" />
+	</file>
+	<file path="chi-106a239a.flac">
+		<tag 
+			swac_text="这里"
+			swac_alphaidx="zhèli"
+			swac_pron_phon="zhèli" />
+	</file>
+	<file path="chi-10a38ade.flac">
+		<tag 
+			swac_text="嘴"
+			swac_alphaidx="zuǐ"
+			swac_pron_phon="zuǐ" />
+	</file>
+	<file path="chi-1116eff7.flac">
+		<tag 
+			swac_text="书"
+			swac_alphaidx="shū"
+			swac_pron_phon="shū" />
+	</file>
+	<file path="chi-1144872b.flac">
+		<tag 
+			swac_text="有"
+			swac_alphaidx="yǒu"
+			swac_pron_phon="yǒu" />
+	</file>
+	<file path="chi-11ca5549.flac">
+		<tag 
+			swac_text="忙"
+			swac_alphaidx="máng"
+			swac_pron_phon="máng" />
+	</file>
+	<file path="chi-11e215d3.flac">
+		<tag 
+			swac_text="春"
+			swac_alphaidx="chūn"
+			swac_pron_phon="chūn" />
+	</file>
+	<file path="chi-11e9c2db.flac">
+		<tag 
+			swac_text="我们"
+			swac_alphaidx="wǒmen"
+			swac_pron_phon="wǒmen" />
+	</file>
+	<file path="chi-121bea56.flac">
+		<tag 
+			swac_text="学院"
+			swac_alphaidx="xuéyuàn"
+			swac_pron_phon="xuéyuàn" />
+	</file>
+	<file path="chi-12566223.flac">
+		<tag 
+			swac_text="许多"
+			swac_alphaidx="xǔduō"
+			swac_pron_phon="xǔduō" />
+	</file>
+	<file path="chi-135c09c4.flac">
+		<tag 
+			swac_text="那些"
+			swac_alphaidx="nàxiē"
+			swac_pron_phon="nàxiē" />
+	</file>
+	<file path="chi-139e9dbb.flac">
+		<tag 
+			swac_text="时间"
+			swac_alphaidx="shíjiān"
+			swac_pron_phon="shíjiān" />
+	</file>
+	<file path="chi-13ba5975.flac">
+		<tag 
+			swac_text="城"
+			swac_alphaidx="chéng"
+			swac_pron_phon="chéng" />
+	</file>
+	<file path="chi-13ee041f.flac">
+		<tag 
+			swac_text="外边"
+			swac_alphaidx="wàibiān"
+			swac_pron_phon="wàibiān" />
+	</file>
+	<file path="chi-146cee5c.flac">
+		<tag 
+			swac_text="年纪"
+			swac_alphaidx="niánjì"
+			swac_pron_phon="niánjì" />
+	</file>
+	<file path="chi-15064dc6.flac">
+		<tag 
+			swac_text="碰"
+			swac_alphaidx="pèng"
+			swac_pron_phon="pèng" />
+	</file>
+	<file path="chi-153ed9e6.flac">
+		<tag 
+			swac_text="晴"
+			swac_alphaidx="qíng"
+			swac_pron_phon="qíng" />
+	</file>
+	<file path="chi-159dce10.flac">
+		<tag 
+			swac_text="倍"
+			swac_alphaidx="bèi"
+			swac_pron_phon="bèi" />
+	</file>
+	<file path="chi-15fd9513.flac">
+		<tag 
+			swac_text="元"
+			swac_alphaidx="yuán"
+			swac_pron_phon="yuán" />
+	</file>
+	<file path="chi-16354733.flac">
+		<tag 
+			swac_text="发"
+			swac_alphaidx="fā"
+			swac_pron_phon="fā" />
+	</file>
+	<file path="chi-16d9a013.flac">
+		<tag 
+			swac_text="留念"
+			swac_alphaidx="liúniàn"
+			swac_pron_phon="liúniàn" />
+	</file>
+	<file path="chi-17a1670c.flac">
+		<tag 
+			swac_text="身体"
+			swac_alphaidx="shēntǐ"
+			swac_pron_phon="shēntǐ" />
+	</file>
+	<file path="chi-17aa6f2a.flac">
+		<tag 
+			swac_text="毛"
+			swac_alphaidx="máo"
+			swac_pron_phon="máo" />
+	</file>
+	<file path="chi-17ca710e.flac">
+		<tag 
+			swac_text="回来"
+			swac_alphaidx="huílái"
+			swac_pron_phon="huílái" />
+	</file>
+	<file path="chi-17ede02e.flac">
+		<tag 
+			swac_text="刀"
+			swac_alphaidx="dāo"
+			swac_pron_phon="dāo" />
+	</file>
+	<file path="chi-18981d0a.flac">
+		<tag 
+			swac_text="大家"
+			swac_alphaidx="dàjiā"
+			swac_pron_phon="dàjiā" />
+	</file>
+	<file path="chi-18f3bc61.flac">
+		<tag 
+			swac_text="天气"
+			swac_alphaidx="tiānqì"
+			swac_pron_phon="tiānqì" />
+	</file>
+	<file path="chi-195ba5c0.flac">
+		<tag 
+			swac_text="认为"
+			swac_alphaidx="rènwéi"
+			swac_pron_phon="rènwéi" />
+	</file>
+	<file path="chi-19d26513.flac">
+		<tag 
+			swac_text="房间"
+			swac_alphaidx="fángjiān"
+			swac_pron_phon="fángjiān" />
+	</file>
+	<file path="chi-19d28c1b.flac">
+		<tag 
+			swac_text="岁"
+			swac_alphaidx="suì"
+			swac_pron_phon="suì" />
+	</file>
+	<file path="chi-1a0a4c20.flac">
+		<tag 
+			swac_text="友好"
+			swac_alphaidx="yǒuhǎo"
+			swac_pron_phon="yǒuhǎo" />
+	</file>
+	<file path="chi-1a3248b2.flac">
+		<tag 
+			swac_text="车站"
+			swac_alphaidx="chēzhàn"
+			swac_pron_phon="chēzhàn" />
+	</file>
+	<file path="chi-1a6bf310.flac">
+		<tag 
+			swac_text="挺"
+			swac_alphaidx="tǐng"
+			swac_pron_phon="tǐng" />
+	</file>
+	<file path="chi-1af20553.flac">
+		<tag 
+			swac_text="负责"
+			swac_alphaidx="fùzé"
+			swac_pron_phon="fùzé" />
+	</file>
+	<file path="chi-1b127b81.flac">
+		<tag 
+			swac_text="准备"
+			swac_alphaidx="zhǔnbèi"
+			swac_pron_phon="zhǔnbèi" />
+	</file>
+	<file path="chi-1b186193.flac">
+		<tag 
+			swac_text="下"
+			swac_alphaidx="xià"
+			swac_pron_phon="xià" />
+	</file>
+	<file path="chi-1b3df0fa.flac">
+		<tag 
+			swac_text="人"
+			swac_alphaidx="rén"
+			swac_pron_phon="rén" />
+	</file>
+	<file path="chi-1b57d83a.flac">
+		<tag 
+			swac_text="念"
+			swac_alphaidx="niàn"
+			swac_pron_phon="niàn" />
+	</file>
+	<file path="chi-1b7f9fc0.flac">
+		<tag 
+			swac_text="作"
+			swac_alphaidx="zuò"
+			swac_pron_phon="zuò" />
+	</file>
+	<file path="chi-1b854c9d.flac">
+		<tag 
+			swac_text="让"
+			swac_alphaidx="ràng"
+			swac_pron_phon="ràng" />
+	</file>
+	<file path="chi-1baf3134.flac">
+		<tag 
+			swac_text="虽然"
+			swac_alphaidx="suīrán"
+			swac_pron_phon="suīrán" />
+	</file>
+	<file path="chi-1c85601d.flac">
+		<tag 
+			swac_text="散步"
+			swac_alphaidx="sànbù"
+			swac_pron_phon="sànbù" />
+	</file>
+	<file path="chi-1c9b1e15.flac">
+		<tag 
+			swac_text="日子"
+			swac_alphaidx="rìzi"
+			swac_pron_phon="rìzi" />
+	</file>
+	<file path="chi-1ccd9547.flac">
+		<tag 
+			swac_text="馆"
+			swac_alphaidx="guǎn"
+			swac_pron_phon="guǎn" />
+	</file>
+	<file path="chi-1d11065e.flac">
+		<tag 
+			swac_text="住"
+			swac_alphaidx="zhù"
+			swac_pron_phon="zhù" />
+	</file>
+	<file path="chi-1d48c3f8.flac">
+		<tag 
+			swac_text="行"
+			swac_alphaidx="xíng"
+			swac_pron_phon="xíng" />
+	</file>
+	<file path="chi-1d4fdd2e.flac">
+		<tag 
+			swac_text="早"
+			swac_alphaidx="zǎo"
+			swac_pron_phon="zǎo" />
+	</file>
+	<file path="chi-1dd1941a.flac">
+		<tag 
+			swac_text="母亲"
+			swac_alphaidx="mǔqīn"
+			swac_pron_phon="mǔqīn" />
+	</file>
+	<file path="chi-1de9d04c.flac">
+		<tag 
+			swac_text="树"
+			swac_alphaidx="shù"
+			swac_pron_phon="shù" />
+	</file>
+	<file path="chi-1dec952f.flac">
+		<tag 
+			swac_text="一般"
+			swac_alphaidx="yìbān"
+			swac_pron_phon="yìbān" />
+	</file>
+	<file path="chi-1e348142.flac">
+		<tag 
+			swac_text="用"
+			swac_alphaidx="yòng"
+			swac_pron_phon="yòng" />
+	</file>
+	<file path="chi-1e5022a5.flac">
+		<tag 
+			swac_text="汉字"
+			swac_alphaidx="hànzì"
+			swac_pron_phon="hànzì" />
+	</file>
+	<file path="chi-1e5f0f3c.flac">
+		<tag 
+			swac_text="精神"
+			swac_alphaidx="jīngshén"
+			swac_pron_phon="jīngshén" />
+	</file>
+	<file path="chi-1fafdba2.flac">
+		<tag 
+			swac_text="特别"
+			swac_alphaidx="tèbié"
+			swac_pron_phon="tèbié" />
+	</file>
+	<file path="chi-202aaae2.flac">
+		<tag 
+			swac_text="听说"
+			swac_alphaidx="tīngshuō"
+			swac_pron_phon="tīngshuō" />
+	</file>
+	<file path="chi-20810648.flac">
+		<tag 
+			swac_text="参加"
+			swac_alphaidx="cānjiā"
+			swac_pron_phon="cānjiā" />
+	</file>
+	<file path="chi-20b2dd93.flac">
+		<tag 
+			swac_text="借"
+			swac_alphaidx="jiè"
+			swac_pron_phon="jiè" />
+	</file>
+	<file path="chi-20c1a2db.flac">
+		<tag 
+			swac_text="结果"
+			swac_alphaidx="jiéguǒ"
+			swac_pron_phon="jiéguǒ" />
+	</file>
+	<file path="chi-20e65f69.flac">
+		<tag 
+			swac_text="篇"
+			swac_alphaidx="piān"
+			swac_pron_phon="piān" />
+	</file>
+	<file path="chi-20f05ddc.flac">
+		<tag 
+			swac_text="不如"
+			swac_alphaidx="bùrú"
+			swac_pron_phon="bùrú" />
+	</file>
+	<file path="chi-220c8b73.flac">
+		<tag 
+			swac_text="拍"
+			swac_alphaidx="pāi"
+			swac_pron_phon="pāi" />
+	</file>
+	<file path="chi-22ddc428.flac">
+		<tag 
+			swac_text="着"
+			swac_alphaidx="zhe"
+			swac_pron_phon="zhe" />
+	</file>
+	<file path="chi-22ded4aa.flac">
+		<tag 
+			swac_text="那里"
+			swac_alphaidx="nàli"
+			swac_pron_phon="nàli" />
+	</file>
+	<file path="chi-2351822d.flac">
+		<tag 
+			swac_text="事情"
+			swac_alphaidx="shìqing"
+			swac_pron_phon="shìqing" />
+	</file>
+	<file path="chi-2385cd83.flac">
+		<tag 
+			swac_text="成绩"
+			swac_alphaidx="chéngjī"
+			swac_pron_phon="chéngjī" />
+	</file>
+	<file path="chi-2396d935.flac">
+		<tag 
+			swac_text="月球"
+			swac_alphaidx="yuèqiú"
+			swac_pron_phon="yuèqiú" />
+	</file>
+	<file path="chi-23aae511.flac">
+		<tag 
+			swac_text="起床"
+			swac_alphaidx="qǐchuáng"
+			swac_pron_phon="qǐchuáng" />
+	</file>
+	<file path="chi-23c08d83.flac">
+		<tag 
+			swac_text="明年"
+			swac_alphaidx="míngnián"
+			swac_pron_phon="míngnián" />
+	</file>
+	<file path="chi-23c7acc5.flac">
+		<tag 
+			swac_text="游泳"
+			swac_alphaidx="yóuyǒng"
+			swac_pron_phon="yóuyǒng" />
+	</file>
+	<file path="chi-24005915.flac">
+		<tag 
+			swac_text="十"
+			swac_alphaidx="shí"
+			swac_pron_phon="shí" />
+	</file>
+	<file path="chi-24063610.flac">
+		<tag 
+			swac_text="汉语"
+			swac_alphaidx="hànyǔ"
+			swac_pron_phon="hànyǔ" />
+	</file>
+	<file path="chi-243190b4.flac">
+		<tag 
+			swac_text="圆"
+			swac_alphaidx="yuán"
+			swac_pron_phon="yuán" />
+	</file>
+	<file path="chi-24d1c103.flac">
+		<tag 
+			swac_text="活儿"
+			swac_alphaidx="huór"
+			swac_pron_phon="huór" />
+	</file>
+	<file path="chi-24e7f025.flac">
+		<tag 
+			swac_text="注意"
+			swac_alphaidx="zhùyì"
+			swac_pron_phon="zhùyì" />
+	</file>
+	<file path="chi-250c3808.flac">
+		<tag 
+			swac_text="绿"
+			swac_alphaidx="lǜ"
+			swac_pron_phon="lǜ" />
+	</file>
+	<file path="chi-25188442.flac">
+		<tag 
+			swac_text="为"
+			swac_alphaidx="wéi"
+			swac_pron_phon="wéi" />
+	</file>
+	<file path="chi-252b958d.flac">
+		<tag 
+			swac_text="连_都_"
+			swac_alphaidx="lián_dōu"
+			swac_pron_phon="lián_dōu" />
+	</file>
+	<file path="chi-2567c75b.flac">
+		<tag 
+			swac_text="门口"
+			swac_alphaidx="ménkǒu"
+			swac_pron_phon="ménkǒu" />
+	</file>
+	<file path="chi-25a6e316.flac">
+		<tag 
+			swac_text="脸"
+			swac_alphaidx="liǎn"
+			swac_pron_phon="liǎn" />
+	</file>
+	<file path="chi-269af39d.flac">
+		<tag 
+			swac_text="中间"
+			swac_alphaidx="zhōngjiān"
+			swac_pron_phon="zhōngjiān" />
+	</file>
+	<file path="chi-270ac633.flac">
+		<tag 
+			swac_text="退"
+			swac_alphaidx="tuì"
+			swac_pron_phon="tuì" />
+	</file>
+	<file path="chi-2763b6c2.flac">
+		<tag 
+			swac_text="疼"
+			swac_alphaidx="téng"
+			swac_pron_phon="téng" />
+	</file>
+	<file path="chi-279f3e38.flac">
+		<tag 
+			swac_text="这样"
+			swac_alphaidx="zhèyàng"
+			swac_pron_phon="zhèyàng" />
+	</file>
+	<file path="chi-27b887a2.flac">
+		<tag 
+			swac_text="本子"
+			swac_alphaidx="běnzi"
+			swac_pron_phon="běnzi" />
+	</file>
+	<file path="chi-2832389f.flac">
+		<tag 
+			swac_text="去"
+			swac_alphaidx="qù"
+			swac_pron_phon="qù" />
+	</file>
+	<file path="chi-28792b16.flac">
+		<tag 
+			swac_text="除了_以外"
+			swac_alphaidx="chúle_yǐwài"
+			swac_pron_phon="chúle_yǐwài" />
+	</file>
+	<file path="chi-28a690d1.flac">
+		<tag 
+			swac_text="十分"
+			swac_alphaidx="shífēn"
+			swac_pron_phon="shífēn" />
+	</file>
+	<file path="chi-28d82833.flac">
+		<tag 
+			swac_text="凉快"
+			swac_alphaidx="liángkuai"
+			swac_pron_phon="liángkuai" />
+	</file>
+	<file path="chi-292aa32e.flac">
+		<tag 
+			swac_text="表示"
+			swac_alphaidx="biǎoshì"
+			swac_pron_phon="biǎoshì" />
+	</file>
+	<file path="chi-29efa8a1.flac">
+		<tag 
+			swac_text="全体"
+			swac_alphaidx="quántǐ"
+			swac_pron_phon="quántǐ" />
+	</file>
+	<file path="chi-2a267e89.flac">
+		<tag 
+			swac_text="家庭"
+			swac_alphaidx="jiātíng"
+			swac_pron_phon="jiātíng" />
+	</file>
+	<file path="chi-2a300ac9.flac">
+		<tag 
+			swac_text="出来"
+			swac_alphaidx="chūlái"
+			swac_pron_phon="chūlái" />
+	</file>
+	<file path="chi-2a3f599e.flac">
+		<tag 
+			swac_text="你"
+			swac_alphaidx="nǐ"
+			swac_pron_phon="nǐ" />
+	</file>
+	<file path="chi-2a456cb3.flac">
+		<tag 
+			swac_text="该"
+			swac_alphaidx="gāi"
+			swac_pron_phon="gāi" />
+	</file>
+	<file path="chi-2a506a09.flac">
+		<tag 
+			swac_text="确实"
+			swac_alphaidx="quèshí"
+			swac_pron_phon="quèshí" />
+	</file>
+	<file path="chi-2a6ef7c2.flac">
+		<tag 
+			swac_text="重要"
+			swac_alphaidx="zhòngyào"
+			swac_pron_phon="zhòngyào" />
+	</file>
+	<file path="chi-2b390e52.flac">
+		<tag 
+			swac_text="再"
+			swac_alphaidx="zài"
+			swac_pron_phon="zài" />
+	</file>
+	<file path="chi-2bb9aba4.flac">
+		<tag 
+			swac_text="方便"
+			swac_alphaidx="fāngbiàn"
+			swac_pron_phon="fāngbiàn" />
+	</file>
+	<file path="chi-2bfcfa82.flac">
+		<tag 
+			swac_text="叫"
+			swac_alphaidx="jiào"
+			swac_pron_phon="jiào" />
+	</file>
+	<file path="chi-2c40b8af.flac">
+		<tag 
+			swac_text="生日"
+			swac_alphaidx="shēngri"
+			swac_pron_phon="shēngri" />
+	</file>
+	<file path="chi-2ccd8e48.flac">
+		<tag 
+			swac_text="句"
+			swac_alphaidx="jù"
+			swac_pron_phon="jù" />
+	</file>
+	<file path="chi-2d352917.flac">
+		<tag 
+			swac_text="联系"
+			swac_alphaidx="liánxì"
+			swac_pron_phon="liánxì" />
+	</file>
+	<file path="chi-2d3d58b3.flac">
+		<tag 
+			swac_text="饺子"
+			swac_alphaidx="jiǎozi"
+			swac_pron_phon="jiǎozi" />
+	</file>
+	<file path="chi-2d9d12c4.flac">
+		<tag 
+			swac_text="爱"
+			swac_alphaidx="ài"
+			swac_pron_phon="ài" />
+	</file>
+	<file path="chi-2e2d5d08.flac">
+		<tag 
+			swac_text="它们"
+			swac_alphaidx="tāmen"
+			swac_pron_phon="tāmen" />
+	</file>
+	<file path="chi-2e4fc1cd.flac">
+		<tag 
+			swac_text="可以"
+			swac_alphaidx="kěyǐ"
+			swac_pron_phon="kěyǐ" />
+	</file>
+	<file path="chi-2e63dba9.flac">
+		<tag 
+			swac_text="什么"
+			swac_alphaidx="shénme"
+			swac_pron_phon="shénme" />
+	</file>
+	<file path="chi-2e81d302.flac">
+		<tag 
+			swac_text="中学"
+			swac_alphaidx="zhōngxué"
+			swac_pron_phon="zhōngxué" />
+	</file>
+	<file path="chi-2e84f159.flac">
+		<tag 
+			swac_text="可能"
+			swac_alphaidx="kěnéng"
+			swac_pron_phon="kěnéng" />
+	</file>
+	<file path="chi-2ea0de3d.flac">
+		<tag 
+			swac_text="几"
+			swac_alphaidx="jǐ"
+			swac_pron_phon="jǐ" />
+	</file>
+	<file path="chi-2ec7d36b.flac">
+		<tag 
+			swac_text="从_到_"
+			swac_alphaidx="cóng_dào_"
+			swac_pron_phon="cóng_dào_" />
+	</file>
+	<file path="chi-2f238cc8.flac">
+		<tag 
+			swac_text="得"
+			swac_alphaidx="dé"
+			swac_pron_phon="dé" />
+	</file>
+	<file path="chi-2fc891d8.flac">
+		<tag 
+			swac_text="市"
+			swac_alphaidx="shì"
+			swac_pron_phon="shì" />
+	</file>
+	<file path="chi-2fe1c3cb.flac">
+		<tag 
+			swac_text="上课"
+			swac_alphaidx="shàngkè"
+			swac_pron_phon="shàngkè" />
+	</file>
+	<file path="chi-3087fff1.flac">
+		<tag 
+			swac_text="新闻"
+			swac_alphaidx="xīnwén"
+			swac_pron_phon="xīnwén" />
+	</file>
+	<file path="chi-30c0ca40.flac">
+		<tag 
+			swac_text="羊"
+			swac_alphaidx="yáng"
+			swac_pron_phon="yáng" />
+	</file>
+	<file path="chi-30e1549a.flac">
+		<tag 
+			swac_text="请问"
+			swac_alphaidx="qǐngwèn"
+			swac_pron_phon="qǐngwèn" />
+	</file>
+	<file path="chi-310e5e4a.flac">
+		<tag 
+			swac_text="慢"
+			swac_alphaidx="màn"
+			swac_pron_phon="màn" />
+	</file>
+	<file path="chi-32385544.flac">
+		<tag 
+			swac_text="向"
+			swac_alphaidx="xiàng"
+			swac_pron_phon="xiàng" />
+	</file>
+	<file path="chi-32667508.flac">
+		<tag 
+			swac_text="中文"
+			swac_alphaidx="zhōngwén"
+			swac_pron_phon="zhōngwén" />
+	</file>
+	<file path="chi-32747d95.flac">
+		<tag 
+			swac_text="文章"
+			swac_alphaidx="wénzhāng"
+			swac_pron_phon="wénzhāng" />
+	</file>
+	<file path="chi-329196d9.flac">
+		<tag 
+			swac_text="发展"
+			swac_alphaidx="fāzhǎn"
+			swac_pron_phon="fāzhǎn" />
+	</file>
+	<file path="chi-32d7dd89.flac">
+		<tag 
+			swac_text="所以"
+			swac_alphaidx="suǒyǐ"
+			swac_pron_phon="suǒyǐ" />
+	</file>
+	<file path="chi-32de3924.flac">
+		<tag 
+			swac_text="信"
+			swac_alphaidx="xìn"
+			swac_pron_phon="xìn" />
+	</file>
+	<file path="chi-32f6bbe4.flac">
+		<tag 
+			swac_text="抽"
+			swac_alphaidx="chōu"
+			swac_pron_phon="chōu" />
+	</file>
+	<file path="chi-33306ada.flac">
+		<tag 
+			swac_text="研究"
+			swac_alphaidx="yánjiū"
+			swac_pron_phon="yánjiū" />
+	</file>
+	<file path="chi-334a72a1.flac">
+		<tag 
+			swac_text="晚饭"
+			swac_alphaidx="wǎnfàn"
+			swac_pron_phon="wǎnfàn" />
+	</file>
+	<file path="chi-335277ef.flac">
+		<tag 
+			swac_text="打"
+			swac_alphaidx="dǎ"
+			swac_pron_phon="dǎ" />
+	</file>
+	<file path="chi-33586c55.flac">
+		<tag 
+			swac_text="遍"
+			swac_alphaidx="biàn"
+			swac_pron_phon="biàn" />
+	</file>
+	<file path="chi-3359ca4a.flac">
+		<tag 
+			swac_text="友谊"
+			swac_alphaidx="yǒuyì"
+			swac_pron_phon="yǒuyì" />
+	</file>
+	<file path="chi-33fa18ab.flac">
+		<tag 
+			swac_text="整齐"
+			swac_alphaidx="zhěngqí"
+			swac_pron_phon="zhěngqí" />
+	</file>
+	<file path="chi-3431e244.flac">
+		<tag 
+			swac_text="老"
+			swac_alphaidx="lǎo"
+			swac_pron_phon="lǎo" />
+	</file>
+	<file path="chi-351692dc.flac">
+		<tag 
+			swac_text="表扬"
+			swac_alphaidx="biǎoyáng"
+			swac_pron_phon="biǎoyáng" />
+	</file>
+	<file path="chi-3532dfb9.flac">
+		<tag 
+			swac_text="高兴"
+			swac_alphaidx="gāoxìng"
+			swac_pron_phon="gāoxìng" />
+	</file>
+	<file path="chi-354d54b3.flac">
+		<tag 
+			swac_text="句子"
+			swac_alphaidx="jùzi"
+			swac_pron_phon="jùzi" />
+	</file>
+	<file path="chi-35638310.flac">
+		<tag 
+			swac_text="敢"
+			swac_alphaidx="gǎn"
+			swac_pron_phon="gǎn" />
+	</file>
+	<file path="chi-3586263c.flac">
+		<tag 
+			swac_text="学"
+			swac_alphaidx="xué"
+			swac_pron_phon="xué" />
+	</file>
+	<file path="chi-35aa2dbe.flac">
+		<tag 
+			swac_text="找"
+			swac_alphaidx="zhǎo"
+			swac_pron_phon="zhǎo" />
+	</file>
+	<file path="chi-3677e7da.flac">
+		<tag 
+			swac_text="听"
+			swac_alphaidx="tīng"
+			swac_pron_phon="tīng" />
+	</file>
+	<file path="chi-369eb1eb.flac">
+		<tag 
+			swac_text="不但"
+			swac_alphaidx="búdàn"
+			swac_pron_phon="búdàn" />
+	</file>
+	<file path="chi-36c096c2.flac">
+		<tag 
+			swac_text="实现"
+			swac_alphaidx="shíxiàn"
+			swac_pron_phon="shíxiàn" />
+	</file>
+	<file path="chi-36cbb69c.flac">
+		<tag 
+			swac_text="批评"
+			swac_alphaidx="pīpíng"
+			swac_pron_phon="pīpíng" />
+	</file>
+	<file path="chi-36decb9e.flac">
+		<tag 
+			swac_text="刮"
+			swac_alphaidx="guā"
+			swac_pron_phon="guā" />
+	</file>
+	<file path="chi-36f406e8.flac">
+		<tag 
+			swac_text="课"
+			swac_alphaidx="kè"
+			swac_pron_phon="kè" />
+	</file>
+	<file path="chi-370e4a0c.flac">
+		<tag 
+			swac_text="过来"
+			swac_alphaidx="guòlái"
+			swac_pron_phon="guòlái" />
+	</file>
+	<file path="chi-37490b61.flac">
+		<tag 
+			swac_text="也"
+			swac_alphaidx="yě"
+			swac_pron_phon="yě" />
+	</file>
+	<file path="chi-378d8a6a.flac">
+		<tag 
+			swac_text="椅子"
+			swac_alphaidx="yǐzi"
+			swac_pron_phon="yǐzi" />
+	</file>
+	<file path="chi-37f771e8.flac">
+		<tag 
+			swac_text="相信"
+			swac_alphaidx="xiāngxìn"
+			swac_pron_phon="xiāngxìn" />
+	</file>
+	<file path="chi-387ce83b.flac">
+		<tag 
+			swac_text="一"
+			swac_alphaidx="yī"
+			swac_pron_phon="yī" />
+	</file>
+	<file path="chi-388810e0.flac">
+		<tag 
+			swac_text="怕"
+			swac_alphaidx="pà"
+			swac_pron_phon="pà" />
+	</file>
+	<file path="chi-38ada5f2.flac">
+		<tag 
+			swac_text="久"
+			swac_alphaidx="jiǔ"
+			swac_pron_phon="jiǔ" />
+	</file>
+	<file path="chi-38d258e7.flac">
+		<tag 
+			swac_text="前"
+			swac_alphaidx="qián"
+			swac_pron_phon="qián" />
+	</file>
+	<file path="chi-38e61e00.flac">
+		<tag 
+			swac_text="请假"
+			swac_alphaidx="qǐngjià"
+			swac_pron_phon="qǐngjià" />
+	</file>
+	<file path="chi-39205b85.flac">
+		<tag 
+			swac_text="收"
+			swac_alphaidx="shōu"
+			swac_pron_phon="shōu" />
+	</file>
+	<file path="chi-39788fb8.flac">
+		<tag 
+			swac_text="天"
+			swac_alphaidx="tiān"
+			swac_pron_phon="tiān" />
+	</file>
+	<file path="chi-397ae9f4.flac">
+		<tag 
+			swac_text="瓶"
+			swac_alphaidx="píng"
+			swac_pron_phon="píng" />
+	</file>
+	<file path="chi-39980963.flac">
+		<tag 
+			swac_text="喊"
+			swac_alphaidx="hǎn"
+			swac_pron_phon="hǎn" />
+	</file>
+	<file path="chi-39c9500d.flac">
+		<tag 
+			swac_text="掉"
+			swac_alphaidx="diào"
+			swac_pron_phon="diào" />
+	</file>
+	<file path="chi-3a037746.flac">
+		<tag 
+			swac_text="预习"
+			swac_alphaidx="yùxí"
+			swac_pron_phon="yùxí" />
+	</file>
+	<file path="chi-3a3c9bf3.flac">
+		<tag 
+			swac_text="对"
+			swac_alphaidx="duì"
+			swac_pron_phon="duì" />
+	</file>
+	<file path="chi-3a8097b4.flac">
+		<tag 
+			swac_text="进"
+			swac_alphaidx="jìn"
+			swac_pron_phon="jìn" />
+	</file>
+	<file path="chi-3ab885f3.flac">
+		<tag 
+			swac_text="机场"
+			swac_alphaidx="jīchǎng"
+			swac_pron_phon="jīchǎng" />
+	</file>
+	<file path="chi-3adc7855.flac">
+		<tag 
+			swac_text="分钟"
+			swac_alphaidx="fēnzhōng"
+			swac_pron_phon="fēnzhōng" />
+	</file>
+	<file path="chi-3bc23699.flac">
+		<tag 
+			swac_text="冬天"
+			swac_alphaidx="dōngtiān"
+			swac_pron_phon="dōngtiān" />
+	</file>
+	<file path="chi-3bd99d1d.flac">
+		<tag 
+			swac_text="表"
+			swac_alphaidx="biǎo"
+			swac_pron_phon="biǎo" />
+	</file>
+	<file path="chi-3befa171.flac">
+		<tag 
+			swac_text="银行"
+			swac_alphaidx="yínháng"
+			swac_pron_phon="yínháng" />
+	</file>
+	<file path="chi-3c03b503.flac">
+		<tag 
+			swac_text="为"
+			swac_alphaidx="wèi"
+			swac_pron_phon="wèi" />
+	</file>
+	<file path="chi-3c133486.flac">
+		<tag 
+			swac_text="汤"
+			swac_alphaidx="tāng"
+			swac_pron_phon="tāng" />
+	</file>
+	<file path="chi-3c4636b0.flac">
+		<tag 
+			swac_text="进去"
+			swac_alphaidx="jìnqù"
+			swac_pron_phon="jìnqù" />
+	</file>
+	<file path="chi-3c585654.flac">
+		<tag 
+			swac_text="互相"
+			swac_alphaidx="hùxiāng"
+			swac_pron_phon="hùxiāng" />
+	</file>
+	<file path="chi-3d057fa1.flac">
+		<tag 
+			swac_text="跟"
+			swac_alphaidx="gēn"
+			swac_pron_phon="gēn" />
+	</file>
+	<file path="chi-3d4eb003.flac">
+		<tag 
+			swac_text="睡觉"
+			swac_alphaidx="shuìjiào"
+			swac_pron_phon="shuìjiào" />
+	</file>
+	<file path="chi-3d6358ef.flac">
+		<tag 
+			swac_text="发烧"
+			swac_alphaidx="fāshāo"
+			swac_pron_phon="fāshāo" />
+	</file>
+	<file path="chi-3dc7616d.flac">
+		<tag 
+			swac_text="剩"
+			swac_alphaidx="shèng"
+			swac_pron_phon="shèng" />
+	</file>
+	<file path="chi-3dd7c67f.flac">
+		<tag 
+			swac_text="还"
+			swac_alphaidx="hái"
+			swac_pron_phon="hái" />
+	</file>
+	<file path="chi-3dda3fdc.flac">
+		<tag 
+			swac_text="运动"
+			swac_alphaidx="yùndòng"
+			swac_pron_phon="yùndòng" />
+	</file>
+	<file path="chi-3e05ce36.flac">
+		<tag 
+			swac_text="别"
+			swac_alphaidx="bié"
+			swac_pron_phon="bié" />
+	</file>
+	<file path="chi-3e19e621.flac">
+		<tag 
+			swac_text="暖和"
+			swac_alphaidx="nuǎnhuo"
+			swac_pron_phon="nuǎnhuo" />
+	</file>
+	<file path="chi-3e65df5e.flac">
+		<tag 
+			swac_text="意义"
+			swac_alphaidx="yìyì"
+			swac_pron_phon="yìyì" />
+	</file>
+	<file path="chi-3e9201ef.flac">
+		<tag 
+			swac_text="送"
+			swac_alphaidx="sòng"
+			swac_pron_phon="sòng" />
+	</file>
+	<file path="chi-3ed02588.flac">
+		<tag 
+			swac_text="香蕉"
+			swac_alphaidx="xiāngjiāo"
+			swac_pron_phon="xiāngjiāo" />
+	</file>
+	<file path="chi-3f466680.flac">
+		<tag 
+			swac_text="后"
+			swac_alphaidx="hòu"
+			swac_pron_phon="hòu" />
+	</file>
+	<file path="chi-3f58abba.flac">
+		<tag 
+			swac_text="挂"
+			swac_alphaidx="guà"
+			swac_pron_phon="guà" />
+	</file>
+	<file path="chi-3f59f614.flac">
+		<tag 
+			swac_text="病"
+			swac_alphaidx="bìng"
+			swac_pron_phon="bìng" />
+	</file>
+	<file path="chi-3f7253a5.flac">
+		<tag 
+			swac_text="祖国"
+			swac_alphaidx="zǔguó"
+			swac_pron_phon="zǔguó" />
+	</file>
+	<file path="chi-3f843b81.flac">
+		<tag 
+			swac_text="鱼"
+			swac_alphaidx="yú"
+			swac_pron_phon="yú" />
+	</file>
+	<file path="chi-3f986770.flac">
+		<tag 
+			swac_text="星期日"
+			swac_alphaidx="xīngqīrì"
+			swac_pron_phon="xīngqīrì" />
+	</file>
+	<file path="chi-3ff280c3.flac">
+		<tag 
+			swac_text="半"
+			swac_alphaidx="bàn"
+			swac_pron_phon="bàn" />
+	</file>
+	<file path="chi-40007348.flac">
+		<tag 
+			swac_text="刚"
+			swac_alphaidx="gāng"
+			swac_pron_phon="gāng" />
+	</file>
+	<file path="chi-4028330e.flac">
+		<tag 
+			swac_text="见面"
+			swac_alphaidx="jiànmiàn"
+			swac_pron_phon="jiànmiàn" />
+	</file>
+	<file path="chi-403a4557.flac">
+		<tag 
+			swac_text="需要"
+			swac_alphaidx="xūyào"
+			swac_pron_phon="xūyào" />
+	</file>
+	<file path="chi-40848b13.flac">
+		<tag 
+			swac_text="各"
+			swac_alphaidx="gè"
+			swac_pron_phon="gè" />
+	</file>
+	<file path="chi-4089b7e0.flac">
+		<tag 
+			swac_text="清楚"
+			swac_alphaidx="qīngchu"
+			swac_pron_phon="qīngchu" />
+	</file>
+	<file path="chi-40a6c2cb.flac">
+		<tag 
+			swac_text="能"
+			swac_alphaidx="néng"
+			swac_pron_phon="néng" />
+	</file>
+	<file path="chi-40e994d4.flac">
+		<tag 
+			swac_text="放假"
+			swac_alphaidx="fàngjià"
+			swac_pron_phon="fàngjià" />
+	</file>
+	<file path="chi-40ec9324.flac">
+		<tag 
+			swac_text="跑"
+			swac_alphaidx="pǎo"
+			swac_pron_phon="pǎo" />
+	</file>
+	<file path="chi-41671672.flac">
+		<tag 
+			swac_text="和"
+			swac_alphaidx="hé"
+			swac_pron_phon="hé" />
+	</file>
+	<file path="chi-4168a012.flac">
+		<tag 
+			swac_text="回"
+			swac_alphaidx="huí"
+			swac_pron_phon="huí" />
+	</file>
+	<file path="chi-419e33a3.flac">
+		<tag 
+			swac_text="集合"
+			swac_alphaidx="jíhé"
+			swac_pron_phon="jíhé" />
+	</file>
+	<file path="chi-42e766ab.flac">
+		<tag 
+			swac_text="水平"
+			swac_alphaidx="shuǐpíng"
+			swac_pron_phon="shuǐpíng" />
+	</file>
+	<file path="chi-42f00370.flac">
+		<tag 
+			swac_text="所有"
+			swac_alphaidx="suǒyǒu"
+			swac_pron_phon="suǒyǒu" />
+	</file>
+	<file path="chi-4327f978.flac">
+		<tag 
+			swac_text="高"
+			swac_alphaidx="gāo"
+			swac_pron_phon="gāo" />
+	</file>
+	<file path="chi-43391199.flac">
+		<tag 
+			swac_text="愿意"
+			swac_alphaidx="yuànyì"
+			swac_pron_phon="yuànyì" />
+	</file>
+	<file path="chi-4376f4e7.flac">
+		<tag 
+			swac_text="长"
+			swac_alphaidx="zhǎng"
+			swac_pron_phon="zhǎng" />
+	</file>
+	<file path="chi-43a61487.flac">
+		<tag 
+			swac_text="说明"
+			swac_alphaidx="shuōmíng"
+			swac_pron_phon="shuōmíng" />
+	</file>
+	<file path="chi-43b1bbe7.flac">
+		<tag 
+			swac_text="接着"
+			swac_alphaidx="jiēzhe"
+			swac_pron_phon="jiēzhe" />
+	</file>
+	<file path="chi-43c8531b.flac">
+		<tag 
+			swac_text="满"
+			swac_alphaidx="mǎn"
+			swac_pron_phon="mǎn" />
+	</file>
+	<file path="chi-4437c502.flac">
+		<tag 
+			swac_text="记"
+			swac_alphaidx="jì"
+			swac_pron_phon="jì" />
+	</file>
+	<file path="chi-44388596.flac">
+		<tag 
+			swac_text="经过"
+			swac_alphaidx="jīngguò"
+			swac_pron_phon="jīngguò" />
+	</file>
+	<file path="chi-44488969.flac">
+		<tag 
+			swac_text="政府"
+			swac_alphaidx="zhèngfǔ"
+			swac_pron_phon="zhèngfǔ" />
+	</file>
+	<file path="chi-444e50ad.flac">
+		<tag 
+			swac_text="回去"
+			swac_alphaidx="huíqù"
+			swac_pron_phon="huíqù" />
+	</file>
+	<file path="chi-4503596f.flac">
+		<tag 
+			swac_text="访问"
+			swac_alphaidx="fǎngwèn"
+			swac_pron_phon="fǎngwèn" />
+	</file>
+	<file path="chi-454deb6a.flac">
+		<tag 
+			swac_text="使用"
+			swac_alphaidx="shǐyòng"
+			swac_pron_phon="shǐyòng" />
+	</file>
+	<file path="chi-46033933.flac">
+		<tag 
+			swac_text="擦"
+			swac_alphaidx="cā"
+			swac_pron_phon="cā" />
+	</file>
+	<file path="chi-4647307c.flac">
+		<tag 
+			swac_text="介绍"
+			swac_alphaidx="jièshào"
+			swac_pron_phon="jièshào" />
+	</file>
+	<file path="chi-4668426e.flac">
+		<tag 
+			swac_text="每"
+			swac_alphaidx="měi"
+			swac_pron_phon="měi" />
+	</file>
+	<file path="chi-46ab9acc.flac">
+		<tag 
+			swac_text="但是"
+			swac_alphaidx="dànshì"
+			swac_pron_phon="dànshì" />
+	</file>
+	<file path="chi-46d9b346.flac">
+		<tag 
+			swac_text="胜利"
+			swac_alphaidx="shènglì"
+			swac_pron_phon="shènglì" />
+	</file>
+	<file path="chi-46ec3cc7.flac">
+		<tag 
+			swac_text="点心"
+			swac_alphaidx="diǎnxin"
+			swac_pron_phon="diǎnxin" />
+	</file>
+	<file path="chi-4700bc8c.flac">
+		<tag 
+			swac_text="月"
+			swac_alphaidx="yuè"
+			swac_pron_phon="yuè" />
+	</file>
+	<file path="chi-470ae9d0.flac">
+		<tag 
+			swac_text="的"
+			swac_alphaidx="de"
+			swac_pron_phon="de" />
+	</file>
+	<file path="chi-475b9758.flac">
+		<tag 
+			swac_text="赢"
+			swac_alphaidx="yíng"
+			swac_pron_phon="yíng" />
+	</file>
+	<file path="chi-4760e59d.flac">
+		<tag 
+			swac_text="东"
+			swac_alphaidx="dōng"
+			swac_pron_phon="dōng" />
+	</file>
+	<file path="chi-47f97fdc.flac">
+		<tag 
+			swac_text="来"
+			swac_alphaidx="lái"
+			swac_pron_phon="lái" />
+	</file>
+	<file path="chi-480dd630.flac">
+		<tag 
+			swac_text="外国"
+			swac_alphaidx="wàiguó"
+			swac_pron_phon="wàiguó" />
+	</file>
+	<file path="chi-485b7463.flac">
+		<tag 
+			swac_text="要是"
+			swac_alphaidx="yàoshi"
+			swac_pron_phon="yàoshi" />
+	</file>
+	<file path="chi-48c18db6.flac">
+		<tag 
+			swac_text="现代"
+			swac_alphaidx="xiàndài"
+			swac_pron_phon="xiàndài" />
+	</file>
+	<file path="chi-4913d073.flac">
+		<tag 
+			swac_text="米"
+			swac_alphaidx="mǐ"
+			swac_pron_phon="mǐ" />
+	</file>
+	<file path="chi-49265cb9.flac">
+		<tag 
+			swac_text="教"
+			swac_alphaidx="jiāo"
+			swac_pron_phon="jiāo" />
+	</file>
+	<file path="chi-49366f6a.flac">
+		<tag 
+			swac_text="今天"
+			swac_alphaidx="jīntiān"
+			swac_pron_phon="jīntiān" />
+	</file>
+	<file path="chi-4a119dce.flac">
+		<tag 
+			swac_text="有时候"
+			swac_alphaidx="yǒushíhou"
+			swac_pron_phon="yǒushíhou" />
+	</file>
+	<file path="chi-4a4c4329.flac">
+		<tag 
+			swac_text="容易"
+			swac_alphaidx="róngyì"
+			swac_pron_phon="róngyì" />
+	</file>
+	<file path="chi-4a729569.flac">
+		<tag 
+			swac_text="坚持"
+			swac_alphaidx="jiānchí"
+			swac_pron_phon="jiānchí" />
+	</file>
+	<file path="chi-4aa00965.flac">
+		<tag 
+			swac_text="想"
+			swac_alphaidx="xiǎng"
+			swac_pron_phon="xiǎng" />
+	</file>
+	<file path="chi-4af33b3b.flac">
+		<tag 
+			swac_text="晚"
+			swac_alphaidx="wǎn"
+			swac_pron_phon="wǎn" />
+	</file>
+	<file path="chi-4b0be6d0.flac">
+		<tag 
+			swac_text="寒假"
+			swac_alphaidx="hánjià"
+			swac_pron_phon="hánjià" />
+	</file>
+	<file path="chi-4b76610a.flac">
+		<tag 
+			swac_text="脏"
+			swac_alphaidx="zāng"
+			swac_pron_phon="zāng" />
+	</file>
+	<file path="chi-4bee62ef.flac">
+		<tag 
+			swac_text="附近"
+			swac_alphaidx="fùjìn"
+			swac_pron_phon="fùjìn" />
+	</file>
+	<file path="chi-4c056d78.flac">
+		<tag 
+			swac_text="踢"
+			swac_alphaidx="tī"
+			swac_pron_phon="tī" />
+	</file>
+	<file path="chi-4c0e7ede.flac">
+		<tag 
+			swac_text="件"
+			swac_alphaidx="jiàn"
+			swac_pron_phon="jiàn" />
+	</file>
+	<file path="chi-4c6fd5bb.flac">
+		<tag 
+			swac_text="咱"
+			swac_alphaidx="zán"
+			swac_pron_phon="zán" />
+	</file>
+	<file path="chi-4ce2c989.flac">
+		<tag 
+			swac_text="谈"
+			swac_alphaidx="tán"
+			swac_pron_phon="tán" />
+	</file>
+	<file path="chi-4d000786.flac">
+		<tag 
+			swac_text="团结"
+			swac_alphaidx="tuánjié"
+			swac_pron_phon="tuánjié" />
+	</file>
+	<file path="chi-4d1df6ae.flac">
+		<tag 
+			swac_text="啦"
+			swac_alphaidx="la"
+			swac_pron_phon="la" />
+	</file>
+	<file path="chi-4da3ea51.flac">
+		<tag 
+			swac_text="讨论"
+			swac_alphaidx="tǎolùn"
+			swac_pron_phon="tǎolùn" />
+	</file>
+	<file path="chi-4e0cacfd.flac">
+		<tag 
+			swac_text="省"
+			swac_alphaidx="shěng"
+			swac_pron_phon="shěng" />
+	</file>
+	<file path="chi-4e54b7fd.flac">
+		<tag 
+			swac_text="条"
+			swac_alphaidx="tiáo"
+			swac_pron_phon="tiáo" />
+	</file>
+	<file path="chi-4e785f19.flac">
+		<tag 
+			swac_text="语言"
+			swac_alphaidx="yǔyán"
+			swac_pron_phon="yǔyán" />
+	</file>
+	<file path="chi-4e926c13.flac">
+		<tag 
+			swac_text="政治"
+			swac_alphaidx="zhèngzhì"
+			swac_pron_phon="zhèngzhì" />
+	</file>
+	<file path="chi-4ebf92ad.flac">
+		<tag 
+			swac_text="增加"
+			swac_alphaidx="zēngjiā"
+			swac_pron_phon="zēngjiā" />
+	</file>
+	<file path="chi-4eca912c.flac">
+		<tag 
+			swac_text="二"
+			swac_alphaidx="èr"
+			swac_pron_phon="èr" />
+	</file>
+	<file path="chi-4f449f04.flac">
+		<tag 
+			swac_text="打算"
+			swac_alphaidx="dǎsuàn"
+			swac_pron_phon="dǎsuàn" />
+	</file>
+	<file path="chi-5013738f.flac">
+		<tag 
+			swac_text="而且"
+			swac_alphaidx="érqiě"
+			swac_pron_phon="érqiě" />
+	</file>
+	<file path="chi-50394369.flac">
+		<tag 
+			swac_text="第"
+			swac_alphaidx="dì"
+			swac_pron_phon="dì" />
+	</file>
+	<file path="chi-50c84393.flac">
+		<tag 
+			swac_text="数学"
+			swac_alphaidx="shùxué"
+			swac_pron_phon="shùxué" />
+	</file>
+	<file path="chi-5133ad1a.flac">
+		<tag 
+			swac_text="封"
+			swac_alphaidx="fēng"
+			swac_pron_phon="fēng" />
+	</file>
+	<file path="chi-5141b376.flac">
+		<tag 
+			swac_text="结束"
+			swac_alphaidx="jiéshù"
+			swac_pron_phon="jiéshù" />
+	</file>
+	<file path="chi-5193ab94.flac">
+		<tag 
+			swac_text="工作"
+			swac_alphaidx="gōngzuò"
+			swac_pron_phon="gōngzuò" />
+	</file>
+	<file path="chi-51a88a92.flac">
+		<tag 
+			swac_text="伟大"
+			swac_alphaidx="wěidà"
+			swac_pron_phon="wěidà" />
+	</file>
+	<file path="chi-51d05e55.flac">
+		<tag 
+			swac_text="再见"
+			swac_alphaidx="zàijiàn"
+			swac_pron_phon="zàijiàn" />
+	</file>
+	<file path="chi-52cd1c59.flac">
+		<tag 
+			swac_text="永远"
+			swac_alphaidx="yǒngyuǎn"
+			swac_pron_phon="yǒngyuǎn" />
+	</file>
+	<file path="chi-52d4f31c.flac">
+		<tag 
+			swac_text="课文"
+			swac_alphaidx="kèwén"
+			swac_pron_phon="kèwén" />
+	</file>
+	<file path="chi-52dedabe.flac">
+		<tag 
+			swac_text="国家"
+			swac_alphaidx="guójiā"
+			swac_pron_phon="guójiā" />
+	</file>
+	<file path="chi-52df8b2e.flac">
+		<tag 
+			swac_text="不要"
+			swac_alphaidx="búyào"
+			swac_pron_phon="búyào" />
+	</file>
+	<file path="chi-538ed92b.flac">
+		<tag 
+			swac_text="山"
+			swac_alphaidx="shān"
+			swac_pron_phon="shān" />
+	</file>
+	<file path="chi-53b6b004.flac">
+		<tag 
+			swac_text="衣服"
+			swac_alphaidx="yīfu"
+			swac_pron_phon="yīfu" />
+	</file>
+	<file path="chi-53be836a.flac">
+		<tag 
+			swac_text="磁带"
+			swac_alphaidx="cídài"
+			swac_pron_phon="cídài" />
+	</file>
+	<file path="chi-53d229a8.flac">
+		<tag 
+			swac_text="夏天"
+			swac_alphaidx="xiàtiān"
+			swac_pron_phon="xiàtiān" />
+	</file>
+	<file path="chi-53e75a27.flac">
+		<tag 
+			swac_text="中"
+			swac_alphaidx="zhōng"
+			swac_pron_phon="zhōng" />
+	</file>
+	<file path="chi-53ebc6c5.flac">
+		<tag 
+			swac_text="信封"
+			swac_alphaidx="xìnfēng"
+			swac_pron_phon="xìnfēng" />
+	</file>
+	<file path="chi-53f2d1a7.flac">
+		<tag 
+			swac_text="事"
+			swac_alphaidx="shì"
+			swac_pron_phon="shì" />
+	</file>
+	<file path="chi-54310d17.flac">
+		<tag 
+			swac_text="工业"
+			swac_alphaidx="gōngyè"
+			swac_pron_phon="gōngyè" />
+	</file>
+	<file path="chi-5452268e.flac">
+		<tag 
+			swac_text="河"
+			swac_alphaidx="hé"
+			swac_pron_phon="hé" />
+	</file>
+	<file path="chi-54f7b9c8.flac">
+		<tag 
+			swac_text="展览"
+			swac_alphaidx="zhǎnlǎn"
+			swac_pron_phon="zhǎnlǎn" />
+	</file>
+	<file path="chi-551d3de3.flac">
+		<tag 
+			swac_text="床"
+			swac_alphaidx="chuáng"
+			swac_pron_phon="chuáng" />
+	</file>
+	<file path="chi-55326c67.flac">
+		<tag 
+			swac_text="师傅"
+			swac_alphaidx="shīfu"
+			swac_pron_phon="shīfu" />
+	</file>
+	<file path="chi-55695839.flac">
+		<tag 
+			swac_text="看病"
+			swac_alphaidx="kànbìng"
+			swac_pron_phon="kànbìng" />
+	</file>
+	<file path="chi-5593ad17.flac">
+		<tag 
+			swac_text="大"
+			swac_alphaidx="dà"
+			swac_pron_phon="dà" />
+	</file>
+	<file path="chi-55acc040.flac">
+		<tag 
+			swac_text="鞋"
+			swac_alphaidx="xié"
+			swac_pron_phon="xié" />
+	</file>
+	<file path="chi-56239123.flac">
+		<tag 
+			swac_text="鸡蛋"
+			swac_alphaidx="jīdàn"
+			swac_pron_phon="jīdàn" />
+	</file>
+	<file path="chi-56fc3a95.flac">
+		<tag 
+			swac_text="觉得"
+			swac_alphaidx="juéde"
+			swac_pron_phon="juéde" />
+	</file>
+	<file path="chi-5722f324.flac">
+		<tag 
+			swac_text="抬"
+			swac_alphaidx="tái"
+			swac_pron_phon="tái" />
+	</file>
+	<file path="chi-5760c7ed.flac">
+		<tag 
+			swac_text="时候"
+			swac_alphaidx="shíhou"
+			swac_pron_phon="shíhou" />
+	</file>
+	<file path="chi-57faa40e.flac">
+		<tag 
+			swac_text="留"
+			swac_alphaidx="liú"
+			swac_pron_phon="liú" />
+	</file>
+	<file path="chi-58074329.flac">
+		<tag 
+			swac_text="画儿"
+			swac_alphaidx="huàr"
+			swac_pron_phon="huàr" />
+	</file>
+	<file path="chi-5919ddf8.flac">
+		<tag 
+			swac_text="部分"
+			swac_alphaidx="bùfen"
+			swac_pron_phon="bùfen" />
+	</file>
+	<file path="chi-591deed7.flac">
+		<tag 
+			swac_text="成"
+			swac_alphaidx="chéng"
+			swac_pron_phon="chéng" />
+	</file>
+	<file path="chi-59300740.flac">
+		<tag 
+			swac_text="文艺"
+			swac_alphaidx="wényì"
+			swac_pron_phon="wényì" />
+	</file>
+	<file path="chi-59a26bd1.flac">
+		<tag 
+			swac_text="茶"
+			swac_alphaidx="chá"
+			swac_pron_phon="chá" />
+	</file>
+	<file path="chi-59cea427.flac">
+		<tag 
+			swac_text="雪"
+			swac_alphaidx="xuě"
+			swac_pron_phon="xuě" />
+	</file>
+	<file path="chi-59f6df3b.flac">
+		<tag 
+			swac_text="女儿"
+			swac_alphaidx="nǚér"
+			swac_pron_phon="nǚér" />
+	</file>
+	<file path="chi-5a34e159.flac">
+		<tag 
+			swac_text="足球"
+			swac_alphaidx="zúqiú"
+			swac_pron_phon="zúqiú" />
+	</file>
+	<file path="chi-5a764ab3.flac">
+		<tag 
+			swac_text="离"
+			swac_alphaidx="lí"
+			swac_pron_phon="lí" />
+	</file>
+	<file path="chi-5acdc3ce.flac">
+		<tag 
+			swac_text="小"
+			swac_alphaidx="xiǎo"
+			swac_pron_phon="xiǎo" />
+	</file>
+	<file path="chi-5b0329f8.flac">
+		<tag 
+			swac_text="根"
+			swac_alphaidx="gēn"
+			swac_pron_phon="gēn" />
+	</file>
+	<file path="chi-5b2508d8.flac">
+		<tag 
+			swac_text="突然"
+			swac_alphaidx="tūrán"
+			swac_pron_phon="tūrán" />
+	</file>
+	<file path="chi-5b366cae.flac">
+		<tag 
+			swac_text="八"
+			swac_alphaidx="bā"
+			swac_pron_phon="bā" />
+	</file>
+	<file path="chi-5b7c4762.flac">
+		<tag 
+			swac_text="活"
+			swac_alphaidx="huó"
+			swac_pron_phon="huó" />
+	</file>
+	<file path="chi-5c7b9694.flac">
+		<tag 
+			swac_text="手表"
+			swac_alphaidx="shǒubiǎo"
+			swac_pron_phon="shǒubiǎo" />
+	</file>
+	<file path="chi-5ca21b73.flac">
+		<tag 
+			swac_text="反对"
+			swac_alphaidx="fǎnduì"
+			swac_pron_phon="fǎnduì" />
+	</file>
+	<file path="chi-5cbe963a.flac">
+		<tag 
+			swac_text="从_起"
+			swac_alphaidx="cóng_qǐ"
+			swac_pron_phon="cóng_qǐ" />
+	</file>
+	<file path="chi-5d0355b3.flac">
+		<tag 
+			swac_text="得很"
+			swac_alphaidx="dehěn"
+			swac_pron_phon="dehěn" />
+	</file>
+	<file path="chi-5deaf0cd.flac">
+		<tag 
+			swac_text="正在"
+			swac_alphaidx="zhèngzài"
+			swac_pron_phon="zhèngzài" />
+	</file>
+	<file path="chi-5dfad60c.flac">
+		<tag 
+			swac_text="哥哥"
+			swac_alphaidx="gēge"
+			swac_pron_phon="gēge" />
+	</file>
+	<file path="chi-5e035aaa.flac">
+		<tag 
+			swac_text="乱"
+			swac_alphaidx="luàn"
+			swac_pron_phon="luàn" />
+	</file>
+	<file path="chi-5e1172b8.flac">
+		<tag 
+			swac_text="她"
+			swac_alphaidx="tā"
+			swac_pron_phon="tā" />
+	</file>
+	<file path="chi-5e4162bb.flac">
+		<tag 
+			swac_text="服务"
+			swac_alphaidx="fúwù"
+			swac_pron_phon="fúwù" />
+	</file>
+	<file path="chi-5f151152.flac">
+		<tag 
+			swac_text="当"
+			swac_alphaidx="dāng"
+			swac_pron_phon="dāng" />
+	</file>
+	<file path="chi-5f2d52a8.flac">
+		<tag 
+			swac_text="算"
+			swac_alphaidx="suàn"
+			swac_pron_phon="suàn" />
+	</file>
+	<file path="chi-5f32b010.flac">
+		<tag 
+			swac_text="工人"
+			swac_alphaidx="gōngrén"
+			swac_pron_phon="gōngrén" />
+	</file>
+	<file path="chi-5fda963d.flac">
+		<tag 
+			swac_text="去年"
+			swac_alphaidx="qùnián"
+			swac_pron_phon="qùnián" />
+	</file>
+	<file path="chi-5feb9591.flac">
+		<tag 
+			swac_text="呐"
+			swac_alphaidx="na"
+			swac_pron_phon="na" />
+	</file>
+	<file path="chi-606e6570.flac">
+		<tag 
+			swac_text="锻炼"
+			swac_alphaidx="duànliàn"
+			swac_pron_phon="duànliàn" />
+	</file>
+	<file path="chi-6085b98e.flac">
+		<tag 
+			swac_text="咱们"
+			swac_alphaidx="zánmen"
+			swac_pron_phon="zánmen" />
+	</file>
+	<file path="chi-60cba6c5.flac">
+		<tag 
+			swac_text="科学"
+			swac_alphaidx="kēxué"
+			swac_pron_phon="kēxué" />
+	</file>
+	<file path="chi-60f2dada.flac">
+		<tag 
+			swac_text="桌子"
+			swac_alphaidx="zhuōzi"
+			swac_pron_phon="zhuōzi" />
+	</file>
+	<file path="chi-60fdcd5d.flac">
+		<tag 
+			swac_text="快"
+			swac_alphaidx="kuài"
+			swac_pron_phon="kuài" />
+	</file>
+	<file path="chi-612d32b1.flac">
+		<tag 
+			swac_text="啊"
+			swac_alphaidx="ā"
+			swac_pron_phon="ā" />
+	</file>
+	<file path="chi-61542e2d.flac">
+		<tag 
+			swac_text="开始"
+			swac_alphaidx="kāishǐ"
+			swac_pron_phon="kāishǐ" />
+	</file>
+	<file path="chi-6212fec0.flac">
+		<tag 
+			swac_text="办"
+			swac_alphaidx="bàn"
+			swac_pron_phon="bàn" />
+	</file>
+	<file path="chi-621ec34c.flac">
+		<tag 
+			swac_text="这"
+			swac_alphaidx="zhè"
+			swac_pron_phon="zhè" />
+	</file>
+	<file path="chi-6227d66a.flac">
+		<tag 
+			swac_text="西"
+			swac_alphaidx="xī"
+			swac_pron_phon="xī" />
+	</file>
+	<file path="chi-62376c25.flac">
+		<tag 
+			swac_text="听写"
+			swac_alphaidx="tīngxiě"
+			swac_pron_phon="tīngxiě" />
+	</file>
+	<file path="chi-623cfabf.flac">
+		<tag 
+			swac_text="国"
+			swac_alphaidx="guó"
+			swac_pron_phon="guó" />
+	</file>
+	<file path="chi-6254eb48.flac">
+		<tag 
+			swac_text="年"
+			swac_alphaidx="nián"
+			swac_pron_phon="nián" />
+	</file>
+	<file path="chi-628ff6f9.flac">
+		<tag 
+			swac_text="了"
+			swac_alphaidx="le"
+			swac_pron_phon="le" />
+	</file>
+	<file path="chi-62960b5c.flac">
+		<tag 
+			swac_text="西边"
+			swac_alphaidx="xībiān"
+			swac_pron_phon="xībiān" />
+	</file>
+	<file path="chi-629b8073.flac">
+		<tag 
+			swac_text="困难"
+			swac_alphaidx="kùnnan"
+			swac_pron_phon="kùnnan" />
+	</file>
+	<file path="chi-633a3230.flac">
+		<tag 
+			swac_text="全部"
+			swac_alphaidx="quánbù"
+			swac_pron_phon="quánbù" />
+	</file>
+	<file path="chi-633bfa50.flac">
+		<tag 
+			swac_text="立刻"
+			swac_alphaidx="lìkè"
+			swac_pron_phon="lìkè" />
+	</file>
+	<file path="chi-63ccff7a.flac">
+		<tag 
+			swac_text="辆"
+			swac_alphaidx="liàng"
+			swac_pron_phon="liàng" />
+	</file>
+	<file path="chi-63e45bf7.flac">
+		<tag 
+			swac_text="搞"
+			swac_alphaidx="gǎo"
+			swac_pron_phon="gǎo" />
+	</file>
+	<file path="chi-644e8bfd.flac">
+		<tag 
+			swac_text="分"
+			swac_alphaidx="fēn"
+			swac_pron_phon="fēn" />
+	</file>
+	<file path="chi-6461ef5f.flac">
+		<tag 
+			swac_text="改"
+			swac_alphaidx="gǎi"
+			swac_pron_phon="gǎi" />
+	</file>
+	<file path="chi-6483aeb6.flac">
+		<tag 
+			swac_text="颜色"
+			swac_alphaidx="yánsè"
+			swac_pron_phon="yánsè" />
+	</file>
+	<file path="chi-64b8c429.flac">
+		<tag 
+			swac_text="男"
+			swac_alphaidx="nán"
+			swac_pron_phon="nán" />
+	</file>
+	<file path="chi-64c0894f.flac">
+		<tag 
+			swac_text="笑"
+			swac_alphaidx="xiào"
+			swac_pron_phon="xiào" />
+	</file>
+	<file path="chi-65137ea7.flac">
+		<tag 
+			swac_text="呀"
+			swac_alphaidx="yā"
+			swac_pron_phon="yā" />
+	</file>
+	<file path="chi-652d0b77.flac">
+		<tag 
+			swac_text="欢迎"
+			swac_alphaidx="huānyíng"
+			swac_pron_phon="huānyíng" />
+	</file>
+	<file path="chi-6545e2a1.flac">
+		<tag 
+			swac_text="系"
+			swac_alphaidx="xì"
+			swac_pron_phon="xì" />
+	</file>
+	<file path="chi-65cdbe48.flac">
+		<tag 
+			swac_text="一边_一边"
+			swac_alphaidx="yìbiān_4biān_"
+			swac_pron_phon="yìbiān_4biān_" />
+	</file>
+	<file path="chi-6600ea36.flac">
+		<tag 
+			swac_text="精彩"
+			swac_alphaidx="jīngcǎi"
+			swac_pron_phon="jīngcǎi" />
+	</file>
+	<file path="chi-663a0425.flac">
+		<tag 
+			swac_text="戴"
+			swac_alphaidx="dài"
+			swac_pron_phon="dài" />
+	</file>
+	<file path="chi-6685aafc.flac">
+		<tag 
+			swac_text="民族"
+			swac_alphaidx="mínzú"
+			swac_pron_phon="mínzú" />
+	</file>
+	<file path="chi-66a040c8.flac">
+		<tag 
+			swac_text="出去"
+			swac_alphaidx="chūqù"
+			swac_pron_phon="chūqù" />
+	</file>
+	<file path="chi-66cc2f6e.flac">
+		<tag 
+			swac_text="地"
+			swac_alphaidx="dì"
+			swac_pron_phon="dì" />
+	</file>
+	<file path="chi-66dbff9d.flac">
+		<tag 
+			swac_text="痛快"
+			swac_alphaidx="tòngkuai"
+			swac_pron_phon="tòngkuai" />
+	</file>
+	<file path="chi-66f94bac.flac">
+		<tag 
+			swac_text="危险"
+			swac_alphaidx="wēixiǎn"
+			swac_pron_phon="wēixiǎn" />
+	</file>
+	<file path="chi-66fa61c8.flac">
+		<tag 
+			swac_text="人们"
+			swac_alphaidx="rénmen"
+			swac_pron_phon="rénmen" />
+	</file>
+	<file path="chi-676b6f4c.flac">
+		<tag 
+			swac_text="有名"
+			swac_alphaidx="yǒumíng"
+			swac_pron_phon="yǒumíng" />
+	</file>
+	<file path="chi-67f4500c.flac">
+		<tag 
+			swac_text="才"
+			swac_alphaidx="cái"
+			swac_pron_phon="cái" />
+	</file>
+	<file path="chi-6836592e.flac">
+		<tag 
+			swac_text="门"
+			swac_alphaidx="mén"
+			swac_pron_phon="mén" />
+	</file>
+	<file path="chi-68376680.flac">
+		<tag 
+			swac_text="没关系"
+			swac_alphaidx="méiguānxi"
+			swac_pron_phon="méiguānxi" />
+	</file>
+	<file path="chi-683f15c3.flac">
+		<tag 
+			swac_text="冬"
+			swac_alphaidx="dōng"
+			swac_pron_phon="dōng" />
+	</file>
+	<file path="chi-68ac43c1.flac">
+		<tag 
+			swac_text="小孩儿"
+			swac_alphaidx="xiǎoháir"
+			swac_pron_phon="xiǎoháir" />
+	</file>
+	<file path="chi-68b56ea3.flac">
+		<tag 
+			swac_text="大概"
+			swac_alphaidx="dàgài"
+			swac_pron_phon="dàgài" />
+	</file>
+	<file path="chi-6922d633.flac">
+		<tag 
+			swac_text="完"
+			swac_alphaidx="wán"
+			swac_pron_phon="wán" />
+	</file>
+	<file path="chi-695b73d4.flac">
+		<tag 
+			swac_text="将来"
+			swac_alphaidx="jiānglái"
+			swac_pron_phon="jiānglái" />
+	</file>
+	<file path="chi-69745ce3.flac">
+		<tag 
+			swac_text="学习"
+			swac_alphaidx="xuéxí"
+			swac_pron_phon="xuéxí" />
+	</file>
+	<file path="chi-6998554e.flac">
+		<tag 
+			swac_text="纸"
+			swac_alphaidx="zhǐ"
+			swac_pron_phon="zhǐ" />
+	</file>
+	<file path="chi-69b355cb.flac">
+		<tag 
+			swac_text="任何"
+			swac_alphaidx="rènhé"
+			swac_pron_phon="rènhé" />
+	</file>
+	<file path="chi-6a1047ea.flac">
+		<tag 
+			swac_text="技术"
+			swac_alphaidx="jìshù"
+			swac_pron_phon="jìshù" />
+	</file>
+	<file path="chi-6a19c1ac.flac">
+		<tag 
+			swac_text="现在"
+			swac_alphaidx="xiànzài"
+			swac_pron_phon="xiànzài" />
+	</file>
+	<file path="chi-6a33cadb.flac">
+		<tag 
+			swac_text="不用"
+			swac_alphaidx="búyòng"
+			swac_pron_phon="búyòng" />
+	</file>
+	<file path="chi-6a99ef82.flac">
+		<tag 
+			swac_text="双"
+			swac_alphaidx="shuāng"
+			swac_pron_phon="shuāng" />
+	</file>
+	<file path="chi-6ac98175.flac">
+		<tag 
+			swac_text="消息"
+			swac_alphaidx="xiāoxi"
+			swac_pron_phon="xiāoxi" />
+	</file>
+	<file path="chi-6ad2acc8.flac">
+		<tag 
+			swac_text="动物"
+			swac_alphaidx="dòngwù"
+			swac_pron_phon="dòngwù" />
+	</file>
+	<file path="chi-6adb94d1.flac">
+		<tag 
+			swac_text="知道"
+			swac_alphaidx="zhīdào"
+			swac_pron_phon="zhīdào" />
+	</file>
+	<file path="chi-6b188298.flac">
+		<tag 
+			swac_text="大夫"
+			swac_alphaidx="dàifu"
+			swac_pron_phon="dàifu" />
+	</file>
+	<file path="chi-6b4ed51e.flac">
+		<tag 
+			swac_text="会"
+			swac_alphaidx="huì"
+			swac_pron_phon="huì" />
+	</file>
+	<file path="chi-6c678794.flac">
+		<tag 
+			swac_text="不"
+			swac_alphaidx="bù"
+			swac_pron_phon="bù" />
+	</file>
+	<file path="chi-6c8874ba.flac">
+		<tag 
+			swac_text="帮助"
+			swac_alphaidx="bāngzhù"
+			swac_pron_phon="bāngzhù" />
+	</file>
+	<file path="chi-6ceaf439.flac">
+		<tag 
+			swac_text="春天"
+			swac_alphaidx="chūntiān"
+			swac_pron_phon="chūntiān" />
+	</file>
+	<file path="chi-6d2ba76e.flac">
+		<tag 
+			swac_text="态度"
+			swac_alphaidx="tàidu"
+			swac_pron_phon="tàidu" />
+	</file>
+	<file path="chi-6d2ec0ef.flac">
+		<tag 
+			swac_text="电话"
+			swac_alphaidx="diànhuà"
+			swac_pron_phon="diànhuà" />
+	</file>
+	<file path="chi-6d607e56.flac">
+		<tag 
+			swac_text="抱"
+			swac_alphaidx="bào"
+			swac_pron_phon="bào" />
+	</file>
+	<file path="chi-6dbe3195.flac">
+		<tag 
+			swac_text="一会儿"
+			swac_alphaidx="yíhuìr"
+			swac_pron_phon="yíhuìr" />
+	</file>
+	<file path="chi-6e4fb365.flac">
+		<tag 
+			swac_text="做"
+			swac_alphaidx="zuò"
+			swac_pron_phon="zuò" />
+	</file>
+	<file path="chi-6e67643e.flac">
+		<tag 
+			swac_text="感谢"
+			swac_alphaidx="gǎnxiè"
+			swac_pron_phon="gǎnxiè" />
+	</file>
+	<file path="chi-6e9f5485.flac">
+		<tag 
+			swac_text="握手"
+			swac_alphaidx="wòshǒu"
+			swac_pron_phon="wòshǒu" />
+	</file>
+	<file path="chi-6f08ed10.flac">
+		<tag 
+			swac_text="猪"
+			swac_alphaidx="zhū"
+			swac_pron_phon="zhū" />
+	</file>
+	<file path="chi-6f2b10dd.flac">
+		<tag 
+			swac_text="走"
+			swac_alphaidx="zǒu"
+			swac_pron_phon="zǒu" />
+	</file>
+	<file path="chi-6f4632cc.flac">
+		<tag 
+			swac_text="同意"
+			swac_alphaidx="tóngyì"
+			swac_pron_phon="tóngyì" />
+	</file>
+	<file path="chi-6f66023e.flac">
+		<tag 
+			swac_text="咳嗽"
+			swac_alphaidx="késou"
+			swac_pron_phon="késou" />
+	</file>
+	<file path="chi-6f74d696.flac">
+		<tag 
+			swac_text="离开"
+			swac_alphaidx="líkāi"
+			swac_pron_phon="líkāi" />
+	</file>
+	<file path="chi-6f80568a.flac">
+		<tag 
+			swac_text="名字"
+			swac_alphaidx="míngzi"
+			swac_pron_phon="míngzi" />
+	</file>
+	<file path="chi-6faa66b9.flac">
+		<tag 
+			swac_text="坐"
+			swac_alphaidx="zuò"
+			swac_pron_phon="zuò" />
+	</file>
+	<file path="chi-6fc2ac51.flac">
+		<tag 
+			swac_text="海"
+			swac_alphaidx="hǎi"
+			swac_pron_phon="hǎi" />
+	</file>
+	<file path="chi-7046ac94.flac">
+		<tag 
+			swac_text="白"
+			swac_alphaidx="bái"
+			swac_pron_phon="bái" />
+	</file>
+	<file path="chi-71446d0d.flac">
+		<tag 
+			swac_text="关系"
+			swac_alphaidx="guānxi"
+			swac_pron_phon="guānxi" />
+	</file>
+	<file path="chi-71535ed5.flac">
+		<tag 
+			swac_text="合适"
+			swac_alphaidx="héshì"
+			swac_pron_phon="héshì" />
+	</file>
+	<file path="chi-71cfc353.flac">
+		<tag 
+			swac_text="七"
+			swac_alphaidx="qī"
+			swac_pron_phon="qī" />
+	</file>
+	<file path="chi-721d7a5c.flac">
+		<tag 
+			swac_text="飞机"
+			swac_alphaidx="fēijī"
+			swac_pron_phon="fēijī" />
+	</file>
+	<file path="chi-722059f2.flac">
+		<tag 
+			swac_text="检查"
+			swac_alphaidx="jiǎnchá"
+			swac_pron_phon="jiǎnchá" />
+	</file>
+	<file path="chi-723e4306.flac">
+		<tag 
+			swac_text="变化"
+			swac_alphaidx="biànhuà"
+			swac_pron_phon="biànhuà" />
+	</file>
+	<file path="chi-72bcecc6.flac">
+		<tag 
+			swac_text="周"
+			swac_alphaidx="zhōu"
+			swac_pron_phon="zhōu" />
+	</file>
+	<file path="chi-72fa15e8.flac">
+		<tag 
+			swac_text="公共汽车"
+			swac_alphaidx="gōnggòngqìchē"
+			swac_pron_phon="gōnggòngqìchē" />
+	</file>
+	<file path="chi-73619ffa.flac">
+		<tag 
+			swac_text="一点儿"
+			swac_alphaidx="yìdiǎnr"
+			swac_pron_phon="yìdiǎnr" />
+	</file>
+	<file path="chi-73c30e44.flac">
+		<tag 
+			swac_text="也许"
+			swac_alphaidx="yěxǔ"
+			swac_pron_phon="yěxǔ" />
+	</file>
+	<file path="chi-73d18d0a.flac">
+		<tag 
+			swac_text="一_就_"
+			swac_alphaidx="yī_jiù_"
+			swac_pron_phon="yī_jiù_" />
+	</file>
+	<file path="chi-73fd9699.flac">
+		<tag 
+			swac_text="个"
+			swac_alphaidx="gè"
+			swac_pron_phon="gè" />
+	</file>
+	<file path="chi-740106d0.flac">
+		<tag 
+			swac_text="蓝"
+			swac_alphaidx="lán"
+			swac_pron_phon="lán" />
+	</file>
+	<file path="chi-740f3cd9.flac">
+		<tag 
+			swac_text="历史"
+			swac_alphaidx="lìshǐ"
+			swac_pron_phon="lìshǐ" />
+	</file>
+	<file path="chi-74322fe7.flac">
+		<tag 
+			swac_text="办法"
+			swac_alphaidx="bànfǎ"
+			swac_pron_phon="bànfǎ" />
+	</file>
+	<file path="chi-743c4167.flac">
+		<tag 
+			swac_text="远"
+			swac_alphaidx="yuǎn"
+			swac_pron_phon="yuǎn" />
+	</file>
+	<file path="chi-74b415b1.flac">
+		<tag 
+			swac_text="进来"
+			swac_alphaidx="jìnlái"
+			swac_pron_phon="jìnlái" />
+	</file>
+	<file path="chi-74bd82a0.flac">
+		<tag 
+			swac_text="服务员"
+			swac_alphaidx="fúwùyuán"
+			swac_pron_phon="fúwùyuán" />
+	</file>
+	<file path="chi-74e32bbc.flac">
+		<tag 
+			swac_text="六"
+			swac_alphaidx="liù"
+			swac_pron_phon="liù" />
+	</file>
+	<file path="chi-751014ff.flac">
+		<tag 
+			swac_text="黑板"
+			swac_alphaidx="hēibǎn"
+			swac_pron_phon="hēibǎn" />
+	</file>
+	<file path="chi-75203241.flac">
+		<tag 
+			swac_text="布"
+			swac_alphaidx="bù"
+			swac_pron_phon="bù" />
+	</file>
+	<file path="chi-75a1a4f6.flac">
+		<tag 
+			swac_text="学校"
+			swac_alphaidx="xuéxiào"
+			swac_pron_phon="xuéxiào" />
+	</file>
+	<file path="chi-75b3ff5b.flac">
+		<tag 
+			swac_text="妈妈"
+			swac_alphaidx="māma"
+			swac_pron_phon="māma" />
+	</file>
+	<file path="chi-76043924.flac">
+		<tag 
+			swac_text="票"
+			swac_alphaidx="piào"
+			swac_pron_phon="piào" />
+	</file>
+	<file path="chi-761d7743.flac">
+		<tag 
+			swac_text="最近"
+			swac_alphaidx="zuìjìn"
+			swac_pron_phon="zuìjìn" />
+	</file>
+	<file path="chi-762e8daa.flac">
+		<tag 
+			swac_text="钟"
+			swac_alphaidx="zhōng"
+			swac_pron_phon="zhōng" />
+	</file>
+	<file path="chi-766679aa.flac">
+		<tag 
+			swac_text="同志"
+			swac_alphaidx="tóngzhì"
+			swac_pron_phon="tóngzhì" />
+	</file>
+	<file path="chi-76a379f5.flac">
+		<tag 
+			swac_text="肉"
+			swac_alphaidx="ròu"
+			swac_pron_phon="ròu" />
+	</file>
+	<file path="chi-76eaeb09.flac">
+		<tag 
+			swac_text="周围"
+			swac_alphaidx="zhōuwéi"
+			swac_pron_phon="zhōuwéi" />
+	</file>
+	<file path="chi-77012b86.flac">
+		<tag 
+			swac_text="五"
+			swac_alphaidx="wǔ"
+			swac_pron_phon="wǔ" />
+	</file>
+	<file path="chi-771928ad.flac">
+		<tag 
+			swac_text="派"
+			swac_alphaidx="pài"
+			swac_pron_phon="pài" />
+	</file>
+	<file path="chi-7744adb1.flac">
+		<tag 
+			swac_text="位"
+			swac_alphaidx="wèi"
+			swac_pron_phon="wèi" />
+	</file>
+	<file path="chi-77d40b6c.flac">
+		<tag 
+			swac_text="上来"
+			swac_alphaidx="shànglái"
+			swac_pron_phon="shànglái" />
+	</file>
+	<file path="chi-77f352fc.flac">
+		<tag 
+			swac_text="经常"
+			swac_alphaidx="jīngcháng"
+			swac_pron_phon="jīngcháng" />
+	</file>
+	<file path="chi-780daec3.flac">
+		<tag 
+			swac_text="晚上"
+			swac_alphaidx="wǎnshang"
+			swac_pron_phon="wǎnshang" />
+	</file>
+	<file path="chi-7886f924.flac">
+		<tag 
+			swac_text="提"
+			swac_alphaidx="tí"
+			swac_pron_phon="tí" />
+	</file>
+	<file path="chi-78bdcfbe.flac">
+		<tag 
+			swac_text="劳驾"
+			swac_alphaidx="láojià"
+			swac_pron_phon="láojià" />
+	</file>
+	<file path="chi-78e9b4ff.flac">
+		<tag 
+			swac_text="进行"
+			swac_alphaidx="jìnxíng"
+			swac_pron_phon="jìnxíng" />
+	</file>
+	<file path="chi-79179a0b.flac">
+		<tag 
+			swac_text="秋天"
+			swac_alphaidx="qiūtiān"
+			swac_pron_phon="qiūtiān" />
+	</file>
+	<file path="chi-7931a07f.flac">
+		<tag 
+			swac_text="班"
+			swac_alphaidx="bān"
+			swac_pron_phon="bān" />
+	</file>
+	<file path="chi-798f1acd.flac">
+		<tag 
+			swac_text="客气"
+			swac_alphaidx="kèqi"
+			swac_pron_phon="kèqi" />
+	</file>
+	<file path="chi-7a5d643c.flac">
+		<tag 
+			swac_text="好像"
+			swac_alphaidx="hǎoxiàng"
+			swac_pron_phon="hǎoxiàng" />
+	</file>
+	<file path="chi-7ab5f4a2.flac">
+		<tag 
+			swac_text="例如"
+			swac_alphaidx="lìrú"
+			swac_pron_phon="lìrú" />
+	</file>
+	<file path="chi-7ad1eec4.flac">
+		<tag 
+			swac_text="开玩笑"
+			swac_alphaidx="kāiwánxiào"
+			swac_pron_phon="kāiwánxiào" />
+	</file>
+	<file path="chi-7b43d03a.flac">
+		<tag 
+			swac_text="东边"
+			swac_alphaidx="dōngbiān"
+			swac_pron_phon="dōngbiān" />
+	</file>
+	<file path="chi-7b5b2828.flac">
+		<tag 
+			swac_text="下午"
+			swac_alphaidx="xiàwǔ"
+			swac_pron_phon="xiàwǔ" />
+	</file>
+	<file path="chi-7bf14fa7.flac">
+		<tag 
+			swac_text="真正"
+			swac_alphaidx="zhēnzhèng"
+			swac_pron_phon="zhēnzhèng" />
+	</file>
+	<file path="chi-7c1d390e.flac">
+		<tag 
+			swac_text="加"
+			swac_alphaidx="jiā"
+			swac_pron_phon="jiā" />
+	</file>
+	<file path="chi-7c2f396e.flac">
+		<tag 
+			swac_text="得"
+			swac_alphaidx="de"
+			swac_pron_phon="de" />
+	</file>
+	<file path="chi-7c6c1f67.flac">
+		<tag 
+			swac_text="千"
+			swac_alphaidx="qiān"
+			swac_pron_phon="qiān" />
+	</file>
+	<file path="chi-7ca55908.flac">
+		<tag 
+			swac_text="电视"
+			swac_alphaidx="diànshì"
+			swac_pron_phon="diànshì" />
+	</file>
+	<file path="chi-7d409ef8.flac">
+		<tag 
+			swac_text="旁边"
+			swac_alphaidx="pángbiān"
+			swac_pron_phon="pángbiān" />
+	</file>
+	<file path="chi-7d70645f.flac">
+		<tag 
+			swac_text="教室"
+			swac_alphaidx="jiàoshì"
+			swac_pron_phon="jiàoshì" />
+	</file>
+	<file path="chi-7dc84c74.flac">
+		<tag 
+			swac_text="饿"
+			swac_alphaidx="è"
+			swac_pron_phon="è" />
+	</file>
+	<file path="chi-7e2f8e74.flac">
+		<tag 
+			swac_text="干部"
+			swac_alphaidx="gànbù"
+			swac_pron_phon="gànbù" />
+	</file>
+	<file path="chi-7e643a91.flac">
+		<tag 
+			swac_text="话"
+			swac_alphaidx="huà"
+			swac_pron_phon="huà" />
+	</file>
+	<file path="chi-7ee59eea.flac">
+		<tag 
+			swac_text="认真"
+			swac_alphaidx="rènzhēn"
+			swac_pron_phon="rènzhēn" />
+	</file>
+	<file path="chi-7f9f6e44.flac">
+		<tag 
+			swac_text="思想"
+			swac_alphaidx="sīxiǎng"
+			swac_pron_phon="sīxiǎng" />
+	</file>
+	<file path="chi-7fc085f0.flac">
+		<tag 
+			swac_text="些"
+			swac_alphaidx="xiē"
+			swac_pron_phon="xiē" />
+	</file>
+	<file path="chi-800f92a3.flac">
+		<tag 
+			swac_text="挤"
+			swac_alphaidx="jǐ"
+			swac_pron_phon="jǐ" />
+	</file>
+	<file path="chi-801024cf.flac">
+		<tag 
+			swac_text="从"
+			swac_alphaidx="cóng"
+			swac_pron_phon="cóng" />
+	</file>
+	<file path="chi-8099fab6.flac">
+		<tag 
+			swac_text="大声"
+			swac_alphaidx="dàshēng"
+			swac_pron_phon="dàshēng" />
+	</file>
+	<file path="chi-80c72910.flac">
+		<tag 
+			swac_text="提高"
+			swac_alphaidx="tígāo"
+			swac_pron_phon="tígāo" />
+	</file>
+	<file path="chi-8154f62c.flac">
+		<tag 
+			swac_text="北"
+			swac_alphaidx="běi"
+			swac_pron_phon="běi" />
+	</file>
+	<file path="chi-8158ec8d.flac">
+		<tag 
+			swac_text="必须"
+			swac_alphaidx="bìxū"
+			swac_pron_phon="bìxū" />
+	</file>
+	<file path="chi-81bb847f.flac">
+		<tag 
+			swac_text="饱"
+			swac_alphaidx="bǎo"
+			swac_pron_phon="bǎo" />
+	</file>
+	<file path="chi-81d3aed8.flac">
+		<tag 
+			swac_text="照相"
+			swac_alphaidx="zhàoxiàng"
+			swac_pron_phon="zhàoxiàng" />
+	</file>
+	<file path="chi-82024715.flac">
+		<tag 
+			swac_text="还是"
+			swac_alphaidx="háishì"
+			swac_pron_phon="háishì" />
+	</file>
+	<file path="chi-82108707.flac">
+		<tag 
+			swac_text="方面"
+			swac_alphaidx="fāngmiàn"
+			swac_pron_phon="fāngmiàn" />
+	</file>
+	<file path="chi-822ba232.flac">
+		<tag 
+			swac_text="他"
+			swac_alphaidx="tā"
+			swac_pron_phon="tā" />
+	</file>
+	<file path="chi-826ea348.flac">
+		<tag 
+			swac_text="非常"
+			swac_alphaidx="fēicháng"
+			swac_pron_phon="fēicháng" />
+	</file>
+	<file path="chi-82e4a63d.flac">
+		<tag 
+			swac_text="人民"
+			swac_alphaidx="rénmín"
+			swac_pron_phon="rénmín" />
+	</file>
+	<file path="chi-8382a011.flac">
+		<tag 
+			swac_text="外语"
+			swac_alphaidx="wàiyǔ"
+			swac_pron_phon="wàiyǔ" />
+	</file>
+	<file path="chi-8394d7ca.flac">
+		<tag 
+			swac_text="体育"
+			swac_alphaidx="tǐyù"
+			swac_pron_phon="tǐyù" />
+	</file>
+	<file path="chi-839a2676.flac">
+		<tag 
+			swac_text="米饭"
+			swac_alphaidx="mǐfàn"
+			swac_pron_phon="mǐfàn" />
+	</file>
+	<file path="chi-83d6bd29.flac">
+		<tag 
+			swac_text="酸"
+			swac_alphaidx="suān"
+			swac_pron_phon="suān" />
+	</file>
+	<file path="chi-83e80ae5.flac">
+		<tag 
+			swac_text="决定"
+			swac_alphaidx="juédìng"
+			swac_pron_phon="juédìng" />
+	</file>
+	<file path="chi-8465c6e1.flac">
+		<tag 
+			swac_text="热"
+			swac_alphaidx="rè"
+			swac_pron_phon="rè" />
+	</file>
+	<file path="chi-84955524.flac">
+		<tag 
+			swac_text="方向"
+			swac_alphaidx="fāngxiàng"
+			swac_pron_phon="fāngxiàng" />
+	</file>
+	<file path="chi-84978086.flac">
+		<tag 
+			swac_text="商店"
+			swac_alphaidx="shāngdiàn"
+			swac_pron_phon="shāngdiàn" />
+	</file>
+	<file path="chi-84d903fc.flac">
+		<tag 
+			swac_text="了解"
+			swac_alphaidx="liǎojiě"
+			swac_pron_phon="liǎojiě" />
+	</file>
+	<file path="chi-856addd6.flac">
+		<tag 
+			swac_text="刻"
+			swac_alphaidx="kè"
+			swac_pron_phon="kè" />
+	</file>
+	<file path="chi-85acc77f.flac">
+		<tag 
+			swac_text="变成"
+			swac_alphaidx="biànchéng"
+			swac_pron_phon="biànchéng" />
+	</file>
+	<file path="chi-85c30e95.flac">
+		<tag 
+			swac_text="脚"
+			swac_alphaidx="jiǎo"
+			swac_pron_phon="jiǎo" />
+	</file>
+	<file path="chi-85fd7d25.flac">
+		<tag 
+			swac_text="基本"
+			swac_alphaidx="jīběn"
+			swac_pron_phon="jīběn" />
+	</file>
+	<file path="chi-86a8d0f7.flac">
+		<tag 
+			swac_text="领导"
+			swac_alphaidx="lǐngdǎo"
+			swac_pron_phon="lǐngdǎo" />
+	</file>
+	<file path="chi-8702729c.flac">
+		<tag 
+			swac_text="喂"
+			swac_alphaidx="wèi"
+			swac_pron_phon="wèi" />
+	</file>
+	<file path="chi-874154b2.flac">
+		<tag 
+			swac_text="朝"
+			swac_alphaidx="cháo"
+			swac_pron_phon="cháo" />
+	</file>
+	<file path="chi-874d5350.flac">
+		<tag 
+			swac_text="零"
+			swac_alphaidx="líng"
+			swac_pron_phon="líng" />
+	</file>
+	<file path="chi-878d2412.flac">
+		<tag 
+			swac_text="世界"
+			swac_alphaidx="shìjiè"
+			swac_pron_phon="shìjiè" />
+	</file>
+	<file path="chi-87b3fc02.flac">
+		<tag 
+			swac_text="躺"
+			swac_alphaidx="tǎng"
+			swac_pron_phon="tǎng" />
+	</file>
+	<file path="chi-87e06503.flac">
+		<tag 
+			swac_text="亿"
+			swac_alphaidx="yì"
+			swac_pron_phon="yì" />
+	</file>
+	<file path="chi-883dfa8a.flac">
+		<tag 
+			swac_text="比赛"
+			swac_alphaidx="bǐsài"
+			swac_pron_phon="bǐsài" />
+	</file>
+	<file path="chi-88afb64c.flac">
+		<tag 
+			swac_text="我"
+			swac_alphaidx="wǒ"
+			swac_pron_phon="wǒ" />
+	</file>
+	<file path="chi-89460117.flac">
+		<tag 
+			swac_text="左"
+			swac_alphaidx="zuǒ"
+			swac_pron_phon="zuǒ" />
+	</file>
+	<file path="chi-896d645a.flac">
+		<tag 
+			swac_text="太"
+			swac_alphaidx="tài"
+			swac_pron_phon="tài" />
+	</file>
+	<file path="chi-896e2bba.flac">
+		<tag 
+			swac_text="辅导"
+			swac_alphaidx="fǔdǎo"
+			swac_pron_phon="fǔdǎo" />
+	</file>
+	<file path="chi-89b17084.flac">
+		<tag 
+			swac_text="祝"
+			swac_alphaidx="zhù"
+			swac_pron_phon="zhù" />
+	</file>
+	<file path="chi-8a9ca6be.flac">
+		<tag 
+			swac_text="顿"
+			swac_alphaidx="dùn"
+			swac_pron_phon="dùn" />
+	</file>
+	<file path="chi-8ad8e35d.flac">
+		<tag 
+			swac_text="音乐"
+			swac_alphaidx="yīnyuè"
+			swac_pron_phon="yīnyuè" />
+	</file>
+	<file path="chi-8b90bb57.flac">
+		<tag 
+			swac_text="作业"
+			swac_alphaidx="zuòyè"
+			swac_pron_phon="zuòyè" />
+	</file>
+	<file path="chi-8ba36bb2.flac">
+		<tag 
+			swac_text="帽子"
+			swac_alphaidx="màozi"
+			swac_pron_phon="màozi" />
+	</file>
+	<file path="chi-8baf5792.flac">
+		<tag 
+			swac_text="父亲"
+			swac_alphaidx="fùqīn"
+			swac_pron_phon="fùqīn" />
+	</file>
+	<file path="chi-8bbf73fc.flac">
+		<tag 
+			swac_text="翻"
+			swac_alphaidx="fān"
+			swac_pron_phon="fān" />
+	</file>
+	<file path="chi-8c3f1546.flac">
+		<tag 
+			swac_text="学生"
+			swac_alphaidx="xuésheng"
+			swac_pron_phon="xuésheng" />
+	</file>
+	<file path="chi-8cbf3eec.flac">
+		<tag 
+			swac_text="或者"
+			swac_alphaidx="huòzhě"
+			swac_pron_phon="huòzhě" />
+	</file>
+	<file path="chi-8d21d38f.flac">
+		<tag 
+			swac_text="主要"
+			swac_alphaidx="zhǔyào"
+			swac_pron_phon="zhǔyào" />
+	</file>
+	<file path="chi-8d480200.flac">
+		<tag 
+			swac_text="日"
+			swac_alphaidx="rì"
+			swac_pron_phon="rì" />
+	</file>
+	<file path="chi-8dccf871.flac">
+		<tag 
+			swac_text="取得"
+			swac_alphaidx="qǔdé"
+			swac_pron_phon="qǔdé" />
+	</file>
+	<file path="chi-8de1c7d6.flac">
+		<tag 
+			swac_text="卖"
+			swac_alphaidx="mài"
+			swac_pron_phon="mài" />
+	</file>
+	<file path="chi-8df76885.flac">
+		<tag 
+			swac_text="刚才"
+			swac_alphaidx="gāngcái"
+			swac_pron_phon="gāngcái" />
+	</file>
+	<file path="chi-8e0d7040.flac">
+		<tag 
+			swac_text="翻译"
+			swac_alphaidx="fānyì"
+			swac_pron_phon="fānyì" />
+	</file>
+	<file path="chi-8e32c057.flac">
+		<tag 
+			swac_text="交"
+			swac_alphaidx="jiāo"
+			swac_pron_phon="jiāo" />
+	</file>
+	<file path="chi-8e856478.flac">
+		<tag 
+			swac_text="多么"
+			swac_alphaidx="duōme"
+			swac_pron_phon="duōme" />
+	</file>
+	<file path="chi-8edddd02.flac">
+		<tag 
+			swac_text="旧"
+			swac_alphaidx="jiù"
+			swac_pron_phon="jiù" />
+	</file>
+	<file path="chi-8ee6751f.flac">
+		<tag 
+			swac_text="笔"
+			swac_alphaidx="bǐ"
+			swac_pron_phon="bǐ" />
+	</file>
+	<file path="chi-8f5be8ff.flac">
+		<tag 
+			swac_text="北边"
+			swac_alphaidx="běibiān"
+			swac_pron_phon="běibiān" />
+	</file>
+	<file path="chi-8f822007.flac">
+		<tag 
+			swac_text="小时"
+			swac_alphaidx="xiǎoshí"
+			swac_pron_phon="xiǎoshí" />
+	</file>
+	<file path="chi-8fac2214.flac">
+		<tag 
+			swac_text="种"
+			swac_alphaidx="zhǒng"
+			swac_pron_phon="zhǒng" />
+	</file>
+	<file path="chi-8fbae681.flac">
+		<tag 
+			swac_text="飞"
+			swac_alphaidx="fēi"
+			swac_pron_phon="fēi" />
+	</file>
+	<file path="chi-8fe981f9.flac">
+		<tag 
+			swac_text="电灯"
+			swac_alphaidx="diàndēng"
+			swac_pron_phon="diàndēng" />
+	</file>
+	<file path="chi-901acd33.flac">
+		<tag 
+			swac_text="跑步"
+			swac_alphaidx="pǎobù"
+			swac_pron_phon="pǎobù" />
+	</file>
+	<file path="chi-902c5940.flac">
+		<tag 
+			swac_text="又"
+			swac_alphaidx="yòu"
+			swac_pron_phon="yòu" />
+	</file>
+	<file path="chi-902de11e.flac">
+		<tag 
+			swac_text="习惯"
+			swac_alphaidx="xíguàn"
+			swac_pron_phon="xíguàn" />
+	</file>
+	<file path="chi-903db3c8.flac">
+		<tag 
+			swac_text="通过"
+			swac_alphaidx="tōngguò"
+			swac_pron_phon="tōngguò" />
+	</file>
+	<file path="chi-90a3d9d3.flac">
+		<tag 
+			swac_text="碗"
+			swac_alphaidx="wǎn"
+			swac_pron_phon="wǎn" />
+	</file>
+	<file path="chi-90a76f7e.flac">
+		<tag 
+			swac_text="花"
+			swac_alphaidx="huā"
+			swac_pron_phon="huā" />
+	</file>
+	<file path="chi-90aca17b.flac">
+		<tag 
+			swac_text="紧张"
+			swac_alphaidx="jǐnzhāng"
+			swac_pron_phon="jǐnzhāng" />
+	</file>
+	<file path="chi-90f449a8.flac">
+		<tag 
+			swac_text="钱"
+			swac_alphaidx="qián"
+			swac_pron_phon="qián" />
+	</file>
+	<file path="chi-9105a22b.flac">
+		<tag 
+			swac_text="洗"
+			swac_alphaidx="xǐ"
+			swac_pron_phon="xǐ" />
+	</file>
+	<file path="chi-9105ed73.flac">
+		<tag 
+			swac_text="机器"
+			swac_alphaidx="jīqì"
+			swac_pron_phon="jīqì" />
+	</file>
+	<file path="chi-9169d04a.flac">
+		<tag 
+			swac_text="食堂"
+			swac_alphaidx="shítáng"
+			swac_pron_phon="shítáng" />
+	</file>
+	<file path="chi-91802df3.flac">
+		<tag 
+			swac_text="嗯"
+			swac_alphaidx="ng"
+			swac_pron_phon="ng" />
+	</file>
+	<file path="chi-91a6b4df.flac">
+		<tag 
+			swac_text="一些"
+			swac_alphaidx="yìxiē"
+			swac_pron_phon="yìxiē" />
+	</file>
+	<file path="chi-9249e10c.flac">
+		<tag 
+			swac_text="下来"
+			swac_alphaidx="xiàlái"
+			swac_pron_phon="xiàlái" />
+	</file>
+	<file path="chi-9260c507.flac">
+		<tag 
+			swac_text="家"
+			swac_alphaidx="jiā"
+			swac_pron_phon="jiā" />
+	</file>
+	<file path="chi-92a5eacf.flac">
+		<tag 
+			swac_text="上"
+			swac_alphaidx="shàng"
+			swac_pron_phon="shàng" />
+	</file>
+	<file path="chi-92b651f7.flac">
+		<tag 
+			swac_text="儿子"
+			swac_alphaidx="érzi"
+			swac_pron_phon="érzi" />
+	</file>
+	<file path="chi-942fb08c.flac">
+		<tag 
+			swac_text="好处"
+			swac_alphaidx="hǎochu"
+			swac_pron_phon="hǎochu" />
+	</file>
+	<file path="chi-9459eb26.flac">
+		<tag 
+			swac_text="楼"
+			swac_alphaidx="lóu"
+			swac_pron_phon="lóu" />
+	</file>
+	<file path="chi-94cf2bfd.flac">
+		<tag 
+			swac_text="推"
+			swac_alphaidx="tuī"
+			swac_pron_phon="tuī" />
+	</file>
+	<file path="chi-94e357c2.flac">
+		<tag 
+			swac_text="为了"
+			swac_alphaidx="wèile"
+			swac_pron_phon="wèile" />
+	</file>
+	<file path="chi-951388f3.flac">
+		<tag 
+			swac_text="词典"
+			swac_alphaidx="cídiǎn"
+			swac_pron_phon="cídiǎn" />
+	</file>
+	<file path="chi-9535b3ae.flac">
+		<tag 
+			swac_text="一共"
+			swac_alphaidx="yígòng"
+			swac_pron_phon="yígòng" />
+	</file>
+	<file path="chi-955e150d.flac">
+		<tag 
+			swac_text="节目"
+			swac_alphaidx="jiémù"
+			swac_pron_phon="jiémù" />
+	</file>
+	<file path="chi-957aea9e.flac">
+		<tag 
+			swac_text="她们"
+			swac_alphaidx="tāmen"
+			swac_pron_phon="tāmen" />
+	</file>
+	<file path="chi-95dabfdf.flac">
+		<tag 
+			swac_text="口"
+			swac_alphaidx="kǒu"
+			swac_pron_phon="kǒu" />
+	</file>
+	<file path="chi-95f899d2.flac">
+		<tag 
+			swac_text="没"
+			swac_alphaidx="méi"
+			swac_pron_phon="méi" />
+	</file>
+	<file path="chi-962f37de.flac">
+		<tag 
+			swac_text="片"
+			swac_alphaidx="piàn"
+			swac_pron_phon="piàn" />
+	</file>
+	<file path="chi-964b699e.flac">
+		<tag 
+			swac_text="破"
+			swac_alphaidx="pò"
+			swac_pron_phon="pò" />
+	</file>
+	<file path="chi-9695557a.flac">
+		<tag 
+			swac_text="年级"
+			swac_alphaidx="niánjí"
+			swac_pron_phon="niánjí" />
+	</file>
+	<file path="chi-96d3bee6.flac">
+		<tag 
+			swac_text="图书馆"
+			swac_alphaidx="túshūguǎn"
+			swac_pron_phon="túshūguǎn" />
+	</file>
+	<file path="chi-9780c0fa.flac">
+		<tag 
+			swac_text="这么"
+			swac_alphaidx="zhème"
+			swac_pron_phon="zhème" />
+	</file>
+	<file path="chi-97c17b5e.flac">
+		<tag 
+			swac_text="吹"
+			swac_alphaidx="chuī"
+			swac_pron_phon="chuī" />
+	</file>
+	<file path="chi-9813b952.flac">
+		<tag 
+			swac_text="铅笔"
+			swac_alphaidx="qiānbǐ"
+			swac_pron_phon="qiānbǐ" />
+	</file>
+	<file path="chi-988c9769.flac">
+		<tag 
+			swac_text="同时"
+			swac_alphaidx="tóngshí"
+			swac_pron_phon="tóngshí" />
+	</file>
+	<file path="chi-9893f33c.flac">
+		<tag 
+			swac_text="棵"
+			swac_alphaidx="kē"
+			swac_pron_phon="kē" />
+	</file>
+	<file path="chi-98cc57b0.flac">
+		<tag 
+			swac_text="麻烦"
+			swac_alphaidx="máfan"
+			swac_pron_phon="máfan" />
+	</file>
+	<file path="chi-98d03c89.flac">
+		<tag 
+			swac_text="问"
+			swac_alphaidx="wèn"
+			swac_pron_phon="wèn" />
+	</file>
+	<file path="chi-98d5768e.flac">
+		<tag 
+			swac_text="克"
+			swac_alphaidx="kè"
+			swac_pron_phon="kè" />
+	</file>
+	<file path="chi-98dc0fcc.flac">
+		<tag 
+			swac_text="本"
+			swac_alphaidx="běn"
+			swac_pron_phon="běn" />
+	</file>
+	<file path="chi-98e23e9b.flac">
+		<tag 
+			swac_text="以后"
+			swac_alphaidx="yǐhòu"
+			swac_pron_phon="yǐhòu" />
+	</file>
+	<file path="chi-99479c91.flac">
+		<tag 
+			swac_text="夜"
+			swac_alphaidx="yè"
+			swac_pron_phon="yè" />
+	</file>
+	<file path="chi-99b78c85.flac">
+		<tag 
+			swac_text="那样"
+			swac_alphaidx="nàyàng"
+			swac_pron_phon="nàyàng" />
+	</file>
+	<file path="chi-99d0ff05.flac">
+		<tag 
+			swac_text="场"
+			swac_alphaidx="chǎng"
+			swac_pron_phon="chǎng" />
+	</file>
+	<file path="chi-99fa617d.flac">
+		<tag 
+			swac_text="吃"
+			swac_alphaidx="chī"
+			swac_pron_phon="chī" />
+	</file>
+	<file path="chi-9a0b3980.flac">
+		<tag 
+			swac_text="你们"
+			swac_alphaidx="nǐmen"
+			swac_pron_phon="nǐmen" />
+	</file>
+	<file path="chi-9a1e70fe.flac">
+		<tag 
+			swac_text="演出"
+			swac_alphaidx="yǎnchū"
+			swac_pron_phon="yǎnchū" />
+	</file>
+	<file path="chi-9a47e4e5.flac">
+		<tag 
+			swac_text="到"
+			swac_alphaidx="dào"
+			swac_pron_phon="dào" />
+	</file>
+	<file path="chi-9ae96f46.flac">
+		<tag 
+			swac_text="有意思"
+			swac_alphaidx="yǒuyìsi"
+			swac_pron_phon="yǒuyìsi" />
+	</file>
+	<file path="chi-9b1bb4d2.flac">
+		<tag 
+			swac_text="近"
+			swac_alphaidx="jìn"
+			swac_pron_phon="jìn" />
+	</file>
+	<file path="chi-9bad70c0.flac">
+		<tag 
+			swac_text="指"
+			swac_alphaidx="zhǐ"
+			swac_pron_phon="zhǐ" />
+	</file>
+	<file path="chi-9bbd7adf.flac">
+		<tag 
+			swac_text="完全"
+			swac_alphaidx="wánquán"
+			swac_pron_phon="wánquán" />
+	</file>
+	<file path="chi-9bc31d8b.flac">
+		<tag 
+			swac_text="得"
+			swac_alphaidx="děi"
+			swac_pron_phon="děi" />
+	</file>
+	<file path="chi-9c2f21ea.flac">
+		<tag 
+			swac_text="原谅"
+			swac_alphaidx="yuánliàng"
+			swac_pron_phon="yuánliàng" />
+	</file>
+	<file path="chi-9c2fbbe9.flac">
+		<tag 
+			swac_text="忘"
+			swac_alphaidx="wàng"
+			swac_pron_phon="wàng" />
+	</file>
+	<file path="chi-9c43f979.flac">
+		<tag 
+			swac_text="要求"
+			swac_alphaidx="yāoqiú"
+			swac_pron_phon="yāoqiú" />
+	</file>
+	<file path="chi-9ca95c08.flac">
+		<tag 
+			swac_text="地方"
+			swac_alphaidx="dìfang"
+			swac_pron_phon="dìfang" />
+	</file>
+	<file path="chi-9d10b158.flac">
+		<tag 
+			swac_text="响"
+			swac_alphaidx="xiǎng"
+			swac_pron_phon="xiǎng" />
+	</file>
+	<file path="chi-9d812e91.flac">
+		<tag 
+			swac_text="冷"
+			swac_alphaidx="lěng"
+			swac_pron_phon="lěng" />
+	</file>
+	<file path="chi-9d870567.flac">
+		<tag 
+			swac_text="广播"
+			swac_alphaidx="guǎngbō"
+			swac_pron_phon="guǎngbō" />
+	</file>
+	<file path="chi-9ddf6215.flac">
+		<tag 
+			swac_text="怎么样"
+			swac_alphaidx="zěnmeyàng"
+			swac_pron_phon="zěnmeyàng" />
+	</file>
+	<file path="chi-9e0310e1.flac">
+		<tag 
+			swac_text="基础"
+			swac_alphaidx="jīchǔ"
+			swac_pron_phon="jīchǔ" />
+	</file>
+	<file path="chi-9e94452e.flac">
+		<tag 
+			swac_text="经验"
+			swac_alphaidx="jīngyàn"
+			swac_pron_phon="jīngyàn" />
+	</file>
+	<file path="chi-9eb4485b.flac">
+		<tag 
+			swac_text="着急"
+			swac_alphaidx="zháojí"
+			swac_pron_phon="zháojí" />
+	</file>
+	<file path="chi-9eda7536.flac">
+		<tag 
+			swac_text="医院"
+			swac_alphaidx="yīyuàn"
+			swac_pron_phon="yīyuàn" />
+	</file>
+	<file path="chi-9eee6de6.flac">
+		<tag 
+			swac_text="电影"
+			swac_alphaidx="diànyǐng"
+			swac_pron_phon="diànyǐng" />
+	</file>
+	<file path="chi-9f5c8f85.flac">
+		<tag 
+			swac_text="查"
+			swac_alphaidx="chá"
+			swac_pron_phon="chá" />
+	</file>
+	<file path="chi-9f94c752.flac">
+		<tag 
+			swac_text="努力"
+			swac_alphaidx="nǔlì"
+			swac_pron_phon="nǔlì" />
+	</file>
+	<file path="chi-9f96d7db.flac">
+		<tag 
+			swac_text="能够"
+			swac_alphaidx="nénggòu"
+			swac_pron_phon="nénggòu" />
+	</file>
+	<file path="chi-9fadbfa8.flac">
+		<tag 
+			swac_text="安静"
+			swac_alphaidx="ānjìng"
+			swac_pron_phon="ānjìng" />
+	</file>
+	<file path="chi-9fba6371.flac">
+		<tag 
+			swac_text="写"
+			swac_alphaidx="xiě"
+			swac_pron_phon="xiě" />
+	</file>
+	<file path="chi-9fbabc7e.flac">
+		<tag 
+			swac_text="热情"
+			swac_alphaidx="rèqíng"
+			swac_pron_phon="rèqíng" />
+	</file>
+	<file path="chi-9ff87b56.flac">
+		<tag 
+			swac_text="只"
+			swac_alphaidx="zhǐ"
+			swac_pron_phon="zhǐ" />
+	</file>
+	<file path="chi-a01c76db.flac">
+		<tag 
+			swac_text="感冒"
+			swac_alphaidx="gǎnmào"
+			swac_pron_phon="gǎnmào" />
+	</file>
+	<file path="chi-a08a45d6.flac">
+		<tag 
+			swac_text="不错"
+			swac_alphaidx="búcuò"
+			swac_pron_phon="búcuò" />
+	</file>
+	<file path="chi-a0995aac.flac">
+		<tag 
+			swac_text="桥"
+			swac_alphaidx="qiáo"
+			swac_pron_phon="qiáo" />
+	</file>
+	<file path="chi-a09e3259.flac">
+		<tag 
+			swac_text="先"
+			swac_alphaidx="xiān"
+			swac_pron_phon="xiān" />
+	</file>
+	<file path="chi-a0eb07de.flac">
+		<tag 
+			swac_text="农业"
+			swac_alphaidx="nóngyè"
+			swac_pron_phon="nóngyè" />
+	</file>
+	<file path="chi-a12f9b22.flac">
+		<tag 
+			swac_text="累"
+			swac_alphaidx="lèi"
+			swac_pron_phon="lèi" />
+	</file>
+	<file path="chi-a17ea23e.flac">
+		<tag 
+			swac_text="口语"
+			swac_alphaidx="kǒuyǔ"
+			swac_pron_phon="kǒuyǔ" />
+	</file>
+	<file path="chi-a1972983.flac">
+		<tag 
+			swac_text="贵"
+			swac_alphaidx="guì"
+			swac_pron_phon="guì" />
+	</file>
+	<file path="chi-a1b071e5.flac">
+		<tag 
+			swac_text="生词"
+			swac_alphaidx="shēngcí"
+			swac_pron_phon="shēngcí" />
+	</file>
+	<file path="chi-a22a4166.flac">
+		<tag 
+			swac_text="旅行"
+			swac_alphaidx="lǚxíng"
+			swac_pron_phon="lǚxíng" />
+	</file>
+	<file path="chi-a23e5483.flac">
+		<tag 
+			swac_text="忽然"
+			swac_alphaidx="hūrán"
+			swac_pron_phon="hūrán" />
+	</file>
+	<file path="chi-a2407229.flac">
+		<tag 
+			swac_text="少"
+			swac_alphaidx="shǎo"
+			swac_pron_phon="shǎo" />
+	</file>
+	<file path="chi-a25a0b5f.flac">
+		<tag 
+			swac_text="怎么"
+			swac_alphaidx="zěnme"
+			swac_pron_phon="zěnme" />
+	</file>
+	<file path="chi-a25aef06.flac">
+		<tag 
+			swac_text="宴会"
+			swac_alphaidx="yànhuì"
+			swac_pron_phon="yànhuì" />
+	</file>
+	<file path="chi-a26537fa.flac">
+		<tag 
+			swac_text="机会"
+			swac_alphaidx="jīhuì"
+			swac_pron_phon="jīhuì" />
+	</file>
+	<file path="chi-a2ee8aff.flac">
+		<tag 
+			swac_text="下去"
+			swac_alphaidx="xiàqù"
+			swac_pron_phon="xiàqù" />
+	</file>
+	<file path="chi-a303d30c.flac">
+		<tag 
+			swac_text="经济"
+			swac_alphaidx="jīngjì"
+			swac_pron_phon="jīngjì" />
+	</file>
+	<file path="chi-a3300f49.flac">
+		<tag 
+			swac_text="多"
+			swac_alphaidx="duō"
+			swac_pron_phon="duō" />
+	</file>
+	<file path="chi-a361fbcf.flac">
+		<tag 
+			swac_text="给"
+			swac_alphaidx="gěi"
+			swac_pron_phon="gěi" />
+	</file>
+	<file path="chi-a4385874.flac">
+		<tag 
+			swac_text="表现"
+			swac_alphaidx="biǎoxiàn"
+			swac_pron_phon="biǎoxiàn" />
+	</file>
+	<file path="chi-a458d690.flac">
+		<tag 
+			swac_text="女"
+			swac_alphaidx="nǚ"
+			swac_pron_phon="nǚ" />
+	</file>
+	<file path="chi-a49bf63b.flac">
+		<tag 
+			swac_text="先生"
+			swac_alphaidx="xiānsheng"
+			swac_pron_phon="xiānsheng" />
+	</file>
+	<file path="chi-a4b11206.flac">
+		<tag 
+			swac_text="知识"
+			swac_alphaidx="zhīshi"
+			swac_pron_phon="zhīshi" />
+	</file>
+	<file path="chi-a4bb41b3.flac">
+		<tag 
+			swac_text="重"
+			swac_alphaidx="zhòng"
+			swac_pron_phon="zhòng" />
+	</file>
+	<file path="chi-a4eaef6c.flac">
+		<tag 
+			swac_text="眼睛"
+			swac_alphaidx="yǎnjing"
+			swac_pron_phon="yǎnjing" />
+	</file>
+	<file path="chi-a5468d0b.flac">
+		<tag 
+			swac_text="举"
+			swac_alphaidx="jǔ"
+			swac_pron_phon="jǔ" />
+	</file>
+	<file path="chi-a563ff2c.flac">
+		<tag 
+			swac_text="讲"
+			swac_alphaidx="jiǎng"
+			swac_pron_phon="jiǎng" />
+	</file>
+	<file path="chi-a5a9fa05.flac">
+		<tag 
+			swac_text="接"
+			swac_alphaidx="jiē"
+			swac_pron_phon="jiē" />
+	</file>
+	<file path="chi-a7342bcb.flac">
+		<tag 
+			swac_text="那么"
+			swac_alphaidx="nàme"
+			swac_pron_phon="nàme" />
+	</file>
+	<file path="chi-a7662d95.flac">
+		<tag 
+			swac_text="表演"
+			swac_alphaidx="biǎoyǎn"
+			swac_pron_phon="biǎoyǎn" />
+	</file>
+	<file path="chi-a7837ff8.flac">
+		<tag 
+			swac_text="错"
+			swac_alphaidx="cuò"
+			swac_pron_phon="cuò" />
+	</file>
+	<file path="chi-a7863abd.flac">
+		<tag 
+			swac_text="声音"
+			swac_alphaidx="shēngyīn"
+			swac_pron_phon="shēngyīn" />
+	</file>
+	<file path="chi-a78dd330.flac">
+		<tag 
+			swac_text="正确"
+			swac_alphaidx="zhèngquè"
+			swac_pron_phon="zhèngquè" />
+	</file>
+	<file path="chi-a7fccf29.flac">
+		<tag 
+			swac_text="坏"
+			swac_alphaidx="huài"
+			swac_pron_phon="huài" />
+	</file>
+	<file path="chi-a85a136a.flac">
+		<tag 
+			swac_text="新"
+			swac_alphaidx="xīn"
+			swac_pron_phon="xīn" />
+	</file>
+	<file path="chi-a872bb1d.flac">
+		<tag 
+			swac_text="有些"
+			swac_alphaidx="yǒuxiē"
+			swac_pron_phon="yǒuxiē" />
+	</file>
+	<file path="chi-a8a624bc.flac">
+		<tag 
+			swac_text="公园"
+			swac_alphaidx="gōngyuán"
+			swac_pron_phon="gōngyuán" />
+	</file>
+	<file path="chi-a9559897.flac">
+		<tag 
+			swac_text="上学"
+			swac_alphaidx="shàngxué"
+			swac_pron_phon="shàngxué" />
+	</file>
+	<file path="chi-a984a42f.flac">
+		<tag 
+			swac_text="错误"
+			swac_alphaidx="cuòwù"
+			swac_pron_phon="cuòwù" />
+	</file>
+	<file path="chi-a999725e.flac">
+		<tag 
+			swac_text="操场"
+			swac_alphaidx="cāochǎng"
+			swac_pron_phon="cāochǎng" />
+	</file>
+	<file path="chi-a99a7358.flac">
+		<tag 
+			swac_text="爬"
+			swac_alphaidx="pá"
+			swac_pron_phon="pá" />
+	</file>
+	<file path="chi-aa776535.flac">
+		<tag 
+			swac_text="点"
+			swac_alphaidx="diǎn"
+			swac_pron_phon="diǎn" />
+	</file>
+	<file path="chi-aab469a9.flac">
+		<tag 
+			swac_text="都"
+			swac_alphaidx="dōu"
+			swac_pron_phon="dōu" />
+	</file>
+	<file path="chi-ab61b453.flac">
+		<tag 
+			swac_text="看见"
+			swac_alphaidx="kànjiàn"
+			swac_pron_phon="kànjiàn" />
+	</file>
+	<file path="chi-abb01e50.flac">
+		<tag 
+			swac_text="自行车"
+			swac_alphaidx="zìxíngchē"
+			swac_pron_phon="zìxíngchē" />
+	</file>
+	<file path="chi-abc6d215.flac">
+		<tag 
+			swac_text="声调"
+			swac_alphaidx="shēngdiào"
+			swac_pron_phon="shēngdiào" />
+	</file>
+	<file path="chi-aca24145.flac">
+		<tag 
+			swac_text="午饭"
+			swac_alphaidx="wǔfàn"
+			swac_pron_phon="wǔfàn" />
+	</file>
+	<file path="chi-acbe6380.flac">
+		<tag 
+			swac_text="遇到"
+			swac_alphaidx="yùdào"
+			swac_pron_phon="yùdào" />
+	</file>
+	<file path="chi-acc01b6a.flac">
+		<tag 
+			swac_text="复杂"
+			swac_alphaidx="fùzá"
+			swac_pron_phon="fùzá" />
+	</file>
+	<file path="chi-ad32bbe0.flac">
+		<tag 
+			swac_text="边"
+			swac_alphaidx="biān"
+			swac_pron_phon="biān" />
+	</file>
+	<file path="chi-ad54f48f.flac">
+		<tag 
+			swac_text="常常"
+			swac_alphaidx="chángcháng"
+			swac_pron_phon="chángcháng" />
+	</file>
+	<file path="chi-adbe8ea0.flac">
+		<tag 
+			swac_text="可是"
+			swac_alphaidx="kěshì"
+			swac_pron_phon="kěshì" />
+	</file>
+	<file path="chi-ae02f862.flac">
+		<tag 
+			swac_text="舒服"
+			swac_alphaidx="shūfu"
+			swac_pron_phon="shūfu" />
+	</file>
+	<file path="chi-ae050c05.flac">
+		<tag 
+			swac_text="比"
+			swac_alphaidx="bǐ"
+			swac_pron_phon="bǐ" />
+	</file>
+	<file path="chi-ae0c6189.flac">
+		<tag 
+			swac_text="词"
+			swac_alphaidx="cí"
+			swac_pron_phon="cí" />
+	</file>
+	<file path="chi-ae3d85d7.flac">
+		<tag 
+			swac_text="苹果"
+			swac_alphaidx="píngguǒ"
+			swac_pron_phon="píngguǒ" />
+	</file>
+	<file path="chi-aed72322.flac">
+		<tag 
+			swac_text="嘛"
+			swac_alphaidx="ma"
+			swac_pron_phon="ma" />
+	</file>
+	<file path="chi-af538c9c.flac">
+		<tag 
+			swac_text="朋友"
+			swac_alphaidx="péngyou"
+			swac_pron_phon="péngyou" />
+	</file>
+	<file path="chi-af76f2ea.flac">
+		<tag 
+			swac_text="语法"
+			swac_alphaidx="yǔfǎ"
+			swac_pron_phon="yǔfǎ" />
+	</file>
+	<file path="chi-b0035bd5.flac">
+		<tag 
+			swac_text="喜欢"
+			swac_alphaidx="xǐhuan"
+			swac_pron_phon="xǐhuan" />
+	</file>
+	<file path="chi-b0bd0b82.flac">
+		<tag 
+			swac_text="教育"
+			swac_alphaidx="jiàoyù"
+			swac_pron_phon="jiàoyù" />
+	</file>
+	<file path="chi-b13c9232.flac">
+		<tag 
+			swac_text="同学"
+			swac_alphaidx="tóngxué"
+			swac_pron_phon="tóngxué" />
+	</file>
+	<file path="chi-b15a2408.flac">
+		<tag 
+			swac_text="苦"
+			swac_alphaidx="kǔ"
+			swac_pron_phon="kǔ" />
+	</file>
+	<file path="chi-b173badd.flac">
+		<tag 
+			swac_text="建设"
+			swac_alphaidx="jiànshè"
+			swac_pron_phon="jiànshè" />
+	</file>
+	<file path="chi-b29e057a.flac">
+		<tag 
+			swac_text="满意"
+			swac_alphaidx="mǎnyì"
+			swac_pron_phon="mǎnyì" />
+	</file>
+	<file path="chi-b30a37e7.flac">
+		<tag 
+			swac_text="湖"
+			swac_alphaidx="hú"
+			swac_pron_phon="hú" />
+	</file>
+	<file path="chi-b349dd6b.flac">
+		<tag 
+			swac_text="江"
+			swac_alphaidx="jiāng"
+			swac_pron_phon="jiāng" />
+	</file>
+	<file path="chi-b37b182f.flac">
+		<tag 
+			swac_text="风"
+			swac_alphaidx="fēng"
+			swac_pron_phon="fēng" />
+	</file>
+	<file path="chi-b3b17406.flac">
+		<tag 
+			swac_text="橘子"
+			swac_alphaidx="júzi"
+			swac_pron_phon="júzi" />
+	</file>
+	<file path="chi-b4692692.flac">
+		<tag 
+			swac_text="艺术"
+			swac_alphaidx="yìshù"
+			swac_pron_phon="yìshù" />
+	</file>
+	<file path="chi-b469e458.flac">
+		<tag 
+			swac_text="雨"
+			swac_alphaidx="yǔ"
+			swac_pron_phon="yǔ" />
+	</file>
+	<file path="chi-b46d6750.flac">
+		<tag 
+			swac_text="块"
+			swac_alphaidx="kuài"
+			swac_pron_phon="kuài" />
+	</file>
+	<file path="chi-b4986d35.flac">
+		<tag 
+			swac_text="首都"
+			swac_alphaidx="shǒudū"
+			swac_pron_phon="shǒudū" />
+	</file>
+	<file path="chi-b5283f27.flac">
+		<tag 
+			swac_text="电车"
+			swac_alphaidx="diànchē"
+			swac_pron_phon="diànchē" />
+	</file>
+	<file path="chi-b61eb438.flac">
+		<tag 
+			swac_text="节日"
+			swac_alphaidx="jiérì"
+			swac_pron_phon="jiérì" />
+	</file>
+	<file path="chi-b62494c9.flac">
+		<tag 
+			swac_text="怎样"
+			swac_alphaidx="zěnyàng"
+			swac_pron_phon="zěnyàng" />
+	</file>
+	<file path="chi-b6769898.flac">
+		<tag 
+			swac_text="公斤"
+			swac_alphaidx="gōngjīn"
+			swac_pron_phon="gōngjīn" />
+	</file>
+	<file path="chi-b75f3736.flac">
+		<tag 
+			swac_text="停"
+			swac_alphaidx="tíng"
+			swac_pron_phon="tíng" />
+	</file>
+	<file path="chi-b839ed4a.flac">
+		<tag 
+			swac_text="便宜"
+			swac_alphaidx="piányi"
+			swac_pron_phon="piányi" />
+	</file>
+	<file path="chi-b84550ed.flac">
+		<tag 
+			swac_text="考试"
+			swac_alphaidx="kǎoshì"
+			swac_pron_phon="kǎoshì" />
+	</file>
+	<file path="chi-b881696a.flac">
+		<tag 
+			swac_text="拿"
+			swac_alphaidx="ná"
+			swac_pron_phon="ná" />
+	</file>
+	<file path="chi-b881bbd3.flac">
+		<tag 
+			swac_text="秋"
+			swac_alphaidx="qiū"
+			swac_pron_phon="qiū" />
+	</file>
+	<file path="chi-b89bbd5d.flac">
+		<tag 
+			swac_text="常"
+			swac_alphaidx="cháng"
+			swac_pron_phon="cháng" />
+	</file>
+	<file path="chi-b8a176e8.flac">
+		<tag 
+			swac_text="他们"
+			swac_alphaidx="tāmen"
+			swac_pron_phon="tāmen" />
+	</file>
+	<file path="chi-b8b513e4.flac">
+		<tag 
+			swac_text="太阳"
+			swac_alphaidx="tàiyáng"
+			swac_pron_phon="tàiyáng" />
+	</file>
+	<file path="chi-b9059563.flac">
+		<tag 
+			swac_text="往"
+			swac_alphaidx="wǎng"
+			swac_pron_phon="wǎng" />
+	</file>
+	<file path="chi-b98fcc52.flac">
+		<tag 
+			swac_text="方法"
+			swac_alphaidx="fāngfǎ"
+			swac_pron_phon="fāngfǎ" />
+	</file>
+	<file path="chi-b997425e.flac">
+		<tag 
+			swac_text="水果"
+			swac_alphaidx="shuǐguǒ"
+			swac_pron_phon="shuǐguǒ" />
+	</file>
+	<file path="chi-ba197423.flac">
+		<tag 
+			swac_text="半天"
+			swac_alphaidx="bàntiān"
+			swac_pron_phon="bàntiān" />
+	</file>
+	<file path="chi-ba1d6921.flac">
+		<tag 
+			swac_text="寄"
+			swac_alphaidx="jì"
+			swac_pron_phon="jì" />
+	</file>
+	<file path="chi-ba3cab38.flac">
+		<tag 
+			swac_text="姓"
+			swac_alphaidx="xìng"
+			swac_pron_phon="xìng" />
+	</file>
+	<file path="chi-babdde34.flac">
+		<tag 
+			swac_text="哪"
+			swac_alphaidx="na"
+			swac_pron_phon="na" />
+	</file>
+	<file path="chi-bb370a12.flac">
+		<tag 
+			swac_text="生产"
+			swac_alphaidx="shēngchǎn"
+			swac_pron_phon="shēngchǎn" />
+	</file>
+	<file path="chi-bb681dfa.flac">
+		<tag 
+			swac_text="流"
+			swac_alphaidx="liú"
+			swac_pron_phon="liú" />
+	</file>
+	<file path="chi-bb6a9266.flac">
+		<tag 
+			swac_text="鸡"
+			swac_alphaidx="jī"
+			swac_pron_phon="jī" />
+	</file>
+	<file path="chi-bbd1025e.flac">
+		<tag 
+			swac_text="那"
+			swac_alphaidx="nà"
+			swac_pron_phon="nà" />
+	</file>
+	<file path="chi-bbff84d4.flac">
+		<tag 
+			swac_text="黄"
+			swac_alphaidx="huáng"
+			swac_pron_phon="huáng" />
+	</file>
+	<file path="chi-bc297470.flac">
+		<tag 
+			swac_text="干"
+			swac_alphaidx="gàn"
+			swac_pron_phon="gàn" />
+	</file>
+	<file path="chi-bc56de8d.flac">
+		<tag 
+			swac_text="前边"
+			swac_alphaidx="qiánbiān"
+			swac_pron_phon="qiánbiān" />
+	</file>
+	<file path="chi-bc7c7c3b.flac">
+		<tag 
+			swac_text="屋子"
+			swac_alphaidx="wūzi"
+			swac_pron_phon="wūzi" />
+	</file>
+	<file path="chi-bd279654.flac">
+		<tag 
+			swac_text="没意思"
+			swac_alphaidx="méiyìsi"
+			swac_pron_phon="méiyìsi" />
+	</file>
+	<file path="chi-bdb8dc9c.flac">
+		<tag 
+			swac_text="死"
+			swac_alphaidx="sǐ"
+			swac_pron_phon="sǐ" />
+	</file>
+	<file path="chi-bde988c6.flac">
+		<tag 
+			swac_text="邮票"
+			swac_alphaidx="yóupiào"
+			swac_pron_phon="yóupiào" />
+	</file>
+	<file path="chi-bdf187de.flac">
+		<tag 
+			swac_text="很"
+			swac_alphaidx="hěn"
+			swac_pron_phon="hěn" />
+	</file>
+	<file path="chi-be459fd5.flac">
+		<tag 
+			swac_text="支"
+			swac_alphaidx="zhī"
+			swac_pron_phon="zhī" />
+	</file>
+	<file path="chi-be707e52.flac">
+		<tag 
+			swac_text="更"
+			swac_alphaidx="gèng"
+			swac_pron_phon="gèng" />
+	</file>
+	<file path="chi-be8b5516.flac">
+		<tag 
+			swac_text="最"
+			swac_alphaidx="zuì"
+			swac_pron_phon="zuì" />
+	</file>
+	<file path="chi-bf2244c1.flac">
+		<tag 
+			swac_text="正"
+			swac_alphaidx="zhèng"
+			swac_pron_phon="zhèng" />
+	</file>
+	<file path="chi-bf8b9553.flac">
+		<tag 
+			swac_text="咖啡"
+			swac_alphaidx="kāfēi"
+			swac_pron_phon="kāfēi" />
+	</file>
+	<file path="chi-bfa30d81.flac">
+		<tag 
+			swac_text="日语"
+			swac_alphaidx="rìyǔ"
+			swac_pron_phon="rìyǔ" />
+	</file>
+	<file path="chi-bfafdca6.flac">
+		<tag 
+			swac_text="已经"
+			swac_alphaidx="yǐjing"
+			swac_pron_phon="yǐjing" />
+	</file>
+	<file path="chi-bfe9479f.flac">
+		<tag 
+			swac_text="懂"
+			swac_alphaidx="dǒng"
+			swac_pron_phon="dǒng" />
+	</file>
+	<file path="chi-bff65957.flac">
+		<tag 
+			swac_text="在"
+			swac_alphaidx="zài"
+			swac_pron_phon="zài" />
+	</file>
+	<file path="chi-c012d47c.flac">
+		<tag 
+			swac_text="公里"
+			swac_alphaidx="gōnglǐ"
+			swac_pron_phon="gōnglǐ" />
+	</file>
+	<file path="chi-c03acd4f.flac">
+		<tag 
+			swac_text="小姐"
+			swac_alphaidx="xiǎojie"
+			swac_pron_phon="xiǎojie" />
+	</file>
+	<file path="chi-c03f977b.flac">
+		<tag 
+			swac_text="菜"
+			swac_alphaidx="cài"
+			swac_pron_phon="cài" />
+	</file>
+	<file path="chi-c06407e4.flac">
+		<tag 
+			swac_text="街"
+			swac_alphaidx="jiē"
+			swac_pron_phon="jiē" />
+	</file>
+	<file path="chi-c09c01d2.flac">
+		<tag 
+			swac_text="买"
+			swac_alphaidx="mǎi"
+			swac_pron_phon="mǎi" />
+	</file>
+	<file path="chi-c0b8c39c.flac">
+		<tag 
+			swac_text="云"
+			swac_alphaidx="yún"
+			swac_pron_phon="yún" />
+	</file>
+	<file path="chi-c0f8fc4b.flac">
+		<tag 
+			swac_text="照顾"
+			swac_alphaidx="zhàogù"
+			swac_pron_phon="zhàogù" />
+	</file>
+	<file path="chi-c1475918.flac">
+		<tag 
+			swac_text="这个"
+			swac_alphaidx="zhège"
+			swac_pron_phon="zhège" />
+	</file>
+	<file path="chi-c1718d63.flac">
+		<tag 
+			swac_text="条件"
+			swac_alphaidx="tiáojiàn"
+			swac_pron_phon="tiáojiàn" />
+	</file>
+	<file path="chi-c1804d9e.flac">
+		<tag 
+			swac_text="窗户"
+			swac_alphaidx="chuānghu"
+			swac_pron_phon="chuānghu" />
+	</file>
+	<file path="chi-c183d9ee.flac">
+		<tag 
+			swac_text="动"
+			swac_alphaidx="dòng"
+			swac_pron_phon="dòng" />
+	</file>
+	<file path="chi-c1ce04e7.flac">
+		<tag 
+			swac_text="开学"
+			swac_alphaidx="kāixué"
+			swac_pron_phon="kāixué" />
+	</file>
+	<file path="chi-c1d52547.flac">
+		<tag 
+			swac_text="角"
+			swac_alphaidx="jiǎo"
+			swac_pron_phon="jiǎo" />
+	</file>
+	<file path="chi-c239a0e6.flac">
+		<tag 
+			swac_text="渴"
+			swac_alphaidx="kě"
+			swac_pron_phon="kě" />
+	</file>
+	<file path="chi-c2b425cc.flac">
+		<tag 
+			swac_text="段"
+			swac_alphaidx="duàn"
+			swac_pron_phon="duàn" />
+	</file>
+	<file path="chi-c2fb2a23.flac">
+		<tag 
+			swac_text="页"
+			swac_alphaidx="yè"
+			swac_pron_phon="yè" />
+	</file>
+	<file path="chi-c376e3bd.flac">
+		<tag 
+			swac_text="以为"
+			swac_alphaidx="yǐwéi"
+			swac_pron_phon="yǐwéi" />
+	</file>
+	<file path="chi-c37ff7ca.flac">
+		<tag 
+			swac_text="低"
+			swac_alphaidx="dī"
+			swac_pron_phon="dī" />
+	</file>
+	<file path="chi-c3b5048f.flac">
+		<tag 
+			swac_text="听见"
+			swac_alphaidx="tīngjiàn"
+			swac_pron_phon="tīngjiàn" />
+	</file>
+	<file path="chi-c45331aa.flac">
+		<tag 
+			swac_text="干净"
+			swac_alphaidx="gānjìng"
+			swac_pron_phon="gānjìng" />
+	</file>
+	<file path="chi-c4750948.flac">
+		<tag 
+			swac_text="汽水"
+			swac_alphaidx="qìshuǐ"
+			swac_pron_phon="qìshuǐ" />
+	</file>
+	<file path="chi-c4761e58.flac">
+		<tag 
+			swac_text="起"
+			swac_alphaidx="qǐ"
+			swac_pron_phon="qǐ" />
+	</file>
+	<file path="chi-c4856974.flac">
+		<tag 
+			swac_text="占"
+			swac_alphaidx="zhàn"
+			swac_pron_phon="zhàn" />
+	</file>
+	<file path="chi-c4971135.flac">
+		<tag 
+			swac_text="短"
+			swac_alphaidx="duǎn"
+			swac_pron_phon="duǎn" />
+	</file>
+	<file path="chi-c4cac1ba.flac">
+		<tag 
+			swac_text="感到"
+			swac_alphaidx="gǎndào"
+			swac_pron_phon="gǎndào" />
+	</file>
+	<file path="chi-c51ae5c0.flac">
+		<tag 
+			swac_text="别的"
+			swac_alphaidx="biéde"
+			swac_pron_phon="biéde" />
+	</file>
+	<file path="chi-c55f1a6c.flac">
+		<tag 
+			swac_text="头"
+			swac_alphaidx="tóu"
+			swac_pron_phon="tóu" />
+	</file>
+	<file path="chi-c584c433.flac">
+		<tag 
+			swac_text="愉快"
+			swac_alphaidx="yúkuài"
+			swac_pron_phon="yúkuài" />
+	</file>
+	<file path="chi-c5ae0f7c.flac">
+		<tag 
+			swac_text="故事"
+			swac_alphaidx="gùshi"
+			swac_pron_phon="gùshi" />
+	</file>
+	<file path="chi-c649e596.flac">
+		<tag 
+			swac_text="复习"
+			swac_alphaidx="fùxí"
+			swac_pron_phon="fùxí" />
+	</file>
+	<file path="chi-c7c60046.flac">
+		<tag 
+			swac_text="睡"
+			swac_alphaidx="shuì"
+			swac_pron_phon="shuì" />
+	</file>
+	<file path="chi-c7d79d5a.flac">
+		<tag 
+			swac_text="墙"
+			swac_alphaidx="qiáng"
+			swac_pron_phon="qiáng" />
+	</file>
+	<file path="chi-c860bc89.flac">
+		<tag 
+			swac_text="幸福"
+			swac_alphaidx="xìngfú"
+			swac_pron_phon="xìngfú" />
+	</file>
+	<file path="chi-c8cb3525.flac">
+		<tag 
+			swac_text="老师"
+			swac_alphaidx="lǎoshī"
+			swac_pron_phon="lǎoshī" />
+	</file>
+	<file path="chi-c8f891a6.flac">
+		<tag 
+			swac_text="一切"
+			swac_alphaidx="yíqiè"
+			swac_pron_phon="yíqiè" />
+	</file>
+	<file path="chi-c9303d6a.flac">
+		<tag 
+			swac_text="练习"
+			swac_alphaidx="liànxí"
+			swac_pron_phon="liànxí" />
+	</file>
+	<file path="chi-c94da6bd.flac">
+		<tag 
+			swac_text="目前"
+			swac_alphaidx="mùqián"
+			swac_pron_phon="mùqián" />
+	</file>
+	<file path="chi-c953eb6a.flac">
+		<tag 
+			swac_text="那个"
+			swac_alphaidx="nàge"
+			swac_pron_phon="nàge" />
+	</file>
+	<file path="chi-c9d89c6f.flac">
+		<tag 
+			swac_text="这些"
+			swac_alphaidx="zhèxiē"
+			swac_pron_phon="zhèxiē" />
+	</file>
+	<file path="chi-c9f90d9b.flac">
+		<tag 
+			swac_text="各种"
+			swac_alphaidx="gèzhǒng"
+			swac_pron_phon="gèzhǒng" />
+	</file>
+	<file path="chi-ca01cbc1.flac">
+		<tag 
+			swac_text="面包"
+			swac_alphaidx="miànbāo"
+			swac_pron_phon="miànbāo" />
+	</file>
+	<file path="chi-ca02f1ce.flac">
+		<tag 
+			swac_text="黑"
+			swac_alphaidx="hēi"
+			swac_pron_phon="hēi" />
+	</file>
+	<file path="chi-ca0dccf3.flac">
+		<tag 
+			swac_text="斤"
+			swac_alphaidx="jīn"
+			swac_pron_phon="jīn" />
+	</file>
+	<file path="chi-ca28b16b.flac">
+		<tag 
+			swac_text="农村"
+			swac_alphaidx="nóngcūn"
+			swac_pron_phon="nóngcūn" />
+	</file>
+	<file path="chi-caa0926d.flac">
+		<tag 
+			swac_text="为什么"
+			swac_alphaidx="wèishénme"
+			swac_pron_phon="wèishénme" />
+	</file>
+	<file path="chi-caaa9af2.flac">
+		<tag 
+			swac_text="课本"
+			swac_alphaidx="kèběn"
+			swac_pron_phon="kèběn" />
+	</file>
+	<file path="chi-cab71f45.flac">
+		<tag 
+			swac_text="大学"
+			swac_alphaidx="dàxué"
+			swac_pron_phon="dàxué" />
+	</file>
+	<file path="chi-cafa816e.flac">
+		<tag 
+			swac_text="脱"
+			swac_alphaidx="tuō"
+			swac_pron_phon="tuō" />
+	</file>
+	<file path="chi-cb19f178.flac">
+		<tag 
+			swac_text="一下儿"
+			swac_alphaidx="yíxiàr"
+			swac_pron_phon="yíxiàr" />
+	</file>
+	<file path="chi-cb4703be.flac">
+		<tag 
+			swac_text="南边"
+			swac_alphaidx="nánbiān"
+			swac_pron_phon="nánbiān" />
+	</file>
+	<file path="chi-cb4e500d.flac">
+		<tag 
+			swac_text="休息"
+			swac_alphaidx="xiūxi"
+			swac_pron_phon="xiūxi" />
+	</file>
+	<file path="chi-cb4edad4.flac">
+		<tag 
+			swac_text="别人"
+			swac_alphaidx="biéren"
+			swac_pron_phon="biéren" />
+	</file>
+	<file path="chi-cb564cfa.flac">
+		<tag 
+			swac_text="医生"
+			swac_alphaidx="yīshēng"
+			swac_pron_phon="yīshēng" />
+	</file>
+	<file path="chi-cb6aebc5.flac">
+		<tag 
+			swac_text="张"
+			swac_alphaidx="zhāng"
+			swac_pron_phon="zhāng" />
+	</file>
+	<file path="chi-cbdc8750.flac">
+		<tag 
+			swac_text="利用"
+			swac_alphaidx="lìyòng"
+			swac_pron_phon="lìyòng" />
+	</file>
+	<file path="chi-cc2b6968.flac">
+		<tag 
+			swac_text="水"
+			swac_alphaidx="shuǐ"
+			swac_pron_phon="shuǐ" />
+	</file>
+	<file path="chi-cc45cdaa.flac">
+		<tag 
+			swac_text="姐姐"
+			swac_alphaidx="jiějie"
+			swac_pron_phon="jiějie" />
+	</file>
+	<file path="chi-cc88bb90.flac">
+		<tag 
+			swac_text="哭"
+			swac_alphaidx="kū"
+			swac_pron_phon="kū" />
+	</file>
+	<file path="chi-ccb34dc7.flac">
+		<tag 
+			swac_text="得到"
+			swac_alphaidx="dédào"
+			swac_pron_phon="dédào" />
+	</file>
+	<file path="chi-ccb38608.flac">
+		<tag 
+			swac_text="字"
+			swac_alphaidx="zì"
+			swac_pron_phon="zì" />
+	</file>
+	<file path="chi-ccd1ca26.flac">
+		<tag 
+			swac_text="弟弟"
+			swac_alphaidx="dìdi"
+			swac_pron_phon="dìdi" />
+	</file>
+	<file path="chi-cd57b253.flac">
+		<tag 
+			swac_text="装"
+			swac_alphaidx="zhuāng"
+			swac_pron_phon="zhuāng" />
+	</file>
+	<file path="chi-ce4408e9.flac">
+		<tag 
+			swac_text="像"
+			swac_alphaidx="xiàng"
+			swac_pron_phon="xiàng" />
+	</file>
+	<file path="chi-ce4687dd.flac">
+		<tag 
+			swac_text="多少"
+			swac_alphaidx="duōshao"
+			swac_pron_phon="duōshao" />
+	</file>
+	<file path="chi-ce57e049.flac">
+		<tag 
+			swac_text="总是"
+			swac_alphaidx="zǒngshì"
+			swac_pron_phon="zǒngshì" />
+	</file>
+	<file path="chi-ce6bb12f.flac">
+		<tag 
+			swac_text="好"
+			swac_alphaidx="hǎo"
+			swac_pron_phon="hǎo" />
+	</file>
+	<file path="chi-ce8c8cf5.flac">
+		<tag 
+			swac_text="计划"
+			swac_alphaidx="jìhuà"
+			swac_pron_phon="jìhuà" />
+	</file>
+	<file path="chi-cf218ced.flac">
+		<tag 
+			swac_text="问题"
+			swac_alphaidx="wèntí"
+			swac_pron_phon="wèntí" />
+	</file>
+	<file path="chi-cfd25a3a.flac">
+		<tag 
+			swac_text="轻"
+			swac_alphaidx="qīng"
+			swac_pron_phon="qīng" />
+	</file>
+	<file path="chi-d078de92.flac">
+		<tag 
+			swac_text="一直"
+			swac_alphaidx="yìzhí"
+			swac_pron_phon="yìzhí" />
+	</file>
+	<file path="chi-d0a71cfb.flac">
+		<tag 
+			swac_text="细"
+			swac_alphaidx="xì"
+			swac_pron_phon="xì" />
+	</file>
+	<file path="chi-d0ba6096.flac">
+		<tag 
+			swac_text="层"
+			swac_alphaidx="céng"
+			swac_pron_phon="céng" />
+	</file>
+	<file path="chi-d0c8c6ff.flac">
+		<tag 
+			swac_text="内"
+			swac_alphaidx="nèi"
+			swac_pron_phon="nèi" />
+	</file>
+	<file path="chi-d0e25b6e.flac">
+		<tag 
+			swac_text="化学"
+			swac_alphaidx="huàxué"
+			swac_pron_phon="huàxué" />
+	</file>
+	<file path="chi-d1e480c5.flac">
+		<tag 
+			swac_text="简单"
+			swac_alphaidx="jiǎndān"
+			swac_pron_phon="jiǎndān" />
+	</file>
+	<file path="chi-d1fd7ab6.flac">
+		<tag 
+			swac_text="还"
+			swac_alphaidx="huàn"
+			swac_pron_phon="huàn" />
+	</file>
+	<file path="chi-d25abedb.flac">
+		<tag 
+			swac_text="万"
+			swac_alphaidx="wàn"
+			swac_pron_phon="wàn" />
+	</file>
+	<file path="chi-d27b56e4.flac">
+		<tag 
+			swac_text="然后"
+			swac_alphaidx="ránhòu"
+			swac_pron_phon="ránhòu" />
+	</file>
+	<file path="chi-d2b84d26.flac">
+		<tag 
+			swac_text="酒"
+			swac_alphaidx="jiǔ"
+			swac_pron_phon="jiǔ" />
+	</file>
+	<file path="chi-d2ba2088.flac">
+		<tag 
+			swac_text="从前"
+			swac_alphaidx="cóngqián"
+			swac_pron_phon="cóngqián" />
+	</file>
+	<file path="chi-d2c40f38.flac">
+		<tag 
+			swac_text="换"
+			swac_alphaidx="huàn"
+			swac_pron_phon="huàn" />
+	</file>
+	<file path="chi-d2cadeb5.flac">
+		<tag 
+			swac_text="窗"
+			swac_alphaidx="chuāng"
+			swac_pron_phon="chuāng" />
+	</file>
+	<file path="chi-d3771f7f.flac">
+		<tag 
+			swac_text="南"
+			swac_alphaidx="nán"
+			swac_pron_phon="nán" />
+	</file>
+	<file path="chi-d3ce9912.flac">
+		<tag 
+			swac_text="告诉"
+			swac_alphaidx="gàosu"
+			swac_pron_phon="gàosu" />
+	</file>
+	<file path="chi-d3e0c7de.flac">
+		<tag 
+			swac_text="灯"
+			swac_alphaidx="dēng"
+			swac_pron_phon="dēng" />
+	</file>
+	<file path="chi-d3f600eb.flac">
+		<tag 
+			swac_text="车"
+			swac_alphaidx="chē"
+			swac_pron_phon="chē" />
+	</file>
+	<file path="chi-d4096902.flac">
+		<tag 
+			swac_text="空气"
+			swac_alphaidx="kōngqì"
+			swac_pron_phon="kōngqì" />
+	</file>
+	<file path="chi-d46b71e2.flac">
+		<tag 
+			swac_text="安排"
+			swac_alphaidx="ānpái"
+			swac_pron_phon="ānpái" />
+	</file>
+	<file path="chi-d471d75b.flac">
+		<tag 
+			swac_text="吗"
+			swac_alphaidx="ma"
+			swac_pron_phon="ma" />
+	</file>
+	<file path="chi-d4989cba.flac">
+		<tag 
+			swac_text="深"
+			swac_alphaidx="shēn"
+			swac_pron_phon="shēn" />
+	</file>
+	<file path="chi-d4b1b436.flac">
+		<tag 
+			swac_text="四"
+			swac_alphaidx="sì"
+			swac_pron_phon="sì" />
+	</file>
+	<file path="chi-d58fd11a.flac">
+		<tag 
+			swac_text="星期"
+			swac_alphaidx="xīngqī"
+			swac_pron_phon="xīngqī" />
+	</file>
+	<file path="chi-d5c8b94f.flac">
+		<tag 
+			swac_text="是"
+			swac_alphaidx="shì"
+			swac_pron_phon="shì" />
+	</file>
+	<file path="chi-d62db7b0.flac">
+		<tag 
+			swac_text="一定"
+			swac_alphaidx="yídìng"
+			swac_pron_phon="yídìng" />
+	</file>
+	<file path="chi-d7282504.flac">
+		<tag 
+			swac_text="九"
+			swac_alphaidx="jiǔ"
+			swac_pron_phon="jiǔ" />
+	</file>
+	<file path="chi-d73ecb01.flac">
+		<tag 
+			swac_text="组织"
+			swac_alphaidx="zǔzhī"
+			swac_pron_phon="zǔzhī" />
+	</file>
+	<file path="chi-d788b6df.flac">
+		<tag 
+			swac_text="节"
+			swac_alphaidx="jié"
+			swac_pron_phon="jié" />
+	</file>
+	<file path="chi-d7a95228.flac">
+		<tag 
+			swac_text="输"
+			swac_alphaidx="shū"
+			swac_pron_phon="shū" />
+	</file>
+	<file path="chi-d80c6c71.flac">
+		<tag 
+			swac_text="一样"
+			swac_alphaidx="yíyàng"
+			swac_pron_phon="yíyàng" />
+	</file>
+	<file path="chi-d92bb8c5.flac">
+		<tag 
+			swac_text="哈哈"
+			swac_alphaidx="hāhā"
+			swac_pron_phon="hāhā" />
+	</file>
+	<file path="chi-d9371cfa.flac">
+		<tag 
+			swac_text="饭店"
+			swac_alphaidx="fàndiàn"
+			swac_pron_phon="fàndiàn" />
+	</file>
+	<file path="chi-d948c3e1.flac">
+		<tag 
+			swac_text="道"
+			swac_alphaidx="dào"
+			swac_pron_phon="dào" />
+	</file>
+	<file path="chi-d9f4611d.flac">
+		<tag 
+			swac_text="手"
+			swac_alphaidx="shǒu"
+			swac_pron_phon="shǒu" />
+	</file>
+	<file path="chi-db0d961d.flac">
+		<tag 
+			swac_text="电"
+			swac_alphaidx="diàn"
+			swac_pron_phon="diàn" />
+	</file>
+	<file path="chi-db2f7d41.flac">
+		<tag 
+			swac_text="穿"
+			swac_alphaidx="chuān"
+			swac_pron_phon="chuān" />
+	</file>
+	<file path="chi-db413ba0.flac">
+		<tag 
+			swac_text="昨天"
+			swac_alphaidx="zuótiān"
+			swac_pron_phon="zuótiān" />
+	</file>
+	<file path="chi-dbbf0530.flac">
+		<tag 
+			swac_text="当然"
+			swac_alphaidx="dāngrán"
+			swac_pron_phon="dāngrán" />
+	</file>
+	<file path="chi-dbc01925.flac">
+		<tag 
+			swac_text="意见"
+			swac_alphaidx="yìjiàn"
+			swac_pron_phon="yìjiàn" />
+	</file>
+	<file path="chi-dbdc313e.flac">
+		<tag 
+			swac_text="长"
+			swac_alphaidx="cháng"
+			swac_pron_phon="cháng" />
+	</file>
+	<file path="chi-dc1b9a3c.flac">
+		<tag 
+			swac_text="改变"
+			swac_alphaidx="gǎibiàn"
+			swac_pron_phon="gǎibiàn" />
+	</file>
+	<file path="chi-dc8ebfd4.flac">
+		<tag 
+			swac_text="了"
+			swac_alphaidx="liǎo"
+			swac_pron_phon="liǎo" />
+	</file>
+	<file path="chi-dcbb8c00.flac">
+		<tag 
+			swac_text="把"
+			swac_alphaidx="bǎ"
+			swac_pron_phon="bǎ" />
+	</file>
+	<file path="chi-dcd53fbe.flac">
+		<tag 
+			swac_text="画"
+			swac_alphaidx="huà"
+			swac_pron_phon="huà" />
+	</file>
+	<file path="chi-dd1348f7.flac">
+		<tag 
+			swac_text="东西"
+			swac_alphaidx="dōngxi"
+			swac_pron_phon="dōngxi" />
+	</file>
+	<file path="chi-dd135c6c.flac">
+		<tag 
+			swac_text="文学家"
+			swac_alphaidx="wénxuéjiā"
+			swac_pron_phon="wénxuéjiā" />
+	</file>
+	<file path="chi-ddcc6fb2.flac">
+		<tag 
+			swac_text="发生"
+			swac_alphaidx="fāshēng"
+			swac_pron_phon="fāshēng" />
+	</file>
+	<file path="chi-ddd666fc.flac">
+		<tag 
+			swac_text="面条儿"
+			swac_alphaidx="miàntiáor"
+			swac_pron_phon="miàntiáor" />
+	</file>
+	<file path="chi-ddf08144.flac">
+		<tag 
+			swac_text="矮"
+			swac_alphaidx="ǎi"
+			swac_pron_phon="ǎi" />
+	</file>
+	<file path="chi-de2decbe.flac">
+		<tag 
+			swac_text="熟"
+			swac_alphaidx="shú"
+			swac_pron_phon="shú" />
+	</file>
+	<file path="chi-de4637aa.flac">
+		<tag 
+			swac_text="生活"
+			swac_alphaidx="shēnghuó"
+			swac_pron_phon="shēnghuó" />
+	</file>
+	<file path="chi-de804483.flac">
+		<tag 
+			swac_text="以前"
+			swac_alphaidx="yǐqián"
+			swac_pron_phon="yǐqián" />
+	</file>
+	<file path="chi-de90126a.flac">
+		<tag 
+			swac_text="谁"
+			swac_alphaidx="sheí"
+			swac_pron_phon="sheí" />
+	</file>
+	<file path="chi-decfc38b.flac">
+		<tag 
+			swac_text="中午"
+			swac_alphaidx="zhōngwǔ"
+			swac_pron_phon="zhōngwǔ" />
+	</file>
+	<file path="chi-deed19f9.flac">
+		<tag 
+			swac_text="社会"
+			swac_alphaidx="shèhuì"
+			swac_pron_phon="shèhuì" />
+	</file>
+	<file path="chi-df47225c.flac">
+		<tag 
+			swac_text="它"
+			swac_alphaidx="tā"
+			swac_pron_phon="tā" />
+	</file>
+	<file path="chi-df47edd9.flac">
+		<tag 
+			swac_text="等"
+			swac_alphaidx="děng"
+			swac_pron_phon="děng" />
+	</file>
+	<file path="chi-df5ee961.flac">
+		<tag 
+			swac_text="最后"
+			swac_alphaidx="zuìhòu"
+			swac_pron_phon="zuìhòu" />
+	</file>
+	<file path="chi-dfa01bd0.flac">
+		<tag 
+			swac_text="钢笔"
+			swac_alphaidx="gāngbǐ"
+			swac_pron_phon="gāngbǐ" />
+	</file>
+	<file path="chi-dfc73c75.flac">
+		<tag 
+			swac_text="就"
+			swac_alphaidx="jiù"
+			swac_pron_phon="jiù" />
+	</file>
+	<file path="chi-e097b867.flac">
+		<tag 
+			swac_text="出发"
+			swac_alphaidx="chūfā"
+			swac_pron_phon="chūfā" />
+	</file>
+	<file path="chi-e099e4eb.flac">
+		<tag 
+			swac_text="漂亮"
+			swac_alphaidx="piàoliang"
+			swac_pron_phon="piàoliang" />
+	</file>
+	<file path="chi-e0fca344.flac">
+		<tag 
+			swac_text="丢"
+			swac_alphaidx="diū"
+			swac_pron_phon="diū" />
+	</file>
+	<file path="chi-e10f9e34.flac">
+		<tag 
+			swac_text="上去"
+			swac_alphaidx="shàngqù"
+			swac_pron_phon="shàngqù" />
+	</file>
+	<file path="chi-e14b462d.flac">
+		<tag 
+			swac_text="拉"
+			swac_alphaidx="lā"
+			swac_pron_phon="lā" />
+	</file>
+	<file path="chi-e1d611bf.flac">
+		<tag 
+			swac_text="草"
+			swac_alphaidx="cǎo"
+			swac_pron_phon="cǎo" />
+	</file>
+	<file path="chi-e204f613.flac">
+		<tag 
+			swac_text="骑"
+			swac_alphaidx="qí"
+			swac_pron_phon="qí" />
+	</file>
+	<file path="chi-e215628b.flac">
+		<tag 
+			swac_text="一块儿"
+			swac_alphaidx="yíkuàir"
+			swac_pron_phon="yíkuàir" />
+	</file>
+	<file path="chi-e264d5e6.flac">
+		<tag 
+			swac_text="收拾"
+			swac_alphaidx="shōushi"
+			swac_pron_phon="shōushi" />
+	</file>
+	<file path="chi-e274e2d9.flac">
+		<tag 
+			swac_text="内容"
+			swac_alphaidx="nèiróng"
+			swac_pron_phon="nèiróng" />
+	</file>
+	<file path="chi-e290be13.flac">
+		<tag 
+			swac_text="会话"
+			swac_alphaidx="huìhuà"
+			swac_pron_phon="huìhuà" />
+	</file>
+	<file path="chi-e2eed78c.flac">
+		<tag 
+			swac_text="邮局"
+			swac_alphaidx="yóujú"
+			swac_pron_phon="yóujú" />
+	</file>
+	<file path="chi-e337e8ba.flac">
+		<tag 
+			swac_text="通"
+			swac_alphaidx="tōng"
+			swac_pron_phon="tōng" />
+	</file>
+	<file path="chi-e3c74e8b.flac">
+		<tag 
+			swac_text="百"
+			swac_alphaidx="bǎi"
+			swac_pron_phon="bǎi" />
+	</file>
+	<file path="chi-e3c9ab8b.flac">
+		<tag 
+			swac_text="宿舍"
+			swac_alphaidx="sùshè"
+			swac_pron_phon="sùshè" />
+	</file>
+	<file path="chi-e4079aa1.flac">
+		<tag 
+			swac_text="早饭"
+			swac_alphaidx="zǎofàn"
+			swac_pron_phon="zǎofàn" />
+	</file>
+	<file path="chi-e50493a6.flac">
+		<tag 
+			swac_text="杯子"
+			swac_alphaidx="bēizi"
+			swac_pron_phon="bēizi" />
+	</file>
+	<file path="chi-e549d4e8.flac">
+		<tag 
+			swac_text="火车"
+			swac_alphaidx="huǒchē"
+			swac_pron_phon="huǒchē" />
+	</file>
+	<file path="chi-e58d8052.flac">
+		<tag 
+			swac_text="迟到"
+			swac_alphaidx="chídào"
+			swac_pron_phon="chídào" />
+	</file>
+	<file path="chi-e5e651be.flac">
+		<tag 
+			swac_text="样子"
+			swac_alphaidx="yàngzi"
+			swac_pron_phon="yàngzi" />
+	</file>
+	<file path="chi-e6090ceb.flac">
+		<tag 
+			swac_text="自己"
+			swac_alphaidx="zìjǐ"
+			swac_pron_phon="zìjǐ" />
+	</file>
+	<file path="chi-e62f2371.flac">
+		<tag 
+			swac_text="洗澡"
+			swac_alphaidx="xǐzǎo"
+			swac_pron_phon="xǐzǎo" />
+	</file>
+	<file path="chi-e636cd0d.flac">
+		<tag 
+			swac_text="完成"
+			swac_alphaidx="wánchéng"
+			swac_pron_phon="wánchéng" />
+	</file>
+	<file path="chi-e6e5c717.flac">
+		<tag 
+			swac_text="紧"
+			swac_alphaidx="jǐn"
+			swac_pron_phon="jǐn" />
+	</file>
+	<file path="chi-e78f21ac.flac">
+		<tag 
+			swac_text="哪里"
+			swac_alphaidx="nǎlǐ"
+			swac_pron_phon="nǎlǐ" />
+	</file>
+	<file path="chi-e7b1ef83.flac">
+		<tag 
+			swac_text="排球"
+			swac_alphaidx="páiqiú"
+			swac_pron_phon="páiqiú" />
+	</file>
+	<file path="chi-e8165987.flac">
+		<tag 
+			swac_text="留学生"
+			swac_alphaidx="liúxuéshēng"
+			swac_pron_phon="liúxuéshēng" />
+	</file>
+	<file path="chi-e837b3b4.flac">
+		<tag 
+			swac_text="全"
+			swac_alphaidx="quán"
+			swac_pron_phon="quán" />
+	</file>
+	<file path="chi-e8600c62.flac">
+		<tag 
+			swac_text="外"
+			swac_alphaidx="wài"
+			swac_pron_phon="wài" />
+	</file>
+	<file path="chi-e891caa2.flac">
+		<tag 
+			swac_text="站"
+			swac_alphaidx="zhàn"
+			swac_pron_phon="zhàn" />
+	</file>
+	<file path="chi-e8b1c0fc.flac">
+		<tag 
+			swac_text="继续"
+			swac_alphaidx="jìxù"
+			swac_pron_phon="jìxù" />
+	</file>
+	<file path="chi-e8c77e29.flac">
+		<tag 
+			swac_text="晚会"
+			swac_alphaidx="wǎnhuì"
+			swac_pron_phon="wǎnhuì" />
+	</file>
+	<file path="chi-e90a8b8c.flac">
+		<tag 
+			swac_text="船"
+			swac_alphaidx="chuán"
+			swac_pron_phon="chuán" />
+	</file>
+	<file path="chi-e9bc0afe.flac">
+		<tag 
+			swac_text="里"
+			swac_alphaidx="lǐ"
+			swac_pron_phon="lǐ" />
+	</file>
+	<file path="chi-e9e94a73.flac">
+		<tag 
+			swac_text="办公室"
+			swac_alphaidx="bàngōngshì"
+			swac_pron_phon="bàngōngshì" />
+	</file>
+	<file path="chi-ea703f02.flac">
+		<tag 
+			swac_text="里边"
+			swac_alphaidx="lǐbiān"
+			swac_pron_phon="lǐbiān" />
+	</file>
+	<file path="chi-ea9aa4e8.flac">
+		<tag 
+			swac_text="尤其"
+			swac_alphaidx="yóuqí"
+			swac_pron_phon="yóuqí" />
+	</file>
+	<file path="chi-eb0227e2.flac">
+		<tag 
+			swac_text="法语"
+			swac_alphaidx="fǎyǔ"
+			swac_pron_phon="fǎyǔ" />
+	</file>
+	<file path="chi-eb0e0e5b.flac">
+		<tag 
+			swac_text="路"
+			swac_alphaidx="lù"
+			swac_pron_phon="lù" />
+	</file>
+	<file path="chi-ec136a18.flac">
+		<tag 
+			swac_text="掌握"
+			swac_alphaidx="zhǎngwò"
+			swac_pron_phon="zhǎngwò" />
+	</file>
+	<file path="chi-ec2b0a75.flac">
+		<tag 
+			swac_text="通知"
+			swac_alphaidx="tōngzhī"
+			swac_pron_phon="tōngzhī" />
+	</file>
+	<file path="chi-ec38578b.flac">
+		<tag 
+			swac_text="希望"
+			swac_alphaidx="xīwàng"
+			swac_pron_phon="xīwàng" />
+	</file>
+	<file path="chi-ec5dd5a1.flac">
+		<tag 
+			swac_text="夏"
+			swac_alphaidx="xià"
+			swac_pron_phon="xià" />
+	</file>
+	<file path="chi-ec7b2730.flac">
+		<tag 
+			swac_text="歌"
+			swac_alphaidx="gēge"
+			swac_pron_phon="gēge" />
+	</file>
+	<file path="chi-ec81e500.flac">
+		<tag 
+			swac_text="回答"
+			swac_alphaidx="huídá"
+			swac_pron_phon="huídá" />
+	</file>
+	<file path="chi-ecea3272.flac">
+		<tag 
+			swac_text="见"
+			swac_alphaidx="jiàn"
+			swac_pron_phon="jiàn" />
+	</file>
+	<file path="chi-edcbcc73.flac">
+		<tag 
+			swac_text="孩子"
+			swac_alphaidx="háizi"
+			swac_pron_phon="háizi" />
+	</file>
+	<file path="chi-ee0af507.flac">
+		<tag 
+			swac_text="认识"
+			swac_alphaidx="rènshi"
+			swac_pron_phon="rènshi" />
+	</file>
+	<file path="chi-ee1616e8.flac">
+		<tag 
+			swac_text="马"
+			swac_alphaidx="mǎ"
+			swac_pron_phon="mǎ" />
+	</file>
+	<file path="chi-ee6825ed.flac">
+		<tag 
+			swac_text="爸爸"
+			swac_alphaidx="bàba"
+			swac_pron_phon="bàba" />
+	</file>
+	<file path="chi-ee82697d.flac">
+		<tag 
+			swac_text="杯"
+			swac_alphaidx="bēi"
+			swac_pron_phon="bēi" />
+	</file>
+	<file path="chi-eee24b9a.flac">
+		<tag 
+			swac_text="三"
+			swac_alphaidx="sān"
+			swac_pron_phon="sān" />
+	</file>
+	<file path="chi-ef1b451e.flac">
+		<tag 
+			swac_text="啊"
+			swac_alphaidx="a"
+			swac_pron_phon="a" />
+	</file>
+	<file path="chi-ef519f63.flac">
+		<tag 
+			swac_text="搬"
+			swac_alphaidx="bān"
+			swac_pron_phon="bān" />
+	</file>
+	<file path="chi-ef78b8bc.flac">
+		<tag 
+			swac_text="没有"
+			swac_alphaidx="méiyǒu"
+			swac_pron_phon="méiyǒu" />
+	</file>
+	<file path="chi-efc2af4f.flac">
+		<tag 
+			swac_text="倒"
+			swac_alphaidx="dǎo"
+			swac_pron_phon="dǎo" />
+	</file>
+	<file path="chi-efcb8f1c.flac">
+		<tag 
+			swac_text="意思"
+			swac_alphaidx="yìsi"
+			swac_pron_phon="yìsi" />
+	</file>
+	<file path="chi-eff0e1d8.flac">
+		<tag 
+			swac_text="过去"
+			swac_alphaidx="guòqù"
+			swac_pron_phon="guòqù" />
+	</file>
+	<file path="chi-f02dc948.flac">
+		<tag 
+			swac_text="好吃"
+			swac_alphaidx="hǎochī"
+			swac_pron_phon="hǎochī" />
+	</file>
+	<file path="chi-f0413fc8.flac">
+		<tag 
+			swac_text="差"
+			swac_alphaidx="chà"
+			swac_pron_phon="chà" />
+	</file>
+	<file path="chi-f0429f26.flac">
+		<tag 
+			swac_text="说"
+			swac_alphaidx="shuō"
+			swac_pron_phon="shuō" />
+	</file>
+	<file path="chi-f0534bb8.flac">
+		<tag 
+			swac_text="放"
+			swac_alphaidx="fàng"
+			swac_pron_phon="fàng" />
+	</file>
+	<file path="chi-f2299201.flac">
+		<tag 
+			swac_text="您"
+			swac_alphaidx="nín"
+			swac_pron_phon="nín" />
+	</file>
+	<file path="chi-f2580e2d.flac">
+		<tag 
+			swac_text="月亮"
+			swac_alphaidx="yuèliang"
+			swac_pron_phon="yuèliang" />
+	</file>
+	<file path="chi-f2852b85.flac">
+		<tag 
+			swac_text="关"
+			swac_alphaidx="guān"
+			swac_pron_phon="guān" />
+	</file>
+	<file path="chi-f2c57a60.flac">
+		<tag 
+			swac_text="马上"
+			swac_alphaidx="mǎshàng"
+			swac_pron_phon="mǎshàng" />
+	</file>
+	<file path="chi-f31748e4.flac">
+		<tag 
+			swac_text="主意"
+			swac_alphaidx="zhǔyi"
+			swac_pron_phon="zhǔyi" />
+	</file>
+	<file path="chi-f31af323.flac">
+		<tag 
+			swac_text="俩"
+			swac_alphaidx="liǎ"
+			swac_pron_phon="liǎ" />
+	</file>
+	<file path="chi-f32bed9a.flac">
+		<tag 
+			swac_text="糖"
+			swac_alphaidx="táng"
+			swac_pron_phon="táng" />
+	</file>
+	<file path="chi-f34727c2.flac">
+		<tag 
+			swac_text="实践"
+			swac_alphaidx="shíjiàn"
+			swac_pron_phon="shíjiàn" />
+	</file>
+	<file path="chi-f38326a9.flac">
+		<tag 
+			swac_text="够"
+			swac_alphaidx="gòu"
+			swac_pron_phon="gòu" />
+	</file>
+	<file path="chi-f3867a28.flac">
+		<tag 
+			swac_text="玩儿"
+			swac_alphaidx="wánr"
+			swac_pron_phon="wánr" />
+	</file>
+	<file path="chi-f392e384.flac">
+		<tag 
+			swac_text="对不起"
+			swac_alphaidx="duìbuqǐ"
+			swac_pron_phon="duìbuqǐ" />
+	</file>
+	<file path="chi-f395e8bf.flac">
+		<tag 
+			swac_text="要"
+			swac_alphaidx="yào"
+			swac_pron_phon="yào" />
+	</file>
+	<file path="chi-f4371b39.flac">
+		<tag 
+			swac_text="贵姓"
+			swac_alphaidx="guìxìng"
+			swac_pron_phon="guìxìng" />
+	</file>
+	<file path="chi-f47966b7.flac">
+		<tag 
+			swac_text="代表"
+			swac_alphaidx="dàibiǎo"
+			swac_pron_phon="dàibiǎo" />
+	</file>
+	<file path="chi-f4ab85b2.flac">
+		<tag 
+			swac_text="摆"
+			swac_alphaidx="bǎi"
+			swac_pron_phon="bǎi" />
+	</file>
+	<file path="chi-f4d83b05.flac">
+		<tag 
+			swac_text="卡车"
+			swac_alphaidx="kǎchē"
+			swac_pron_phon="kǎchē" />
+	</file>
+	<file path="chi-f5003e1a.flac">
+		<tag 
+			swac_text="变"
+			swac_alphaidx="biàn"
+			swac_pron_phon="biàn" />
+	</file>
+	<file path="chi-f5273edb.flac">
+		<tag 
+			swac_text="报"
+			swac_alphaidx="bào"
+			swac_pron_phon="bào" />
+	</file>
+	<file path="chi-f56dd649.flac">
+		<tag 
+			swac_text="真"
+			swac_alphaidx="zhēn"
+			swac_pron_phon="zhēn" />
+	</file>
+	<file path="chi-f5bd5fb8.flac">
+		<tag 
+			swac_text="一起"
+			swac_alphaidx="yìqǐ"
+			swac_pron_phon="yìqǐ" />
+	</file>
+	<file path="chi-f5c7fcc6.flac">
+		<tag 
+			swac_text="浅"
+			swac_alphaidx="qiǎn"
+			swac_pron_phon="qiǎn" />
+	</file>
+	<file path="chi-f6a9f27d.flac">
+		<tag 
+			swac_text="急"
+			swac_alphaidx="jí"
+			swac_pron_phon="jí" />
+	</file>
+	<file path="chi-f7518b01.flac">
+		<tag 
+			swac_text="问好"
+			swac_alphaidx="wènhǎo"
+			swac_pron_phon="wènhǎo" />
+	</file>
+	<file path="chi-f77b0299.flac">
+		<tag 
+			swac_text="钟头"
+			swac_alphaidx="zhōngtóu"
+			swac_pron_phon="zhōngtóu" />
+	</file>
+	<file path="chi-f788900e.flac">
+		<tag 
+			swac_text="姑娘"
+			swac_alphaidx="gūniang"
+			swac_pron_phon="gūniang" />
+	</file>
+	<file path="chi-f7f22050.flac">
+		<tag 
+			swac_text="后边"
+			swac_alphaidx="hòubiān"
+			swac_pron_phon="hòubiān" />
+	</file>
+	<file path="chi-f7f9abdf.flac">
+		<tag 
+			swac_text="只好"
+			swac_alphaidx="zhǐhǎo"
+			swac_pron_phon="zhǐhǎo" />
+	</file>
+	<file path="chi-f81a1ea7.flac">
+		<tag 
+			swac_text="有的"
+			swac_alphaidx="yǒude"
+			swac_pron_phon="yǒude" />
+	</file>
+	<file path="chi-f81af744.flac">
+		<tag 
+			swac_text="妹妹"
+			swac_alphaidx="mèimei"
+			swac_pron_phon="mèimei" />
+	</file>
+	<file path="chi-f873ec0d.flac">
+		<tag 
+			swac_text="下课"
+			swac_alphaidx="xiàkè"
+			swac_pron_phon="xiàkè" />
+	</file>
+	<file path="chi-f8c71a31.flac">
+		<tag 
+			swac_text="明天"
+			swac_alphaidx="míngtiān"
+			swac_pron_phon="míngtiān" />
+	</file>
+	<file path="chi-f98bf5b3.flac">
+		<tag 
+			swac_text="袜子"
+			swac_alphaidx="wàzi"
+			swac_pron_phon="wàzi" />
+	</file>
+	<file path="chi-faa2895b.flac">
+		<tag 
+			swac_text="啤酒"
+			swac_alphaidx="píjiǔ"
+			swac_pron_phon="píjiǔ" />
+	</file>
+	<file path="chi-fac1d40c.flac">
+		<tag 
+			swac_text="开"
+			swac_alphaidx="kāi"
+			swac_pron_phon="kāi" />
+	</file>
+	<file path="chi-facbd28d.flac">
+		<tag 
+			swac_text="地"
+			swac_alphaidx="de"
+			swac_pron_phon="de" />
+	</file>
+	<file path="chi-fba5fb8c.flac">
+		<tag 
+			swac_text="谢谢"
+			swac_alphaidx="xièxie"
+			swac_pron_phon="xièxie" />
+	</file>
+	<file path="chi-fbfcf3ca.flac">
+		<tag 
+			swac_text="道理"
+			swac_alphaidx="dàolǐ"
+			swac_pron_phon="dàolǐ" />
+	</file>
+	<file path="chi-fc057198.flac">
+		<tag 
+			swac_text="声"
+			swac_alphaidx="shēng"
+			swac_pron_phon="shēng" />
+	</file>
+	<file path="chi-fd324b9e.flac">
+		<tag 
+			swac_text="参观"
+			swac_alphaidx="cānguān"
+			swac_pron_phon="cānguān" />
+	</file>
+	<file path="chi-fd615177.flac">
+		<tag 
+			swac_text="情况"
+			swac_alphaidx="qíngkuàng"
+			swac_pron_phon="qíngkuàng" />
+	</file>
+	<file path="chi-fde4e8ab.flac">
+		<tag 
+			swac_text="们"
+			swac_alphaidx="men"
+			swac_pron_phon="men" />
+	</file>
+	<file path="chi-fdf5c767.flac">
+		<tag 
+			swac_text="城市"
+			swac_alphaidx="chéngshì"
+			swac_pron_phon="chéngshì" />
+	</file>
+	<file path="chi-fe1e1dc5.flac">
+		<tag 
+			swac_text="心"
+			swac_alphaidx="xīn"
+			swac_pron_phon="xīn" />
+	</file>
+	<file path="chi-fe61d623.flac">
+		<tag 
+			swac_text="夫人"
+			swac_alphaidx="fūren"
+			swac_pron_phon="fūren" />
+	</file>
+	<file path="chi-fe8412c8.flac">
+		<tag 
+			swac_text="辛苦"
+			swac_alphaidx="xīnkǔ"
+			swac_pron_phon="xīnkǔ" />
+	</file>
+	<file path="chi-fe91ae2e.flac">
+		<tag 
+			swac_text="右"
+			swac_alphaidx="yòu"
+			swac_pron_phon="yòu" />
+	</file>
+	<file path="chi-febec77a.flac">
+		<tag 
+			swac_text="农民"
+			swac_alphaidx="nóngmín"
+			swac_pron_phon="nóngmín" />
+	</file>
+	<file path="chi-ff561785.flac">
+		<tag 
+			swac_text="汽车"
+			swac_alphaidx="qìchē"
+			swac_pron_phon="qìchē" />
+	</file>
+	<file path="chi-ffdd8716.flac">
+		<tag 
+			swac_text="好看"
+			swac_alphaidx="hǎokàn"
+			swac_pron_phon="hǎokàn" />
+	</file>
+</group>
+</index>

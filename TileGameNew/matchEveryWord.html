@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>Match Every Word</title>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
+        <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="cardGame.js"></script> 
+        <script src="quizGame.js"></script>
+    </header>
+    <body>
+        <h1>Match Every Word!</h1>
+        <p>Listen to the word and find the matching text, keep playing until all words are found.</p>
+        <div id="gameHeader">
+            
+            <select name="lessonSelector" id="lessonSelector" onchange="changeLesson()">
+                <option value="0">All Lessons</option>
+            </select>
+            <button class="w3-button w3-blue w3-cell-middle"onclick="newQuizFindAllWords()">New Game</button>
+            <label class="w3-cell-middle"id="score"></label>
+            <audio class="w3-cell-middle"id='audioPlayer' preload='none' controls><source id='mp3Source' src='' type='audio/mp3' />Your browser does not support the audio element.</audio>
+        </div>
+        <div class="w3-container w3-margin"><label class="w3-cell-middle" id="currWord"></label></div>
+        <div id="cardGameContent">
+        </div>
+    </body>
+</html>
