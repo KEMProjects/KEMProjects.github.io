@@ -21,8 +21,8 @@ $( document ).ready(function() {
 function loadVocab(sourceName){
     vocabSource="data/"+sourceName;
     $.getJSON( vocabSource, function( data ) {
-        vocab=data;
-        masterVocab=data;
+        vocab=removeDuplicates(data);
+        masterVocab=vocab;
         genTopicDropDown();
         genLessonDropDown();
     });
@@ -42,6 +42,17 @@ function removeDuplicates(arr) {
       if (sorted_arr[i + 1][wordDefine.Vocab] != sorted_arr[i][wordDefine.Vocab]) {
         results.push(sorted_arr[i]);
       }
+      else{
+        let lessonName1=parseInt(sorted_arr[i + 1].Lesson.split("-")[1]);
+        let lessonName2=parseInt(sorted_arr[i].Lesson.split("-")[1]);
+
+        if(lessonName1<lessonName2){
+            results.push(sorted_arr[i+1]);
+        }
+        else{
+            results.push(sorted_arr[i]);
+        }
+      }
     }
     return results;
   }
@@ -51,7 +62,7 @@ function removeDuplicates(arr) {
  * @returns 
  */
 function genRandList(arr) {
-    arr=removeDuplicates(arr);
+    //arr=removeDuplicates(arr);
 	let x = arr.length;
 	let temp, rand;
 

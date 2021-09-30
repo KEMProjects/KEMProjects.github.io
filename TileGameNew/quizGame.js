@@ -1,8 +1,3 @@
-/**Play audio, check if correct answer for game */
-function clickCard(word){
-    //play audio
-    displayDisabledCard(word);
-}
 /**
  * Create object with vocab word and display attribuate (image or word)
  * @param {*} word 
