@@ -39,7 +39,7 @@ function removeDuplicates(arr) {
     // original array won't be modified)
     let results = [];
     for (let i = 0; i < sorted_arr.length - 1; i++) {
-      if (sorted_arr[i + 1] != sorted_arr[i]) {
+      if (sorted_arr[i + 1][wordDefine.Vocab] != sorted_arr[i][wordDefine.Vocab]) {
         results.push(sorted_arr[i]);
       }
     }
