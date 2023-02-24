@@ -1,0 +1,35 @@
+{
+    "id": "6f556dd4-77bf-4bb8-9b63-38dbb4625334",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "compilerOutputLanguage": "TYPE_SCRIPT",
+        "borderWidth": 1600,
+        "borderHeight": 1200
+    },
+    "displayList": [
+        {
+            "prefabId": "c887f129-37c1-4684-8a7c-36341b3fa2f1",
+            "id": "7742713a-ad1c-45b0-a66b-8dd35f509251",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "gameBoard",
+            "components": [],
+            "x": 530,
+            "y": 284,
+            "nestedPrefabs": [],
+            "list": []
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
