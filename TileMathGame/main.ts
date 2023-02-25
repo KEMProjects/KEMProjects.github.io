@@ -1,3 +1,5 @@
+import Level from "./src/scenes/Level";
+import Preload from "./src/scenes/Preload";
 
 window.addEventListener('load', function () {
 

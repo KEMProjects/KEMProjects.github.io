@@ -1,9 +1,12 @@
 
 // You can write more code here
 
+import { GraphBoard } from "../components/GraphBoard";
+import MoveOnArrowKeys from "../components/MoveOnArrowKeys";
+
 /* START OF COMPILED CODE */
 
-class GameBoard extends Phaser.GameObjects.Container {
+export default class GameBoard extends Phaser.GameObjects.Container {
 
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);

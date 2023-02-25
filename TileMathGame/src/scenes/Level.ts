@@ -1,9 +1,11 @@
 
 // You can write more code here
 
+import GameBoard from "./GameBoard";
+
 /* START OF COMPILED CODE */
 
-class Level extends Phaser.Scene {
+export default class Level extends Phaser.Scene {
 
 	constructor() {
 		super("Level");

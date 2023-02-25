@@ -6,7 +6,7 @@
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 
-class MoveOnArrowKeys {
+export default class MoveOnArrowKeys {
 
 	constructor(gameObject: Phaser.Physics.Arcade.Sprite) {
 		this.gameObject = gameObject;
@@ -67,7 +67,7 @@ class MoveOnArrowKeys {
 	}
 	select(x:number,y:number){
 		console.log("select");
-		
+
 		this.gameObject.setY(y);
 		this.gameObject.setX(x);
 		this.follower?.path.destroy();
