@@ -1,20 +1,10 @@
-
-// You can write more code here
-
-/* START OF COMPILED CODE */
-
-/* START-USER-IMPORTS */
-/* END-USER-IMPORTS */
-
 export default class MoveOnArrowKeys {
 
 	constructor(gameObject: Phaser.Physics.Arcade.Sprite) {
 		this.gameObject = gameObject;
 		(gameObject as any)["__MoveOnArrowKeys"] = this;
 
-		/* START-USER-CTR-CODE */
 		this.arrowKeys=gameObject.scene.input.keyboard.createCursorKeys();
-		const speed = 200;
 		this.arrowKeys.down.on("down",()=>{this.select(this.gameObject.x,this.gameObject.y+this.travel)});
 		this.arrowKeys.up.on("down",()=>{this.select(this.gameObject.x,this.gameObject.y-this.travel)});
 		this.arrowKeys.left.on("down",()=>{this.select(this.gameObject.x-this.travel,this.gameObject.y)});
@@ -23,7 +13,6 @@ export default class MoveOnArrowKeys {
 		this.arrowKeys.up.on("up",()=>{this.move('player-up')});
 		this.arrowKeys.left.on("up",()=>{this.move('player-left')});
 		this.arrowKeys.right.on("up",()=>{this.move('player-right')});
-		/* END-USER-CTR-CODE */
 	}
 
 	static getComponent(gameObject: Phaser.Physics.Arcade.Sprite): MoveOnArrowKeys {
@@ -32,13 +21,19 @@ export default class MoveOnArrowKeys {
 
 	private gameObject: Phaser.Physics.Arcade.Sprite;
 
-	/* START-USER-CODE */
 	public travel:number=0;
 	public follower:Phaser.GameObjects.PathFollower|undefined;
 	arrowKeys: Phaser.Types.Input.Keyboard.CursorKeys;
+	canMove:boolean=false;
 	move(animationKey:string){
 		console.log("key up");
 		this.gameObject.visible=false;
+		if(!this.canMove){
+			const point=this.follower?.path.getStartPoint();
+			this.gameObject.setX(point?.x);
+			this.gameObject.setY(point?.y);
+			return;
+		}
 		this.follower?.play(animationKey, true);
 		this.follower?.startFollow({
 			duration: 300,
@@ -58,10 +53,9 @@ export default class MoveOnArrowKeys {
 		this.follower?.stopFollow();
 	}
 	collided(){
+		this.canMove=false;
 		this.stopFollower();
 		const point=this.follower?.path.getStartPoint();
-		this.gameObject.setX(point?.x);
-		this.gameObject.setY(point?.y);
 		this.follower?.setX(point?.x);
 		this.follower?.setY(point?.y);
 	}
@@ -74,15 +68,7 @@ export default class MoveOnArrowKeys {
 		this.follower?.setPath(new Phaser.Curves.Path(this.follower?.x, this.follower?.y));
 		this.follower?.path.lineTo(x,y);
 		this.gameObject.visible=true;
+		this.canMove=true;
 	}
 
-	idle(){
-		console.log("idle");
-	}
-
-	/* END-USER-CODE */
 }
-
-/* END OF COMPILED CODE */
-
-// You can write more code here

@@ -1,16 +1,19 @@
-import Tile = require("./Tile");
+import { Tile, TILETYPE } from "./Tile";
 
 export class GraphBoard {
     tiles:Tile[]=[];
+    boxes:Tile[]=[];
+    startPoint:Tile;
+    endPoint:Tile;
     constructor(
         numX:number,
         numY:number,
         numBox:number
     ){
-    this.createGrid(numX,numY);
-    this.addBoxes(numBox);
-    this.addStartPoint();
-    this.addEndPoint();
+        this.createGrid(numX,numY);
+        this.addBoxes(numBox);
+        this.startPoint=this.addStartPoint();
+        this.endPoint=this.addEndPoint();
     }
     createGrid(numX:number,numY:number){
         let index=0;
@@ -23,18 +26,24 @@ export class GraphBoard {
     }
     addBoxes(numBox: number) {
         for(let i=0;i<numBox;i++){
-            this.getEmptyTile().contains=Tile.TYPE.BOX;
+            const tile = this.getEmptyTile();
+            tile.type=TILETYPE.BOX;
+            this.boxes.push(tile);
         }
     }
     addStartPoint(){
-        this.getEmptyTile().contains=Tile.TYPE.START;
+        const tile = this.getEmptyTile();
+        tile.type=TILETYPE.START;
+        return tile;
     }
     addEndPoint(){
-        this.getEmptyTile().contains=Tile.TYPE.END;
+        const tile = this.getEmptyTile();
+        tile.type=TILETYPE.END;
+        return tile;
     }
     private getEmptyTile(){
         let rand =Math.floor(Math.random()*this.tiles.length);
-        while(this.tiles[rand].contains!=Tile.TYPE.EMPTY){
+        while(this.tiles[rand].type!=TILETYPE.EMPTY){
             rand =Math.floor(Math.random()*this.tiles.length);
         }
         return this.tiles[rand];

@@ -2,7 +2,7 @@ export class Tile{
     value:number;
     x:number;
     y:number;
-    contains:TILETYPE;
+    type:TILETYPE;
     constructor(
         value:number,
         x:number,
@@ -11,7 +11,7 @@ export class Tile{
         this.value=value;
         this.y=y;
         this.x=x;
-        this.contains=TILETYPE.EMPTY;
+        this.type=TILETYPE.EMPTY;
     }
 }
 
