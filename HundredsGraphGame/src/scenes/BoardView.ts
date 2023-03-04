@@ -24,30 +24,38 @@ export default class BoardView extends Phaser.GameObjects.Container {
             x:board.startPoint.x*tileSize,
             y:board.startPoint.y*tileSize
         };
-        
+        console.log(playerStart);
+        console.log("board.startPoint.x:"+board.startPoint.x+"board.startPoint.y:"+board.startPoint.y);
         this.drawPlayer(playerStart.x,playerStart.y,tileSize,colliders);
     }
     drawPlayer(x:number,y:number,travel:number,colliders:Phaser.Types.Physics.Arcade.ImageWithDynamicBody[]){
+        console.log("draw player:"+x);
         //cursor
         const cursor=this.scene.physics.add.sprite(x, y, "sokoban_spritesheet","environment_06.png");
-		cursor.visible=true;
-		this.add(cursor);
-
+        cursor.visible=true;
+        this.add(cursor);
+        cursor.body.setCollideWorldBounds(true,0,0,true);
+        console.log("cursor.x:"+cursor.x+"cursor.body.x"+cursor.body.x);
+        cursor.setBodySize(cursor.displayWidth, cursor.displayHeight, true);
+		
         //player character
-		const playerPath = new Phaser.Curves.Path(cursor.x, cursor.y);
+		/*const playerPath = new Phaser.Curves.Path(cursor.x, cursor.y);
 		const player=this.scene.add.follower(playerPath,cursor.x,cursor.y,"sokoban_spritesheet", "player_01.png");
 		this.add(player);
-		this.scene.physics.add.existing(player);
+		this.scene.physics.add.existing(player);*/
 
         //movement
         const controller=new MoveOnArrowKeys(cursor);
-		controller.follower=player;
+		//controller.follower=player;
 		controller.travel=travel;
 
         //add physics
-        this.scene.physics.add.collider(cursor,colliders,()=>{
-            console.log("collide");
+        this.scene.physics.add.collider(cursor,colliders,(body)=>{
             controller.collided();
+        });
+        
+        this.scene.physics.world.on('worldbounds', (body:any)=>{
+            //controller.collided();
         });
     }
     drawTiles(board:GraphBoard,tileSize:number){
@@ -60,6 +68,8 @@ export default class BoardView extends Phaser.GameObjects.Container {
             if(tile.type==TILETYPE.START){
                 const start = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_04.png");
                 this.add(start);
+                console.log("start x:"+x);
+                console.log("start tile x:"+tile.x)
             }
             if(tile.type==TILETYPE.END){
                 const end = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_02.png");
