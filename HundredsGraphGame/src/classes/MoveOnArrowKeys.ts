@@ -1,6 +1,6 @@
 export default class MoveOnArrowKeys {
 
-	constructor(gameObject: Phaser.Physics.Arcade.Sprite) {
+	constructor(gameObject: Phaser.GameObjects.Sprite) {
 		this.gameObject = gameObject;
 		(gameObject as any)["__MoveOnArrowKeys"] = this;
 
@@ -15,18 +15,21 @@ export default class MoveOnArrowKeys {
 		this.arrowKeys.right.on("up",()=>{this.move('player-right')});
 	}
 
-	static getComponent(gameObject: Phaser.Physics.Arcade.Sprite): MoveOnArrowKeys {
+	static getComponent(gameObject: Phaser.GameObjects.Sprite): MoveOnArrowKeys {
 		return (gameObject as any)["__MoveOnArrowKeys"];
 	}
 
-	private gameObject: Phaser.Physics.Arcade.Sprite;
+	private gameObject: Phaser.GameObjects.Sprite;
 
 	public travel:number=0;
 	public follower:Phaser.GameObjects.PathFollower|undefined;
 	arrowKeys: Phaser.Types.Input.Keyboard.CursorKeys;
 	canMove:boolean=false;
+	minX:number=0;
+	minY:number=0;
+	maxX:number=0;
+	maxY:number=0;
 	move(animationKey:string){
-		console.log("key up");
 		this.gameObject.visible=false;
 		if(!this.canMove){
 			const point=this.follower?.path.getStartPoint();
@@ -43,7 +46,7 @@ export default class MoveOnArrowKeys {
 			delay: 40,
 			loop:0,
 			onComplete:()=>{
-				console.log("on complete");
+				
 				this.stopFollower();
 			}
 		});
@@ -60,15 +63,31 @@ export default class MoveOnArrowKeys {
 		this.follower?.setY(point?.y);
 	}
 	select(x:number,y:number){
-		console.log("select");
-
 		this.gameObject.setY(y);
 		this.gameObject.setX(x);
 		this.follower?.path.destroy();
 		this.follower?.setPath(new Phaser.Curves.Path(this.follower?.x, this.follower?.y));
+		//need to set bounds collision here before creating a line, because the follower will follower even
+		//after stopped in the collision function
+		//the physics boundaries was changing the sprite location, possibly due to body origin being different?
+		if(!this.withinBounds(x,y)){
+			this.collided();
+			return;
+		}
 		this.follower?.path.lineTo(x,y);
 		this.gameObject.visible=true;
 		this.canMove=true;
 	}
-
+	setBounds(left:number,top:number,right:number,bottom:number){
+		this.minX=left;
+		this.minY=top;
+		this.maxX=right;
+		this.maxY=bottom;
+	}
+	withinBounds(x:number,y:number){
+		if(x>=this.minX&&x<this.maxX&&y>=this.minY&&y<this.maxY){
+			return true;
+		}
+		return false;
+	}
 }
