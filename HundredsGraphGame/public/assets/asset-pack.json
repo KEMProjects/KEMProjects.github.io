@@ -11,6 +11,31 @@
                 "textureURL": "assets/sokoban_spritesheet.png",
                 "type": "atlasXML",
                 "key": "sokoban_spritesheet"
+            },
+            {
+                "url": "assets/flatLight24.png",
+                "type": "image",
+                "key": "flatLight24"
+            },
+            {
+                "url": "assets/flatLight25.png",
+                "type": "image",
+                "key": "flatLight25"
+            },
+            {
+                "url": "assets/shadedLight26.png",
+                "type": "image",
+                "key": "shadedLight26"
+            },
+            {
+                "url": "assets/shadedLight27.png",
+                "type": "image",
+                "key": "shadedLight27"
+            },
+            {
+                "url": "assets/grey_panel.png",
+                "type": "image",
+                "key": "grey_panel"
             }
         ]
     },

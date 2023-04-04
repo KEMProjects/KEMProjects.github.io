@@ -1,5 +1,6 @@
 import { GraphBoard } from "../classes/GraphBoard";
 import MoveOnArrowKeys from "../classes/MoveOnArrowKeys";
+import NumberSlider from "../classes/NumberSlider";
 import { TILETYPE } from "../classes/Tile";
 
 export default class BoardView extends Phaser.GameObjects.Container {
