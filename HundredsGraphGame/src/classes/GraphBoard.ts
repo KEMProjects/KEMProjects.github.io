@@ -15,6 +15,12 @@ export class GraphBoard {
         this.startPoint=this.addStartPoint();
         this.endPoint=this.addEndPoint();
     }
+    getValue(x: number, y: number) {
+        console.log("debug test tile value");
+        console.log(this.tiles[x*y].x);
+        console.log(this.tiles[x*y].y);
+        return this.tiles[x*y].value;
+    }
     createGrid(numX:number,numY:number){
         let index=0;
         for(let i=0;i<numX;i++){

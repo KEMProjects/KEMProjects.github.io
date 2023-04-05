@@ -5,34 +5,35 @@ import NumberSlider from "../classes/NumberSlider";
 import { TILETYPE } from "../classes/Tile";
 
 export default class BoardView extends Phaser.GameObjects.Container {
+    tileSize:number=64;
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
 
 		//replace w/ json
 		const numX=10;
 		const numY=10;
-		const tileSize=64;
 		const numBoxes=10;
-        const width=numX*tileSize;
-		const height=numY*tileSize;
+        const width=numX*this.tileSize;
+		const height=numY*this.tileSize;
 
         //create board
         const board = new GraphBoard(numX,numY,numBoxes);
-        const colliders=this.drawTiles(board,tileSize);
-        this.drawGrid(width,height,tileSize);
+        const colliders=this.drawTiles(board);
+        this.drawGrid(width,height);
         
         const playerStart={
-            x:board.startPoint.x*tileSize,
-            y:board.startPoint.y*tileSize
+            x:board.startPoint.x*this.tileSize,
+            y:board.startPoint.y*this.tileSize
         };
-        const player=this.drawPlayer(playerStart.x,playerStart.y,tileSize,colliders);
+        const player=this.drawPlayer(playerStart.x,playerStart.y,this.tileSize,colliders,board);
         player.setBounds(0,0,width,height);
     }
     
     drawPlayer(x:number,
         y:number,
         travel:number,
-        colliders:Phaser.Types.Physics.Arcade.ImageWithDynamicBody[]){
+        colliders:Phaser.Types.Physics.Arcade.ImageWithDynamicBody[],
+        board:GraphBoard){
         //cursor
         const cursor=this.scene.physics.add.sprite(x, y, "sokoban_spritesheet","environment_06.png");
         cursor.visible=true;
@@ -45,8 +46,8 @@ export default class BoardView extends Phaser.GameObjects.Container {
 		this.scene.physics.add.existing(player);
 
         //movement
-        const controller=new MoveOnArrowKeys(cursor,()=>{
-            
+        const controller=new MoveOnArrowKeys(cursor,(x:number,y:number)=>{
+            board.getValue(x/this.tileSize,y/this.tileSize);
         });
 		controller.follower=player;
 		controller.travel=travel;
@@ -57,11 +58,11 @@ export default class BoardView extends Phaser.GameObjects.Container {
         });
         return controller;
     }
-    drawTiles(board:GraphBoard,tileSize:number){
+    drawTiles(board:GraphBoard){
         let colliders:Phaser.Types.Physics.Arcade.ImageWithDynamicBody[]=[];
         board.tiles.forEach((tile)=>{
-            const x=tile.x*tileSize;
-            const y=tile.y*tileSize;
+            const x=tile.x*this.tileSize;
+            const y=tile.y*this.tileSize;
             const tileImg = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_06.png");
             this.add(tileImg);
             if(tile.type==TILETYPE.START){
@@ -87,20 +88,20 @@ export default class BoardView extends Phaser.GameObjects.Container {
         });
         return colliders;
     }
-    drawGrid(width:number,height:number,tileSize:number){
+    drawGrid(width:number,height:number){
 		let graphics = this.scene.add.graphics();
 		this.add(graphics);
 		graphics.lineStyle(1, 0xffffff, 1);
 
         //tiles get drawn from origin 0.5,0.5, but lines do not
-        const minX=-tileSize/2;
-        const minY=-tileSize/2;
-		for(let i=minX;i<width;i+=tileSize){
+        const minX=-this.tileSize/2;
+        const minY=-this.tileSize/2;
+		for(let i=minX;i<width;i+=this.tileSize){
 			let path = new Phaser.Curves.Path(i,minY);
 			path.lineTo(i,height+minY);
 			path.draw(graphics);
 		}
-		for(let j=minY;j<height;j+=tileSize){
+		for(let j=minY;j<height;j+=this.tileSize){
 			let path = new Phaser.Curves.Path(minX,j);
 			path.lineTo(width+minX,j);
 			path.draw(graphics);
@@ -108,8 +109,8 @@ export default class BoardView extends Phaser.GameObjects.Container {
 
         const top =minY;
         const left =minX;
-        const right=width-left-tileSize;
-        const bottom=height-minY-tileSize;
+        const right=width-left-this.tileSize;
+        const bottom=height-minY-this.tileSize;
 
         graphics.lineStyle(3, 0x000000, 1);
         let topBoundary = new Phaser.Curves.Path(left,top);

@@ -1,18 +1,42 @@
 export default class MoveOnArrowKeys {
 
-	constructor(gameObject: Phaser.GameObjects.Sprite,beforeMove:()=>void) {
+	constructor(gameObject: Phaser.GameObjects.Sprite,selected:(x:number,y:number)=>void) {
 		this.gameObject = gameObject;
 		(gameObject as any)["__MoveOnArrowKeys"] = this;
 
 		this.arrowKeys=gameObject.scene.input.keyboard.createCursorKeys();
-		this.arrowKeys.down.on("down",()=>{this.select(this.gameObject.x,this.gameObject.y+this.travel)});
-		this.arrowKeys.up.on("down",()=>{this.select(this.gameObject.x,this.gameObject.y-this.travel)});
-		this.arrowKeys.left.on("down",()=>{this.select(this.gameObject.x-this.travel,this.gameObject.y)});
-		this.arrowKeys.right.on("down",()=>{this.select(this.gameObject.x+this.travel,this.gameObject.y)});
-		this.arrowKeys.down.on("up",()=>{this.move('player-down')});
+		this.arrowKeys.down.on("down",()=>{
+			this.select(this.gameObject.x,this.gameObject.y+this.travel);
+			if(this.canMove){
+				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				this.animationKey="player-down";
+			}
+		});
+		this.arrowKeys.up.on("down",()=>{
+			this.select(this.gameObject.x,this.gameObject.y-this.travel);
+			if(this.canMove){
+				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				this.animationKey="player-up";
+			}
+		});
+		this.arrowKeys.left.on("down",()=>{
+			this.select(this.gameObject.x-this.travel,this.gameObject.y);
+			if(this.canMove){
+				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				this.animationKey="player-left";
+			}
+		});
+		this.arrowKeys.right.on("down",()=>{
+			this.select(this.gameObject.x+this.travel,this.gameObject.y);
+			if(this.canMove){
+				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				this.animationKey="player-right";
+			}
+		});
+		/*this.arrowKeys.down.on("up",()=>{this.move('player-down')});
 		this.arrowKeys.up.on("up",()=>{this.move('player-up')});
 		this.arrowKeys.left.on("up",()=>{this.move('player-left')});
-		this.arrowKeys.right.on("up",()=>{this.move('player-right')});
+		this.arrowKeys.right.on("up",()=>{this.move('player-right')});*/
 	}
 
 	static getComponent(gameObject: Phaser.GameObjects.Sprite): MoveOnArrowKeys {
@@ -23,13 +47,14 @@ export default class MoveOnArrowKeys {
 
 	public travel:number=0;
 	public follower:Phaser.GameObjects.PathFollower|undefined;
+	animationKey:string="player-up";
 	arrowKeys: Phaser.Types.Input.Keyboard.CursorKeys;
 	canMove:boolean=false;
 	minX:number=0;
 	minY:number=0;
 	maxX:number=0;
 	maxY:number=0;
-	move(animationKey:string){
+	move(){
 		this.gameObject.visible=false;
 		if(!this.canMove){
 			const point=this.follower?.path.getStartPoint();
@@ -37,7 +62,7 @@ export default class MoveOnArrowKeys {
 			this.gameObject.setY(point?.y);
 			return;
 		}
-		this.follower?.play(animationKey, true);
+		this.follower?.play(this.animationKey, true);
 		this.follower?.startFollow({
 			duration: 300,
 			positionOnPath: true,
