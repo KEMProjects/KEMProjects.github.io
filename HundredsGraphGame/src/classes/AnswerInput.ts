@@ -18,8 +18,6 @@ export class AnswerInput extends Phaser.GameObjects.Container {
     }
     createNumberInput(x:number,y:number){
         //create number slider
-        console.log(x);
-        console.log(y);
         const back = this.scene.add.image(x,y,"grey_panel");
         const up = this.scene.add.image(back.x,back.y-back.height,"shadedLight26");
         const down = this.scene.add.image(back.x,back.y+back.height,"shadedLight27");

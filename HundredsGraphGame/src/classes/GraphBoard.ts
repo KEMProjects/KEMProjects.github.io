@@ -1,7 +1,7 @@
 import { Tile, TILETYPE } from "./Tile";
 
 export class GraphBoard {
-    tiles:Tile[]=[];
+    tiles:Tile[][]=[];
     boxes:Tile[]=[];
     startPoint:Tile;
     endPoint:Tile;
@@ -16,17 +16,18 @@ export class GraphBoard {
         this.endPoint=this.addEndPoint();
     }
     getValue(x: number, y: number) {
-        console.log("debug test tile value");
-        console.log(this.tiles[x*y].x);
-        console.log(this.tiles[x*y].y);
-        return this.tiles[x*y].value;
+        console.log("debug test tile value:"+x+","+y);
+        console.log(this.tiles[y][x].x+","+this.tiles[y][x].y);
+        console.log(this.tiles[y][x].value)
+        return this.tiles[y][x].value;
     }
     createGrid(numX:number,numY:number){
         let index=0;
-        for(let i=0;i<numX;i++){
-            for(let j=0;j<numY;j++){
+        for(let j=0;j<numY;j++){
+            this.tiles[j]=[];
+            for(let i=0;i<numX;i++){
                 index++;
-                this.tiles.push(new Tile(index,i,j));
+                this.tiles[j].push(new Tile(index,i,j));
             }
         }
     }
@@ -48,11 +49,13 @@ export class GraphBoard {
         return tile;
     }
     private getEmptyTile(){
-        let rand =Math.floor(Math.random()*this.tiles.length);
-        while(this.tiles[rand].type!=TILETYPE.EMPTY){
-            rand =Math.floor(Math.random()*this.tiles.length);
+        let y =Math.floor(Math.random()*this.tiles.length);
+        let x =Math.floor(Math.random()*this.tiles[y].length);
+        while(this.tiles[y][x].type!=TILETYPE.EMPTY){
+            y =Math.floor(Math.random()*this.tiles.length);
+            x =Math.floor(Math.random()*this.tiles[y].length);
         }
-        return this.tiles[rand];
+        return this.tiles[y][x];
     }
     
 }

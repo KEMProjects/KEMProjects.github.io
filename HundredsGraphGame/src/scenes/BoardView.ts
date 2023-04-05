@@ -60,31 +60,39 @@ export default class BoardView extends Phaser.GameObjects.Container {
     }
     drawTiles(board:GraphBoard){
         let colliders:Phaser.Types.Physics.Arcade.ImageWithDynamicBody[]=[];
-        board.tiles.forEach((tile)=>{
-            const x=tile.x*this.tileSize;
-            const y=tile.y*this.tileSize;
-            const tileImg = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_06.png");
-            this.add(tileImg);
-            if(tile.type==TILETYPE.START){
-                const start = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_04.png");
-                this.add(start);
-            }
-            if(tile.type==TILETYPE.END){
-                const end = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_02.png");
-		        this.add(end);
-            }
-            if(tile.type==TILETYPE.BOX){
-                let box = this.scene.physics.add.image(x, y, "sokoban_spritesheet", "crate_02.png");
-                box.body.moves = false;
-                box.body.allowGravity = false;
-                box.body.allowDrag = false;
-                box.body.allowRotation = false;
-                box.body.pushable = false;
-                box.body.immovable = true;
-                box.body.setSize(64, 64, false);
-                this.add(box);
-                colliders.push(box);
-            }
+        board.tiles.forEach((tileRow)=>{
+            tileRow.forEach((tile)=>{
+                const x=tile.x*this.tileSize;
+                const y=tile.y*this.tileSize;
+                const tileImg = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_06.png");
+                const text = this.scene.add.text(x,y,tile.value.toString(), { 
+                    fontFamily: 'Verdana, "Times New Roman", Tahoma, serif', 
+                    fontSize: '32px', 
+                    color: '#000' });
+                    text.setOrigin(0.5,0.5);
+                this.add(tileImg);
+                this.add(text);
+                if(tile.type==TILETYPE.START){
+                    const start = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_04.png");
+                    this.add(start);
+                }
+                if(tile.type==TILETYPE.END){
+                    const end = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_02.png");
+                    this.add(end);
+                }
+                if(tile.type==TILETYPE.BOX){
+                    let box = this.scene.physics.add.image(x, y, "sokoban_spritesheet", "crate_02.png");
+                    box.body.moves = false;
+                    box.body.allowGravity = false;
+                    box.body.allowDrag = false;
+                    box.body.allowRotation = false;
+                    box.body.pushable = false;
+                    box.body.immovable = true;
+                    box.body.setSize(64, 64, false);
+                    this.add(box);
+                    colliders.push(box);
+                }
+            });
         });
         return colliders;
     }
