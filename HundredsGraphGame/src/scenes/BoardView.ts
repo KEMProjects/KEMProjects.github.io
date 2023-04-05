@@ -1,10 +1,10 @@
+import { AnswerInput } from "../classes/AnswerInput";
 import { GraphBoard } from "../classes/GraphBoard";
 import MoveOnArrowKeys from "../classes/MoveOnArrowKeys";
 import NumberSlider from "../classes/NumberSlider";
 import { TILETYPE } from "../classes/Tile";
 
 export default class BoardView extends Phaser.GameObjects.Container {
-
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
 
@@ -28,6 +28,7 @@ export default class BoardView extends Phaser.GameObjects.Container {
         const player=this.drawPlayer(playerStart.x,playerStart.y,tileSize,colliders);
         player.setBounds(0,0,width,height);
     }
+    
     drawPlayer(x:number,
         y:number,
         travel:number,
@@ -44,7 +45,9 @@ export default class BoardView extends Phaser.GameObjects.Container {
 		this.scene.physics.add.existing(player);
 
         //movement
-        const controller=new MoveOnArrowKeys(cursor);
+        const controller=new MoveOnArrowKeys(cursor,()=>{
+            
+        });
 		controller.follower=player;
 		controller.travel=travel;
 

@@ -1,7 +1,5 @@
 
 import { AnswerInput } from "../classes/AnswerInput";
-import Button from "../classes/Button";
-import NumberSlider from "../classes/NumberSlider";
 import BoardView from "./BoardView";
 export default class Level extends Phaser.Scene {
 
@@ -21,7 +19,7 @@ export default class Level extends Phaser.Scene {
 		const gameBoard = new BoardView(this, boardX, boardY);
 		this.add.existing(gameBoard);
 
-		const gameAnswer = new AnswerInput(this,boardX,boardY+height/2);
+		const gameAnswer = new AnswerInput(this,350,boardY+height/2);
 		this.add.existing(gameAnswer);
 		
 		this.events.emit("scene-awake");

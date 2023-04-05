@@ -1,6 +1,6 @@
 export default class MoveOnArrowKeys {
 
-	constructor(gameObject: Phaser.GameObjects.Sprite) {
+	constructor(gameObject: Phaser.GameObjects.Sprite,beforeMove:()=>void) {
 		this.gameObject = gameObject;
 		(gameObject as any)["__MoveOnArrowKeys"] = this;
 

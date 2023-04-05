@@ -36,6 +36,16 @@
                 "url": "assets/grey_panel.png",
                 "type": "image",
                 "key": "grey_panel"
+            },
+            {
+                "url": "assets/flatDark45.png",
+                "type":"image",
+                "key":"flatDark45"
+            },
+            {
+                "url": "assets/shadedDark46.png",
+                "type":"image",
+                "key":"shadedDark46"
             }
         ]
     },
