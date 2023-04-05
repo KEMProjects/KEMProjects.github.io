@@ -16,9 +16,6 @@ export class GraphBoard {
         this.endPoint=this.addEndPoint();
     }
     getValue(x: number, y: number) {
-        console.log("debug test tile value:"+x+","+y);
-        console.log(this.tiles[y][x].x+","+this.tiles[y][x].y);
-        console.log(this.tiles[y][x].value)
         return this.tiles[y][x].value;
     }
     createGrid(numX:number,numY:number){

@@ -6,6 +6,8 @@ import { TILETYPE } from "../classes/Tile";
 
 export default class BoardView extends Phaser.GameObjects.Container {
     tileSize:number=64;
+    onMove:(value:number)=>void=()=>{};
+    movementController:MoveOnArrowKeys|undefined;
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
 
@@ -25,8 +27,13 @@ export default class BoardView extends Phaser.GameObjects.Container {
             x:board.startPoint.x*this.tileSize,
             y:board.startPoint.y*this.tileSize
         };
-        const player=this.drawPlayer(playerStart.x,playerStart.y,this.tileSize,colliders,board);
-        player.setBounds(0,0,width,height);
+        this.movementController=this.drawPlayer(playerStart.x,playerStart.y,this.tileSize,colliders,board);
+        this.movementController.setBounds(0,0,width,height);
+    }
+    enableNextMove(){
+        if(this.movementController){
+            this.movementController.move();
+        }
     }
     
     drawPlayer(x:number,
@@ -46,9 +53,11 @@ export default class BoardView extends Phaser.GameObjects.Container {
 		this.scene.physics.add.existing(player);
 
         //movement
-        const controller=new MoveOnArrowKeys(cursor,(x:number,y:number)=>{
-            board.getValue(x/this.tileSize,y/this.tileSize);
-        });
+        const controller=new MoveOnArrowKeys(cursor);
+        controller.selected=(x:number,y:number)=>{
+            const value=board.getValue(x/this.tileSize,y/this.tileSize);
+            this.onMove(value);
+        };
 		controller.follower=player;
 		controller.travel=travel;
 

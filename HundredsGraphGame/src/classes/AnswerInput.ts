@@ -2,7 +2,7 @@ import Button from "./Button";
 import NumberSlider from "./NumberSlider";
 
 export class AnswerInput extends Phaser.GameObjects.Container {
-
+    onSubmit:(answer:number)=>void=()=>{};
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
 
@@ -14,7 +14,9 @@ export class AnswerInput extends Phaser.GameObjects.Container {
         submitBtn.setOnClick(()=>{
             let total=10*numTenths.getNumber();
             total+=numOnes.getNumber();
+            this.onSubmit(total);
         });
+        this.setVisible(false);
     }
     createNumberInput(x:number,y:number){
         //create number slider

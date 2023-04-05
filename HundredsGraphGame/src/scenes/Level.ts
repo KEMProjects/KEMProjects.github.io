@@ -17,9 +17,20 @@ export default class Level extends Phaser.Scene {
 		const width=numX*tileSize;
 		const height=numY*tileSize;
 		const gameBoard = new BoardView(this, boardX, boardY);
-		this.add.existing(gameBoard);
-
+		this.add.existing(gameBoard);	
 		const gameAnswer = new AnswerInput(this,350,boardY+height/2);
+		gameBoard.onMove=(value:number)=>{
+			console.log("moving");
+			gameAnswer.setVisible(true);
+			gameAnswer.onSubmit=(answer:number)=>{
+				console.log("submitted");
+				if(answer==value){
+					gameBoard.enableNextMove();
+					gameAnswer.setVisible(false);
+				}
+			};
+		};
+
 		this.add.existing(gameAnswer);
 		
 		this.events.emit("scene-awake");

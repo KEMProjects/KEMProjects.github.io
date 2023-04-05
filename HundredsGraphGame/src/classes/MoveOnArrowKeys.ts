@@ -1,35 +1,47 @@
 export default class MoveOnArrowKeys {
-
-	constructor(gameObject: Phaser.GameObjects.Sprite,selected:(x:number,y:number)=>void) {
+	selected:(x:number,y:number)=>void=()=>{};
+	constructor(gameObject: Phaser.GameObjects.Sprite) {
 		this.gameObject = gameObject;
 		(gameObject as any)["__MoveOnArrowKeys"] = this;
 
 		this.arrowKeys=gameObject.scene.input.keyboard.createCursorKeys();
 		this.arrowKeys.down.on("down",()=>{
+			if(!this.canSelect){
+				return;
+			}
 			this.select(this.gameObject.x,this.gameObject.y+this.travel);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y);
+				this.selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-down";
 			}
 		});
 		this.arrowKeys.up.on("down",()=>{
+			if(!this.canSelect){
+				return;
+			}
 			this.select(this.gameObject.x,this.gameObject.y-this.travel);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y);
+				this.selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-up";
 			}
 		});
 		this.arrowKeys.left.on("down",()=>{
+			if(!this.canSelect){
+				return;
+			}
 			this.select(this.gameObject.x-this.travel,this.gameObject.y);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y);
+				this.selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-left";
 			}
 		});
 		this.arrowKeys.right.on("down",()=>{
+			if(!this.canSelect){
+				return;
+			}
 			this.select(this.gameObject.x+this.travel,this.gameObject.y);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y);
+				this.selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-right";
 			}
 		});
@@ -50,6 +62,7 @@ export default class MoveOnArrowKeys {
 	animationKey:string="player-up";
 	arrowKeys: Phaser.Types.Input.Keyboard.CursorKeys;
 	canMove:boolean=false;
+	canSelect:boolean=true;
 	minX:number=0;
 	minY:number=0;
 	maxX:number=0;
@@ -75,6 +88,7 @@ export default class MoveOnArrowKeys {
 				this.stopFollower();
 			}
 		});
+		this.canSelect=true;
 	}
 	stopFollower(){
 		this.follower?.stop();	
@@ -88,6 +102,9 @@ export default class MoveOnArrowKeys {
 		this.follower?.setY(point?.y);
 	}
 	select(x:number,y:number){
+		if(!this.canSelect){
+			return;
+		}
 		this.gameObject.setY(y);
 		this.gameObject.setX(x);
 		this.follower?.path.destroy();
@@ -102,6 +119,7 @@ export default class MoveOnArrowKeys {
 		this.follower?.path.lineTo(x,y);
 		this.gameObject.visible=true;
 		this.canMove=true;
+		this.canSelect=false;
 	}
 	setBounds(left:number,top:number,right:number,bottom:number){
 		this.minX=left;
