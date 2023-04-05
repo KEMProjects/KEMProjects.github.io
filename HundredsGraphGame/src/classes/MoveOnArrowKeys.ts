@@ -8,28 +8,28 @@ export default class MoveOnArrowKeys {
 		this.arrowKeys.down.on("down",()=>{
 			this.select(this.gameObject.x,this.gameObject.y+this.travel);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-down";
 			}
 		});
 		this.arrowKeys.up.on("down",()=>{
 			this.select(this.gameObject.x,this.gameObject.y-this.travel);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-up";
 			}
 		});
 		this.arrowKeys.left.on("down",()=>{
 			this.select(this.gameObject.x-this.travel,this.gameObject.y);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-left";
 			}
 		});
 		this.arrowKeys.right.on("down",()=>{
 			this.select(this.gameObject.x+this.travel,this.gameObject.y);
 			if(this.canMove){
-				selected(this.gameObject.x,this.gameObject.y+this.travel);
+				selected(this.gameObject.x,this.gameObject.y);
 				this.animationKey="player-right";
 			}
 		});
