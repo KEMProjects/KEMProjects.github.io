@@ -13,39 +13,59 @@
                 "key": "sokoban_spritesheet"
             },
             {
-                "url": "assets/flatLight24.png",
+                "url": "assets/ui/flatLight24.png",
                 "type": "image",
                 "key": "flatLight24"
             },
             {
-                "url": "assets/flatLight25.png",
+                "url": "assets/ui/flatLight25.png",
                 "type": "image",
                 "key": "flatLight25"
             },
             {
-                "url": "assets/shadedLight26.png",
+                "url": "assets/ui/shadedLight26.png",
                 "type": "image",
                 "key": "shadedLight26"
             },
             {
-                "url": "assets/shadedLight27.png",
+                "url": "assets/ui/shadedLight27.png",
                 "type": "image",
                 "key": "shadedLight27"
             },
             {
-                "url": "assets/grey_panel.png",
+                "url": "assets/ui/grey_panel.png",
                 "type": "image",
                 "key": "grey_panel"
             },
             {
-                "url": "assets/flatDark45.png",
+                "url": "assets/ui/flatDark45.png",
                 "type":"image",
                 "key":"flatDark45"
             },
             {
-                "url": "assets/shadedDark46.png",
+                "url": "assets/ui/transparentDark01.png",
                 "type":"image",
-                "key":"shadedDark46"
+                "key":"transparentDark01"
+            },
+            {
+                "url": "assets/ui/transparentDark03.png",
+                "type":"image",
+                "key":"transparentDark03"
+            },
+            {
+                "url": "assets/ui/transparentDark04.png",
+                "type":"image",
+                "key":"transparentDark04"
+            },
+            {
+                "url": "assets/ui/transparentDark08.png",
+                "type":"image",
+                "key":"transparentDark08"
+            },
+            {
+                "url": "assets/ui/transparentDark43.png",
+                "type":"image",
+                "key":"transparentDark43"
             }
         ]
     },
