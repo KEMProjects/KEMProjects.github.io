@@ -6,13 +6,13 @@ export default class MoveOnArrowKeys {
 
 		this.arrowKeys=gameObject.scene.input.keyboard.createCursorKeys();
 		const afterSelect=(animationKey:string)=>{
-			if(this.canMove){
+			if(this.followerCanMove){
 				this.animationKey=animationKey;
 				this.selected(this.gameObject.x,this.gameObject.y);
 			}
 		};
 		this.arrowKeys.down.on("down",()=>{
-			if(!this.canSelect){
+			if(!this.selectorCanMove){
 				return;
 			}
 			this.select(this.gameObject.x,this.gameObject.y+this.travel);
@@ -21,7 +21,7 @@ export default class MoveOnArrowKeys {
 			afterSelect("player-down");
 		});
 		this.arrowKeys.up.on("down",()=>{
-			if(!this.canSelect){
+			if(!this.selectorCanMove){
 				return;
 			}
 			this.select(this.gameObject.x,this.gameObject.y-this.travel);
@@ -30,7 +30,7 @@ export default class MoveOnArrowKeys {
 			afterSelect("player-up");
 		});
 		this.arrowKeys.left.on("down",()=>{
-			if(!this.canSelect){
+			if(!this.selectorCanMove){
 				return;
 			}
 			this.select(this.gameObject.x-this.travel,this.gameObject.y);
@@ -39,7 +39,7 @@ export default class MoveOnArrowKeys {
 			afterSelect("player-left");
 		});
 		this.arrowKeys.right.on("down",()=>{
-			if(!this.canSelect){
+			if(!this.selectorCanMove){
 				return;
 			}
 			this.select(this.gameObject.x+this.travel,this.gameObject.y);
@@ -59,18 +59,20 @@ export default class MoveOnArrowKeys {
 	public follower:Phaser.GameObjects.PathFollower|undefined;
 	animationKey:string="player-up";
 	arrowKeys: Phaser.Types.Input.Keyboard.CursorKeys;
-	canMove:boolean=false;
-	canSelect:boolean=true;
+	followerCanMove:boolean=false;
+	followerMoving:boolean=false;
+	selectorCanMove:boolean=true;
 	minX:number=0;
 	minY:number=0;
 	maxX:number=0;
 	maxY:number=0;
 	move(){
 		this.gameObject.visible=false;
-		if(!this.canMove){
+		if(!this.followerCanMove){
 			this.resetFollower();
 			return;
 		}
+		this.followerMoving=true;
 		this.follower?.path.lineTo(this.gameObject.x,this.gameObject.y);
 		this.follower?.play(this.animationKey, true);
 		this.follower?.startFollow({
@@ -81,8 +83,12 @@ export default class MoveOnArrowKeys {
 			delay: 40,
 			loop:0,
 			onComplete:()=>{
+				console.log("on complete")
 				this.stopFollower();
-				this.enableSelect();
+				if(this.followerMoving){
+					this.enableSelect();
+					this.followerMoving=false;
+				}
 			}
 		});
 	}
@@ -99,15 +105,16 @@ export default class MoveOnArrowKeys {
 		this.disableMove();
 		this.stopFollower();
 		this.resetFollower();
+		this.enableSelect();
 	}
 	select(x:number,y:number){
-		if(!this.canSelect){
-			this.resetFollower();
+		if(!this.selectorCanMove){
 			return;
 		}
+		this.disableMove();
 		this.gameObject.setY(y);
 		this.gameObject.setX(x);
-		this.follower?.path.destroy();
+		this.follower?.path.destroy(); //calls follower onComplete()
 		this.follower?.setPath(new Phaser.Curves.Path(this.follower?.x, this.follower?.y));
 		//need to set bounds collision here before creating a line, because the follower will follower even
 		//after stopped in the collision function
@@ -117,8 +124,8 @@ export default class MoveOnArrowKeys {
 			return;
 		}
 		this.gameObject.visible=true;
-		this.enableMove();
 		this.disableSelect();
+		this.enableMove();
 	}
 	setBounds(left:number,top:number,right:number,bottom:number){
 		this.minX=left;
@@ -133,15 +140,15 @@ export default class MoveOnArrowKeys {
 		return false;
 	}
 	enableMove(){
-		this.canMove=true;
+		this.followerCanMove=true;
 	}
 	disableMove(){
-		this.canMove=false;
+		this.followerCanMove=false;
 	}
 	enableSelect(){
-		this.canSelect=true;
+		this.selectorCanMove=true;
 	}
 	disableSelect(){
-		this.canSelect=false;
+		this.selectorCanMove=false;
 	}
 }
