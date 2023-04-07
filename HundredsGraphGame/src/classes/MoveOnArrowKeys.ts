@@ -83,7 +83,6 @@ export default class MoveOnArrowKeys {
 			delay: 40,
 			loop:0,
 			onComplete:()=>{
-				console.log("on complete")
 				this.stopFollower();
 				if(this.followerMoving){
 					this.enableSelect();

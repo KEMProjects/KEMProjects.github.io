@@ -41,4 +41,8 @@ export default class NumberSlider {
         getNumber(){
                 return this.number;
         }
+        setNumber(value:number){
+                this.number=value;
+                this.text.setText(this.number.toString());
+        }
 }

@@ -11,10 +11,35 @@ export class AnswerInput extends Phaser.GameObjects.Container {
         const submit=this.scene.add.image(numOnes.back.x+numOnes.back.width+20, y ?? 0,"shadedDark46");
         this.add(submit);
         const submitBtn=new Button(submit,"flatDark45");
-        submitBtn.setOnClick(()=>{
+        const submitTotal=()=>{
             let total=10*numTenths.getNumber();
             total+=numOnes.getNumber();
             this.onSubmit(total);
+        };
+        submitBtn.setOnClick(()=>{submitTotal()});
+        const keyInDigits=(value:number)=>{
+            //if the ones digit is set or tens digit not set, then user is typing new number
+            if(numOnes.getNumber()!=0||numTenths.getNumber()==0){
+                numTenths.setNumber(value);
+                numOnes.setNumber(0);
+            }
+            else{
+                numOnes.setNumber(value);
+            }
+        };
+        for(let i=0;i<10;i++){
+            const key=scene.input.keyboard.addKey(48+i);
+            key.on('up',()=>{
+                if(this.visible){
+                    keyInDigits(i);
+                }
+            });
+        }
+        const enter=scene.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.ENTER);
+        enter.on('up',()=>{
+            if(this.visible){
+                submitTotal();
+            }
         });
         this.setVisible(false);
     }

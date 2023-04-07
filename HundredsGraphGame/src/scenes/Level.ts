@@ -19,18 +19,18 @@ export default class Level extends Phaser.Scene {
 		const gameBoard = new BoardView(this, boardX, boardY);
 		this.add.existing(gameBoard);	
 		const gameAnswer = new AnswerInput(this,350,boardY+height/2);
-		const checkAnswerAndMove = function(answer:number,expected:number){
-			if(answer==expected){
-				gameBoard.finishMove();
-				gameAnswer.setVisible(false);
-			}
-			else{
-				console.log("wrong answer");
-			}
-		}
-		gameBoard.onMove=(value:number)=>{
+		gameBoard.onMove=(expected:number,atEnd:boolean)=>{
 			gameAnswer.onSubmit=(answer:number)=>{
-				checkAnswerAndMove(answer,value);
+				if(answer==expected){
+					gameBoard.finishMove();
+					gameAnswer.setVisible(false);
+					if(atEnd){
+						this.scene.start("Complete");
+					}
+				}
+				else{
+					console.log("wrong answer");
+				}
 			};
 			gameAnswer.setVisible(true);
 		};

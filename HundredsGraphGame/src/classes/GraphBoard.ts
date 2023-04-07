@@ -15,6 +15,9 @@ export class GraphBoard {
         this.startPoint=this.addStartPoint();
         this.endPoint=this.addEndPoint();
     }
+    checkEndPoint(x: number, y: number){
+        return this.tiles[y][x].type==TILETYPE.END;
+    }
     getValue(x: number, y: number) {
         return this.tiles[y][x].value;
     }

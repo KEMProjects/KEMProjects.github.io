@@ -1,4 +1,7 @@
 import Phaser from 'phaser';
+import Preload from './scenes/Preload';
+import Level from './scenes/Level';
+import Complete from './scenes/Complete';
 
 export default {
   type: Phaser.AUTO,
@@ -81,5 +84,6 @@ export default {
         hullColor: 0xd703d0
     }
     }
-  }
+  },
+  scene: [ Preload, Level, Complete ]
 };
