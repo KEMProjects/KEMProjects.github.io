@@ -30,7 +30,7 @@ export default class BoardView extends Phaser.GameObjects.Container {
         this.movementController=this.drawPlayer(playerStart.x,playerStart.y,this.tileSize,colliders,board);
         this.movementController.setBounds(0,0,width,height);
     }
-    enableNextMove(){
+    finishMove(){
         if(this.movementController){
             this.movementController.move();
         }

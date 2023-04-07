@@ -5,50 +5,48 @@ export default class MoveOnArrowKeys {
 		(gameObject as any)["__MoveOnArrowKeys"] = this;
 
 		this.arrowKeys=gameObject.scene.input.keyboard.createCursorKeys();
+		const afterSelect=(animationKey:string)=>{
+			if(this.canMove){
+				this.animationKey=animationKey;
+				this.selected(this.gameObject.x,this.gameObject.y);
+			}
+		};
 		this.arrowKeys.down.on("down",()=>{
 			if(!this.canSelect){
 				return;
 			}
 			this.select(this.gameObject.x,this.gameObject.y+this.travel);
-			if(this.canMove){
-				this.selected(this.gameObject.x,this.gameObject.y);
-				this.animationKey="player-down";
-			}
+		});
+		this.arrowKeys.down.on("up",()=>{
+			afterSelect("player-down");
 		});
 		this.arrowKeys.up.on("down",()=>{
 			if(!this.canSelect){
 				return;
 			}
 			this.select(this.gameObject.x,this.gameObject.y-this.travel);
-			if(this.canMove){
-				this.selected(this.gameObject.x,this.gameObject.y);
-				this.animationKey="player-up";
-			}
+		});
+		this.arrowKeys.up.on("up",()=>{
+			afterSelect("player-up");
 		});
 		this.arrowKeys.left.on("down",()=>{
 			if(!this.canSelect){
 				return;
 			}
 			this.select(this.gameObject.x-this.travel,this.gameObject.y);
-			if(this.canMove){
-				this.selected(this.gameObject.x,this.gameObject.y);
-				this.animationKey="player-left";
-			}
+		});
+		this.arrowKeys.left.on("up",()=>{
+			afterSelect("player-left");
 		});
 		this.arrowKeys.right.on("down",()=>{
 			if(!this.canSelect){
 				return;
 			}
 			this.select(this.gameObject.x+this.travel,this.gameObject.y);
-			if(this.canMove){
-				this.selected(this.gameObject.x,this.gameObject.y);
-				this.animationKey="player-right";
-			}
 		});
-		/*this.arrowKeys.down.on("up",()=>{this.move('player-down')});
-		this.arrowKeys.up.on("up",()=>{this.move('player-up')});
-		this.arrowKeys.left.on("up",()=>{this.move('player-left')});
-		this.arrowKeys.right.on("up",()=>{this.move('player-right')});*/
+		this.arrowKeys.right.on("up",()=>{
+			afterSelect("player-right");
+		});
 	}
 
 	static getComponent(gameObject: Phaser.GameObjects.Sprite): MoveOnArrowKeys {
@@ -70,11 +68,10 @@ export default class MoveOnArrowKeys {
 	move(){
 		this.gameObject.visible=false;
 		if(!this.canMove){
-			const point=this.follower?.path.getStartPoint();
-			this.gameObject.setX(point?.x);
-			this.gameObject.setY(point?.y);
+			this.resetFollower();
 			return;
 		}
+		this.follower?.path.lineTo(this.gameObject.x,this.gameObject.y);
 		this.follower?.play(this.animationKey, true);
 		this.follower?.startFollow({
 			duration: 300,
@@ -84,25 +81,28 @@ export default class MoveOnArrowKeys {
 			delay: 40,
 			loop:0,
 			onComplete:()=>{
-				
 				this.stopFollower();
+				this.enableSelect();
 			}
 		});
-		this.canSelect=true;
 	}
 	stopFollower(){
 		this.follower?.stop();	
 		this.follower?.stopFollow();
 	}
-	collided(){
-		this.canMove=false;
-		this.stopFollower();
+	resetFollower(){
 		const point=this.follower?.path.getStartPoint();
-		this.follower?.setX(point?.x);
-		this.follower?.setY(point?.y);
+		this.gameObject.setX(point?.x);
+		this.gameObject.setY(point?.y);
+	}
+	collided(){
+		this.disableMove();
+		this.stopFollower();
+		this.resetFollower();
 	}
 	select(x:number,y:number){
 		if(!this.canSelect){
+			this.resetFollower();
 			return;
 		}
 		this.gameObject.setY(y);
@@ -116,10 +116,9 @@ export default class MoveOnArrowKeys {
 			this.collided();
 			return;
 		}
-		this.follower?.path.lineTo(x,y);
 		this.gameObject.visible=true;
-		this.canMove=true;
-		this.canSelect=false;
+		this.enableMove();
+		this.disableSelect();
 	}
 	setBounds(left:number,top:number,right:number,bottom:number){
 		this.minX=left;
@@ -132,5 +131,17 @@ export default class MoveOnArrowKeys {
 			return true;
 		}
 		return false;
+	}
+	enableMove(){
+		this.canMove=true;
+	}
+	disableMove(){
+		this.canMove=false;
+	}
+	enableSelect(){
+		this.canSelect=true;
+	}
+	disableSelect(){
+		this.canSelect=false;
 	}
 }
