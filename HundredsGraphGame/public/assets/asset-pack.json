@@ -15,57 +15,87 @@
             {
                 "url": "assets/ui/flatLight24.png",
                 "type": "image",
-                "key": "flatLight24"
+                "key": "numUpBtnHover"
             },
             {
                 "url": "assets/ui/flatLight25.png",
                 "type": "image",
-                "key": "flatLight25"
+                "key": "numDownBtnHover"
             },
             {
                 "url": "assets/ui/shadedLight26.png",
                 "type": "image",
-                "key": "shadedLight26"
+                "key": "numUpBtnDefault"
             },
             {
                 "url": "assets/ui/shadedLight27.png",
                 "type": "image",
-                "key": "shadedLight27"
+                "key": "numDownBtnDefault"
             },
             {
                 "url": "assets/ui/grey_panel.png",
                 "type": "image",
-                "key": "grey_panel"
+                "key": "numPanel"
             },
             {
                 "url": "assets/ui/flatDark45.png",
                 "type":"image",
-                "key":"flatDark45"
+                "key":"numSubmitBtnHover"
+            },
+            {
+                "url": "assets/ui/shadedDark46.png",
+                "type":"image",
+                "key":"numSubmitBtn"
+            },
+            {
+                "url": "assets/ui/shadedDark03.png",
+                "type":"image",
+                "key":"moveUpBtnDefault"
+            },
+            {
+                "url": "assets/ui/shadedDark05.png",
+                "type":"image",
+                "key":"moveLeftBtnDefault"
+            },
+            {
+                "url": "assets/ui/shadedDark06.png",
+                "type":"image",
+                "key":"moveRightBtnDefault"
+            },
+            {
+                "url": "assets/ui/shadedDark10.png",
+                "type":"image",
+                "key":"moveDownBtnDefault"
             },
             {
                 "url": "assets/ui/transparentDark01.png",
                 "type":"image",
-                "key":"transparentDark01"
+                "key":"moveUpBtnHover"
             },
             {
                 "url": "assets/ui/transparentDark03.png",
                 "type":"image",
-                "key":"transparentDark03"
+                "key":"moveLeftBtnHover"
             },
             {
                 "url": "assets/ui/transparentDark04.png",
                 "type":"image",
-                "key":"transparentDark04"
+                "key":"moveRightBtnHover"
             },
             {
                 "url": "assets/ui/transparentDark08.png",
                 "type":"image",
-                "key":"transparentDark08"
+                "key":"moveDownBtnHover"
             },
             {
                 "url": "assets/ui/transparentDark43.png",
                 "type":"image",
-                "key":"transparentDark43"
+                "key":"playAgainBtnHover"
+            },
+            {
+                "url": "assets/ui/shadedDark45.png",
+                "type":"image",
+                "key":"playAgainBtn"
             }
         ]
     },
