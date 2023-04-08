@@ -20,6 +20,7 @@ export default class Level extends Phaser.Scene {
 		const gameBoard = new BoardView(this, boardX, boardY);
 		this.add.existing(gameBoard);	
 		const arrowKeys = new ArrowKeyMovement(this,150,200);
+		arrowKeys.setPlayer(gameBoard.player);
 		this.add.existing(arrowKeys);
 		const gameAnswer = new AnswerInput(this,350,boardY+height/2);
 		gameBoard.onMove=(expected:number,atEnd:boolean)=>{

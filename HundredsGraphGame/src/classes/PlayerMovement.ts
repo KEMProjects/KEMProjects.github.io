@@ -1,56 +1,12 @@
-export default class MoveOnArrowKeys {
+export default class PlayerMovement {
 	selected:(x:number,y:number)=>void=()=>{};
 	constructor(gameObject: Phaser.GameObjects.Sprite) {
 		this.gameObject = gameObject;
 		(gameObject as any)["__MoveOnArrowKeys"] = this;
-
-		this.arrowKeys=gameObject.scene.input.keyboard.createCursorKeys();
-		const afterSelect=(animationKey:string)=>{
-			if(this.followerCanMove){
-				this.animationKey=animationKey;
-				this.selected(this.gameObject.x,this.gameObject.y);
-			}
-		};
-		this.arrowKeys.down.on("down",()=>{
-			if(!this.selectorCanMove){
-				return;
-			}
-			this.select(this.gameObject.x,this.gameObject.y+this.travel);
-		});
-		this.arrowKeys.down.on("up",()=>{
-			afterSelect("player-down");
-		});
-		this.arrowKeys.up.on("down",()=>{
-			if(!this.selectorCanMove){
-				return;
-			}
-			this.select(this.gameObject.x,this.gameObject.y-this.travel);
-		});
-		this.arrowKeys.up.on("up",()=>{
-			afterSelect("player-up");
-		});
-		this.arrowKeys.left.on("down",()=>{
-			if(!this.selectorCanMove){
-				return;
-			}
-			this.select(this.gameObject.x-this.travel,this.gameObject.y);
-		});
-		this.arrowKeys.left.on("up",()=>{
-			afterSelect("player-left");
-		});
-		this.arrowKeys.right.on("down",()=>{
-			if(!this.selectorCanMove){
-				return;
-			}
-			this.select(this.gameObject.x+this.travel,this.gameObject.y);
-		});
-		this.arrowKeys.right.on("up",()=>{
-			afterSelect("player-right");
-		});
 	}
 
-	static getComponent(gameObject: Phaser.GameObjects.Sprite): MoveOnArrowKeys {
-		return (gameObject as any)["__MoveOnArrowKeys"];
+	static getComponent(gameObject: Phaser.GameObjects.Sprite): PlayerMovement {
+		return (gameObject as any)["__PlayerMovement"];
 	}
 
 	private gameObject: Phaser.GameObjects.Sprite;
@@ -58,7 +14,6 @@ export default class MoveOnArrowKeys {
 	public travel:number=0;
 	public follower:Phaser.GameObjects.PathFollower|undefined;
 	animationKey:string="player-up";
-	arrowKeys: Phaser.Types.Input.Keyboard.CursorKeys;
 	followerCanMove:boolean=false;
 	followerMoving:boolean=false;
 	selectorCanMove:boolean=true;
@@ -66,6 +21,48 @@ export default class MoveOnArrowKeys {
 	minY:number=0;
 	maxX:number=0;
 	maxY:number=0;
+	selectLeft(){
+		if(!this.selectorCanMove){
+			return;
+		}
+		this.select(this.gameObject.x-this.travel,this.gameObject.y);
+	}
+	selectRight(){
+		if(!this.selectorCanMove){
+			return;
+		}
+		this.select(this.gameObject.x+this.travel,this.gameObject.y);
+	}
+	selectUp(){
+		if(!this.selectorCanMove){
+			return;
+		}
+		this.select(this.gameObject.x,this.gameObject.y-this.travel);
+	}
+	selectDown(){
+		if(!this.selectorCanMove){
+			return;
+		}
+		this.select(this.gameObject.x,this.gameObject.y+this.travel);
+	}
+	afterSelectLeft(){
+		this.afterSelect("player-left");
+	}
+	afterSelectRight(){
+		this.afterSelect("player-right");
+	}
+	afterSelectUp(){
+		this.afterSelect("player-up");
+	}
+	afterSelectDown(){
+		this.afterSelect("player-down");
+	}
+	afterSelect(animationKey:string){
+		if(this.followerCanMove){
+			this.animationKey=animationKey;
+			this.selected(this.gameObject.x,this.gameObject.y);
+		}
+	}
 	move(){
 		this.gameObject.visible=false;
 		if(!this.followerCanMove){

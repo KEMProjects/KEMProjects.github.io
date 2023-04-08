@@ -1,13 +1,13 @@
 import { AnswerInput } from "../classes/AnswerInput";
 import { GraphBoard } from "../classes/GraphBoard";
-import MoveOnArrowKeys from "../classes/MoveOnArrowKeys";
+import PlayerMovement from "../classes/PlayerMovement";
 import NumberSlider from "../classes/NumberSlider";
 import { TILETYPE } from "../classes/Tile";
 
 export default class BoardView extends Phaser.GameObjects.Container {
     tileSize:number=64;
     onMove:(value:number,atEnd:boolean)=>void=()=>{};
-    movementController:MoveOnArrowKeys|undefined;
+    player:PlayerMovement;
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
 
@@ -27,12 +27,12 @@ export default class BoardView extends Phaser.GameObjects.Container {
             x:board.startPoint.x*this.tileSize,
             y:board.startPoint.y*this.tileSize
         };
-        this.movementController=this.drawPlayer(playerStart.x,playerStart.y,this.tileSize,colliders,board);
-        this.movementController.setBounds(0,0,width,height);
+        this.player=this.drawPlayer(playerStart.x,playerStart.y,this.tileSize,colliders,board);
+        this.player.setBounds(0,0,width,height);
     }
     finishMove(){
-        if(this.movementController){
-            this.movementController.move();
+        if(this.player){
+            this.player.move();
         }
     }
     drawPlayer(x:number,
@@ -52,7 +52,7 @@ export default class BoardView extends Phaser.GameObjects.Container {
 		this.scene.physics.add.existing(player);
 
         //movement
-        const controller=new MoveOnArrowKeys(cursor);
+        const controller=new PlayerMovement(cursor);
         controller.selected=(x:number,y:number)=>{
             const boardX=x/this.tileSize;
             const boardY=y/this.tileSize;
