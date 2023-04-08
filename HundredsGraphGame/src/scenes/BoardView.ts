@@ -10,7 +10,7 @@ export default class BoardView extends Phaser.GameObjects.Container {
     player:PlayerMovement;
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
-
+        
 		//replace w/ json
 		const numX=10;
 		const numY=10;

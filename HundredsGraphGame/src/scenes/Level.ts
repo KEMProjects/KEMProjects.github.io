@@ -19,10 +19,10 @@ export default class Level extends Phaser.Scene {
 		const height=numY*tileSize;
 		const gameBoard = new BoardView(this, boardX, boardY);
 		this.add.existing(gameBoard);	
-		const arrowKeys = new ArrowKeyMovement(this,150,200);
+		const arrowKeys = new ArrowKeyMovement(this,125,200);
 		arrowKeys.setPlayer(gameBoard.player);
 		this.add.existing(arrowKeys);
-		const gameAnswer = new AnswerInput(this,350,boardY+height/2);
+		const gameAnswer = new AnswerInput(this,100,300);
 		gameBoard.onMove=(expected:number,atEnd:boolean)=>{
 			gameAnswer.onSubmit=(answer:number)=>{
 				if(answer==expected){
