@@ -6,12 +6,11 @@ import { TILETYPE } from "../classes/Tile";
 
 export default class BoardView extends Phaser.GameObjects.Container {
     tileSize:number=64;
-    onMove:(value:number,atEnd:boolean)=>void=()=>{};
     player:PlayerMovement;
+    lastWrongAnswer:Phaser.GameObjects.Text|undefined;
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
-        
-		//replace w/ json
+
 		const numX=10;
 		const numY=10;
 		const numBoxes=10;
@@ -30,10 +29,35 @@ export default class BoardView extends Phaser.GameObjects.Container {
         this.player=this.drawPlayer(playerStart.x,playerStart.y,this.tileSize,colliders,board);
         this.player.setBounds(0,0,width,height);
     }
-    finishMove(){
-        if(this.player){
-            this.player.move();
+    rightAnswer(answer:number,atEnd:boolean=false){
+        if(this.lastWrongAnswer){
+            this.lastWrongAnswer.destroy();
+            this.lastWrongAnswer=undefined;
         }
+        const text = this.scene.add.text(this.player.gameObject.x,this.player.gameObject.y,answer.toString(), { 
+            fontFamily: 'Verdana, "Times New Roman", Tahoma, serif', 
+            fontSize: '32px', 
+            color: '#000' });
+        text.setOrigin(0.5,0.5);
+        this.add(text);
+        
+        if(this.player&&this.player.follower){
+            this.bringToTop(this.player.follower);
+            this.player.move(atEnd);
+        }
+    }
+    wrongAnswer(answer:number){
+        if(this.lastWrongAnswer){
+            this.lastWrongAnswer.destroy();
+            this.lastWrongAnswer=undefined;
+        }
+        const text = this.scene.add.text(this.player.gameObject.x,this.player.gameObject.y,answer.toString(), { 
+            fontFamily: 'Verdana, "Times New Roman", Tahoma, serif', 
+            fontSize: '32px', 
+            color: '#ff4500' });
+        text.setOrigin(0.5,0.5);
+        this.add(text);
+        this.lastWrongAnswer=text;
     }
     drawPlayer(x:number,
         y:number,
@@ -49,6 +73,7 @@ export default class BoardView extends Phaser.GameObjects.Container {
 		const playerPath = new Phaser.Curves.Path(cursor.x, cursor.y);
 		const player=this.scene.add.follower(playerPath,cursor.x,cursor.y,"sokoban_spritesheet", "player_01.png");
 		this.add(player);
+        player.setDepth(5);
 		this.scene.physics.add.existing(player);
 
         //movement
@@ -58,11 +83,12 @@ export default class BoardView extends Phaser.GameObjects.Container {
             const boardY=y/this.tileSize;
             const value=board.getValue(boardX,boardY);
             const atEnd=board.checkEndPoint(boardX,boardY);
-            this.onMove(value,atEnd);
+            //this.onMove(value,atEnd);
+            this.scene.events.emit("move",value,atEnd);
         };
 		controller.follower=player;
 		controller.travel=travel;
-
+        
         //add physics
         this.scene.physics.add.collider(cursor,colliders,(body)=>{
             controller.collided();
@@ -76,15 +102,24 @@ export default class BoardView extends Phaser.GameObjects.Container {
                 const x=tile.x*this.tileSize;
                 const y=tile.y*this.tileSize;
                 const tileImg = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_06.png");
-                const text = this.scene.add.text(x,y,tile.value.toString(), { 
-                    fontFamily: 'Verdana, "Times New Roman", Tahoma, serif', 
-                    fontSize: '32px', 
-                    color: '#000' });
-                    text.setOrigin(0.5,0.5);
                 this.add(tileImg);
+                const text = this.scene.add.text(x,y,tile.value.toString(), { 
+                    fontFamily: 'Kenney_Pixel, "Times New Roman", Tahoma, serif', 
+                    fontSize: '48px', 
+                    color: '#000' });
+                text.setOrigin(0.5,0.5);
                 this.add(text);
+                this.scene.tweens.add({
+                    targets: text,
+                    duration: 10000,
+                    ease: 'Power2',
+                    alpha: -0.1,
+                    onComplete:()=>{
+                        text.destroy();
+                    }
+                });
                 if(tile.type==TILETYPE.START){
-                    const start = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_04.png");
+                    const start = this.scene.add.image(x, y, "sokoban_spritesheet", "ground_06.png");
                     this.add(start);
                 }
                 if(tile.type==TILETYPE.END){
@@ -110,7 +145,7 @@ export default class BoardView extends Phaser.GameObjects.Container {
     drawGrid(width:number,height:number){
 		let graphics = this.scene.add.graphics();
 		this.add(graphics);
-		graphics.lineStyle(1, 0xffffff, 1);
+		graphics.lineStyle(1, 0x3C3C3C, 1);
 
         //tiles get drawn from origin 0.5,0.5, but lines do not
         const minX=-this.tileSize/2;
@@ -125,28 +160,6 @@ export default class BoardView extends Phaser.GameObjects.Container {
 			path.lineTo(width+minX,j);
 			path.draw(graphics);
 		}
-
-        const top =minY;
-        const left =minX;
-        const right=width-left-this.tileSize;
-        const bottom=height-minY-this.tileSize;
-
-        graphics.lineStyle(3, 0x000000, 1);
-        let topBoundary = new Phaser.Curves.Path(left,top);
-        topBoundary.lineTo(right,top);
-        topBoundary.draw(graphics);
-
-        let bottomBoundary = new Phaser.Curves.Path(left,bottom);
-        bottomBoundary.lineTo(right,bottom);
-        bottomBoundary.draw(graphics);
-
-        let rightBoundary = new Phaser.Curves.Path(right,top);
-        rightBoundary.lineTo(right,bottom);
-        rightBoundary.draw(graphics);
-
-        let leftBoundary = new Phaser.Curves.Path(left,top);
-        leftBoundary.lineTo(left,bottom);
-        leftBoundary.draw(graphics);
 	}
 
 }

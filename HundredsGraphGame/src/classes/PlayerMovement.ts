@@ -9,18 +9,17 @@ export default class PlayerMovement {
 		return (gameObject as any)["__PlayerMovement"];
 	}
 
-	private gameObject: Phaser.GameObjects.Sprite;
-
+	public gameObject: Phaser.GameObjects.Sprite;
 	public travel:number=0;
 	public follower:Phaser.GameObjects.PathFollower|undefined;
-	animationKey:string="player-up";
-	followerCanMove:boolean=false;
-	followerMoving:boolean=false;
-	selectorCanMove:boolean=true;
-	minX:number=0;
-	minY:number=0;
-	maxX:number=0;
-	maxY:number=0;
+	private animationKey:string="player-up";
+	private followerCanMove:boolean=false;
+	private followerMoving:boolean=false;
+	private selectorCanMove:boolean=true;
+	private minX:number=0;
+	private minY:number=0;
+	private maxX:number=0;
+	private maxY:number=0;
 	selectLeft(){
 		if(!this.selectorCanMove){
 			return;
@@ -63,7 +62,7 @@ export default class PlayerMovement {
 			this.selected(this.gameObject.x,this.gameObject.y);
 		}
 	}
-	move(){
+	move(atEnd:boolean=false){
 		this.gameObject.visible=false;
 		if(!this.followerCanMove){
 			this.resetFollower();
@@ -81,6 +80,9 @@ export default class PlayerMovement {
 			loop:0,
 			onComplete:()=>{
 				this.stopFollower();
+				if(atEnd){
+					this.gameObject.scene.events.emit("last-move");
+				}
 				if(this.followerMoving){
 					this.enableSelect();
 					this.followerMoving=false;

@@ -6,11 +6,38 @@
     <style>
       body {
         margin: 0;
+        background-color: #9ECBE5;
+      }
+    </style>
+    <style media='screen' type='text/css'>
+      @font-face {
+        font-family: Kenney_Blocks;
+        src: url('public/assets/Kenney_Blocks.ttf');
+        font-weight:400;
+        font-weight:normal;
+      }
+      @font-face {
+        font-family: Kenney_Pixel;
+        src: url('public/assets/Kenney_Pixel.ttf');
+        font-weight:400;
+        font-weight:normal;
+      }
+      .sources{
+        text-align:center;
+        font-family: 'Kenney_Pixel';
+      }
+      a {
+        font-family: 'Kenney_Blocks';
+        text-decoration: none;
+      }
+      a:visited{
+        color:black;
       }
     </style>
     <script type="module" src="/src/index.ts"></script>
   </head>
   <body>
     <div id="game"></div>
+    <div class="sources">Assets from <a href="https://kenney.nl/">Kenney</a></div>
   </body>
 </html>

@@ -2,7 +2,6 @@ import Button from "./Button";
 import NumberSlider from "./NumberSlider";
 
 export class AnswerInput extends Phaser.GameObjects.Container {
-    onSubmit:(answer:number)=>void=()=>{};
 	constructor(scene: Phaser.Scene, x?: number, y?: number) {
 		super(scene, x ?? 0, y ?? 0);
 
@@ -14,12 +13,12 @@ export class AnswerInput extends Phaser.GameObjects.Container {
         const submitTotal=()=>{
             let total=10*numTenths.getNumber();
             total+=numOnes.getNumber();
-            this.onSubmit(total);
+            this.scene.events.emit("submit-answer",total);
         };
         submitBtn.setOnClick(()=>{submitTotal()});
         const keyInDigits=(value:number)=>{
             //if the ones digit is set or tens digit not set, then user is typing new number
-            if(numOnes.getNumber()!=0||numTenths.getNumber()==0){
+            if(numOnes.getNumber()!=0){
                 numTenths.setNumber(value);
                 numOnes.setNumber(0);
             }
@@ -51,10 +50,10 @@ export class AnswerInput extends Phaser.GameObjects.Container {
         const upBtn = new Button(up,"numUpBtnHover");
         const downBtn = new Button(down,"numDownBtnHover");
         const text = this.scene.add.text(x,y,"", { 
-            fontFamily: 'Verdana, "Times New Roman", Tahoma, serif', 
-            fontSize: '64px', 
+            fontFamily: 'Kenney_Pixel, "Times New Roman", Tahoma, serif', 
+            fontSize: '128px', 
             color: '#000' });
-            text.setOrigin(0.5,0.5);
+        text.setOrigin(0.4,0.6);
         this.add(back);
         this.add(up);
         this.add(down);
