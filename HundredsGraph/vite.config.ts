@@ -12,8 +12,7 @@ export default defineConfig({
           'typeof EXPERIMENTAL': "'true'",
           'typeof PLUGIN_CAMERA3D': "'false'",
           'typeof PLUGIN_FBINSTANT': "'false'",
-          'typeof FEATURE_SOUND': "'true'",
-          "process.env.NODE_ENV": JSON.stringify("development")
+          'typeof FEATURE_SOUND': "'true'"
         })
       ]
     }
